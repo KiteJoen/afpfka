@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><packagesettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">	<force_hd_device>false</force_hd_device>	<small_package>false</small_package>	<naked_package>false</naked_package></packagesettings>
+<?xml version="1.0" encoding="utf-8"?><packagesettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">	<force_hd_device>false</force_hd_device>	<small_package>true</small_package>	<naked_package>false</naked_package></packagesettings>

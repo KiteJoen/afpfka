@@ -169,7 +169,7 @@ ui.faction.facility.upgrade_countdown.hour_level
 ui.faction.facility.upgrade_countdown.day_level
 {0} hari {1} jam
 ui.faction.log.date
-yyyy-MM-dd
+Tahun yyyy Bulan MM Hari dd
 ui.faction.log.found
 {0} membuat Guild.
 ui.faction.log.join
@@ -293,7 +293,7 @@ Memasuki dek
 ui.faction.label.off_deck
 Meninggalkan dek
 ui.faction.label.donation.dialog_caption
-Reward
+Progress donasi treasure box
 ui.faction.label.donation.dialog_content
 Progress donasi mencapai {0} boleh diambil
 ui.faction.main.facility.label.unlock_condition

@@ -241,9 +241,9 @@ Vampire melee output
 hero_14_name
 Raja kartu Class Zero
 hero_14_alias_name
-Ace
+Eight
 hero_14_english_name
-Ace
+Eight
 hero_14_desc1
 Anggota Agito Class Zero. Gerakan dan cara bicara lebih cool, tetapi sebenarnya hatinya hangat, kadang-kadang sangat mudah tergerak, menggunakan perasaan dalam bertindak.
 hero_14_get_desc

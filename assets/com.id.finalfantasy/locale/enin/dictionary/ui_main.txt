@@ -7,7 +7,7 @@ Unload
 ui.magicstone.upgrade
 Enhance
 ui.magicstone.upgrade.auto.choose
-One-tap to Select
+Select a key
 ui.magicstone.equipchange
 Exchange
 ui.magicstone.menu.stone.bag
@@ -355,11 +355,11 @@ Skills
 ui.cg.story1
 In the Year 842 on the 12th day in Aquamens \n\n\n the Milites Empire of the White Tiger Crystal launched a major invasion on the Dominion of Rubrum
 ui.magicstone.energypoint.tip.title.1
-Inc ATK
+Increase ATK
 ui.magicstone.energypoint.tip.title.2
-Inc DEF
+Increase DEF
 ui.magicstone.energypoint.tip.title.3
-Inc HP
+Increase HP
 ui.magicstone.equip.on.error.same.type
 Identical crystal types may not be inlaid together
 ui.troop.change.member
@@ -559,7 +559,7 @@ Blitz 5 times
 ui.arena.main.fangshou
 Defense
 ui.arena.main.huanyipi
-Switch
+Change multiple
 ui.arena.main.jiangli
 Reward
 ui.arena.main.shangdian
@@ -717,11 +717,11 @@ Starred UP!
 ui.treasure.develop.change
 Switch Hero
 ui.militaryrankarena.firstly
-1st
+1st Battle
 ui.militaryrankarena.second
-2nd
+2nd Battle
 ui.militaryrankarena.thirdly
-3rd
+3rd Battle
 ui.vs.start
 Start
 ui.battle.main.middle.panel.mission.area.name
@@ -745,7 +745,7 @@ Available
 ui.guild.building.notice
 Welcome to the guild! Please donate to help the Guild upgrade!
 ui.guilddungeon.tempo.award
-Reward
+Progress Reward
 ui.guilddungeon.killed
 Target Defeated
 ui.prestige.upgrade.congratulation
@@ -917,11 +917,11 @@ Escort Guild
 ui.guild.convoy.detailed.player
 Escort
 ui.dispatch.4hour
-
+4h
 ui.dispatch.8hour
-
+8h
 ui.dispatch.12hour
-
+12h
 ui.guildwar.history.title
 Battle Record
 ui.guildwar.history.revenge
@@ -1019,13 +1019,15 @@ Server
 ui.GuildWar.Enroll.name1
 Guild Name
 ui.Militaryrankarena.History.battle1
-1st
+1st Battle
 ui.Militaryrankarena.History.battle2
-2nd
+2nd Battle
 ui.Militaryrankarena.History.battle3
-3rd
+3rd Battle
 ui.charge.first.num
 0.99
+ui.welfare.month.1 
+Continue to receive
 ui.vip.go.1
 Recharge
 ui.vip.get.1
@@ -1038,21 +1040,3 @@ ui.welfare.month.1
 Receive
 ui.item.cleanout.1
 Rare!
-ui.vip.main.cost
-
-ui.hero.trial.help.1
-Assistant
-ui.trial.help.hero.info
-Assistance Details
-ui.hero.trial.help.info
-If cancell assistance, the difficulty won't decrease
-ui.itemget.1
-Define
-ui.guild.info.give.1
-Resigning
-ui.awake.point.label.1
-Activated
-ui.guild.convoy.setout.1
-Cost
-ui.box.lattery.get
-Reset

@@ -139,19 +139,19 @@ World Adventure
 regulation_32_title_b
 Rules
 regulation_32_desc_1
-1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy Cost. The longer the duration of the adventure, the greater the energy Cost, and of course, the more incentives. \n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
+1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \ n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy consumption. The longer the duration of the adventure, the greater the energy consumption, and of course, the more incentives. \ n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \ n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \ n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
 regulation_33_name
 Hero Select
 regulation_33_title_b
 Rules
 regulation_33_desc_1
-1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy Cost. The longer the duration of the adventure, the greater the energy Cost, and of course, the more incentives. \n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
+1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \ n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy consumption. The longer the duration of the adventure, the greater the energy consumption, and of course, the more incentives. \ n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \ n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \ n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
 regulation_34_name
 Friendly Territory
 regulation_34_title_b
 Rules
 regulation_34_desc_1
-1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \ n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy Cost. The longer the duration of the adventure, the greater the energy Cost, and of course, the more incentives. \ n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \ n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \ n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
+1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \ n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy consumption. The longer the duration of the adventure, the greater the energy consumption, and of course, the more incentives. \ n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \ n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \ n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
 regulation_35_name
 Guild
 regulation_36_name
@@ -271,7 +271,7 @@ regulation_57_desc_2
 regulation_57_title_s_3
 Artifact Transformation
 regulation_57_desc_3
-1. Players can use unused Artifacts for Artifact Transformation\n2.Artifact Transformation will transform any Artifact into another Artifact of the same Quality\n3.After transformation, the Artifact upgrade level will not change\n4.Artifact Transformation Cost will be calculated based on the Artifact’s quality and Upgrade level.
+1. Players can use unused Artifacts for Artifact Transformation\n2.Artifact Transformation will transform any Artifact into another Artifact of the same Quality\n3.After transformation, the Artifact upgrade level will not change\n4.Artifact Transformation consumption will be calculated based on the Artifact’s quality and Upgrade level.
 regulation_58_name
 Limited Purchase
 regulation_58_title_b
@@ -455,7 +455,7 @@ Rules
 regulation_82_desc_1
 1. Each Hero can choose a Rune slot. Each Rune Slot can have one entered Hero.\n2.Rune Slots are only effective with entered hero. Runes can increase hero stats.\n3.There are different Rune qualities. Refresh Rune stats with the refresh action. \n4.Each Rune Slot has three Runes. Each refresh will replace the three original stats with new ones. You can select to lock 1 to 2 Runes during Refresh. Locked Runes will not be replaced. \n5.The higher the Quality of active Runes, the greater the Rune’s Rating. Once the Rune rating is high enough, it will greatly increase the team’s stats.
 regulation_83_name
-Dissolve
+Salvage
 regulation_83_title_b
 Rules
 regulation_83_desc_1

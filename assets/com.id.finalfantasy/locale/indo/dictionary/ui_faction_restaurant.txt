@@ -31,7 +31,7 @@ Berhasil duduk! Kamu berhasil membantu teman-teman Guild makan besar~
 ui.restaurant.Notice
 Pengumuman kantin
 ui.restaurant.Notice.reward
-Makanan sudah siap
+Makanan segar sudah ada di atas meja
 ui.restaurant.button.Notice.reward
 Mengambil
 ui.worldboss.boss.hurt.prompt

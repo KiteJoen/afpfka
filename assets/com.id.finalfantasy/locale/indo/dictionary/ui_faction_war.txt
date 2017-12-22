@@ -251,7 +251,7 @@ Laporan perang sebelumnya
 ui.GuildWar.please.attend.cross.server
 Silakan mengikuti perang Guild cross server
 ui.guild.hero.choice.ten.player
-Hanya dapat memanggil teman dengan 10 peringkat diatas anda
+Hanya bisa menyewa pemain yang lebih tinggi 10 peringkat dari diri sendiri
 ui.guild.hero.choice.cost
 Pemakaian sewa :
 ui.guild.hero.choice.not

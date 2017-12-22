@@ -101,7 +101,7 @@ Agito GodI，Attribute artifact upgrade
 superweapongrade_1315_gift_desc
 Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
 superweapongrade_1325_gift_desc
-Saat HP dibawah 30%, Blok 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+Saat HP dibawah 30%, damage berkurang 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
 superweapongrade_1405_gift_desc
 Defense+3240，Attack+12%
 superweapongrade_1410_gift_desc
@@ -141,7 +141,7 @@ Agito GodI，Attribute artifact upgrade
 superweapongrade_1815_gift_desc
 Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
 superweapongrade_1825_gift_desc
-Saat HP dibawah 30%, Blok 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+Saat HP dibawah 30%, damage berkurang 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
 superweapongrade_1905_gift_desc
 Defense+3240，Attack+12%
 superweapongrade_1910_gift_desc
@@ -181,7 +181,7 @@ Agito GodI，Attribute artifact upgrade
 superweapongrade_2315_gift_desc
 Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
 superweapongrade_2325_gift_desc
-Saat HP dibawah 30%, Blok 56%, selama 5 detik
+Saat HP dibawah 30%, damage berkurang 56%, selama 5 detik
 superweapongrade_2415_gift_desc
 Agito GodI，Attribute artifact upgrade
 superweapongrade_2515_gift_desc

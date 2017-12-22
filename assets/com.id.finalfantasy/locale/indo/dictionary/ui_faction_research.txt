@@ -5,7 +5,7 @@ Penjelasan teknologi Guild
 ui.faction.research.title.tech.level
 Level :
 ui.faction.research.title.tech.cost
-Butuh:
+Pemakaian :
 ui.faction.research.title.tech.unlock.limit
 Persyaratan terbatas :
 ui.faction.research.text.tech.unlock.limit.research.level

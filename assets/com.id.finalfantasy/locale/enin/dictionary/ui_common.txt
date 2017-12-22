@@ -197,7 +197,7 @@ ui.lua.fulldate
 ui.common.back
 Click anywhere to continue
 ui.common.buy
-Buy
+Purchase
 ui.common.bought
 Purchased
 ui.common.soldout
@@ -227,7 +227,7 @@ Skip Animation
 ui.common.level
 Level
 ui.common.level.template
-Lv. {0}
+Level {0}
 ui.common.get.currency
 Receive {0} {1}
 ui.common.get.hero.item
@@ -339,7 +339,7 @@ Backpack is full. Please clear your Backpack
 common_click_to_input
 Tap to Enter
 common_time
-{1}:00{0}
+{1}{0}
 ui.common.text.btn.award1  
 Defeat
 ui.common.text.btn.award2
@@ -469,7 +469,7 @@ Return
 ui.gem.option.yes
 Combine Confirmation
 ui.gem.option.compound.yes
-Confirm
+Confirm Combination
 ui.gem.option.compound.no
 Cancel
 ui.dialog.gem.info

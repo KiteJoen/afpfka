@@ -7,7 +7,7 @@ Dimensional crack
 ui.faction.label.min_level_needed_to_found_new.not_reached
 Unlock at [FF0000]VIP{0} or Lv{1}[-]
 ui.faction.label.min_level_needed_to_found_new.reached
-Unlock at VIP{0} or Lv.{1}
+Unlock at VIP{0} or {1}
 ui.faction.found.label.cash_enough
 [FFFFFF]{0}[-]
 ui.faction.found.label.cash_not_enough
