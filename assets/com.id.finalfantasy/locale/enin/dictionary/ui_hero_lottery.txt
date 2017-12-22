@@ -1,0 +1,58 @@
+ui.hero.callup.sales
+-{0}% off
+ui.hero.callup.tryagain
+Draw {0} more times
+ui.hero.callup.rares
+Rare Heroes
+ui.hero.callup.freecountdown
+Free in {0}
+ui.hero.lottery.title.name
+Normal Summon
+ui.hero.lottery.title.name1
+Adv. Summon
+ui.hero.lottery.preview
+Hero Preview
+ui.hero.lottery.can.call
+Summon
+ui.hero.lottery.partner
+Hero
+ui.hero.lottery.illustrate.title.money.lottery
+Gold Draw Hero Preview
+ui.hero.lottery.illustrate.title.cash.lottery
+Diamond Draw Hero Preview
+ui.hero.lottery.more.will.get
+Summon [{0}]{1}[-] more times to get {2} heroes
+ui.hero.lottery.next.time.will.get
+This time,  you will get {0} heroes
+ui.hero.lottery.freethistime
+Free
+ui.hero.lottery.free.count
+Remaining free attempts: {0}
+ui.hero.lottery.dont.have.free.change
+Today's free attempts have been run out
+ui.hero.lottery.hint
+First [E8BA25]40[-] times will get a powerful Destiny Hero!
+ui.hero.lottery.hint.1
+First [E8BA25]40[-] times will get a powerful Destiny Hero!
+ui.hero.lottery.hint.2
+Draw [E8BA25]{0}[-] more times to get[FF9561]2-Star Rare legendary[-]Heroes!
+ui.hero.lottery.hint.3
+Draw [E8BA25]{0}[-] more times to get[FF9561]2-Star Rare legendary[-]Heroes!
+ui.hero.lottery.hint.4
+Draw [E8BA25]{0}[-] more times to get[FF9561]2-Star Rare legendary[-]Heroes!
+ui.hero.lottery.troop.recommend
+Recommended Formation
+ui.hero.lottery.can.middle
+[ECC49FFF]Purchase[-] [3079BDFF]{0}[-]
+ui.hero.lottery.can.high
+[ECC49FFF]Purchase[-] [8552C8FF]{0}[-]
+ui.hero.lottery.reward.get
+Purchased,   {0}
+ui.equipment.lottery.once
+Summon 1 times
+ui.equipment.lottery.tenth
+Summon 10 times
+ui.hero.lottery.discount
+10% off
+ui.hero.lottery.half
+50% off

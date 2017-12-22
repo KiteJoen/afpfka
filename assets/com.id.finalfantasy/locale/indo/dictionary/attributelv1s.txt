@@ -1,0 +1,158 @@
+attributelv1_1_displayName
+Serang
+attributelv1_2_displayName
+Serang
+attributelv1_3_displayName
+Serang
+attributelv1_4_displayName
+Serang
+attributelv1_5_displayName
+Defense
+attributelv1_6_displayName
+Defense
+attributelv1_7_displayName
+Defense
+attributelv1_8_displayName
+Defense
+attributelv1_9_displayName
+HP
+attributelv1_10_displayName
+HP
+attributelv1_11_displayName
+Pemulihan HP
+attributelv1_12_displayName
+Pierce
+attributelv1_13_displayName
+Persentase Pierce
+attributelv1_14_displayName
+Pierce
+attributelv1_15_displayName
+Persentase Pierce
+attributelv1_16_displayName
+Divine Attack
+attributelv1_17_displayName
+Resist Divine Damage
+attributelv1_18_displayName
+Crit
+attributelv1_19_displayName
+Crit
+attributelv1_20_displayName
+Crit resist
+attributelv1_21_displayName
+Crit resist
+attributelv1_22_displayName
+Persentase Crit
+attributelv1_23_displayName
+Persentase Crit
+attributelv1_24_displayName
+Persentase Crit resist
+attributelv1_25_displayName
+Persentase Crit resist
+attributelv1_26_displayName
+Crit Damage
+attributelv1_27_displayName
+Crit Damage
+attributelv1_28_displayName
+Resist Crit Damage
+attributelv1_29_displayName
+Resist Crit Damage
+attributelv1_30_displayName
+Hisap HP
+attributelv1_31_displayName
+Hisap HP
+attributelv1_32_displayName
+Repel
+attributelv1_33_displayName
+Repel
+attributelv1_34_displayName
+Bunuh, memulihkan HP
+attributelv1_35_displayName
+Pulih semua
+attributelv1_36_displayName
+Persentase dodge
+attributelv1_37_displayName
+Persentase Hit
+attributelv1_38_displayName
+Kecepatan attack bertambah
+attributelv1_39_displayName
+Pengurangan CD
+attributelv1_40_displayName
+Persentase rage bertambah
+attributelv1_41_displayName
+Persentase Blok
+attributelv1_42_displayName
+Persentase damage bertambah
+attributelv1_43_displayName
+Persentase Blok
+attributelv1_44_displayName
+Persentase damage bertambah
+attributelv1_45_displayName
+Persentase resist api
+attributelv1_46_displayName
+Persentase damage api bertambah
+attributelv1_47_displayName
+Persentase resist es
+attributelv1_48_displayName
+Persentase damage es bertambah
+attributelv1_49_displayName
+Persentase resist listrik
+attributelv1_50_displayName
+Persentase damage listrik bertambah
+attributelv1_51_displayName
+Persentase resist poison
+attributelv1_52_displayName
+Persentase poison damage bertambah
+attributelv1_53_displayName
+Persentase resist semua damage
+attributelv1_54_displayName
+Persentase semua damage bertambah
+attributelv1_55_displayName
+Bleed
+attributelv1_56_displayName
+Poison
+attributelv1_57_displayName
+Burn
+attributelv1_58_displayName
+Froze
+attributelv1_59_displayName
+Dizzy
+attributelv1_60_displayName
+Chaos
+attributelv1_61_displayName
+Cold
+attributelv1_62_displayName
+Shock
+attributelv1_63_displayName
+Aging
+attributelv1_64_displayName
+Break Armor
+attributelv1_65_displayName
+debuff semua
+attributelv1_66_displayName
+PVPdebuff
+attributelv1_67_displayName
+Resist bleed debuff
+attributelv1_68_displayName
+Resist poison debuff
+attributelv1_69_displayName
+Resist burn debuff
+attributelv1_70_displayName
+Resist Shock debuff
+attributelv1_71_displayName
+Resist semua debuff
+attributelv1_72_displayName
+Resist PVP debuff
+attributelv1_73_displayName
+Kecepatan gerak battle
+attributelv1_74_displayName
+Kecepatan gerak di kota
+attributelv1_75_displayName
+Persentase pertambahan rage attack
+attributelv1_76_displayName
+Persentase pertambahan rage damage
+attributelv1_77_displayName
+Tyrant Point
+attributelv1_78_displayName
+Interval pemulihan tyrant
+attributelv1_79_displayName
+Kecepatan pemulihan tyrant point

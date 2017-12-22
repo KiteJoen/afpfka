@@ -1,0 +1,14 @@
+ui.quickbuysupplement.title
+Purchase Resources
+ui.quickbuysupplement.strengthremind
+Your Energy is low. Hurry and replenish it!
+ui.quickbuysupplement.energyremind
+Your Energy is low. Hurry and replenish it!
+ui.quickbuysupplement.count.buy
+Purchases: {0}/{1}
+ui.quickbuysupplement.count.inhand
+Owned: {0}
+ui.quickbuysupplement.spirit.recoverfull
+Back to full Energy:
+ui.quickbuysupplement.stamina.recoverfull
+Back to full Vigor:

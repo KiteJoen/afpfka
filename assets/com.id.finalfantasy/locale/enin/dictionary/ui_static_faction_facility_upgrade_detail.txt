@@ -1,0 +1,8 @@
+ui.faction.label.static.facility_upgrade_detail.button_upgrade
+Upgrade
+ui.faction.label.static.facility_upgrade_detail.cost
+Cost:
+ui.faction.label.static.facility_upgrade_detail.precondition
+Limit:
+ui.faction.label.static.facility_upgrade_detail.possession
+Possessed:

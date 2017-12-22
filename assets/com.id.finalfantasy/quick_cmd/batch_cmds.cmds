@@ -1,0 +1,8 @@
+<color=#00ff00>基本款</color>
+ForbidNoviceTutorials
+ForbidBattleTutorials
+RunFile cmd_get_or_remove/become_tuhao.cmds
+RunFile cmd_get_or_remove/get_all_heroes.cmds
+RunFile cmd_get_or_remove/get_power_up_items.cmds
+RunFile normal_dungeon_star3.cmds
+RunFile all_heroes_lvmax.cmds

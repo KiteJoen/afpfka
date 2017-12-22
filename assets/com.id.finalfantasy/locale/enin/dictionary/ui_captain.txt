@@ -1,0 +1,176 @@
+ui.captain.resonance.name
+{0} Resonance
+ui.captain.resonance.condition
+Get{0}{1}Heroes to activate
+ui.captain.resonance.target
+{0} Heroes:
+ui.captain.explain.reborn
+Hero is not properly trained
+ui.captain.reborn.confirm.title
+Rebirth will make all the resources be returned
+ui.captain.reborn.confirm.yes
+Confirm Reset
+ui.captain.hero.element.attrs.none
+
+ui.captain.prestige.desc
+Awakening Potential+{0}
+ui.captain.self.prestige.title
+{0} Provide awakening potential:
+ui.captain.upgrade.prestige.not.enough
+Insufficient Awakening value
+ui.captain.explain.compose
+Insufficient Shards
+ui.captain.upgrade.condition.not.satisfied
+Breakthrough conditions are not met
+ui.captain.prestige.property.next.level
+Awakening Potential Reached{0}
+ui.captain.prestige.property
+Awakening Potential
+ui.captain.team.prestige
+Party Bonus
+ui.captain.prestige.next
+Low Level Bonus
+ui.captain.prestige.next.level
+Potential Level
+ui.captain.btn.reborn
+Reset\n
+ui.captain.item.improve
+Value
+ui.captain.prestige.offer
+Inc {0} Potential：
+ui.captain.prestige.title
+Awakening Potential Low Level Bonus
+ui.captain.next.val
+Awakening Potential achieved
+ui.captain.info
+Awakening Potential offers great Stats to the Party\nThe higher the level of awakening,  the higher the team bonus.
+ui.captain.leaderboard.title
+Awakening Potential Rankings
+ui.captain.leaderboard.name
+Awakening Potential
+ui.captain.leaderboard.player.name
+Player Info
+ui.captain.leaderboard.guild
+All Guilds
+ui.captain.upgrade.condition.progress.ok
+[00FF00]{0}[-]
+ui.captain.upgrade.condition.progress.nook
+[FF0000]{0}[-]
+ui.captain.upgrade.condition.progress.role.level.ok
+[00FF00]Reach level{0} ({1}/{2})[-]
+ui.captain.upgrade.condition.progress.role.level.nook
+[FF0000]Reach level {0} ({1}/{2})[-]
+ui.captain.upgrade.condition.progress.dungeon.ok
+[00FF00]Complete challenge <{0}>[-]
+ui.captain.upgrade.condition.progress.dungeon.nook
+[FF0000]Complete challenge <{0}>[-]
+ui.captain.upgrade.condition.progress.prestige.ok
+[00FF00]{0}Awakening Potential Reached{1}({2}/{3})[-]
+ui.captain.upgrade.condition.progress.prestige.nook
+[FF0000]{0}Awakening Potential Reached{1}({2}/{3})[-]
+ui.captain.upgrade.condition.progress.has.hero.ok
+[00FF00]has[-] {0}
+ui.captain.upgrade.condition.progress.has.hero.nook
+[FF0000]has[-] {0}
+ui.captain.reborn.confirm.explain
+This rebirth will cause a decrease in the level of potential
+ui.captain.upgrade.condition.progress.has.fashion.ok.any
+[00FF00]has[-] {0}
+ui.captain.upgrade.condition.progress.has.fashion.nook.any
+[FF0000]has[-] {0}
+ui.captain.upgrade.condition.progress.has.fashion.ok
+[00FF00]has[-] {0}
+ui.captain.upgrade.condition.progress.has.fashion.nook
+[FF0000]has[-] {0}
+ui.captain.upgrade.condition.progress.has.hero.star.ok
+{1} [00FF00]reaches {0}[-]
+ui.captain.upgrade.condition.progress.has.hero.star.nook
+{1} [FF0000]reaches {0}[-]
+ui.captain.upgrade.condition.progress.has.captain.grade.ok
+{1} [00FF00]reaches {0}[-]
+ui.captain.upgrade.condition.progress.has.captain.grade.nook
+{1} [FF0000]reaches {0}[-]
+ui.captain.element.prestige.level.info.desc
+vs.{0}Heroes {1}
+ui.captain.element.prestige.level.max
+Full Level
+ui.captain.element.prestige.grade.level
+{0}Potential:{1}Rank{2}Level
+ui.captain.element.prestige.not.enough
+Insufficient Element Awakening Potential
+ui.captain.evolve.effect.show.title
+{0} breakthrough preview
+ui.captain.evolve.effect.show.group.item.attr.title
+Basic Stat Upgrade:
+ui.captain.evolve.effect.show.group.item.relation.title
+Activate Bond Effect:
+ui.captain.evolve.effect.show.group.item.skill.strengthen.title
+Awaken.{0}
+ui.captain.evolve.effect.show.group.item.skill.leader.title
+[Captain Skills] {0}
+ui.captain.element.prestige.upgrade
+Rank up
+ui.captain.element.prestige.level.up
+Upgrade
+ui.captain.element.prestige.attr.active
+Activated
+ui.captain.element.prestige.attr.no.active
+Inactive
+ui.captain.element.prestige.attr.no.active.tip
+(Battle activated)
+ui.captain.ranklist.prestige1
+Star 1
+ui.captain.ranklist.prestige2
+Star 2
+ui.captain.ranklist.prestige3
+Star 3
+ui.captain.ranklist.prestige4
+Star 4
+ui.captain.hero.relation.desc.and
+and
+ui.captain.hero.relation.desc.or
+or
+ui.captain.hero.relation.desc.last
+{0}’s Bond {1} effect increased to {2}, Permanent Effect
+ui.captain.level
+Level
+ui.captain.upgrade.condition.star
+{0}{1} stars
+ui.captain.prestige.level.up.ok
+rank upd
+ui.captain.num.grade
+{0}rank
+ui.captain.element.prestige.upgrade.desc
+When a Party places a [00FF00]{0}-type[-] party member into battle formation,  the following effects will be activated in the whole Party
+ui.captain.upgrade.attrs.show
+Breakthrough Effect: {0}
+ui.captain.evolve.effect.show.grade.name.active
+[fafd1d]{0}[-]
+ui.captain.evolve.effect.show.grade.name.not.active
+[888888]{0}[-]
+ui.dialog.captain.potency.zonglan
+Overview of Potential
+ui.dialog.captain.potency.preview.tatle
+Type Potential Overview
+ui.captain.preview
+Preview
+ui.captain.break.through
+Breakthrough
+ui.captain.potency.hero
+Hero Potential
+ui.dialog.captain.potency.plan
+Potential Speed:
+ui.dialog.captain.potency.activate
+The Party activates the following effects
+ui.captain.long.press
+Long press gear can be Assistant used
+ui.captain.condition
+Condition
+ui.captain.level.up
+rank up  rank
+ui.all.resonance.interface
+Tap gear to quickly access the upgrade interface
+ui.dialog.captain.perview.will.be
+Stay tuned
+ui.captain.upgrade.condition.fight
+Challenge

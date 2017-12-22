@@ -1,0 +1,368 @@
+ui.faction.label.static.cabins
+Kabin
+ui.faction.label.static.deck
+Dek
+ui.faction.label.static.fortune_dungeon
+Dimension crack
+ui.faction.label.min_level_needed_to_found_new.not_reached
+[FF0000] VIP {0} atau level {1} terbuka [-]
+ui.faction.label.min_level_needed_to_found_new.reached
+VIP {0} atau level {1} terbuka
+ui.faction.found.label.cash_enough
+[FFFFFF] {0} [-]
+ui.faction.found.label.cash_not_enough
+[FF0000] {0} [-]
+ui.faction.message.min_level_not_reached
+Level tidak cukup
+ui.faction.message.specify_faction_name
+Silakan masukkan nama Guild
+ui.faction.message.illegal_name
+Nama terdapat karakter yang tidak diperbolehkan
+ui.faction.message.gained_membership
+Selamat kamu sudah masuk Guild : {0}
+ui.faction.message.lost_membership
+Kamu sudah meninggalkan Guild
+ui.faction.message.must_abdicate
+Serahkan posisi ketua kepada pemain lain sebelum meninggalkan Guild
+ui.faction.label.quit_confirmation.caption
+Yakin
+ui.faction.label.quit_confirmation.content
+Yakin keluar Guild?
+ui.faction.label.quit_confirmation.content_penalty
+Setelah keluar Guild, dalam {0} tidak bisa daftar Guild lain. Yakin keluar?
+ui.faction.label.quit_confirmation.yes
+Yakin
+ui.faction.label.quit_confirmation.no
+Batal
+ui.faction.label.hierarchy_operation_confirmation.caption
+Konfirmasi profesi
+ui.faction.label.hierarchy_operation_confirmation.content.make_master
+Yakin mengangkat {0} menjadi ketua?
+ui.faction.label.hierarchy_operation_confirmation.content.abort
+Yakin batal melepaskan {0} ?
+ui.faction.label.hierarchy_operation_confirmation.content.make_vice_master
+Yakin mengangkat {0} menjadi wakil ketua?
+ui.faction.label.hierarchy_operation_confirmation.content.make_courtesan
+Yakin mengangkat {0} menjadi bunga Guild?
+ui.faction.label.hierarchy_operation_confirmation.content.make_regular
+Yakin menjadikan {0} sebagai anggota?
+ui.faction.label.hierarchy_operation_confirmation.yes
+Yakin
+ui.faction.label.hierarchy_operation_confirmation.no
+Batal
+ui.faction.label.expel_confirmation.caption
+Yakin
+ui.faction.label.expel_confirmation.content
+Yakin tendang {0} keluar Guild?
+ui.faction.label.expel_confirmation.yes
+Yakin
+ui.faction.label.expel_confirmation.no
+Batal
+ui.faction.info.label.level
+Level Guild : {0}
+ui.faction.info.label.master
+{0}
+ui.faction.info.label.member_count
+{0}/{1}
+ui.faction.info.label.ranking
+{0}
+ui.faction.info.label.id
+{0}
+ui.faction.info.label.funds
+{0}
+ui.faction.info.label.fight_power
+{0}
+ui.faction.hierarchy.regular
+Anggota
+ui.faction.hierarchy.vice_master
+Wakil
+ui.faction.hierarchy.courtesan
+Bunga Guild
+ui.faction.hierarchy.master
+Ketua
+ui.faction.message.not_member_of_any_faction
+Kamu tidak termasuk dalam Guild manapun
+ui.faction.message.no_authority.recruit
+Posisi wakil ketua ke atas yang berhak untuk merekrut
+ui.faction.message.no_authority.modify_name
+Hanya ketua yang bisa mengganti nama Guild
+ui.faction.message.no_authority.modify_bulletin
+Posisi wakil ketua ke atas yang berhak mengganti pengumuman
+ui.faction.message.no_authority.advertise
+Posisi wakil ketua ke atas yang berhak mengumumkan rekrutmen
+ui.faction.message.no_authority.set_recruit_limitation
+Posisi wakil ketua ke atas yang berhak untuk mengatur batas perekrutan
+ui.faction.message.no_authority.notification
+Posisi wakil ketua ke atas yang berhak mengirim pemberitahuan kepada seluruh anggota
+ui.faction.message.no_authority.upgrade_facility
+Posisi wakil ketua ke atas yang memiliki hak ini
+ui.faction.message.notification_used_up
+Jumlah pengiriman hari ini sudah habis
+ui.faction.message.notification_sent
+Pengiriman berhasil
+ui.faction.message.facility_pugrade_success
+Sedang upgrade harap tunggu
+ui.faction.message.facility_upgrade_finish
+{0} upgrade berhasil
+ui.faction.join.label.conditions.unknown
+Belum tahu
+ui.faction.join.label.conditions.no_level_restriction
+Tanpa batas
+ui.faction.join.label.conditions.level
+Level {0}
+ui.faction.join.label.conditions.approval.auto
+Bebas tambah
+ui.faction.join.label.conditions.approval.manual
+Perlu daftar
+ui.faction.administrate.label.conditions.prefix
+Pendaftaran membutuhkan :
+ui.faction.administrate.label.conditions.approval
+({0})
+ui.faction.administrate.conditions.label.level
+Level {0} ke atas
+ui.faction.dialog.modifyname.title
+Ubah nama Guild
+ui.faction.dialog.modifyname.content
+Klik untuk ketik
+ui.faction.dialog.modifyname.confirm
+Ubah
+ui.faction.dialog.notice.title
+Pengumuman Guild
+ui.faction.dialog.notice.content
+Klik untuk ketik, maks 100 karakter
+ui.faction.dialog.notice.confirm
+Kirim
+ui.faction.member.menu.view_info
+Lihat
+ui.faction.member.menu.make_master
+Melepas posisi ketua
+ui.faction.member.menu.abort
+Batal melepas
+ui.faction.member.menu.make_vice_master
+Naik menjadi wakil ketua
+ui.faction.member.menu.make_courtesan
+Upgrade menjadi bunga Guild
+ui.faction.member.menu.make_regular
+Turun menjadi anggota
+ui.faction.member.menu.expel
+Keluarkan
+ui.faction.member.menu.remarks
+Ubah catatan
+ui.faction.member.menu.quit
+Keluar Guild
+ui.faction.join.label.no_propriate_faction_to_join
+Maaf, tidak ada Guild yang sesuai
+ui.faction.main.facility.message.feature_in_development
+Sedang upgrade bangunan
+ui.faction.main.facility.label.facility_level
+{0}  LV{1}
+ui.faction.main.facility.label.facility_level_upgrading
+LV {0} sedang upgrade… {1}
+ui.faction.main.facility.message.already_max_level
+Level sudah maksimum
+ui.faction.facility.upgrade_countdown.second_level
+{0} detik
+ui.faction.facility.upgrade_countdown.minute_level
+{0} menit {1} detik
+ui.faction.facility.upgrade_countdown.hour_level
+{0} jam {1} menit
+ui.faction.facility.upgrade_countdown.day_level
+{0} hari {1} jam
+ui.faction.log.date
+yyyy-MM-dd
+ui.faction.log.found
+{0} membuat Guild.
+ui.faction.log.join
+{0} sudah ikut Guild
+ui.faction.log.quit
+{0} keluar dari Guild.
+ui.faction.log.expel
+{0} diusir oleh {1} dari Guild.
+ui.faction.log.hierarchy_operate.become_master
+{0} menjadi Ketua.
+ui.faction.log.hierarchy_operate.promoted_to_vice_master
+{0} diangkat oleh {1} menjadi wakil ketua.
+ui.faction.log.hierarchy_operate.promoted_to_coutesan
+{0} diangkat oleh {1} menjadi bunga Guild.
+ui.faction.log.hierarchy_operate.demoted_to_regular
+{0} diturunkan oleh {1} menjadi anggota biasa.
+ui.faction.log.modify_name
+{0} mengubah nama Guild.
+ui.faction.log.modify_badge
+{0} mengubah Guild badge.
+ui.faction.log.modify_bulletin
+{0} mengubah pemberitahuan.
+ui.faction.log.donate
+{0} donasi {1} untuk Guild.
+ui.faction.log.start_facility_upgrading
+{0} mulai upgrade : Lv.{1} → Lv.{2}
+ui.faction.log.finish_facility_upgrading
+{0} selesai upgrade Lv.{1} .
+ui.faction.log.faction_level_up
+Level Guild naik sampai Lv.{0}
+ui.faction.log.faction_boss_setting_diff
+{0} mengubah tingkat kesulitan menyerang Rebel menjadi {1}
+ui.faction.log.faction_boss_setting_time
+{0} mengubah waktu mulai menyerang Rebel {1}
+ui.faction.log.faction_boss_setting_all
+{0} mengubah tingkat kesulitan menyerang Rebel  menjadi {1}, waktu mulai {2}
+ui.faction.log.routine_dungeon._settings
+{0} mengganti pengaturan dungeon harian menjadi “{1}”
+ui.faction.label.donation_progress_increment
+Progress donasi + {0}
+ui.faction.message.have_donated_today
+Hari ini kamu sudah berdonasi
+ui.faction.message.vip_donation_not_enabled
+Level VIP kamu tidak cukup
+ui.faction.facility.upgrade.current_level
+Saat ini level {0}
+ui.faction.facility.upgrade.next_level
+Berikutnya level {0}
+ui.faction.facility.upgrade.level_condition
+{0} mencapai level {1}
+ui.faction.facility.upgrade.level_condition_unmet
+[FF0000]{0} mencapai level {1}[-]
+ui.faction.facility.upgrade.no_level_condition
+Tanpa batas
+ui.faction.facility.upgrade.already_under_upgrade_process
+Sudah dalam upgrade
+ui.faction.local.default_notice
+Selamat masuk guild! Untuk up level guild, silahkan menyumbang dengan aktif!
+ui.faction.local.member_mailname
+Pemberitahuan member Guild
+ui.faction.hypertext.invite
+【{0}】Mengundangmu masuk Guild : [ffff00]{1}[-] [url={2}] Setuju [/url] [url={3}] Tolak [/url]
+ui.faction.hypertext.recruit
+[url={0}]Guild : [ffff00]{1}[-] Mengundang Hero dunia, ayo cepat daftar [/url]
+ui.faction.hypertext.error.already_member_of_faction
+Kamu sudah memiliki Guild
+ui.faction.hypertext.error.already_member_of_inviting_faction
+Kamu sudah menjadi anggota Guild ini
+ui.faction.hypertext.error.invitee_already_member_of_faction
+Dia sudah memiliki Guild
+ui.faction.message.sent_invitation
+Kamu memberikan undangan masuk Guild kepada lawan
+ui.faction.message.accepted_invitation
+Kamu menerima undangan lawan
+ui.faction.message.refused_invitation
+Kamu menolak undangan lawan
+ui.faction.label.found.default_input_value
+Klik untuk ketik
+ui.faction.message.application_added
+Berhasil daftar
+ui.faction.message.application_cancelled
+Batal daftar
+ui.faction.facility.label.upgrade
+Naik level
+ui.faction.facility.label.upgrading
+Sedang upgrade
+ui.faction.facility.message.upgrading
+Sedang upgrade
+ui.faction.facility.upgrade.countdown
+Sedang upgrade : {0}
+ui.faction.label.remarks
+({0})
+ui.faction.label.member_donation
+{0}/{1}
+ui.faction.label.member_donation.none
+[FF0000] {0} [-]/{1}
+ui.faction.label.member_donation.standard
+{0}/{1}
+ui.faction.label.member_donation.premier
+{0}/{1}
+ui.faction.label.member_donation.deluxe
+{0}/{1}
+ui.faction.label.activity_name.crystal_transport
+Airship Transport
+ui.faction.label.activity_name.faction_boss
+Menyerang Rebel
+ui.faction.label.activity_name.faction_fortune_dungeon
+Dimension crack
+ui.faction.label.activity_name.faction_gambling
+Guild Angpao
+ui.faction.label.activity_name.faction_war
+Guild War
+ui.faction.label.activity_name.place_holder1
+Pintu masuk sementara 1
+ui.faction.label.activity_name.place_holder2
+Pintu masuk sementara 2
+ui.faction.label.activity_name.place_holder3
+Pintu masuk sementara 3
+ui.faction.label.onto_deck
+Memasuki dek
+ui.faction.label.off_deck
+Meninggalkan dek
+ui.faction.label.donation.dialog_caption
+Reward
+ui.faction.label.donation.dialog_content
+Progress donasi mencapai {0} boleh diambil
+ui.faction.main.facility.label.unlock_condition
+Terbuka saat Guild level {0}
+ui.faction.message.facility_level_zero
+Upgrade bangunan untuk menggunakan
+ui.faction.message.facility_locked
+Terbuka saat Guild level {0}
+ui.faction.facility.message.other_upgrading
+{0} masih dalam upgrade
+ui.faction.label.found.number_not_allowed
+Jangan menggunakan angka sebagai nama Guild
+ui.faction.label.ranking.zero
+Belum masuk rank
+ui.faction.war.log.apply.success
+Pendaftaran {0} di Guild ini berhasil, semua bersiap untuk perang.
+ui.faction.war.log.occupy.city
+{0} berhasil memimpin anggota Guild untuk menduduki {1}
+ui.faction.war.log.lose.city
+{0} dikuasai oleh {1}
+ui.faction.label.invite.content.invitor
+Pemain {0} mengundangmu
+ui.faction.label.invite.content.faction
+Ikut Guild : {0}
+ui.faction.label.invite.invitor_fight_power
+BP : {0}
+ui.faction.label.invite.member_count
+{0}/{1}
+ui.faction.administrate.conditions.manifesto.illegal
+Teks mengandung informasi yang tidak baik
+ui.faction.default_recruit_manifesto
+Guild yg marah dan bersatu sdg menunggu anda
+ui.faction.label.member_abdication.from
+(Sedang melepaskan)
+ui.faction.label.member_abdication.to
+(Sedang dilepaskan)
+ui.faction.message.training.cannot_accept_more
+Bantuan sudah mencapai batas
+ui.faction.message.penalty_cooldown
+Kamu baru saja keluar Guild, setelah {0} hari baru boleh daftar ke Guild baru
+ui.faction.label.activity_name.routinedungeon
+Guild dungeon
+ui.faction.convoy.setout.ship
+Airship
+ui.faction.convoy.setout.ship.reward.list.one
+Kontribusi
+ui.faction.convoy.setout.ship.reward.list.two
+Dana Guild
+ui.faction.convoy.setout.ship.reward.list.three
+Teknologi Guild
+ui.faction.label.activity_name.reinforcementhire
+Guild Support
+ui.faction.convoy.setout.ship.explain
+Pilih memutar roulette untuk upgrade airship \n setelah airship berhasil diantar bisa mendapat keuntungan
+ui.faction.info.message.name_length
+Panjang nama Guild antara {0} sampai {1}
+ui.factionaircraftdisplay.routinedungeon.time
+Setiap hari mulai jam 8:00-22:00
+ui.factionaircraftdisplay.factionwar.time
+Rabu, Minggu mulai jam 8:00-22:00
+ui.guild.herochoice.title
+Guild Support
+ui.faction.rename.error.cannot.same.as.before
+Nama tidak boleh sama dengan sebelumnya
+ui.guild.bonuses.no
+Saat ini tidak ada yang mengirim bonus
+ui.guilddungeon.schedule.plan
+Progress penyerangan
+ui.guilddungeon.schedule.done
+Sudah lolos
+ui.guild.building.train
+Layanan antar perang Guild

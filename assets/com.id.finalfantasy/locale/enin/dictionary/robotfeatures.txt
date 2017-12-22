@@ -1,0 +1,192 @@
+robotfeatures_6_name_m
+Abe Loebella
+robotfeatures_6_name_f
+Aviva Elena
+robotfeatures_7_name_m
+Alfred
+robotfeatures_7_name_f
+Elsanna
+robotfeatures_8_name_m
+Alva Edison
+robotfeatures_8_name_f
+Elsa Alice
+robotfeatures_9_name_m
+Alec Ackerman
+robotfeatures_9_name_f
+Ellen Orwell
+robotfeatures_10_name_m
+Amanda Arnold
+robotfeatures_10_name_f
+Alanna Baling
+robotfeatures_11_name_m
+Anas Edmund
+robotfeatures_11_name_f
+Ellen Panis
+robotfeatures_12_name_m
+Apiere
+robotfeatures_12_name_f
+Elinobosha
+robotfeatures_13_name_m
+Edgar Emmies
+robotfeatures_13_name_f
+Elika Beverly
+robotfeatures_14_name_m
+Eddie Hermson
+robotfeatures_14_name_f
+Eleanor Diana
+robotfeatures_15_name_m
+Elvis Eckers
+robotfeatures_15_name_f
+Evan Daisy
+robotfeatures_16_name_m
+Elah Esther
+robotfeatures_16_name_f
+Ariane Doris
+robotfeatures_17_name_m
+Eric Essoppe
+robotfeatures_17_name_f
+Elaine Phoebe
+robotfeatures_18_name_m
+Evan Annhee
+robotfeatures_18_name_f
+Elena Waris
+robotfeatures_19_name_m
+Abi Andrews
+robotfeatures_19_name_f
+Emily Jacqueline
+robotfeatures_20_name_m
+Albert Annea
+robotfeatures_20_name_f
+Ivy Jamie
+robotfeatures_21_name_m
+Ida Antova
+robotfeatures_21_name_f
+Ashley Kimberley
+robotfeatures_22_name_m
+Adeline Alder
+robotfeatures_22_name_f
+Eric Karma
+robotfeatures_23_name_m
+Edmond Augustus
+robotfeatures_23_name_f
+Alisha Kelly
+robotfeatures_24_name_m
+Edwin Oliver
+robotfeatures_24_name_f
+Alice Karen
+robotfeatures_25_name_m
+Aidenbach
+robotfeatures_25_name_f
+Ali Kay
+robotfeatures_26_name_m
+Alan Baker
+robotfeatures_26_name_f
+Alice Katrina
+robotfeatures_27_name_m
+Eilot Boulder
+robotfeatures_27_name_f
+Alison Lenter
+robotfeatures_28_name_m
+Elizabeth
+robotfeatures_28_name_f
+Eliza Lilis
+robotfeatures_29_name_m
+Issac Charles
+robotfeatures_29_name_f
+Eileen Leona
+robotfeatures_30_name_m
+Edward Chase
+robotfeatures_30_name_f
+Elena Lydia
+robotfeatures_31_name_m
+Eddie David
+robotfeatures_31_name_f
+Allen Lina
+robotfeatures_32_name_m
+Aida Duncan
+robotfeatures_32_name_f
+Emilia
+robotfeatures_33_name_m
+Issac Arse
+robotfeatures_33_name_f
+Amelie
+robotfeatures_34_name_m
+Aceh Fergus
+robotfeatures_34_name_f
+Amora
+robotfeatures_35_name_m
+Anne Kirk
+robotfeatures_35_name_f
+Animalian
+robotfeatures_36_name_m
+Amuro Clive
+robotfeatures_36_name_f
+Angela Maria
+robotfeatures_37_name_m
+Ange Kalen
+robotfeatures_37_name_f
+Marge Amuro
+robotfeatures_38_name_m
+Kishimoto Cook
+robotfeatures_38_name_f
+Angie Marie
+robotfeatures_39_name_m
+Black Quaker
+robotfeatures_39_name_f
+Ange Marie
+robotfeatures_40_name_m
+Dark Riley
+robotfeatures_40_name_f
+Black Mandy
+robotfeatures_41_name_m
+Assassin Leslie
+robotfeatures_41_name_f
+Dark Megan
+robotfeatures_42_name_m
+Night Leslie
+robotfeatures_42_name_f
+Assassin Marissa
+robotfeatures_43_name_m
+Shadow Rupert
+robotfeatures_43_name_f
+Night Malia
+robotfeatures_44_name_m
+Eclipse Leonard
+robotfeatures_44_name_f
+Shadow Melania
+robotfeatures_45_name_m
+Flying Leonard
+robotfeatures_45_name_f
+Eclipse Jasmine
+robotfeatures_46_name_m
+Glacier Rodney
+robotfeatures_46_name_f
+Flying Monica
+robotfeatures_47_name_m
+Rubrum Forest Guard
+robotfeatures_47_name_f
+Rubrum Forest Guard
+robotfeatures_48_name_m
+Rubrum Coast Guard
+robotfeatures_48_name_f
+Rubrum Coast Guard
+robotfeatures_49_name_m
+Concordia Pure Lands Guard
+robotfeatures_49_name_f
+Concordia Pure Lands Guard
+robotfeatures_50_name_m
+Concordia Island Guard
+robotfeatures_50_name_f
+Concordia Island Guard
+robotfeatures_51_name_m
+Below Lorican Guard
+robotfeatures_51_name_f
+Below Lorican Guard
+robotfeatures_52_name_m
+Milites Ruins Guard
+robotfeatures_52_name_f
+Milites Ruins Guard
+robotfeatures_53_name_m
+Arena Guard
+robotfeatures_53_name_f
+Arena Guard

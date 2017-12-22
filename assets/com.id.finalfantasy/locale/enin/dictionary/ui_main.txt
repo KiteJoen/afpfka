@@ -1,0 +1,1058 @@
+ui.magicstone.compose
+craft
+ui.magicstone.equipon
+Inlay
+ui.magicstone.equipoff
+Unload
+ui.magicstone.upgrade
+Enhance
+ui.magicstone.upgrade.auto.choose
+One-tap to Select
+ui.magicstone.equipchange
+Exchange
+ui.magicstone.menu.stone.bag
+Backpack
+ui.magicstone.menu.stone.compose
+Craft
+ui.magicstone.menu.stone.fragment
+Shards
+ui.magicstone.upgrade.cost
+Enhance Cost:
+ui.magicstone.equipon.success
+Inlaid
+ui.magicstone.equipoff.success
+Unequipped
+ui.magicstone.upgrade.success
+Enhanced
+ui.magicstone.fragment.compose.success
+Exchanged
+ui.magicstone.compose.success
+craft success
+ui.magicstone.autocompose.quality.0
+Common ({0})
+ui.magicstone.autocompose.quality.1
+uncommon ({0})
+ui.magicstone.autocompose.quality.2
+rare ({0})
+ui.magicstone.autocompose.quality.3
+epic ({0})
+ui.magicstone.autocompose.quality.4
+legendary ({0})
+ui.magicstone.compose.fail
+craft failed
+ui.magicstone.compose.choose.quality.no.same
+It is not possible to add crystals of different quality
+ui.magicstone.detail.suit.mainattr
+{0} ({1}set):{2}
+ui.magicstone.detail.suit.mainattr.none
+None
+ui.magicstone.autocompose.fail
+Not enough Crystals for crafting
+ui.magicstone.filter.name
+{0}
+ui.magicstone.compose.success.rate.label
+Success Rate {0}%
+ui.base.name.cash
+Diamonds
+ui.base.desc.cash
+A brightly shining Diamond. Advanced game currency.
+ui.base.name.money
+gold
+ui.base.desc.money
+Unique currency, used in game
+ui.base.name.tower.money
+Aether
+ui.base.desc.tower.money
+Samsara Realm rewards currency can be spent in Samsara Realm Shop
+ui.tip.currency.cash.name
+Diamonds
+ui.tip.currency.money.name
+gold
+ui.tip.currency.fragment.name
+Soul Crystal
+ui.tip.currency.ether.name
+Ether
+ui.tip.currency.activity.point.name
+Devotion
+ui.tip.currency.achievement.point.name
+Achievement Pts
+ui.tip.currency.cash.desc
+Common currency is very precious in the game
+ui.tip.currency.money.desc
+In-game currency
+ui.tip.currency.towermoney.desc
+Samsara Realm Rewards. Can be used in Samsara Shop
+ui.tip.currency.tower.point.desc
+Samsara Realm Pts. Can be redeemed on Rewards interface
+ui.tip.currency.arenamoney.desc
+Arena Output Currency,  Can be spent in Arena Shop
+ui.tip.currency.fragment.desc
+Item necessary for Hero Adv.
+ui.tip.currency.factionmoney.desc
+Obtain by donating and other means. Can be spent in Guild Shop
+ui.tip.currency.ether.desc
+Hero Level Up for required items
+ui.tip.currency.activity.point.desc
+Daily Event Output
+ui.tip.currency.achievement.point.desc
+Quest Output
+ui.tip.currency.eidolonactivationcoin.desc
+Used to promote the eidolon's mysterious power. Found in Team Dungeon.
+ui.tip.magicstone.title.0
+Detailed Stats
+ui.tip.magicstone.title.1
+Affiliated Set
+ui.tip.magicstone.info.0
+Rating: {0}
+ui.tip.magicstone.info.1
+Inlay {0}
+ui.tip.magicstone.energy.name
+Crystal
+ui.tip.magicstone.energy.desc
+Enhance crystal to obtain Crystal Pts
+ui.tip.magicstone.energy.title.0
+Increase Stats
+ui.tip.magicstone.energy.info.0
+Increase ATK {0}\nIncrease DEF {1}\nIncrease HP {2}
+ui.tip.magicstone.button.upgrade
+Enhance
+ui.tip.magicstone.button.equip
+Inlay
+ui.tip.magicstone.button.unequip
+Unload
+ui.tip.magicstone.fragment.button.exchange
+Craft
+ui.tip.magicstone.fragment.info
+Currently have {0}
+ui.tip.magic.title.0
+Gear Effect
+ui.tip.magic.button.change
+Replace
+ui.tip.magic.button.upgrade
+Enhance
+ui.tip.magic.button.equipoff
+Unload
+ui.dialog.getitem.magicstone.get
+Congratulations,  you got the crystal {0}
+ui.dialog.getitem.normal.get
+Congratulations on getting your item {0}
+ui.dialog.compose.fail.info
+You also got {0} gold
+ui.magicstone.equipon.slot.not.open
+The corresponding crystal slot is locked
+ui.dialog.compose.fail.kazusa
+Being a little reckless? Want me to help you out?
+ui.dialog.compose.fail.reset
+Ask Dr. Kazusa to recast the crystals to save some losses.
+ui.compose.title
+Please select materials for craft
+ui.tip.magicstone.compose.rate.info
+Crystal Set Stats
+ui.open.slot
+Unlock Crystal Slot
+ui.open.slot.confirm.canopen
+To open [ffdd4e]{0}[-] crystal roulette you need[ffdd4e]\n{1}gold\n[-],  do you want to confirm?
+ui.open.slot.confirm.cannotopen
+To open [ffdd4e]{0}[-] crystal roulette slot the Leader must reach [ffdd4e] Lv.{1}[-]
+ui.button.confirm
+Reset
+ui.magicstone.slot.open.level
+Demand Level {0}
+ui.magicstone.slot.open.cost
+gold Cost {0}
+ui.magicstone.right.magicstone.none
+The corresponding slot does not have crystal. Inlay crystal
+ui.magicstone.open.slot
+Unlock
+ui.military.item.title.name.1
+Enter Challenge
+ui.military.item.title.name.2
+Enter Guidelines
+ui.military.reach.max.level.tip
+Already achieved all upgrade conditions! \nQuick, go find {0} to upgrade army rank.
+ui.eidolon.menu.eidolon
+Eidolon Info
+ui.eidolon.menu.magic
+Magic Vault
+ui.dungeon.energy.cost
+Cost Energy
+ui.dungeon.recommend.power
+Recommend Power
+ui.dungeon.recommend.leader
+Recommended Captain Type
+ui.dungeon.player.power
+My Combat Power
+ui.dungeon.rewards.title
+Drops Rewards
+ui.dungeon.enemy.info
+Enemy Formation
+ui.dungeon.btn.battle
+Battle
+ui.magicstone.btn.upgrade
+Upgrade
+ui.magicstone.btn.change
+Replace
+ui.magicstone.btn.equipoff
+Unload
+ui.createrole.vocation
+Class
+ui.createrole.hair
+Hair
+ui.createrole.face
+Face
+ui.createrole.voice
+Personality
+ui.createrole.decoration
+Accessories
+ui.magicstone.no.select.stone
+Select a crystal to consume
+ui.magicstone.no.change.stone
+You do not have any crystals to inlay. Quick,  go crystal exploring!
+ui.troop.check.all
+Check All
+ui.magicstone.stone.power
+Crystal Power:
+ui.createrole.confirm
+Confirm Appearance
+ui.createrole.warning
+Appearance cannot be modified after entering the game,  please choose carefully.
+ui.magicstone.left.magicstone.none
+The current position does not have inlaid crystal
+ui.magicstone.left.upgrade.maxlevel
+Highest level of Magic Crystal reached. Cannot upgrade further
+ui.magicstone.faild.salvage
+Please
+ui.magicstone.compose.tip
+Please select 4 identical quality crystals
+ui.magicstone.upgrade.title
+Crystal Stats Ratio
+ui.magicstone.suit.name
+Activate set:
+ui.magicstone.single.power
+Rating
+ui.magicstone.mark.equip
+Inlaid
+ui.magicstone.allvalue.none
+Currently not geared with Crystal
+ui.magicstone.upgrade.level
+Enhance Level
+ui.magicstone.stone.status
+Stats Growth
+ui.magicstone.upgrade.choose.exp.over.title
+Confirm selection
+ui.magicstone.upgrade.choose.exp.over.info
+Selection exceeds your EXP. Cancel this selection?
+ui.magicstone.upgrade.choose.exp.over.yes
+Continue selecting
+ui.magicstone.upgrade.choose.exp.over.no
+Give up
+ui.magicstone.detail.suit.mainattr.enough
+[ff9c1c]{2} ({1}set): {3}[-]
+ui.magicstone.detail.suit.mainattr.not.enough
+[bebebe]{2} ({1}set):  {3}[-]
+ui.magicstone.detail.suit.mainattr.enough.special
+[ff9c1c]{2} ({1}set):  \n{3}[-]
+ui.magicstone.detail.suit.mainattr.not.enough.special
+[bebebe]{2} ({1}set): \n{3}[-]
+ui.battle.pause.title
+Pause
+ui.battle.pause.btn.continue
+Continue Battle
+ui.battle.pause.btn.restart
+Restart
+ui.battle.pause.btn.quit
+Abort Battle
+ui.battle.pause.music
+Music
+ui.battle.pause.pe
+Vocals
+ui.battle.pause.cut
+Skills Animation
+ui.battle.pause.vip
+Show VIP Level
+ui.battle.pause.sfx
+Sound Effects
+ui.battle.pause.visual
+Image Quality
+ui.battle.pause.visual.high
+High
+ui.battle.pause.visual.medium
+Medium
+ui.battle.pause.visual.low
+Low
+ui.battle.pause.skill
+Skill Effects
+ui.battle.pause.switch.on
+ON
+ui.battle.pause.switch.off
+OFF
+ui.battle.locale.critical
+!
+ui.battle.locale.block
+Miss
+ui.eidolon.list.empty
+Hey,  you don't have Eidolons! Use the console command to add a few,  otherwise the interface gets messy.
+ui.eidolon.gallery.not.open
+The Illustration System is not yet unlocked
+ui.magic.upgrade.success
+Enhanced
+ui.magic.upgrade.max.level
+Magic has reached maximum level. No need to enhance
+ui.button.cancel
+Cancel
+ui.lottery.btn.again
+Pull back once
+ui.touch.continue
+Tap the screen to continue
+ui.battle.countdown1
+There is another explosion not far from the bomb
+ui.battle.countdown2
+The mechanical system has lost power
+ui.battle.countdown3
+Number of enemy troops
+ui.battle.countdown4
+Complete within the time limit to collect
+ui.battle.countdown5
+Complete the stage to collect
+ui.compose.autoselect
+Autoselect
+ui.compose.compose
+Craft
+ui.battle.lose1
+We're unable to defeat the enemy,  kupo......
+ui.battle.lose2
+Upgrade power and try one more time!
+ui.getcrystal.get
+Received:
+ui.leaderboard.refresh
+Refresh time
+ui.battle.lose.btn.hero
+Hero
+ui.battle.lose.btn.magicstone
+Magic Crystal
+ui.lottery.reward.title
+Collect new Hero
+ui.leaderboard.record.name
+Collect Star:
+ui.leaderboard.title
+Star Rankings
+ui.magicstone.tip.all.stone.property.info
+Every Hero's crystal plate can have 6 crystals inlaid.\n\nThe higher the crystal quality,  the more Stats received\n\nInlay a set of similar crystals to receive a set of Stats
+ui.magicstone.tip.compose.info
+This function consumes low-grade crystals to obtain high-level crystal \n\n Select four crystals of the same quality to craft \n\nAfter combining,  the resulting crystal will have a higher quality than the original crystals.
+ui.compose.no.stone
+No unused crystal
+ui.createrole.hp
+HP
+ui.createrole.atk
+ATK
+ui.createrole.def
+DEF
+ui.createrole.cri
+Crit
+ui.createrole.skill
+Skills
+ui.cg.story1
+In the Year 842 on the 12th day in Aquamens \n\n\n the Milites Empire of the White Tiger Crystal launched a major invasion on the Dominion of Rubrum
+ui.magicstone.energypoint.tip.title.1
+Inc ATK
+ui.magicstone.energypoint.tip.title.2
+Inc DEF
+ui.magicstone.energypoint.tip.title.3
+Inc HP
+ui.magicstone.equip.on.error.same.type
+Identical crystal types may not be inlaid together
+ui.troop.change.member
+Replace Hero
+ui.troop.quick.equip
+Quick Gear
+ui.troop.equip.resonance
+Gear Resonance
+ui.troop.link.to.magicstone
+Gems
+ui.troop.fashion
+constumes
+ui.troop.strengthen
+Quick Enhance
+ui.bounty.name
+Crimson Plan
+ui.bounty.refresh
+Free Refresh
+ui.bounty.award
+Receive
+ui.bounty.passed
+Completed
+ui.bounty.passed.complete
+COMPLETE
+ui.bounty.buy.count.button
+Purchases
+ui.bounty.go.shop.button
+To Shop
+ui.raward.all
+Reward
+ui.arena.top.reward
+Preview
+ui.arena.sysrem.record
+Battle Record
+ui.arena.sysrem.rule
+Rules
+ui.arena.sysrem.ranking
+Rankings
+ui.arena.sysrem.shop
+Arena Shop
+ui.arena.sysrem.refresh
+Change multiple
+ui.arena.match.replacement
+Defense
+ui.arena.match.replacement.vs
+Adjust Formation
+ui.arena.match.begin
+Start Battle
+ui.magicstone.exchange
+Crystal Exchange
+ui.sort.level
+Ranking
+ui.sort.quality
+Quality Rating
+ui.magicstone.no.materials
+No unneeded crystal
+ui.amount.label
+Amount possessed:
+ui.explore.unlock1
+Seal
+ui.explore.unlock2
+ Release
+ui.package.list.empty
+Backpack does not hold corresponding materials
+ui.tip.topbar.currency.spirit.name
+Energy
+ui.tip.topbar.currency.spirit.desc
+Energy is needed to beat dungeons
+ui.tip.topbar.currency.mysterious.name
+Soul Crystal
+ui.tip.topbar.currency.mysterious.desc
+Hero Shards Shop currency. Dissolve heroes to obtain
+ui.tip.topbar.currency.play_tower.name
+Aether
+ui.tip.topbar.currency.play_tower.desc
+Samsara Realm Rewards can be used at Hero Store
+ui.tip.topbar.currency.arena.name
+Prestige
+ui.tip.topbar.currency.arena.desc
+Arena Shop currency. Earn in the arena.
+ui.tip.topbar.currency.stamina.name
+Vigor
+ui.tip.topbar.currency.stamina.desc
+Can be used to participate in Arena and Crystal Exploration
+ui.tip.topbar.currency.faction.money.name
+Donate
+ui.tip.topbar.currency.faction.money.desc
+Can be used at Guild Shop
+ui.tip.topbar.currency.faction.funds.name
+Guild Funds
+ui.tip.topbar.currency.faction.funds.desc
+Upgrade Building
+ui.tip.system.tip
+System Prompt
+ui.tip.equipment.can.not.refine
+Gear cannot be refined (must be Rare or higher)
+ui.tip.equipment.can.not.quick.strengthen
+You do not have any gear to enhance
+ui.tip.equipment.can.not.quick.strengthen.money
+Quick Enhance failed - insufficient gold
+ui.tip.dungeon.first.pass.drop.item
+Receive an extra Reward for First Clear (one time only)
+ui.hero.normal.name
+Main Hero
+ui.email.num
+Number of Mail
+ui.email.name
+Mail
+ui.announcement.name
+Bulletin
+ui.announcement.name.message
+News
+ui.email.get
+Receive
+ui.crystal.explore.robber.run.tip
+You have chosen to escape. The adventure is now over
+ui.crystal.explore.robber.buy.success
+Congratulations on successful purchase
+ui.crystal.explore.robber.buy.cash.no.enough
+Not enough diamonds
+ui.item.recommend
+Use {0}
+ui.captain.hero.element.info
+{0} Resonance ({1}/{2}): {3}
+ui.email.delete
+Delete
+ui.email.get.all
+One-Tap Claim
+ui.email.del.all
+Quick Delete
+ui.email.delete.success
+Deleted
+ui.chat.new.unread.message
+You have [ff0000]{0} [-] unread messages
+ui.spirit.recovery
+After {0} restore 1 Pt
+ui.spirit.getfull
+Replenish Energy
+ui.stamina.getfull
+Replenish Vigor
+ui.spirit.full
+Full
+ui.spirit.today
+Today
+ui.spirit.tomorrow
+Tomorrow
+ui.stage.fail.dead
+Defeat
+ui.stage.fail.time
+Time out
+ui.stage.fail.grow.advice
+Get Stronger
+ui.arena.sysrem.reward
+Reward
+ui.tip.currency.crossserverbattle.point.name
+Glory of the Gods
+ui.tip.currency.crossserverbattle.point.desc
+Battle of the Gods
+ui.tip.topbar.currency.research.name
+Research currency
+ui.tip.topbar.currency.research.desc
+Research to receive
+ui.announcement.download.error
+Unable to download Bulletin!!
+ui.tip.topbar.currency.eidolon.name
+Eidolon Power
+ui.tip.topbar.currency.eidolon.desc
+Use to activate Eidolon's mysterious power
+ui.maintown.system.preview.dungeon
+[FF0000](Clear{0})[-]
+ui.maintown.system.preview.rolelevel
+[FF0000](Upgrade to Lv.{0})[-]
+ui.maintown.system.preview.task
+[FF0000](Complete{0})[-]
+ui.maintown.system.preview.viplevel
+[FF0000](VIP Lv.{0})[-]
+ui.maintown.system.countdown.secondlogin
+{0}\n{1} to collect
+ui.maintown.system.countdown.secondlogin.get
+Collect {0}
+factionrestaurant_chat_locale
+[0CFF00]{0}[-] collected an entire table's worth of food from the Guild Mess. Being cool isn't enough.
+ui.troop.equipment
+Gear
+ui.item.introduce
+Materials intro
+ui.gem.pane.suit
+Gem Set
+ui.maintown.system.countdown.left
+Collect after
+ui.maintown.system.countdown.award
+Available
+ui.arena.main.tiaozhan
+Challenge
+ui.arena.main.saodang
+Blitz 5 times
+ui.arena.main.fangshou
+Defense
+ui.arena.main.huanyipi
+Switch
+ui.arena.main.jiangli
+Reward
+ui.arena.main.shangdian
+Arena Shop
+ui.arena.main.paihangbang
+Rankings
+ui.arena.main.jilu
+Battle Record
+ui.arena.main.paimingjiangli
+Current Ranking Reward
+ui.billing.time.out.hint
+Payment network is poor. There is a delay processing the goods,  please do not repeat the purchase.
+ui.alertmessages.ge
+persons
+ui.troop.gem.resonance
+Gem resonance
+ui.mail.has.attachment.mail
+Please retrieve attachment first
+ui.mail.no.read.mail
+No Read Messages
+ui.achievement.dialog.title
+Achievements chest
+rolecareer_gender_male
+Male
+rolecareer_gender_female
+Female
+ui.function.open.new.open
+Unlock Requirements
+ui.function.open.new.reward
+Rewards
+ui.box.lottery.leaderboard.title
+Limited Time Hero Points Ranking
+ui.box.lottery.btn.award.name
+Draw Preview
+ui.box.lottery.btn.leaderboard.name
+Rankings
+ui.createrole.hair.color
+Hair color
+ui.battle.pause.shake
+Shake
+ui.worship_text1
+Thank you for your support
+ui.worship_text2
+Thanks a lot!
+ui.charge.tutorial.title
+Recharging Help
+ui.currency.recommend.power
+Recommended combat power:
+ui.conditional.bonus
+Point Reward
+ui.conditional.bonus.notreach
+Not reached
+ui.conditional.bonus.already.receive
+Received
+ui.achievement.tab1
+Schedule
+ui.achievement.tab2
+Achievements
+ui.has.been.completed.all
+Completed
+ui.achievement.dailymission.prompt
+Daily zero reset
+ui.maintown.task.dynamic.info.title
+Auto-pathing…
+ui.achievement.popup.get
+Achieved
+ui.announcement.none.message
+No news yet,  kupo!
+ui.festival.main.time
+Event Time:
+ui.welfare.cumulative.charge.accumulate
+Accumulative Recharged:
+ui.setting.camera
+Video
+ui.setting.btn.baseset
+Basic Setup
+ui.share.main.share.to
+Share to:
+ui.main.town.minu.more.smelter
+Furnace
+ui.gift.bag.select.choose
+Please choose one of the following rewards
+ui.gift.bag.max
+Quick Use:
+ui.get.eidolon.piece.click
+Tap the screen to continue
+ui.dialog.dungeon.info.star.title
+3 Star Conditions
+ui.Guilddungeon.main.kill
+Defeat
+ui.Guilddungeon.main.recommend
+Recommend
+ui.Guilddungeon.main.reward
+Points
+ui.Guilddungeon.main.time
+Challenges Left
+ui.Guilddungeon.main.challengeaward
+Challenge Reward
+ui.Guilddungeon.main.set
+Settings
+ui.Guilddungeon.main.record
+Record
+ui.Guilddungeon.setup.change
+Battle Settings
+ui.Guilddungeon.TimeRanking.title
+Player Ranking
+ui.Guilddungeon.TimeRanking.rank
+Ranking
+ui.Guilddungeon.TimeRanking.sign
+Badge
+ui.Guilddungeon.TimeRanking.name
+Name
+ui.Guilddungeon.TimeRanking.time
+Clear Time
+ui.eidolon.css
+Stats
+ui.eidolon.css.add
+Enhance
+ui.title.passive.property.css
+Passive Stats
+ui.dialog.awake.point.title
+Effects
+ui.hero.risingstar.new.up
+Starred UP!
+ui.hero.risingstar.new.skill
+Skill Unlock
+ui.shop.item.new.low
+Low price
+ui.shop.item.new.high
+High price
+ui.shop.item.new.icon
+50% Off
+ui.dialog.super.weapon.list.css1
+Aptitude
+ui.dialog.super.weapon.info1
+Gear Info
+ui.equip.grading.empty
+Not Equipped
+ui.miliitaryrank.adjust.attack
+Attack
+ui.miliitaryrank.adjust.defend
+Defense
+ui.militaryrank.arena.ranking
+Rankings
+ui.recall.send
+Quick Deploy
+ui.worldboss.killed
+Killed
+ui.worldboss.kill.next
+Next wave coming
+ui.shop.buy.gem.have
+Owned
+ui.hero.rsing.star.button
+Starred UP!
+ui.treasure.develop.change
+Switch Hero
+ui.militaryrankarena.firstly
+1st
+ui.militaryrankarena.second
+2nd
+ui.militaryrankarena.thirdly
+3rd
+ui.vs.start
+Start
+ui.battle.main.middle.panel.mission.area.name
+Quests
+ui.dialog.bug.report.button1
+Feedback
+ui.dialog.bug.report.button2
+FAQ
+ui.dialog.bug.report.button3
+Back
+ui.dialog.bug.report.button4
+Close
+ui.welfare.sale.saleout
+Sold Out
+ui.welfare.card.both.buy
+You can purchase both
+ui.shop.buy.have
+Owned
+ui.achievement.avaliable
+Available
+ui.guild.building.notice
+Welcome to the guild! Please donate to help the Guild upgrade!
+ui.guilddungeon.tempo.award
+Reward
+ui.guilddungeon.killed
+Target Defeated
+ui.prestige.upgrade.congratulation
+Ranked Up!
+ui.title.passive.time
+Duration
+ui,equip.develop.button
+Accessory
+ui,equip.develop.switch
+Switch Hero
+ui.gem.reasonance.no
+Not Inlayed
+ui.hero.rising.star.up
+Star Up
+ui.hero.super.weapon
+Treasure Exclusive
+ui.herochoice.employ
+Hire Him
+ui.herochoice.power
+Power
+ui.herochoice.earnings
+Income
+ui.regulation.rules
+Rules
+ui.guiddungeon.reward
+Reward Preview
+ui.treasure.develop.equip
+Gear
+ui.fashion.avatar.hero
+On
+ui.common.troop.state.on.lable
+Support
+ui.player.info.eidolon
+Eidolon
+ui.plater.info.basic.stats
+Basic Stats
+ui.plater.info.peak.lineup
+Peak Formation
+ui.super.weapon.choose.button.choose
+Select
+ui.announcement,title
+Click confirm to recycle items needed in the mail
+ui.announcement.none
+No news yet, Kupo!
+ui.vip.main.go
+Go recharge
+ui.hero.fragment.got
+Got
+ui.equipment.bag.upgrade
+Rank Up
+ui.equip.bag.up.star
+Star Up
+ui.equip.bag.casting
+Boost
+ui.worship.empty
+Reserved for you
+ui.lineup.pitch.on
+In Battle
+ui.eidolon.not.open
+Not yet opened,  please stand by
+ui.get.chapter.title.1
+Congratulations
+ui.get.chapter.item.countinue
+Tap the screen to continue
+ui.main.town.notice
+Bulletin:
+ui.share.button.title
+Share to:
+ui.battle.lose.strong
+Get Stronger
+ui.gem.resonance.empty
+Not Inlayed
+ui.time.ranking.title
+Select Difficulty
+ui.time.ranking.1
+Ranking
+ui.time.ranking.2
+Badge
+ui.time.ranking.3
+Name
+ui.time.ranking.4
+Clear Time
+ui.gem.grading.point.title
+Rating:
+ui.gem.grading.title.title
+Gem Rating:
+ui.gem.grading.empty
+Not Equipped
+ui.friend.finish.sent
+Sent
+ui.welfare.off.line.free
+Free
+ui.serber.list.no
+You have not logged in to any server yet
+ui.battle.task.finish
+Finish
+ui.battle.task.new
+New Task
+ui.fight.dynamic.info.interrupts
+Break
+ui.hero.trial.button
+Challenge
+ui.team.battle.no.award
+Attempts used up. No rewards with more challenges.
+ui.guild.revise.name.text
+Click here to input
+ui.Guilddungeon.setup.title
+Record
+ui.captain.go
+Go to
+ui.captain.compound
+Craft
+ui.guild.convoy.go
+Prepare to move out
+ui.guild.convoy.ranking
+Rankings
+ui.guild.convoy.award
+Reward
+ui.guild.convoy.double
+Double time
+ui.guild.convoy.list
+Airship list
+ui.guild.convoy.select
+Filtrate
+ui.guild.convoy.time.title1
+Profit
+ui.guild.convoy.time.title2
+Quality
+ui.guild.convoy.red
+Quick Mythic
+ui.guild.convoy.yes
+Confirm
+ui.guild.convoy.no
+Cancel
+ui.guild.convoy.setout.yes
+Confirm
+ui.guild.convoy.setout.info
+Upgrade the airship to get more rewards
+ui.guild.convoy.setout.title
+Congratulations
+ui.guild.convoy.now
+Start Now
+ui.guild.convoy.setout.earnings
+Income
+ui.team.invite.no.award
+Attempts used up/nNo rewards with more challenges.
+ui.gem.btn.enhance
+Enhance
+ui.gem.btn.refine
+Refine
+ui.gem.btn.casting
+Craft
+ui.worldboss.kill
+Killed
+ui.worldboss.settlement.last
+Final blow!
+ui.super.weapon.forward.level
+Rank Up Level
+ui.super.weapon.preview
+Talent Preview
+ui.charge.time.limit.not.buy
+After the permanent can not buy
+ui.charge.time.limit.time
+Limited value spree
+ui.fuild.convoy.red.up
+Mythic Airship Bonus
+ui.guild.convoy.detailed
+Escort Guild
+ui.guild.convoy.detailed.player
+Escort
+ui.dispatch.4hour
+
+ui.dispatch.8hour
+
+ui.dispatch.12hour
+
+ui.guildwar.history.title
+Battle Record
+ui.guildwar.history.revenge
+Revenge
+ui.guildwar.map.num
+Today's attacks:
+ui.waiting.friend.title
+Waiting for teammates…
+ui.dialog.player.info.1
+Team 1 Rating
+ui.dialog.player.info.2
+Team 2 Rating
+ui.dialog.player.info.3
+Team 3 Rating
+ui.dialog.player.info.4
+Team Rating
+ui.dialog.player.info.5
+Throne level
+ui.battle.win.double
+Double
+ui.Guild.buiding.Science.up.1
+Level Up
+ui.Guild.Convoy.leaderboard.title
+Ranking Reward
+ui.Guild.Convoy.leaderboard.1
+Ranking
+ui.Guild.Convoy.leaderboard.2
+Guild
+ui.Guild.Convoy.leaderboard.3
+Points
+ui.Guild.Convoy.leaderboard.4
+Reward
+ui.mainpackage.super.weapon.1
+Aptitude
+ui.canptain.title
+Get hero
+ui.captain.unlock
+lock
+ui.box.lottery.title
+Reward
+ui.guildwar.situation.all
+Total
+ui.GuildWar.map.12
+Unoccupied
+ui.surper.cleanout.2	
+Reset
+ui.dialog.player.info.noopne
+The player  hasn't open the system/n or you haven't got the statistics/n Kupo~
+ui.server.list.none
+You haven't log in any server yet
+ui.title.flower.locale
+love at first sight
+ui.world.boss.award.1
+Damage Ranking Reward
+ui.charge.time.limit.canbuy
+Can buy
+ui.dialog.buytimes.1
+Regain one attack attempt every 2 hours out of Armistice
+ui.guild.convoy.1
+Plundered
+ui.title.new
+New!
+ui.battle.dead
+die
+ui.recall.activation.1
+The skill of Moogle takes\neffect next time
+ui.gem.strength.max
+Has been strengthened to the highest level
+ui.gem.strength.empty
+This gem hasn't been inlayed anywhere
+ui.flowers.give
+Sdh kirim
+ui.treasure.change.hero
+Ganti hero
+ui.battle.player.own
+Personal DMG:
+ui.charge.sale.1
+The discount amount is: $6
+ui.charge.sale.2
+Extra bonus:
+ui.charge.sale.3
+Sales time left:
+ui.charge.sale.4
+Recharge Help
+ui.conditional.bonus.get
+Claimed
+ui.GuildWar.map.detailed.time.hour
+/h
+ui.GuildWar.Battlefield.rank.result
+Ranking Settlement
+ui.welfare.half.sell.out
+Sold Out
+ui.GuildWar.Enroll.server1
+Server
+ui.GuildWar.Enroll.name1
+Guild Name
+ui.Militaryrankarena.History.battle1
+1st
+ui.Militaryrankarena.History.battle2
+2nd
+ui.Militaryrankarena.History.battle3
+3rd
+ui.charge.first.num
+0.99
+ui.vip.go.1
+Recharge
+ui.vip.get.1
+Received
+ui.vip.get.2
+Receive
+ui.scene.gethero.1
+Click anywhere to continue
+ui.welfare.month.1
+Receive
+ui.item.cleanout.1
+Rare!
+ui.vip.main.cost
+
+ui.hero.trial.help.1
+Assistant
+ui.trial.help.hero.info
+Assistance Details
+ui.hero.trial.help.info
+If cancell assistance, the difficulty won't decrease
+ui.itemget.1
+Define
+ui.guild.info.give.1
+Resigning
+ui.awake.point.label.1
+Activated
+ui.guild.convoy.setout.1
+Cost
+ui.box.lattery.get
+Reset

@@ -1,0 +1,22 @@
+ui.awakenjoint.effect
+Activation effect: Stats+{0}
+ui.awakenjoint.costCaption
+Cost
+ui.awakenjoint.awakenConditionAwakable
+[{0}]Unlock: Hero Reaches [-]"{1}"lv{2}[-]
+ui.awakenjoint.awakenConditionNotAwakeable
+[{0}]Activate preceding node first[-]
+ui.awakenjoint.awakenConditionAwaken
+
+ui.awakenjoint.buttonName
+Activate
+ui.awakenarea.notAwakenDesc
+Inactive
+ui.awakenarea.AwakenDescAttr
+Stats+{0}
+ui.awakenarea.TroopEnhance
+Team Bonus
+ui.awakenarea.main.hero.Enhance
+Hero Bonus
+heroawakenarea_attr_desc_troop
+Team {0}

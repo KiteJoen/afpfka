@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<functionswitchconst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <download_and_login_feecback>true</download_and_login_feecback>  <!--载入、登陆界面是否显示“联系客服”按钮（印尼定制）-->
+
+  <contact_customer_services_url>https://www.facebook.com/120886395176467/</contact_customer_services_url>  <!--载入界面、登陆界面的“联系客服”链接，如果为空则点击跳转无效（印尼定制）-->
+  
+  <enable_bugreport>false</enable_bugreport> <!-- 是否显示“错误反馈”按钮 -->
+  
+  <charge_tip_url>https://facebook.com/notes/final-fantasy-awakeningarpg-3d-otoritas-resmi-se/panduan-top-up/136348963630210/</charge_tip_url>
+  <gift_code_get_url>http://ffid.efunen.com/</gift_code_get_url>
+  <maintown_facebook_url>https://www.facebook.com/120886395176467/</maintown_facebook_url>
+  <jump_to_appstore_url>https://itunes.apple.com/id/app/final-fantasy-awakening-arpg-3d-otoritas-resmi-se/id1234830159?ls=1&amp;mt=8</jump_to_appstore_url>
+  <jump_to_googleplay_url>https://play.google.com/store/apps/details?id=com.id.finalfantasy</jump_to_googleplay_url>
+  <market_name>com.android.vending</market_name>
+  <package_name>com.id.finalfantasy</package_name>
+  <time_extra_detail>WIB</time_extra_detail>
+  <show_announcement_only_logined>true</show_announcement_only_logined>
+</functionswitchconst>

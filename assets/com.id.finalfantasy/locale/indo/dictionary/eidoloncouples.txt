@@ -1,0 +1,36 @@
+eidoloncouples_1_name
+War Eidolon
+eidoloncouples_1_20_desc
+Attack defense HP +6% (membuka Resonance skill)
+eidoloncouples_1_40_desc
+Blok +8% (Resonance skill mencapai lv2)
+eidoloncouples_1_60_desc
+Attack defense HP +8% (Lv. Resonance mencapai lv.3)
+eidoloncouples_1_80_desc
+Blok +10% (Resonance skill mencapai lv4)
+eidoloncouples_1_100_desc
+Attack defense HP +10% (Lv. Resonance mencapai lv.5)
+eidoloncouples_2_name
+Frost Goddess
+eidoloncouples_2_20_desc
+Attack defense HP +8% (membuka Resonance skill)
+eidoloncouples_2_40_desc
+Blok +10% (Resonance skill mencapai lv2)
+eidoloncouples_2_60_desc
+Attack defense HP +10% (Lv. Resonance mencapai lv.3)
+eidoloncouples_2_80_desc
+Blok +12% (Resonance skill mencapai lv4)
+eidoloncouples_2_100_desc
+Attack defense HP +12% (Lv. Resonance mencapai lv.5)
+eidoloncouples_3_name
+Flame sacrifice
+eidoloncouples_3_20_desc
+Attack defense HP +8% (membuka Resonance skill)
+eidoloncouples_3_40_desc
+Blok +10% (Resonance skill mencapai lv2)
+eidoloncouples_3_60_desc
+Attack defense HP +10% (Lv. Resonance mencapai lv.3)
+eidoloncouples_3_80_desc
+Blok +12% (Resonance skill mencapai lv4)
+eidoloncouples_3_100_desc
+Attack defense HP +12% (Lv. Resonance mencapai lv.5)

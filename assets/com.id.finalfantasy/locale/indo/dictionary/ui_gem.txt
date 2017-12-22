@@ -1,0 +1,186 @@
+ui.gem.suit.active
+{0} set aktif
+ui.gem.exp.provide
+EXP + {0}
+ui.gem.strength.max.restrict
+Compose gem maksimal menggunakan 8 gem dalam 1 kali
+ui.gem.strength.maxlevel.restrict
+Memilih EXP yang disediakan material gem sudah cukup untuk upgrade sampai full level
+ui.gem.need.exp
+Untuk ke level selanjutnya perlu {0} poin EXP
+ui.gem.choose.exp
+Poin EXP yang akan diambil bernilai {0}
+ui.gem.compose.gem.less
+Untuk menggabungkan gem dengan level lebih tinggi, setidaknya membutuhkan 4 Gem dengan kualitas yang sama
+ui.gem.compose.confirm.title
+Compose back
+ui.gem.compose.qualification.toohigh.title
+Komfirmasi
+ui.gem.less.any.recommend.compose
+Kualitas Gem yang sama tidak cukup, penambahan otomatis gagal
+ui.gem.compose.recommend.other.gem
+Kualitas gem tidak cukup, apakah ingin menambah kualitas gem lain untuk digabungkan?
+ui.gem.hero.slot.unlock.level
+Lv.{0} \n buka
+ui.gem.compose.more.than.max
+Menggabungkan gem hanya perlu 4 material gem!
+ui.gem.compose.same.quality
+Kualitas gem yang berbeda tidak bisa digabung!
+ui.gem.slot.unlock.main.hero.level
+Slot gem bisa terbuka saat Hero utama mencapai level {0}.
+ui.gem.strengthen.less.recommend
+Tidak ada EXP gem yang cukup untuk direkomendasi!
+ui.gem.suit.title
+{0}({1}/{2})
+ui.gem.strengthen.reached.max.level
+Level gem sudah maksimal
+ui.gem.equip.same.id.gem.error
+Sudah memasang gem yang sama, tidak bisa pasang lagi
+ui.gem.compose.noreturn.title
+Gem fushion
+ui.gem.compose.noreturn.content
+Compose gem akan menggunakan 4 gem yang sama, silakan konfirmasi
+ui.gem.strengthen.use.better
+Enhance saat ini akan menggunakan gem kualitas tinggi, yakin enhance?
+ui.gem.strengthen.no.food
+Belum menambah material enhance
+ui.gem.orange.cannot.compose
+Paling tinggi gem orange, tidak bisa digabung
+ui.gem.quality.less.blue
+Hanya gem kualitas biru ke atas baru bisa compose
+ui.gem.equip.list.suit.actived
+Bisa aktivasi : {0}({1}/{2})
+ui.gem.list.show.available
+Hanya menunjukkan gem yang tidak terpakai
+ui.gem.compose.nodatatip
+Saat ini tidak ada gem yang bisa digabungkan
+ui.gem.nodata.go
+Gem Lottery
+ui.gem.food.select.title
+Pilih gem yang akan digunakan
+ui.gem.food.recommended
+Rekomendasi penggunaan gem
+ui.gem.compose.nogem1
+Kurang Gem
+ui.gem.compose.nogem2
+Silahkan coba cara berikut utk mendapat material gem
+ui.gem.resonance.title
+Resonance gem
+ui.gem.resonance.tip
+Level gem menentukan level resonance
+ui.gem.slot.unlock.resonance
+Lv.{0} \n buka
+ui.gem.resonance.val
+Attribute resonance bertambah
+ui.gem.resonance.level.max
+Saat ini sudah level maksimal
+ui.level.max.val
+Upgrade sampai level tertentu akan mendapat attribute tambahan
+ui.gem.resonance.level
+Lv.{0}
+ui.gem.resonance.no.equiped
+Hero ini belum memakai gem apapun, tidak bisa resonance
+ui.gem.compose.restrict.role.level
+Level {0} bisa compose Gem {1}
+ui.level.max.val.right
+Resonance gem sudah mencapai level tertinggi
+ui.gem.attr.subtitle.enhance.detail
+Attribute gem
+ui.gem.star.pane.suit
+Star bertambah
+ui.gem.expgem.cannot.strengthen
+EXP Gem tidak boleh enhance!
+ui.gem.expgem.cannot.compose
+EXP Gem tidak boleh digabung!
+gemcompose.failed.cheng
+Level {0} dapat compose Gem orange
+gemcompose.failed.cheng.wanmei
+Level {0} dapat compose Perfect gem orange
+gemcompose.failed.hong
+Level {0} dapat compose Gem merah
+gemcompose.failed.hong.wanmei
+Level {0} dapat compose Perfect gem merah
+gem.compose.qualification.2
+[3079BDFF]Gem biru[-]
+gem.compose.qualification.3
+[8552C8FF]Gem ungu[-]
+gem.compose.qualification.4
+[8552C8FF]Perfect gem ungu[-]
+gem.compose.qualification.5
+[DD7518FF]Gem orange[-]
+gem.compose.qualification.6
+[DD7518FF]Perfect gem orange[-]
+gem.compose.qualification.7
+[C4251FFF]Gem merah[-]
+gem.compose.qualification.8
+[C4251FFF]Perfect gem merah[-]
+gem.compose.quick.choose
+Dikumpulkan menjadi {0}
+gem.compose.qualification.choose.error
+Pilihan yang tanpa efek
+gem.compose.no.select
+Gem kualitas sama dpt fusion jadi gem tingkat tinggi
+gem.compose.select
+Beberapa {0} dikumpulkan menjadi sebuah {1}
+gem.suit.none
+Tidak ada
+gem.suit.title
+Set : {0}
+gem.exchange.none.select
+Bs ganti 1 gem menjadi gem yg kualitas sama secara acak
+gem.exchange.tips
+Setelah transform akan mendapatkan sebuah {0}
+gem.exchange.equiped.gem
+Gem yang sudah terpasang harus dilepaskan sebelum transform, setelah transform gem baru akan disimpan ke tas \n apakah ingin melanjutkan transform?
+gem.suit.actived.relation
+Shackle set : {0}
+gem.cannot.exchange
+Experience gem tidak dapat ditukarkan!
+gem.compose.critical.tips
+Fusion berpeluang terjadi Crit, Crit akan dapat 1 gem lagi
+gem.compose.quick.tips
+Apakah semua gem biru akan dilebur menjadi ungu?
+ui.gem.list.no
+Tidak ada Gem yang bisa dipakai
+ui.gem.selectlist.recommend.info
+Bisa dicoba rute berikut ini
+ui.gem.compose.choose
+Pilihan
+ui.gem.compose.text
+Exp gem akan dikembalikan secara
+ui.gem.compose.purple
+Semua menjadi ungu
+ui.dialog.gem.intensify.level
+Level enhance :
+ui.dialog.gem.change
+Ganti
+ui.gem.compose.change
+Berubah
+ui.dialog.gem.resonance.quick
+Klik gem msk ke enhance gem
+ui.dialog.gem.resonance.level.now
+Level resonance saat ini
+ui.dialog.gem.resonance.level.next
+level selanjutnya
+ui.gem.strength.upgrade
+Exp Enhance :
+ui.gem.reward.low
+Gem tingkat rendah tidak ada paket attribute
+ui.gem.compose.critical.title
+Critical
+ui.gem.compose.critical.click
+Klik Gem untuk melihat informasi gem
+ui.gem.lottery.change
+Compose berubah
+ui.gem.compose.num
+4
+ui.gem.compose.text.1
+Com
+ui.gem.compose.text.2
+pose
+ui.gem.compose.text.3
+Critical
+ui.gem.compose.text.4
+Hit
+ui.gem.compose.qualification.warning
+Sedang {0} compose {1}\n [ff0000] Jalankan hati-hati [-]

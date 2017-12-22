@@ -1,0 +1,32 @@
+ui.faction.label.training.mine
+Tempat pelatihanku
+ui.faction.label.training.name
+Tempat pelatihan {0}
+ui.faction.label.training.facility_level
+Level latihan : {0}
+ui.faction.label.training.exp_gain
+EXP bertambah : {0}%
+ui.faction.label.training.hero_exp
+{0}/{1}
+ui.faction.label.training.exp_inc
+EXP + {0}
+ui.faction.label.training.unlock
+Tempat pelatihan level {0} terbuka
+ui.faction.label.training.unlock_default
+Belum dibuka
+ui.faction.button.communicate
+Membantu yang lain
+ui.faction.button.return
+Tempatku
+ui.faction.label.training.log
+[00FFFF] {0} [-] membantumu melatih Hero
+ui.faction.label.training.commit_assist_count
+Jumlah bantuan untuk orang lain : {0}
+ui.faction.label.training.accept_assist_count
+Jumlah bantuanku : {0}
+ui.faction.label.training.other.accept_assist_count
+Yang bisa dibantu
+ui.faction.message.training.already_max_level
+Level Hero sudah penuh, tidak bisa latihan lagi
+ui.faction.label.static.training.select_peer
+Daftar anggota

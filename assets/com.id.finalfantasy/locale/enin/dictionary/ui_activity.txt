@@ -1,0 +1,64 @@
+ui.activity.fortune.main.icon
+atlas_town_common_systemevent/icon_menu_b33
+ui.activity.fortune.charge.icon
+atlas_town_common_systemevent/icon_menu_b33
+ui.activity.finishtime
+Event ends: (0)
+ui.activity.remaintime
+Remaining time: {0}
+ui.activity.fortune
+Benefits
+ui.activity.fortune.charge
+Recharge Benefits
+ui.fortune.day
+Day {0} 
+ui.fortune.activityday.not.open
+Today's event has not yet begun
+ui.fortune.activityday.closed
+Today's event has already ended
+ui.fortune.shop.remain
+Server stock: {0}/{1}
+ui.fortune.shop.origin.cost
+Original Price:
+ui.fortune.shop.discount.cost
+Discount Price:
+ui.fortune.openserver.box
+Quest Rate Chest
+ui.fortune.openserver.box.desc
+Complete [ff0000]{0}[-] targets to claim
+ui.fortune.openserver.total
+Total Goal: {0} / {1}
+ui.fortune.spirittaken.defaultwords
+Claim extra energy here
+ui.fortune.spirittaken.time.notreached
+It's not the time to claim yet,  please come back at {0}
+ui.fortune.spirittaken.allout.today
+Today's supply has finished,  please come back at {0} tomorrow
+ui.fortune.spirittaken.later
+Can be received after {0}
+ui.fortune.dungeon.hard
+Elite
+ui.fortune.input.giftcode
+Please enter the gift code
+ui.fortune.signin.info1
+It's day {0} now. There are {1} days left to collect
+ui.fortune.signin.info2
+This week's rewards have all been claimed,  please come back tomorrow
+ui.welfare.title
+Cost Rate
+ui.welfare.text.detail
+Cost Rate reached 100. You can get a random Recharge Rebate
+ui.welfare.sale.detail
+Amount of Single Recharge to take effect
+ui.welfare.half.text
+Discount applied
+ui.fortune.spirittaken.activetime
+Daily event time
+ui.fortune.spirittaken.finish
+Today's event has finished,  please come back tomorrow!
+activity_world_boss_1
+Nian
+activity_world_boss_2
+Nian
+activity_world_boss_3
+Nian

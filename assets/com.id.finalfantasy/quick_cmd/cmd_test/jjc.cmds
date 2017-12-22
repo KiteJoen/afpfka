@@ -1,0 +1,145 @@
+À’À’≤‚ ‘
+delay 100
+SetArenaAttackerData 1 35 39 31 26 1 1 1 1 1 1 1
+
+delay 100
+SetArenaDefenderData 1 38 36 37 34 1 1 1 1 1 1 1
+
+delay 100
+StartFakeArena 
+
+delay 100
+WaitCallback 1
+
+delay 100
+StartStats
+
+delay 100
+WaitCallback 0
+
+delay 100
+SaveStatsToFile
+
+delay 100
+FinishFakeArena
+delay 10000
+delay 100
+SetArenaAttackerData 1 35 39 38 36 1 1 1 1 1 1 1
+
+delay 100
+SetArenaDefenderData 1 31 26 37 34 1 1 1 1 1 1 1
+
+delay 100
+StartFakeArena 
+
+delay 100
+WaitCallback 1
+
+delay 100
+StartStats
+
+delay 100
+WaitCallback 0
+
+delay 100
+SaveStatsToFile
+
+delay 100
+FinishFakeArena
+delay 10000
+delay 100
+SetArenaAttackerData 1 31 26 35 39 1 1 1 1 1 1 1
+
+delay 100
+SetArenaDefenderData 1 38 36 37 34 1 1 1 1 1 1 1
+
+delay 100
+StartFakeArena 
+
+delay 100
+WaitCallback 1
+
+delay 100
+StartStats
+
+delay 100
+WaitCallback 0
+
+delay 100
+SaveStatsToFile
+
+delay 100
+FinishFakeArena
+delay 10000
+delay 100
+SetArenaAttackerData 1 35 39 31 26 1 1 1 1 1 1 1
+
+delay 100
+SetArenaDefenderData 1 37 34 38 36 1 1 1 1 1 1 1
+
+delay 100
+StartFakeArena 
+
+delay 100
+WaitCallback 1
+
+delay 100
+StartStats
+
+delay 100
+WaitCallback 0
+
+delay 100
+SaveStatsToFile
+
+delay 100
+FinishFakeArena
+delay 10000
+delay 100
+SetArenaAttackerData 1 38 36 35 39 1 1 1 1 1 1 1
+
+delay 100
+SetArenaDefenderData 1 31 26 37 34 1 1 1 1 1 1 1
+
+delay 100
+StartFakeArena 
+
+delay 100
+WaitCallback 1
+
+delay 100
+StartStats
+
+delay 100
+WaitCallback 0
+
+delay 100
+SaveStatsToFile
+
+delay 100
+FinishFakeArena
+delay 10000
+delay 100
+SetArenaAttackerData 1 35 39 38 36 1 1 1 1 1 1 1
+
+delay 100
+SetArenaDefenderData 1 37 34 31 26 1 1 1 1 1 1 1
+
+delay 100
+StartFakeArena 
+
+delay 100
+WaitCallback 1
+
+delay 100
+StartStats
+
+delay 100
+WaitCallback 0
+
+delay 100
+SaveStatsToFile
+
+delay 100
+FinishFakeArena
+delay 10000

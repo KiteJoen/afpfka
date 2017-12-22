@@ -1,0 +1,1426 @@
+hero_1_name
+Windblade Warrior
+hero_1_alias_name
+Windblade Warrior
+hero_1_english_name
+
+hero_1_desc1
+Moving with the wind,  wielding swords in both hands. Possesses absolute agoldity and elegance.
+hero_1_get_desc
+ATK
+hero_2_name
+Windblade Warrior
+hero_2_alias_name
+Windblade Warrior
+hero_2_english_name
+
+hero_2_desc1
+Moving with the wind,  wielding swords in both hands. Possesses absolute agoldity and elegance.
+hero_2_get_desc
+ATK
+hero_3_name
+Fire Gunner
+hero_3_alias_name
+Fire Gunner
+hero_3_english_name
+
+hero_3_desc1
+A mage with two guns. His warm exterior hides an incredible magic-fueled killing ability.
+hero_3_get_desc
+ATK
+hero_4_name
+Fire Gunner
+hero_4_alias_name
+Fire Gunner
+hero_4_english_name
+
+hero_4_desc1
+A mage with two guns. His warm exterior hides an incredible magic-fueled killing ability.
+hero_4_get_desc
+ATK
+hero_5_name
+Ice Magitek Knight
+hero_5_alias_name
+Ice Magitek Knight
+hero_5_english_name
+
+hero_5_desc1
+An elementalist protected by fire and ice who can protect and destroy...
+hero_5_get_desc
+ATK
+hero_6_name
+Ice Magitek Knight
+hero_6_alias_name
+Ice Magitek Knight
+hero_6_english_name
+
+hero_6_desc1
+An elementalist protected by fire and ice who can protect and destroy...
+hero_6_get_desc
+ATK
+hero_301_name
+constume - Strange Hadad
+hero_301_alias_name
+constume - Strange Hadad
+hero_301_english_name
+constumes
+hero_301_desc1
+Ranged output character. Uses passive control effects. Captain skill allows energy to accumulate quickly.
+hero_301_get_desc
+Full-screen freeze,  versatile support
+hero_302_name
+constume - Crimson Dancer
+hero_302_alias_name
+constume - Crimson Dancer
+hero_302_english_name
+constumes
+hero_302_desc1
+Crimson Dancer focuses on damaging a single enemy. She has many kinds of Damage Increasees.
+hero_302_get_desc
+Full-screen freeze,  versatile support
+hero_304_name
+constume - Dread Lord
+hero_304_alias_name
+constume - Dread Lord
+hero_304_english_name
+constumes
+hero_304_desc1
+Dread Lord has strong survival skills,  improves the entire team's endurance capabilities
+hero_304_get_desc
+Full-screen freeze,  versatile support
+hero_306_name
+constume - Arbiter
+hero_306_alias_name
+constume - Arbiter
+hero_306_english_name
+constumes
+hero_306_desc1
+The Arbiter has many different attack skills and has an armor break effect.
+hero_306_get_desc
+Full-screen freeze,  versatile support
+hero_303_name
+constume - Forest Goblin
+hero_303_alias_name
+constume - Forest Goblin
+hero_303_english_name
+constumes
+hero_303_desc1
+Both healing and DPS. Creates an environment for party members to efficiently deal damage.
+hero_303_get_desc
+Full-screen freeze,  versatile support
+hero_305_name
+constume - Frost Angel
+hero_305_alias_name
+constume - Frost Angel
+hero_305_english_name
+constumes
+hero_305_desc1
+Control and DPS character. Has a Damage Increase effect for base AoE damage.
+hero_305_get_desc
+Full-screen freeze,  versatile support
+hero_32_name
+Red Angel
+hero_32_alias_name
+Zhuyu
+hero_32_english_name
+Zhuyu
+hero_32_desc1
+Rubrum Primus l'Cie. Controls the strong flames that symbolize Rubrum. After years of being controlled by the crystal,  their emotions are very weak. In order to keep some semblance of their identity,  they always wear their cadet uniform.
+hero_32_get_desc
+Most powerful short-ranged damage,  king of crit
+hero_33_name
+Queen Andoria
+hero_33_alias_name
+Andoria
+hero_33_english_name
+Andoria
+hero_33_desc1
+Queen of the Kingdom of Concordia. She is also Concordia's Secundus l'Cie. She can speak with the Azure Dragon Crystal l'Cie. She can catch glimpses of the future. She is a proud but fair ruler.
+hero_33_get_desc
+Strongest support hero
+hero_28_name
+King of Lorican
+hero_28_alias_name
+goldgamesh
+hero_28_english_name
+goldgamesh
+hero_28_desc1
+The King of Lorican as well as the Primus l'Cie of the Black Tortoise Crystal. A weapon collector who can be seen challenging opponents on the field of battle in order to obtain their weapons.
+hero_28_get_desc
+Best shield,  with incredible survivability
+hero_13_name
+Milites l'Cie
+hero_13_alias_name
+Nimbus
+hero_13_english_name
+Nimbus
+hero_13_desc1
+Milites Primus l'Cie. Has been controlled by the crystal for 100 years. Emotions are even fainter than Zhuyu's. Only follows Cid's orders since the White Tiger Crystal fell under Cid's control.
+hero_13_get_desc
+Strongest Ranged DPS
+hero_31_name
+Rubrum l'Cie
+hero_31_alias_name
+Caetuna
+hero_31_english_name
+Caetuna
+hero_31_desc1
+Rubrum's Secundus l'Cie. Good at summoning magic. Known to have infinite magic power. The oldest l'Cie in Orience. Her name is recorded in the annals of the great war 500 years ago.
+hero_31_get_desc
+Full-screen freeze,  versatile support
+hero_37_name
+Earth Guardian
+hero_37_alias_name
+Atra
+hero_37_english_name
+Atra
+hero_37_desc1
+Lorican Secundus l'Cie. Extremely mysterious.
+hero_37_get_desc
+Breaks formations,  powerful drain.
+hero_34_name
+Doctor Strange
+hero_34_alias_name
+Kazusa
+hero_34_english_name
+Kazusa
+hero_34_desc1
+Responsible for weapon development. Weapon research is one of the major responsibilities of the research center. Once schoolmates and friends with Kurasame and Ameena.
+hero_34_get_desc
+Single target damage,  ongoing damage
+hero_38_name
+Magitek Commander
+hero_38_alias_name
+Qun'mi
+hero_38_english_name
+Qun'mi
+hero_38_desc1
+Milites Secundus l'Cie. Extremely gifted at piloting magitek armor. A very confident and proud person.
+hero_38_get_desc
+Formation-breaker,  versatile shield
+hero_29_name
+Spiral Swords
+hero_29_alias_name
+Machina
+hero_29_english_name
+Machina
+hero_29_desc1
+One of Class Zero's Agito candidates. One of the few truly excellent students. Childhood sweethearts with Rem. Feels a powerful sense of responsibility,  and is considerate to his fellows.
+hero_29_get_desc
+Powerful healing,  single target protection
+hero_18_name
+Blades of Shadow
+hero_18_alias_name
+Rem
+hero_18_english_name
+Rem
+hero_18_desc1
+One of Class Zero's Agito candidates. Machina's childhood sweetheart. Gentle and earnest,  she is not good at lying.
+hero_18_get_desc
+Slays back row,  damages single targets
+hero_17_name
+Voice of Healing
+hero_17_alias_name
+Deuce
+hero_17_english_name
+Deuce
+hero_17_desc1
+One of Class Zero's Agito candidates. A hard-working and honest kid. Very serious and true to his own philosophy. On occasion becomes stubborn and lacks understanding.
+hero_17_get_desc
+Single-target control,  AoE healing.
+hero_19_name
+Fearless Mind
+hero_19_alias_name
+Jack
+hero_19_english_name
+Jack
+hero_19_desc1
+One of Class Zero's Agito candidates. A youth with a positive outlook. Enjoys wisecracking to cheer up his classmates,  although it gives off a somewhat frivolous impression.
+hero_19_get_desc
+Drain-type melee damage
+hero_14_name
+Zero Trump Card
+hero_14_alias_name
+Ace
+hero_14_english_name
+Ace
+hero_14_desc1
+One of Class Zero's Agito candidates. Acts and speaks rather coldly,  but is a warm person at heart. Can be very emotional at times,  and operates based on emotion.
+hero_14_get_desc
+Powerful Ranged DPS
+hero_24_name
+Light of Wisdom
+hero_24_alias_name
+Queen
+hero_24_english_name
+Queen
+hero_24_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_24_get_desc
+Group healing,  AoE damage
+hero_35_name
+Concordia Captain
+hero_35_alias_name
+Tenochi
+hero_35_english_name
+Tenochi
+hero_35_desc1
+Claes' child. Like his mother,  an enthusiastic and hard-working person.
+hero_35_get_desc
+Incredible maneuverability
+hero_39_name
+Claes of Dawn
+hero_39_alias_name
+Claes
+hero_39_english_name
+Claes
+hero_39_desc1
+A five-star guardian of the "Dawn" regiment. Both gentle and brutal. Received a good education as a youth. Enjoys prestige at the highest levels of Concordia.
+hero_39_get_desc
+Paralyze enemies,  AoE DPS
+hero_26_name
+Reaper of the Boreal Blade
+hero_26_alias_name
+Kurasame
+hero_26_english_name
+Kurasame
+hero_26_desc1
+Commander of Class Zero. Specializes in ice magic. In the past,  he was fearfully known as the Reaper of the Boreal Blade. A cold and serious person.
+hero_26_get_desc
+Damage and control in an indomitable person.
+hero_36_name
+Emperor-General
+hero_36_alias_name
+Qator
+hero_36_english_name
+Qator
+hero_36_desc1
+Cid is the Emperor-General of Milites - his rank is well-deserved. A man of strict discipline and composure. He has received the highest honor a soldier can receive.
+hero_36_get_desc
+Focused DPS,  defensive knockback
+hero_20_name
+Ice Guardian
+hero_20_alias_name
+Cinque
+hero_20_english_name
+Cinque
+hero_20_desc1
+One of Class Zero's Agito candidates. A little eccentric and rather innocent,  she is an elusive young woman. Her unpredictability interferes with her ability to connect with others.
+hero_20_get_desc
+Single target survival,  AoE protection.
+hero_27_name
+Fireburst Two Guns
+hero_27_alias_name
+King
+hero_27_english_name
+King
+hero_27_desc1
+One of Class Zero's Agito candidates. Despises meaningless action and always promotes efficiency. Doesn't like to reach out to others. Silent,  but secretly warm-hearted
+hero_27_get_desc
+Increases party attack,  powerful damage
+hero_25_name
+Thunder Chain
+hero_25_alias_name
+Seven
+hero_25_english_name
+Seven
+hero_25_desc1
+One of Class Zero's Agito candidates. A good-looking and quiet woman. She is externally cool but quite caring to the young ones. Extremely welcoming to new cadets. Does not like rejecting others.
+hero_25_get_desc
+Ranged damage,  powerful summoning
+hero_23_name
+Apostle of the Sickle
+hero_23_alias_name
+Sice
+hero_23_english_name
+Sice
+hero_23_desc1
+One of Class Zero's Agito candidates. Mercilessly attacks others' weaknesses with a poisonous tongue. Hates getting into trouble. She is a strong and stubborn woman who never speaks her true mind. Her resentment is her motivation to fight.
+hero_23_get_desc
+Gathers enemies,  AoE DPS
+hero_22_name
+Brave Heart
+hero_22_alias_name
+Cater
+hero_22_english_name
+Cater
+hero_22_desc1
+One of Class Zero's Agito candidates. Very confident with a candid and feisty personality. True to herself regardless of the situation. A dynamic and persevering young woman.
+hero_22_get_desc
+Damage and healing together as one.
+hero_16_name
+Indomitable Gladiator
+hero_16_alias_name
+Eight
+hero_16_english_name
+Eight
+hero_16_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_16_get_desc
+A protective shield for the whole group.
+hero_30_name
+Flame Rifle
+hero_30_alias_name
+Nine
+hero_30_english_name
+Nine
+hero_30_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_30_get_desc
+Short-Ranged shield with AoE damage attacks
+hero_40_name
+Boomer Baby
+hero_40_alias_name
+Mutsuki
+hero_40_english_name
+Mutsuki
+hero_40_desc1
+An eccentric girl genius. Good at using weapons and bombs.
+hero_40_get_desc
+Alternative damage,  infinite skills
+hero_21_name
+Truth Hunter
+hero_21_alias_name
+Trey
+hero_21_english_name
+Trey
+hero_21_desc1
+One of Class Zero's Agito candidates. A calm and cultured personality. Empathetic and always gives good advice. However,  once they open their mouth,  there is no stopping them. Often stops in the middle of
+hero_21_get_desc
+Ranged AoE damage
+hero_41_name
+Lorican Descendant
+hero_41_alias_name
+Ryid
+hero_41_english_name
+Ryid
+hero_41_desc1
+Is of mixed Lorican blood,  and therefore taller than most Rubrum people. An open-minded person.
+hero_41_get_desc
+Fast healing,  breaks formations
+hero_51_name
+Shining Meteor
+hero_51_alias_name
+Ruka
+hero_51_english_name
+Ruka
+hero_51_desc1
+Cadet of Rubrum's Akademia. With a sharp tongue and arrogance to spare,  this one seems tied to Arecia's origins
+hero_51_get_desc
+AoE Damage,  single target seal
+hero_52_name
+Dawn Shield
+hero_52_alias_name
+Hayne
+hero_52_english_name
+Hayne
+hero_52_desc1
+Cadet of Rubrum's Akademia. Sunny-spirited and straightforward. Willing to protect his loved ones to the end.
+hero_52_get_desc
+Balanced offense,  group protection
+hero_201_name
+Green
+hero_201_alias_name
+Class 1 Cadet
+hero_201_english_name
+
+hero_201_desc1
+Class 1 Male Cadet
+hero_202_name
+Murphy
+hero_202_alias_name
+Class 1 Cadet
+hero_202_english_name
+
+hero_202_desc1
+Class 1 Female Cadet
+hero_203_name
+True Law
+hero_203_alias_name
+Class 2 Cadet
+hero_203_english_name
+
+hero_203_desc1
+Class 2 Male Cadet
+hero_204_name
+Rino
+hero_204_alias_name
+Class 2 Cadet
+hero_204_english_name
+
+hero_204_desc1
+Class 2 Female Cadet
+hero_205_name
+Wilocke
+hero_205_alias_name
+Class 3 Cadet
+hero_205_english_name
+
+hero_205_desc1
+Class 3 Male Cadet
+hero_206_name
+Kijun
+hero_206_alias_name
+Class 3 Cadet
+hero_206_english_name
+
+hero_206_desc1
+Class 3 Female Cadet
+hero_207_name
+Zouk
+hero_207_alias_name
+Class 4 Cadet
+hero_207_english_name
+
+hero_207_desc1
+Class 4 Male Cadet
+hero_208_name
+Avienne
+hero_208_alias_name
+Class 4 Cadet
+hero_208_english_name
+
+hero_208_desc1
+Class 4 Female Cadet
+hero_209_name
+Hill
+hero_209_alias_name
+Class 5 Cadet
+hero_209_english_name
+
+hero_209_desc1
+Class 5 Male Cadet
+hero_210_name
+Sharon
+hero_210_alias_name
+Class 5 Cadet
+hero_210_english_name
+
+hero_210_desc1
+Class 5 Female Cadet
+hero_211_name
+Garcia
+hero_211_alias_name
+Class 6 Cadet
+hero_211_english_name
+
+hero_211_desc1
+Class 6 Male Cadet
+hero_212_name
+Judy
+hero_212_alias_name
+Class 6 Cadet
+hero_212_english_name
+
+hero_212_desc1
+Class 6 Female Cadet
+hero_213_name
+Yukino
+hero_213_alias_name
+Class 7 Cadet
+hero_213_english_name
+
+hero_213_desc1
+Class 7 Male Cadet
+hero_214_name
+Satō
+hero_214_alias_name
+Class 7 Cadet
+hero_214_english_name
+
+hero_214_desc1
+Class 7 Female Cadet
+hero_215_name
+Gull
+hero_215_alias_name
+Class 8 Cadet
+hero_215_english_name
+
+hero_215_desc1
+Class 8 Male Cadet
+hero_216_name
+Lilith
+hero_216_alias_name
+Class 8 Cadet
+hero_216_english_name
+
+hero_216_desc1
+Class 8 Female Cadet
+hero_217_name
+Haihane
+hero_217_alias_name
+Class 9 Cadet
+hero_217_english_name
+
+hero_217_desc1
+Class 9 Male Cadet
+hero_218_name
+Naghi
+hero_218_alias_name
+Class 9 Cadet
+hero_218_english_name
+
+hero_218_desc1
+Class 9 Female Cadet
+hero_102_name
+Explosive
+hero_102_alias_name
+Phantom Beast
+hero_102_english_name
+
+hero_102_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_103_name
+Pure White Advanced Soldier
+hero_103_alias_name
+Phantom Soldier
+hero_103_english_name
+
+hero_103_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_105_name
+Pure White Medic
+hero_105_alias_name
+Phantom Soldier
+hero_105_english_name
+
+hero_105_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_106_name
+Green MA Pilot
+hero_106_alias_name
+Phantom Soldier
+hero_106_english_name
+
+hero_106_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_109_name
+Ice Slime
+hero_109_alias_name
+Phantom Beast
+hero_109_english_name
+
+hero_109_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_110_name
+Ice Bomb
+hero_110_alias_name
+Phantom Beast
+hero_110_english_name
+
+hero_110_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_111_name
+Flame Slime
+hero_111_alias_name
+Phantom Beast
+hero_111_english_name
+
+hero_111_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_113_name
+Diceratops
+hero_113_alias_name
+Phantom Beast
+hero_113_english_name
+
+hero_113_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_118_name
+Crimson Advanced Soldier
+hero_118_alias_name
+Phantom Soldier
+hero_118_english_name
+
+hero_118_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_123_name
+Red MA Pilot
+hero_123_alias_name
+Phantom Soldier
+hero_123_english_name
+
+hero_123_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_129_name
+Thunder Slime
+hero_129_alias_name
+Phantom Beast
+hero_129_english_name
+
+hero_129_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_130_name
+Thunder Bomb
+hero_130_alias_name
+Phantom Beast
+hero_130_english_name
+
+hero_130_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_107_name
+Green Soldier
+hero_107_alias_name
+Phantom Soldier
+hero_107_english_name
+
+hero_107_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_108_name
+Blood Bat
+hero_108_alias_name
+Phantom Beast
+hero_108_english_name
+
+hero_108_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_114_name
+Ash Hundlegs
+hero_114_alias_name
+Phantom Beast
+hero_114_english_name
+
+hero_114_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_116_name
+Green Sharpshooter
+hero_116_alias_name
+Phantom Soldier
+hero_116_english_name
+
+hero_116_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_120_name
+Crimson Sharpshooter
+hero_120_alias_name
+Phantom Soldier
+hero_120_english_name
+
+hero_120_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_121_name
+Toxic Bat
+hero_121_alias_name
+Phantom Beast
+hero_121_english_name
+
+hero_121_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_122_name
+Shadow Bat
+hero_122_alias_name
+Phantom Beast
+hero_122_english_name
+
+hero_122_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_124_name
+Mythic Hundlegs
+hero_124_alias_name
+Phantom Beast
+hero_124_english_name
+
+hero_124_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_131_name
+Pink Fierce Dragon
+hero_131_alias_name
+Phantom Beast
+hero_131_english_name
+
+hero_131_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_132_name
+Purple Fierce Dragon
+hero_132_alias_name
+Phantom Beast
+hero_132_english_name
+
+hero_132_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_133_name
+Brown Thunder Dragon
+hero_133_alias_name
+Phantom Soldier
+hero_133_english_name
+
+hero_133_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_134_name
+Rainbow Thunder Dragon
+hero_134_alias_name
+Phantom Soldier
+hero_134_english_name
+
+hero_134_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_501_name
+Mini Flame Slime
+hero_501_alias_name
+Phantom Beast
+hero_501_english_name
+
+hero_501_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_502_name
+Angry Kazusa
+hero_502_alias_name
+Kazusa
+hero_502_english_name
+
+hero_502_desc1
+Responsible for weapon development. Weapon research is one of the major responsibilities of the research center. Once schoolmates and friends with Kurasame and Ameena.
+hero_502_get_desc
+Single target damage,  ongoing damage
+hero_901_name
+DPS Short-Ranged (Rare)
+hero_901_alias_name
+Template Nine (Rare)
+hero_901_english_name
+
+hero_901_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_902_name
+DPS Short-Ranged (Epic)
+hero_902_alias_name
+Template Nine (Epic)
+hero_902_english_name
+
+hero_902_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_903_name
+DPS Short-Ranged (Legendary)
+hero_903_alias_name
+Template Nine (Legendary)
+hero_903_english_name
+
+hero_903_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_904_name
+Support Short-Ranged (Rare)
+hero_904_alias_name
+Template Queen (Rare)
+hero_904_english_name
+
+hero_904_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_905_name
+Support Short-Ranged (Epic)
+hero_905_alias_name
+Template Queen (Epic)
+hero_905_english_name
+
+hero_905_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_906_name
+Support Short-Ranged (Legendary)
+hero_906_alias_name
+Template Queen (Legendary)
+hero_906_english_name
+
+hero_906_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_907_name
+DPS Ranged (Rare)
+hero_907_alias_name
+Template Ice Magic (Rare)
+hero_907_english_name
+
+hero_907_desc1
+An elementalist protected by fire and ice who can protect and destroy...
+hero_908_name
+DPS Ranged (Epic)
+hero_908_alias_name
+Template Ice Magic (Epic)
+hero_908_english_name
+
+hero_908_desc1
+An elementalist protected by fire and ice who can protect and destroy...
+hero_909_name
+DPS Ranged (Legendary)
+hero_909_alias_name
+Template Ice Magic (Legendary)
+hero_909_english_name
+
+hero_909_desc1
+An elementalist protected by fire and ice who can protect and destroy...
+hero_910_name
+Support Ranged (Rare)
+hero_910_alias_name
+Template Deuce (Rare)
+hero_910_english_name
+
+hero_910_desc1
+One of Class Zero's Agito candidates. A hard-working and honest kid. Very serious and true to his own philosophy. On occasion becomes stubborn and lacks understanding.
+hero_911_name
+Support Ranged (Epic)
+hero_911_alias_name
+Template Deuce (Epic)
+hero_911_english_name
+
+hero_911_desc1
+One of Class Zero's Agito candidates. A hard-working and honest kid. Very serious and true to his own philosophy. On occasion becomes stubborn and lacks understanding.
+hero_912_name
+Support Ranged (Legendary)
+hero_912_alias_name
+Template Deuce (Legendary)
+hero_912_english_name
+
+hero_912_desc1
+One of Class Zero's Agito candidates. A hard-working and honest kid. Very serious and true to his own philosophy. On occasion becomes stubborn and lacks understanding.
+hero_913_name
+Shield Short-Ranged (Rare)
+hero_913_alias_name
+Template Eight (Rare)
+hero_913_english_name
+
+hero_913_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_914_name
+Shield Short-Ranged (Epic)
+hero_914_alias_name
+Template Eight (Epic)
+hero_914_english_name
+
+hero_914_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_915_name
+Shield Short-Ranged (Legendary)
+hero_915_alias_name
+Template Eight (Legendary)
+hero_915_english_name
+
+hero_915_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_951_name
+Samsara Melee DPS
+hero_951_alias_name
+Samsara Melee DPS
+hero_951_english_name
+
+hero_951_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_952_name
+Samsara Melee SUP
+hero_952_alias_name
+Samsara Melee SUP
+hero_952_english_name
+
+hero_952_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_953_name
+Samsara Ranged DPS
+hero_953_alias_name
+Samsara Ranged DPS
+hero_953_english_name
+
+hero_953_desc1
+An elementalist protected by fire and ice who can protect and destroy...
+hero_954_name
+Samsara Ranged SUP
+hero_954_alias_name
+Samsara Ranged SUP
+hero_954_english_name
+
+hero_954_desc1
+One of Class Zero's Agito candidates. A hard-working and honest kid. Very serious and true to his own philosophy. On occasion becomes stubborn and lacks understanding.
+hero_955_name
+Samsara Melee T
+hero_955_alias_name
+Samsara Melee T
+hero_955_english_name
+
+hero_955_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_999_name
+test
+hero_999_alias_name
+test
+hero_999_english_name
+
+hero_999_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_7001_name
+Ace
+hero_7001_alias_name
+Ace
+hero_7001_english_name
+
+hero_7001_desc1
+A Class Zero cadet of Rubrum's Akademia. Looks young in appearance,  however quite cold in actions and words. In reality,  quite gentle and excitable when emotionally moved.
+hero_7002_name
+Queen
+hero_7002_alias_name
+Queen
+hero_7002_english_name
+
+hero_7002_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_7003_name
+Eight
+hero_7003_alias_name
+Eight
+hero_7003_english_name
+
+hero_7003_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_9901_name
+For Test 01
+hero_9901_alias_name
+For Test 01
+hero_9901_english_name
+
+hero_9901_desc1
+Melee test
+hero_9902_name
+For Test 02
+hero_9902_alias_name
+For Test 02
+hero_9902_english_name
+
+hero_9902_desc1
+Ranged Test
+hero_9903_name
+For Windblade Warrior test
+hero_9903_alias_name
+For Windblade Warrior test
+hero_9903_english_name
+
+hero_9903_desc1
+Moving with the wind,  wielding swords in both hands. Possesses absolute agoldity and elegance.
+hero_7004_name
+Brave Heart
+hero_7004_alias_name
+Newbie Cater
+hero_7004_english_name
+Cater
+hero_7004_desc1
+One of Class Zero's Agito candidates. Very confident with a candid and feisty personality. True to herself regardless of the situation. A dynamic and persevering young woman.
+hero_7005_name
+Indomitable Gladiator
+hero_7005_alias_name
+Newbie Eight
+hero_7005_english_name
+Eight
+hero_7005_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_7006_name
+Class 4 Cadet
+hero_7006_alias_name
+Zouk
+hero_7006_english_name
+
+hero_7006_desc1
+Book-grabbing cadet animation
+hero_7007_name
+lh
+hero_7007_alias_name
+lh
+hero_7007_english_name
+
+hero_7007_desc1
+Animation lh
+hero_7008_name
+Score based on standard player
+hero_7008_alias_name
+Rating
+hero_7008_english_name
+
+hero_7008_desc1
+Equipped Gem Score based on standard player
+hero_7009_name
+Red Angel
+hero_7009_alias_name
+Zhuyu
+hero_7009_english_name
+Zhuyu
+hero_7009_desc1
+Animation for Zhuyu sidekick
+hero_7010_name
+Strange Hadad
+hero_7010_alias_name
+Strange Hadad
+hero_7010_english_name
+constumes
+hero_7010_desc1
+Animation for constume Hadad
+hero_7011_name
+Crimson Dancer
+hero_7011_alias_name
+Crimson Dancer
+hero_7011_english_name
+constumes
+hero_7011_desc1
+Animation for constume Dancer
+hero_7012_name
+Forest Goblin
+hero_7012_alias_name
+Forest Goblin
+hero_7012_english_name
+constumes
+hero_7012_desc1
+Animation for constume Little Lolita
+hero_7013_name
+Dread Lord
+hero_7013_alias_name
+Dread Lord
+hero_7013_english_name
+constumes
+hero_7013_desc1
+Animation for constume Vampire
+hero_7014_name
+Frost Angel
+hero_7014_alias_name
+Frost Angel
+hero_7014_english_name
+constumes
+hero_7014_desc1
+Animation for constume Rylai
+hero_7015_name
+Arbiter
+hero_7015_alias_name
+Arbiter
+hero_7015_english_name
+constumes
+hero_7015_desc1
+Animation for constume Ninja
+hero_7016_name
+Rubrum l'Cie
+hero_7016_alias_name
+Caetuna
+hero_7016_english_name
+Caetuna
+hero_7016_desc1
+Animation for Caetuna sidekick
+hero_7017_name
+lh
+hero_7017_alias_name
+lh
+hero_7017_english_name
+
+hero_7017_desc1
+Animation lh
+hero_7018_name
+lh
+hero_7018_alias_name
+lh
+hero_7018_english_name
+
+hero_7018_desc1
+Animation lh
+hero_7019_name
+Nian
+hero_7019_alias_name
+Phantom Beast
+hero_7019_english_name
+
+hero_7019_desc1
+A magic copy of a monster. It cannot fight. Dissolving it may be better.
+hero_7020_name
+Score based on standard player 2
+hero_7020_alias_name
+Rating
+hero_7020_english_name
+
+hero_7020_desc1
+Destiny Rune Score Based on Standard Player
+hero_10032_name
+Red Angel·Minotaur
+hero_10032_alias_name
+Zhuyu
+hero_10032_english_name
+Zhuyu
+hero_10032_desc1
+Rubrum Primus l'Cie. Controls the strong flames that symbolize Rubrum. After years of being controlled by the crystal,  their emotions are very weak. In order to keep some semblance of their identity,  they always wear their cadet uniform.
+hero_10032_get_desc
+Most powerful short-ranged damage,  king of crit
+hero_10033_name
+Concordia Queen·Minotaur
+hero_10033_alias_name
+Andoria
+hero_10033_english_name
+Andoria
+hero_10033_desc1
+Queen of the Kingdom of Concordia. She is also Concordia's Secundus l'Cie. She can speak with the Azure Dragon Crystal l'Cie. She can catch glimpses of the future. She is a proud but fair ruler.
+hero_10033_get_desc
+Strongest support hero
+hero_10028_name
+King of Lorican·Minotaur
+hero_10028_alias_name
+goldgamesh
+hero_10028_english_name
+goldgamesh
+hero_10028_desc1
+The King of Lorican as well as the Primus l'Cie of the Black Tortoise Crystal. A weapon collector who can be seen challenging opponents on the field of battle in order to obtain their weapons.
+hero_10028_get_desc
+Best shield,  with incredible survivability
+hero_10013_name
+Milites l'Cie·Minotaur
+hero_10013_alias_name
+Nimbus
+hero_10013_english_name
+Nimbus
+hero_10013_desc1
+Milites Primus l'Cie. Has been controlled by the crystal for 100 years. Emotions are even fainter than Zhuyu's. Only follows Cid's orders since the White Tiger Crystal fell under Cid's control.
+hero_10013_get_desc
+Strongest Ranged DPS
+hero_10031_name
+Rubrum l'Cie·Minotaur
+hero_10031_alias_name
+Caetuna
+hero_10031_english_name
+Caetuna
+hero_10031_desc1
+Rubrum's Secundus l'Cie. Good at summoning magic. Known to have infinite magic power. The oldest l'Cie in Orience. Her name is recorded in the annals of the great war 500 years ago.
+hero_10031_get_desc
+Full-screen freeze,  versatile support
+hero_10037_name
+Earth Guardian·Minotaur
+hero_10037_alias_name
+Atra
+hero_10037_english_name
+Atra
+hero_10037_desc1
+Lorican Secundus l'Cie. Extremely mysterious.
+hero_10037_get_desc
+Breaks formations,  powerful drain.
+hero_10034_name
+Doctor Strange·Minotaur
+hero_10034_alias_name
+Kazusa
+hero_10034_english_name
+Kazusa
+hero_10034_desc1
+Responsible for weapon development. Weapon research is one of the major responsibilities of the research center. Once schoolmates and friends with Kurasame and Ameena.
+hero_10034_get_desc
+Single target damage,  ongoing damage
+hero_10038_name
+Magitek Commander·Minotaur
+hero_10038_alias_name
+Qun'mi
+hero_10038_english_name
+Qun'mi
+hero_10038_desc1
+Milites Secundus l'Cie. Extremely gifted at piloting magitek armor. A very confident and proud person.
+hero_10038_get_desc
+Formation-breaker,  versatile shield
+hero_10029_name
+Spiral Sword·Minotaur
+hero_10029_alias_name
+Machina
+hero_10029_english_name
+Machina
+hero_10029_desc1
+One of Class Zero's Agito candidates. One of the few truly excellent students. Childhood sweethearts with Rem. Feels a powerful sense of responsibility,  and is considerate to his fellows.
+hero_10029_get_desc
+Powerful healing,  single target protection
+hero_10018_name
+Blades of Shadow·Minotaur
+hero_10018_alias_name
+Rem
+hero_10018_english_name
+Rem
+hero_10018_desc1
+One of Class Zero's Agito candidates. Machina's childhood sweetheart. Gentle and earnest,  she is not good at lying.
+hero_10018_get_desc
+Slays back row,  damages single targets
+hero_10017_name
+Voice of Healing·Minotaur
+hero_10017_alias_name
+Deuce
+hero_10017_english_name
+Deuce
+hero_10017_desc1
+One of Class Zero's Agito candidates. A hard-working and honest kid. Very serious and true to his own philosophy. On occasion becomes stubborn and lacks understanding.
+hero_10017_get_desc
+Single-target control,  AoE healing.
+hero_10019_name
+Fearless Mind·Minotaur
+hero_10019_alias_name
+Jack
+hero_10019_english_name
+Jack
+hero_10019_desc1
+One of Class Zero's Agito candidates. A youth with a positive outlook. Enjoys wisecracking to cheer up his classmates,  although it gives off a somewhat frivolous impression.
+hero_10019_get_desc
+Drain-type melee damage
+hero_10014_name
+Zero Trump Card·Minotaur
+hero_10014_alias_name
+Ace
+hero_10014_english_name
+Ace
+hero_10014_desc1
+One of Class Zero's Agito candidates. Acts and speaks rather coldly,  but is a warm person at heart. Can be very emotional at times,  and operates based on emotion.
+hero_10014_get_desc
+Powerful Ranged DPS
+hero_10024_name
+Light of Wisdom·Minotaur
+hero_10024_alias_name
+Queen
+hero_10024_english_name
+Queen
+hero_10024_desc1
+One of Class Zero's Agito candidates. Has long black hair and wears glasses. She wields a longsword to represent justice. Her pure and beautiful appearance disguises a clever mind.
+hero_10024_get_desc
+Group healing,  AoE damage
+hero_10035_name
+Concordia Captain·Minotaur
+hero_10035_alias_name
+Tenochi
+hero_10035_english_name
+Tenochi
+hero_10035_desc1
+Claes' child. Like his mother,  an enthusiastic and hard-working person.
+hero_10035_get_desc
+Incredible maneuverability
+hero_10039_name
+Claes of Dawn·Minotaur
+hero_10039_alias_name
+Claes
+hero_10039_english_name
+Claes
+hero_10039_desc1
+A five-star guardian of the "Dawn" regiment. Both gentle and brutal. Received a good education as a youth. Enjoys prestige at the highest levels of Concordia.
+hero_10039_get_desc
+Paralyze enemies,  AoE DPS
+hero_10026_name
+Reaper of the Boreal Blade·Minotaur
+hero_10026_alias_name
+Kurasame
+hero_10026_english_name
+Kurasame
+hero_10026_desc1
+Commander of Class Zero. Specializes in ice magic. In the past,  he was fearfully known as the Reaper of the Boreal Blade. A cold and serious person.
+hero_10026_get_desc
+Damage and control in an indomitable person.
+hero_10036_name
+Emperor-General·Minotaur
+hero_10036_alias_name
+Qator
+hero_10036_english_name
+Qator
+hero_10036_desc1
+Cid is the Emperor-General of Milites - his rank is well-deserved. A man of strict discipline and composure. He has received the highest honor a soldier can receive.
+hero_10036_get_desc
+Focused DPS,  defensive knockback
+hero_10020_name
+Ice Guardian·Minotaur
+hero_10020_alias_name
+Cinque
+hero_10020_english_name
+Cinque
+hero_10020_desc1
+One of Class Zero's Agito candidates. A little eccentric and rather innocent,  she is an elusive young woman. Her unpredictability interferes with her ability to connect with others.
+hero_10020_get_desc
+Single target survival,  AoE protection.
+hero_10027_name
+Fireburst Two Guns·Minotaur
+hero_10027_alias_name
+King
+hero_10027_english_name
+King
+hero_10027_desc1
+One of Class Zero's Agito candidates. Despises meaningless action and always promotes efficiency. Doesn't like to reach out to others. Silent,  but secretly warm-hearted
+hero_10027_get_desc
+Increases party attack,  powerful damage
+hero_10025_name
+Thunder Chain·Minotaur
+hero_10025_alias_name
+Seven
+hero_10025_english_name
+Seven
+hero_10025_desc1
+One of Class Zero's Agito candidates. A good-looking and quiet woman. She is externally cool but quite caring to the young ones. Extremely welcoming to new cadets. Does not like rejecting others.
+hero_10025_get_desc
+Ranged damage,  powerful summoning
+hero_10023_name
+Apostle of the Sickle·Minotaur
+hero_10023_alias_name
+Sice
+hero_10023_english_name
+Sice
+hero_10023_desc1
+One of Class Zero's Agito candidates. Mercilessly attacks others' weaknesses with a poisonous tongue. Hates getting into trouble. She is a strong and stubborn woman who never speaks her true mind. Her resentment is her motivation to fight.
+hero_10023_get_desc
+Gathers enemies,  AoE DPS
+hero_10022_name
+Brave Heart·Minotaur
+hero_10022_alias_name
+Cater
+hero_10022_english_name
+Cater
+hero_10022_desc1
+One of Class Zero's Agito candidates. Very confident with a candid and feisty personality. True to herself regardless of the situation. A dynamic and persevering young woman.
+hero_10022_get_desc
+Damage and healing together as one.
+hero_10016_name
+Indomitable Gladiator·Minotaur
+hero_10016_alias_name
+Eight
+hero_10016_english_name
+Eight
+hero_10016_desc1
+One of Class Zero's Agito candidates. Hates how easily weapons take the lives of others. Chooses to use his own two fists instead. Good at observation,  often sums up the battle at once,  and has a determined heart. 
+hero_10016_get_desc
+A protective shield for the whole group.
+hero_10030_name
+Flame Rifle·Minotaur
+hero_10030_alias_name
+Nine
+hero_10030_english_name
+Nine
+hero_10030_desc1
+One of Class Zero's Agito candidates. Speaks rudely. A straightforward kid. Doesn't give up until the situation is fully figured out. Works in surges of momentum.
+hero_10030_get_desc
+Short-Ranged shield with AoE damage attacks
+hero_10040_name
+Boomer Baby·Minotaur
+hero_10040_alias_name
+Mutsuki
+hero_10040_english_name
+Mutsuki
+hero_10040_desc1
+An eccentric girl genius. Good at using weapons and bombs.
+hero_10040_get_desc
+Alternative damage,  infinite skills
+hero_10021_name
+Truth Hunter·Minotaur
+hero_10021_alias_name
+Trey
+hero_10021_english_name
+Trey
+hero_10021_desc1
+One of Class Zero's Agito candidates. A calm and cultured personality. Empathetic and always gives good advice. However,  once they open their mouth,  there is no stopping them. Often stops in the middle of
+hero_10021_get_desc
+Ranged AoE damage
+hero_10041_name
+Lorican Descendant·Minotaur
+hero_10041_alias_name
+Ryid
+hero_10041_english_name
+Ryid
+hero_10041_desc1
+Is of mixed Lorican blood,  and therefore taller than most Rubrum people. An open-minded person.
+hero_10041_get_desc
+Fast healing,  breaks formations
+hero_10051_name
+Shining Meteor·Minotaur
+hero_10051_alias_name
+Ruka
+hero_10051_english_name
+Ruka
+hero_10051_desc1
+Cadet of Rubrum's Akademia. With a sharp tongue and arrogance to spare,  this one seems tied to Arecia's origins
+hero_10051_get_desc
+AoE Damage,  single target seal
+hero_10052_name
+Dawn Shield·Minotaur
+hero_10052_alias_name
+Hayne
+hero_10052_english_name
+Hayne
+hero_10052_desc1
+Cadet of Rubrum's Akademia. Sunny-spirited and straightforward. Willing to protect his loved ones to the end.
+hero_10052_get_desc
+Balanced offense,  group protection

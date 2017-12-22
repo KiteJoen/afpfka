@@ -1,0 +1,142 @@
+ui.superweapon.upgrade.attrs
+Upgrade attribute({0}/{1})
+ui.superweapon.innate.skill.unlock.grade
+Hero eksklusif talent (level {0}terbuka)
+ui.superweapon.innate.skill.actived
+Hero Eksklusif talent (sudah aktif)
+ui.superweapon.gift.unlock.desc
+(Level {0}terbuka){1}
+ui.superweapon.active.hero.relation
+Equipment {0} bisa diaktifkan : {1}
+ui.super.wespon.css1
+Nilai
+ui.super.wespon.attack1
+Serang
+ui.super.wespon.css2
+Nilai
+ui.super.wespon.attack2
+Serang
+ui.super.weapon.info.pane.have
+Sudah punya
+ui.super.weapon.info.pane.recommend
+Rekomendasi artifact
+ui.super.weapon.attr.subtitle.score
+Poin artifact :
+ui.super.weapon.btn.casting
+Upgrade
+ui.super.weapon.subtitle.strengthen
+Levelup
+ui.super.weapon.subtitle.refine
+Pertumbuhan
+ui.super.weapon.subtitle.talent
+Talent
+ui.super.weapon.none.gift
+Talent sudah terbuka semua
+ui.super.weapon.fragment.number
+{0}/{1}
+ui.superweapon.unlock.gift.with.hero.specific
+\n({0} eksklusif {1})
+ui.superweapon.gift.title
+{0}
+ui.superweapon.actived.color
+[FF0000] {0} [-]
+ui.superweapon.unactive.color
+{0}
+ui.superweapon.specific.gift.actived
+Sudah aktif
+ui.superweapon.specific.gift.unactive
+Belum aktif
+ui.superweapon.gift.unlock.title
+(Upgrade+{0})
+ui.superweapon.gift.unlock.desc.hero
+({0} Eksklusif)
+ui.superweapon.equiped.text
+(Sudah digunakan)
+ui.superweapon.unequiped.text
+(Belum terpakai)
+ui.dialog.super.weapon.strengthen
+Upgrade attribute
+ui.dialog.super.weapon.hero
+Artifacts eksklusif
+ui.dialog.super.weapon.gift
+Talent
+ui.dialog.super.weapon.text
+Pengenalan artifact
+ui.superweapon.higher.gradeup.will.consumed
+Dalam pemakaian bahan ada [FF0000]artifact yang sudah dilatih[-]! \n[FF0000] hati-hati memilih [-]!
+ui.superweapon.higher.gradeup.cancel
+Batal
+ui.superweapon.higher.gradeup.confirm
+Konfirmasi upgrade
+ui.superweapon.higher.gradeup.title
+Peringatan penggunaan
+ui.superweapon.already.refine.max
+Sudah upgrade sampai level tertinggi
+ui.super.weapon.list.none
+Tidak ada artifact
+ui.dialog.super.weapon.relation.pane
+Belenggu artifact
+ui.mainpackage.super.weapon.all
+Artifact
+ui.mainpackage.super.weapon.fro
+Frag Artifact
+ui.superweapon.skill.desc.prefix
+Efek skill pasif bertambah : \n{0}
+ui.superweapon.transform.target.select
+Pilih artifact yang mau ditukar
+ui.superweapon.transform.target.reselect
+Klik untuk pilih ulang
+ui.superweapon.transform.destination.select
+Pilih artifact yang diinginkan
+ui.superweapon.transform.destination.reselect
+Klik untuk pilih ulang
+ui.superweapon.error.target.select.first
+Silakan pilih artifact yang akan ditukar
+ui.superweapon.error.destination.select.second
+Silakan pilih artifact yang diinginkan
+ui.superweapon.specific
+{0} eksklusif
+ui.superweapon.select.target.first
+Silakan pilih artifact yang diinginkan
+ui.mainpackage.super.weapon.button1
+upgrade
+ui.mainpackage.super.weapon.button2
+Ubah
+ui.super.weapon.switch.main.strengthen
+Gem fushion
+ui.super.weapon.switch.main.refine
+Gem transform
+ui.super.weapon.switch.main.casting
+Perubahan artifact
+ui.super.weapon.switch.main.switch.body
+Ubah objek
+ui.super.weapon.switch.main.switch.traget
+Ubah target
+ui.super.weapon.switch.main.switch
+Transformasi
+ui.superweapon.cannot.transform
+Artifact ini tidak bisa ditukar
+ui.super.weapon.choose.title
+Pilih objek
+ui.super.weapon.empty.tip
+Saat ini tidak ada artifact
+ui.super.weapon.choose.tip
+Pilih artifact yang mau ditukar
+ui.super.weapon.choose.traget.title
+Pilih target
+ui.super.weapon.choose.traget.tip
+Pilih target artifact yang akan ditukar
+ui.super.weapon.choose.button.cancel
+Batalkan pilihan
+ui.super.weapon.choose.button.confirm
+Yakin
+ui.superweapon.confirm.equiped.transform.first.putoff
+Artifact sudah terpasang, penukaran akan melepas artifact \n lanjut tukar?
+ui.super.weapon.btn.switch
+Ganti
+ui.superweapon.confirm.transform
+Yakin tukar
+ui.superweapon.upgrade.return.title
+Konfirmasi pengembalian upgrade artifact
+ui.super.weapon.list.show.available
+Hanya menunjukkan artifact yang tidak terpakai

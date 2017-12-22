@@ -1,0 +1,94 @@
+ui.faction.start.reinforce
+Enter
+ui.faction.fixed.salary.display
+{0}/min.
+ui.faction.reinforce.event.record
+"{0}" [0CFF00]{1}[-] hired you to challenge [FF8432]{2}[-],  you received {3} extra gold as a reward
+ui.faction.reinforce.self.record
+"{0}" you hired [0CFF00]{1}[-] to challenge [FF8432]{2}[-]
+ui.dungeon.type.Standard
+Normal Dungeon
+ui.dungeon.type.BountyMission
+Bounty Quests
+ui.dungeon.type.Arena
+Arena
+ui.dungeon.type.Tower
+Samsara Realm
+ui.dungeon.type.DailyDungeon
+Daily Dungeon
+ui.dungeon.type.TreasurePlunder
+Accessory Arena
+ui.dungeon.type.FarmUnlock
+Unlock Farm
+ui.dungeon.type.TaskDungeon
+Gate Quest Battle
+ui.dungeon.type.TeamCoopBattle
+Team Combat
+ui.dungeon.type.CoopBossBattle
+Team Boss Combat
+ui.dungeon.type.CrystalTransport
+Crystal Delivery
+ui.dungeon.type.HeroTrial
+Hero Trial
+ui.dungeon.type.FactionBattle
+Guild Battle
+ui.dungeon.type.Tournament
+Battle of Kings
+ui.dungeon.type.FactionRoutineDungeon
+Guild Dungeon
+ui.dungeon.type.EndlessChallenge
+Infinite Trials
+ui.dungeon.type.EnemyInvasion
+Enemy Invasion
+ui.faction.hire.event.gain.bonus.reach.max
+Daily limit has been reached,  please come back tomorrow
+ui.faction.hire.notready
+Not present
+ui.faction.cannot.hire.twice
+{0} hired
+ui.faction.reached.max.times.today
+Today's Hiring limit has been reached
+ui.faction.hire.count
+Hires left[FF0000]{0}[-]
+ui.faction.hire.invalidate
+Invalid Support selection
+ui.faction.reinforce.fightpower.low.title
+Combat Reminder
+ui.faction.reinforce.fightpower.low.desc
+This dungeon is more difficult! Even with the combat power of today's hire, the dungeon assault will be extraordinarily dangerous ~\n Recommended combat power to achieve is [FF0000]{0}[-]！If you have exceptionally high confidence in your strength then you can challenge and give it a try!
+ui.faction.reinforce.fightpower.low.buy
+Get Stronger
+ui.faction.reinforce.fightpower.low.fight
+Still challenge
+ui.faction.reinforce.fightpower.forbid.desc
+Mercenary Combat Power does not meet the minimum requirements of the dungeon. Please upgrade and try to challenge again later
+ui.feinforce.reward.already
+Received
+ui.feinforce.reward
+Receive
+ui.feinforce.reward.all
+One-Tap Claim
+ui.feinforce.employment.record
+Record
+ui.faction.reinforce.cannot.hire.notready
+Player has not become a Guild Mercenary
+ui.faction.reinforce.hired.today
+Already hired today
+ui.faction.reinforce.vip.increase
+Upgrade VIP level to increase hiring attempts
+ui.faction.reinforce.cannot.gain.fixed.salary.now
+Currently unable to receive a fixed reward
+ui.faction.reinforce.on.success
+Joined
+ui.faction.reinforce.today.get.award.count.left
+Remaining attempts to win rewards today: {0}
+ui.faction.reinforce.rank.factor
+Ranking Income Bonus +{0}% 
+ui.guild.hero.top.10
+Can only hire mercenaries \nwith combat power less than 10 places higher than yourself
+ui.guild.hero.salary.now
+Current wage:
+ui.guild.hero.fight.power
+Combat Power:
+ui.guild.hero.profit
+Income:

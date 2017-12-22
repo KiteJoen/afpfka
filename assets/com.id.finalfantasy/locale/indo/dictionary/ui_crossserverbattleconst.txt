@@ -1,0 +1,66 @@
+crossserverbattle_rule_title
+God points {0}, dengan point sekarang akan mendapat hadiah
+crossserverbattle_desc1
+Deskripsi
+crossserverbattle_desc2
+Deskripsi
+crossserverbattle_desc3
+Deskripsi
+crossserverbattle_desc4
+Deskripsi
+crossserverbattle_desc5
+Deskripsi
+crossserverbattle_desc6
+Deskripsi
+crossserverbattle_desc7
+Deskripsi
+crossserverbattle_desc8
+Deskripsi
+ui_cross_server_battle_async_title
+God's tyrany
+ui_cross_server_battle_async_rank
+Peringkat saat ini : {0}
+ui_rank_null
+Blm msk rank
+ui_cross_server_battle_async_score
+Poin saat ini : {0}
+ui_cross_server_battle_async_time
+Sisa waktu {0}
+ui_cross_server_battle_async_wait
+Senin sampai jumat buka
+ui_cross_server_battle_rule_title
+God points {0}, dengan point sekarang akan mendapat hadiah
+ui_cross_server_battle_shop
+Arena Shop
+ui_cross_server_battle_rank
+Ranking
+ui_cross_server_battle_record
+Catatan battle
+ui_cross_server_battle_challenge_time
+Jumlah tantangan : {0}
+ui_cross_server_battle_refresh_time
+Refresh penggunaan diamond {0}
+ui_cross_server_battle_player_fight_power
+BP {0}
+ui_cross_server_battle_player_win_score
+Poin kemenangan {0}
+ui_cross_server_battle_rule_score_normal
+Poin {0}-{1}
+ui_cross_server_battle_rule_score_top
+Poin {0} ke atas
+ui_cross_server_battle_history_name
+{0}
+ui_cross_server_battle_history_reward_score
+{0}
+ui_cross_server_battle_history_server_name
+{0}
+ui_cross_server_battle_rank_title_time
+{0} buka, {1} tutup, {2} reset
+ui_cross_server_battle_defeat_enemy
+Lawan sudah dikalahkan olehmu
+ui_cross_server_battle_none_challenge
+Jumlah tantangan tidak cukup, beli dulu
+ui_cross_server_battle_none_refresh
+Jumlah refresh tidak cukup, beli dulu
+ui.corss.server.main.lock
+Mohon tunggu……

@@ -1,0 +1,10 @@
+副本测试
+EnterBattle 104
+Delay 10000
+SetFightStatus 2
+FinishBattle 15000
+StartStats
+WaitCallback 0
+Delay 100
+SaveStatsToFile
+

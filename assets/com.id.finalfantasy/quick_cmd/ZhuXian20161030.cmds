@@ -1,0 +1,4581 @@
+自动跑主线20章（等级+5）
+FinishAllChapters 3
+ForbidNoviceTutorials
+ForbidBattleTutorials
+Delay 100
+
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 101
+WaitCallback 1
+SetHeroToRobot 7
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 102
+WaitCallback 1
+SetHeroToRobot 8
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 103
+WaitCallback 1
+SetHeroToRobot 8
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 105
+WaitCallback 1
+SetHeroToRobot 9
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 106
+WaitCallback 1
+SetHeroToRobot 10
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 107
+WaitCallback 1
+SetHeroToRobot 11
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 108
+WaitCallback 1
+SetHeroToRobot 12
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 109
+WaitCallback 1
+SetHeroToRobot 14
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 110
+WaitCallback 1
+SetHeroToRobot 16
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 201
+WaitCallback 1
+SetHeroToRobot 16
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 202
+WaitCallback 1
+SetHeroToRobot 17
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 203
+WaitCallback 1
+SetHeroToRobot 17
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 204
+WaitCallback 1
+SetHeroToRobot 18
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 205
+WaitCallback 1
+SetHeroToRobot 18
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 206
+WaitCallback 1
+SetHeroToRobot 19
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 207
+WaitCallback 1
+SetHeroToRobot 21
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 208
+WaitCallback 1
+SetHeroToRobot 22
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 209
+WaitCallback 1
+SetHeroToRobot 23
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 210
+WaitCallback 1
+SetHeroToRobot 25
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 301
+WaitCallback 1
+SetHeroToRobot 26
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 302
+WaitCallback 1
+SetHeroToRobot 28
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 303
+WaitCallback 1
+SetHeroToRobot 29
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 304
+WaitCallback 1
+SetHeroToRobot 30
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 305
+WaitCallback 1
+SetHeroToRobot 31
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 306
+WaitCallback 1
+SetHeroToRobot 32
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 307
+WaitCallback 1
+SetHeroToRobot 32
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 308
+WaitCallback 1
+SetHeroToRobot 33
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 309
+WaitCallback 1
+SetHeroToRobot 34
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 310
+WaitCallback 1
+SetHeroToRobot 35
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 401
+WaitCallback 1
+SetHeroToRobot 35
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 402
+WaitCallback 1
+SetHeroToRobot 35
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 403
+WaitCallback 1
+SetHeroToRobot 36
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 404
+WaitCallback 1
+SetHeroToRobot 36
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 405
+WaitCallback 1
+SetHeroToRobot 37
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 406
+WaitCallback 1
+SetHeroToRobot 37
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 407
+WaitCallback 1
+SetHeroToRobot 38
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 408
+WaitCallback 1
+SetHeroToRobot 38
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 409
+WaitCallback 1
+SetHeroToRobot 38
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 410
+WaitCallback 1
+SetHeroToRobot 39
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 501
+WaitCallback 1
+SetHeroToRobot 39
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 502
+WaitCallback 1
+SetHeroToRobot 39
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 503
+WaitCallback 1
+SetHeroToRobot 40
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 504
+WaitCallback 1
+SetHeroToRobot 40
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 505
+WaitCallback 1
+SetHeroToRobot 40
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 506
+WaitCallback 1
+SetHeroToRobot 41
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 507
+WaitCallback 1
+SetHeroToRobot 41
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 508
+WaitCallback 1
+SetHeroToRobot 41
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 509
+WaitCallback 1
+SetHeroToRobot 41
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 510
+WaitCallback 1
+SetHeroToRobot 42
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 601
+WaitCallback 1
+SetHeroToRobot 42
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 602
+WaitCallback 1
+SetHeroToRobot 42
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 603
+WaitCallback 1
+SetHeroToRobot 43
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 604
+WaitCallback 1
+SetHeroToRobot 43
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 605
+WaitCallback 1
+SetHeroToRobot 44
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 606
+WaitCallback 1
+SetHeroToRobot 44
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 607
+WaitCallback 1
+SetHeroToRobot 44
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 608
+WaitCallback 1
+SetHeroToRobot 45
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 609
+WaitCallback 1
+SetHeroToRobot 45
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 610
+WaitCallback 1
+SetHeroToRobot 46
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 701
+WaitCallback 1
+SetHeroToRobot 46
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 702
+WaitCallback 1
+SetHeroToRobot 46
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 703
+WaitCallback 1
+SetHeroToRobot 47
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 704
+WaitCallback 1
+SetHeroToRobot 47
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 705
+WaitCallback 1
+SetHeroToRobot 48
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 706
+WaitCallback 1
+SetHeroToRobot 48
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 707
+WaitCallback 1
+SetHeroToRobot 48
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 708
+WaitCallback 1
+SetHeroToRobot 49
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 709
+WaitCallback 1
+SetHeroToRobot 49
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 710
+WaitCallback 1
+SetHeroToRobot 50
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 801
+WaitCallback 1
+SetHeroToRobot 50
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 802
+WaitCallback 1
+SetHeroToRobot 50
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 803
+WaitCallback 1
+SetHeroToRobot 51
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 804
+WaitCallback 1
+SetHeroToRobot 51
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 805
+WaitCallback 1
+SetHeroToRobot 51
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 806
+WaitCallback 1
+SetHeroToRobot 52
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 807
+WaitCallback 1
+SetHeroToRobot 52
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 808
+WaitCallback 1
+SetHeroToRobot 52
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 809
+WaitCallback 1
+SetHeroToRobot 52
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 810
+WaitCallback 1
+SetHeroToRobot 53
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 901
+WaitCallback 1
+SetHeroToRobot 53
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 902
+WaitCallback 1
+SetHeroToRobot 53
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 903
+WaitCallback 1
+SetHeroToRobot 53
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 904
+WaitCallback 1
+SetHeroToRobot 54
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 905
+WaitCallback 1
+SetHeroToRobot 54
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 906
+WaitCallback 1
+SetHeroToRobot 54
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 907
+WaitCallback 1
+SetHeroToRobot 55
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 908
+WaitCallback 1
+SetHeroToRobot 55
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 909
+WaitCallback 1
+SetHeroToRobot 55
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 910
+WaitCallback 1
+SetHeroToRobot 56
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1001
+WaitCallback 1
+SetHeroToRobot 56
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1002
+WaitCallback 1
+SetHeroToRobot 56
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1003
+WaitCallback 1
+SetHeroToRobot 56
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1004
+WaitCallback 1
+SetHeroToRobot 57
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1005
+WaitCallback 1
+SetHeroToRobot 57
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1006
+WaitCallback 1
+SetHeroToRobot 57
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1007
+WaitCallback 1
+SetHeroToRobot 58
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1008
+WaitCallback 1
+SetHeroToRobot 58
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1009
+WaitCallback 1
+SetHeroToRobot 58
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1010
+WaitCallback 1
+SetHeroToRobot 59
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1101
+WaitCallback 1
+SetHeroToRobot 59
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1102
+WaitCallback 1
+SetHeroToRobot 59
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1103
+WaitCallback 1
+SetHeroToRobot 60
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1104
+WaitCallback 1
+SetHeroToRobot 60
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1105
+WaitCallback 1
+SetHeroToRobot 60
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1106
+WaitCallback 1
+SetHeroToRobot 61
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1107
+WaitCallback 1
+SetHeroToRobot 61
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1108
+WaitCallback 1
+SetHeroToRobot 61
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1109
+WaitCallback 1
+SetHeroToRobot 61
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1110
+WaitCallback 1
+SetHeroToRobot 62
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1201
+WaitCallback 1
+SetHeroToRobot 62
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1202
+WaitCallback 1
+SetHeroToRobot 62
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1203
+WaitCallback 1
+SetHeroToRobot 63
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1204
+WaitCallback 1
+SetHeroToRobot 63
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1205
+WaitCallback 1
+SetHeroToRobot 63
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1206
+WaitCallback 1
+SetHeroToRobot 63
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1207
+WaitCallback 1
+SetHeroToRobot 64
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1208
+WaitCallback 1
+SetHeroToRobot 64
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1209
+WaitCallback 1
+SetHeroToRobot 64
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1210
+WaitCallback 1
+SetHeroToRobot 65
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1301
+WaitCallback 1
+SetHeroToRobot 65
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1302
+WaitCallback 1
+SetHeroToRobot 65
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1303
+WaitCallback 1
+SetHeroToRobot 66
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1304
+WaitCallback 1
+SetHeroToRobot 66
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1305
+WaitCallback 1
+SetHeroToRobot 66
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1306
+WaitCallback 1
+SetHeroToRobot 67
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1307
+WaitCallback 1
+SetHeroToRobot 67
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1308
+WaitCallback 1
+SetHeroToRobot 67
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1309
+WaitCallback 1
+SetHeroToRobot 67
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1310
+WaitCallback 1
+SetHeroToRobot 68
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1401
+WaitCallback 1
+SetHeroToRobot 68
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1402
+WaitCallback 1
+SetHeroToRobot 68
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1403
+WaitCallback 1
+SetHeroToRobot 68
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1404
+WaitCallback 1
+SetHeroToRobot 69
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1405
+WaitCallback 1
+SetHeroToRobot 69
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1406
+WaitCallback 1
+SetHeroToRobot 69
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1407
+WaitCallback 1
+SetHeroToRobot 70
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1408
+WaitCallback 1
+SetHeroToRobot 70
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1409
+WaitCallback 1
+SetHeroToRobot 70
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1410
+WaitCallback 1
+SetHeroToRobot 71
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1501
+WaitCallback 1
+SetHeroToRobot 71
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1502
+WaitCallback 1
+SetHeroToRobot 71
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1503
+WaitCallback 1
+SetHeroToRobot 72
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1504
+WaitCallback 1
+SetHeroToRobot 72
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1505
+WaitCallback 1
+SetHeroToRobot 72
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1506
+WaitCallback 1
+SetHeroToRobot 72
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1507
+WaitCallback 1
+SetHeroToRobot 73
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1508
+WaitCallback 1
+SetHeroToRobot 73
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1509
+WaitCallback 1
+SetHeroToRobot 73
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1510
+WaitCallback 1
+SetHeroToRobot 74
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1601
+WaitCallback 1
+SetHeroToRobot 74
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1602
+WaitCallback 1
+SetHeroToRobot 74
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1603
+WaitCallback 1
+SetHeroToRobot 74
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1604
+WaitCallback 1
+SetHeroToRobot 75
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1605
+WaitCallback 1
+SetHeroToRobot 75
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1606
+WaitCallback 1
+SetHeroToRobot 75
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1607
+WaitCallback 1
+SetHeroToRobot 76
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1608
+WaitCallback 1
+SetHeroToRobot 76
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1609
+WaitCallback 1
+SetHeroToRobot 76
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1610
+WaitCallback 1
+SetHeroToRobot 77
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1701
+WaitCallback 1
+SetHeroToRobot 77
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1702
+WaitCallback 1
+SetHeroToRobot 77
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1703
+WaitCallback 1
+SetHeroToRobot 77
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1704
+WaitCallback 1
+SetHeroToRobot 78
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1705
+WaitCallback 1
+SetHeroToRobot 78
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1706
+WaitCallback 1
+SetHeroToRobot 78
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1707
+WaitCallback 1
+SetHeroToRobot 79
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1708
+WaitCallback 1
+SetHeroToRobot 79
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1709
+WaitCallback 1
+SetHeroToRobot 79
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1710
+WaitCallback 1
+SetHeroToRobot 80
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1801
+WaitCallback 1
+SetHeroToRobot 80
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1802
+WaitCallback 1
+SetHeroToRobot 80
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1803
+WaitCallback 1
+SetHeroToRobot 80
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1804
+WaitCallback 1
+SetHeroToRobot 81
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1805
+WaitCallback 1
+SetHeroToRobot 81
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1806
+WaitCallback 1
+SetHeroToRobot 81
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1807
+WaitCallback 1
+SetHeroToRobot 82
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1808
+WaitCallback 1
+SetHeroToRobot 82
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1809
+WaitCallback 1
+SetHeroToRobot 82
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1810
+WaitCallback 1
+SetHeroToRobot 83
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1901
+WaitCallback 1
+SetHeroToRobot 83
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1902
+WaitCallback 1
+SetHeroToRobot 83
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1903
+WaitCallback 1
+SetHeroToRobot 83
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1904
+WaitCallback 1
+SetHeroToRobot 84
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1905
+WaitCallback 1
+SetHeroToRobot 84
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1906
+WaitCallback 1
+SetHeroToRobot 84
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1907
+WaitCallback 1
+SetHeroToRobot 85
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1908
+WaitCallback 1
+SetHeroToRobot 85
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1909
+WaitCallback 1
+SetHeroToRobot 85
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 1910
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2001
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2002
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2003
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2004
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2005
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2006
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2007
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2008
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2009
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0
+WaitCallback 2
+Delay 1000
+AutoSkipDialog 1
+SetBattleHeroes -1 0 0 0 0
+RemoveHeroes 7
+AddHero 14 4 1
+AddHero 24 4 1
+AddHero 31 4 1
+AddHero 32 4 1
+delay 100
+SetBattleHeroes -1 14 24 31 32
+delay 100
+EnterBattle 2010
+WaitCallback 1
+SetHeroToRobot 86
+SetFightStatus 2 
+SetAutoCastUltiSkill 1
+SetAutoCastEidolon 1
+StartStats
+WaitCallback 0
+Delay 1000
+SaveStatsToFile
+AutoSkipDialog 0

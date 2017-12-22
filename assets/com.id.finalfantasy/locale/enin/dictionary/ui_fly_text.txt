@@ -1,0 +1,120 @@
+ui.fly.super.critical
+[EC4C46FF]Super Crit[-]
+ui.fly.critical
+[EC4C46FF]Crit[-]
+ui.fly.equip.strengthen.level
+[FFC405FF]Enhance Gear Level +{0}[-]
+ui.fly.equip.attribute
+[69d14AFF]{0} {1}[-]
+ui.fly.equip.refine.level
+[FFC405FF]Refine Gear Level +1[-]
+ui.fly.treasure.refine.level
+[FFC405FF]Accessory Refine Level +1[-]
+ui.fly.treasure.strengthen.level
+[FFC405FF]Accessory Enhance Level +{0}[-]
+ui.fly.equip.attr.refine.get
+[FFC405FF]Receive Extra Awakening Stats: {0}[-]
+ui.fly.treasure.attr.refine.get
+[FFC405FF]Get Magic Effect:{0} {1}[-]
+ui.fly.hero.levelup
+[FFC405FF]Hero Level +{0}[-]
+ui.fly.hero.attr.add
+[69d14AFF]{0}+{1}[-]
+ui.fly.hero.attr.reduce
+[EC4C46FF]{0}-{1}[-]
+ui.fly.hero.relation.actived
+[FFC405FF]"{0}" Bond "{1}" Activated[-]
+ui.fly.hero.equip.strengthen.resonance.actived
+[FFC405FF]Activate Level {0} Gear Enhance Resonance[-]
+ui.fly.hero.equip.refine.resonance.actived
+[FFC405FF]Activate Level {0} Gear Refine Resonance[-]
+ui.fly.hero.treasure.strengthen.resonance.actived
+[FFC405FF]Activate Level {0} Accessory Enhance Resonance[-]
+ui.fly.hero.treasure.refine.resonance.actived
+[FFC405FF]Activate Level [0} Accessory Refine Resonance[-]
+ui.fly.hero.suit.actived
+[FFC405FF]{0}{1}Activate Set[-]
+ui.fly.hero.assist.resonace.actived
+[FFC405FF]Activate Level {0} Support Resonance[-]
+ui.fly.resonace.attr
+[69d14AFF]{0} {1}[-]
+ui.fly.hero.evolve
+[FFC405FF]Hero Class +1[-]
+ui.fly.assist.attribute
+[69d14AFF]{0} +{1}[-]
+ui.fly.faction.tech.research.finish
+[FFC405FF]"{0}" Upgrade to Level {2}[-]
+ui.fly.gem.strengthen.level
+[FFC405FF]Enhance Gem Level +{0}[-]
+ui.fly.gem.attribute
+[69d14AFF]{0} {1}[-]
+ui.fly.captain.level
+[FFC405FF]Awakening Level + {0}[-]
+ui.fly.captain.prestige
+[FFC405FF] {1} Awakening Potential + {0}[-]
+ui.fly.captain.attributes
+[69d14AFF]{0} {1}[-]
+ui.fly.captain.grade.up.success
+Ranked Up
+ui.fly.captain.tech.level
+[FFC405FF]Awakening Level + {0}[-]
+ui.fly.captain.prestige.level.upgrade
+[FFC405FF]Awakening Breakthrough{0}[-]
+ui.fly.eidolon.level.up
+[FFC405FF]Promoted[-]
+ui.fly.eidolon.attributes
+[69d14AFF]{0} {1}[-]
+ui.fly.hero.gem.strengthen.resonance.actived
+[FFC405FF]Activate Level{0} Gem Enhance Resonance[-]
+ui.fly.gem.resonance.attr
+[69d14AFF]{0} {1}[-]
+ui.fly.equip.quick.strengthen.finish
+[FFC405FF]Quick Enhance Success[-]
+ui.fly.equip.quick.strengthen.money
+[FFC405FF]Enhance Cost: {0} gold[-]
+ui.fly.equip.quick.strengthen.critical
+[FFC405FF]Crit:{0}times[-]
+ui.fly.equip.quick.strengthen.super.critical
+[FFC405FF]Super Crit: {0} times[-]
+ui.fly.title.actived
+[FFC405FF]Activate Title: "{0}"[-]
+ui.fly.title.attrs
+[69d14AFF]{0} {1}[-]
+ui.fly.star.up.success
+[FFC405FF]Star Up Success[-]
+ui.fly.captain.prestige.level.upsuccess
+[FFC405FF]Upgraded[-]
+ui.fly.star.up.attrs.inc
+[69d14AFF]{0} +{1}[-]
+ui.fly.hero.skill.levelup
+[FFC405FF]Skill Level +1[-]
+ui.fly.hero.fashion.strengthen
+[FFC405FF]Enhance Level +1[-]
+ui.fly.hero.fashion.reborn
+[EC4C46FF]Enhance Level -{0}[-]
+ui.fly.hero.fashion.equip.on
+[FFC405FF]Gear costume "{0}"[-]
+ui.fly.hero.fashion.equip.off
+[FFC405FF]Remove costumes "{0}"[-]
+ui.fly.equip.star.lift.success
+[FFC405FF]Gear Star Up[-]
+ui.fly.equip.star.lift.attr
+[69d14AFF]Gear {0}+{1}%[-]
+ui.fly.equip.star.lift.passiveskill
+[EC4C46FF]{0}[-]
+ui.fly.grading.equip.inc
+[69d14AFF]Gear Rating+{0}[-]
+ui.fly.grading.equip.dec
+[EC4C46FF]Gear Rating {0}[-]
+ui.fly.grading.gem.inc
+[69d14AFF]Gem Rating+{0}[-]
+ui.fly.grading.gem.dec
+[EC4C46FF]Gem Rating {0}[-]
+ui.fly.specific.super.weapon.equiped
+[FFC405FF]Activate Exclusive Artifact[-]
+ui.fly.superweapon.upgrade.success
+[FFC405FF]Ranked Up[-]
+ui.fly.superweapon.gift.actived
+[FFC405FF]Unlock Artifact Aptitude ({0})[-]
+ui.fly.equipment.alchemy.success
+[FFC405FF]Gear Boost Successful[-]

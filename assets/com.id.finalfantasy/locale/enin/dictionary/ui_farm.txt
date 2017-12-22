@@ -1,0 +1,114 @@
+ui.farm.state.locked
+Locked
+ui.farm.state.farming
+Exploring
+ui.farm.state.harvest
+Claim rewards
+ui.farm.state.ready
+Tap Explore Area
+ui.farm.state.attack
+Tap Attack Area
+ui.farm.state.unlock.pre.first
+Need to clear previous area first
+ui.farm.battle.point.text
+Recommended CP: {0}
+ui.farm.time.suffix
+{0} hr.
+ui.farm.awards.will.get
+May be collected
+ui.farm.awards.this.get
+Income for this time
+ui.farm.assistant.vip.restrict.short
+Recharge at VIP {0}
+ui.farm.assistant.role.restrict.short
+Recharge at Lv. {0}
+ui.farm.assistant.vip.restrict.long
+[FF0000FF]Available for Purchase at VIP{0}[-]
+ui.farm.assistant.role.restrict.long
+[FF0000FF]Available for purchase at Level{0}[-]
+ui.farm.map.unlock.text
+Now able to Explore {0}
+ui.farm.could.help.friend
+Tap to Help Moogle
+ui.farm.need.a.hero
+Select a hero to explore
+ui.farm.friend.help.info
+Your friend {0} helped you, and you got an extra {1} {2}
+ui.farm.have.not.any.harvest
+can't receive Adventure Reward yet
+ui.farm.not.enough.cost.buy.farm.assistant
+Insufficient Diamonds
+ui.farm.help.friend.times.left
+Today's remaining attempts to help a friend: {0}
+ui.farm.assistant.addictive.bonus
+Increase {0}% income
+ui.farm.assistant.reduce.cost
+{0}% reduction in Cost
+ui.farm.help.rewards.desc
+Receive help from friend and collect Vigor
+ui.farm.shortof.stamina
+Insufficient Vigor
+ui.farm.shortof.helpcount
+The attempts of helping friends today has been used up
+ui.farm.get.hero.fragments
+Collect {0} Hero Shards
+ui.farm.get.hero.fragments.upfloat
+Get {0}~{1}hero shards
+ui.farm.skill.comingback
+Effect will be available when return
+ui.farm.btn.getall
+Quick Collect
+ui.farm.btn.backhome
+Return Home
+ui.farm.behelped.text
+You are encourgaed by[0CFF00]{0}[-], and collect {1} Vigor
+ui.farm.skill.buy.success
+Skill Activated
+ui.farm.skill.buybtn
+Permanent Activation
+ui.farm.hero.select.title
+Hero
+ui.farm.go
+Start
+ui.farm.not.reach.time
+Don't rush,  this area hasn't been completely explored yet!
+ui.farm.touch.help.friend
+Tap Help
+ui.dialog.recall.cant
+[C4251FFF]Cannot purchase this skill[-]
+ui.dialog.recall.can
+[C4251FFF]Taking effect[-]
+ui.recall.friend.list.see
+Visit
+ui.dialog.recall.hero.chip
+There's a good chance of receiving this Hero's shards
+ui.dialog.recall.choose.hero
+Please select a Hero
+ui.dialog.recall.back.time
+Return Time
+ui.dialog.recall.no.earnings
+No profit now
+ui.dialog.recall.warning.get
+In effect
+ui.recall.combo.reward.title
+Exploration Rewards
+ui.dispatch.all.tittle
+Quick Deploy
+ui.dispatch.all.time
+Deployment time:
+ui.dispatch.all.hero
+This Correspondent
+ui.dispatch.all.go
+Start deployment
+ui.dispatch.all.change.hero
+Tap hero icon to swap heroes
+ui.dispatch.all.unlock
+Not unlocked
+ui.dispatch.all.choose.hero
+Select Correspondent
+ui.dispatch.all.take
+Can be gained
+ui.farm.no.hero.select
+Please select a Hero to deploy
+ui.farm.no.area.idel
+In deployment

@@ -1,0 +1,214 @@
+ui.dungeon.list.selectchaptername
+Chapter {0}
+ui.dungeon.list.challenge.count.unlimit
+Unlimited
+ui.dungeon.list.cannotpass.msg
+Currently unable to challenge here!
+ui.dungeon.list.cannotgotochapter_level
+New chapter is unlocked at Level {0}
+ui.dungeon.list.cannotgotochapter_dungeon
+Unlock after completing {0}
+ui.dungeon.list.dropexp.name
+EXP drop
+ui.dungeon.list.dropmoney.name
+Drop gold
+ui.dungeon.list.dropexp.desc
+Clear Dungeon to get EXP
+ui.dungeon.list.dropmoney.desc
+Clear Dungeon to get gold
+ui.dungeon.list.dungeon.mode.normal.name
+Normal
+ui.dungeon.list.dungeon.mode.hard.name
+Elite
+ui.dungeon.list.dungeon.mode.nightmare.name
+Nightmare
+ui.dungeon.list.dungeon.mode.challenge.name
+Challenge
+ui.dungeon.list.dungeon.star.condition.one.live.desc
+At least 1 person survives Clear
+ui.dungeon.list.dungeon.star.condition.two.live.desc
+At least 2 person survives Clear
+ui.dungeon.list.dungeon.star.condition.three.live.desc
+At least 3 person survives Clear
+ui.dungeon.list.dungeon.star.condition.four.live.desc
+Party survives Clear
+ui.dungeon.list.dungeon.star.condition.timeexceed.desc
+Survive at least {0} sec. in Dungeon
+ui.dungeon.list.dungeon.star.condition.timeless.desc
+Complete the Dungeon in{0} sec.
+ui.dungeon.list.dungeon.star.condition.timeless.zero.desc
+Dungeon completed
+ui.dungeon.rewardbox.title
+Dungeon Chapter Reward
+ui.dungeon.rewardbox.collect
+Receive
+ui.dungeon.rewardbox.collect.already
+Received
+ui.battle.win.btn.next.dungeon
+Next Stage
+ui.dungeon.list.star.conditions.title
+3 Star Conditions
+ui.equipment.list.equipment.qualifications
+Gear Strengths: {0}
+ui.equipment.list.equipment.score
+Gear Rating: {0}
+ui.battle.skill.unlock
+{0} stars Unlocked
+ui.battle.pickuprage
+{0} Increase Rage {1}
+ui.battle.pickupmoney
+Collect gold {0}
+ui.battle.locale.resist
+RES
+ui.battle.locale.immune
+Immunity
+ui.battle.win.title
+Victory
+ui.battle.lose.title
+Defeat
+ui.battle.auto.btn.manual
+Auto
+ui.battle.auto.btn.auto
+Cancel\nAuto
+ui.battle.auto.btn.autoskill
+Auto\nSkill
+ui.battle.auto.btn.force.auto
+Cancel\nAuto
+ui.battle.damage.title
+Total Damage
+ui.dungeon.rewards.tip
+Get additional rewards for First Clear (one time only)
+ui.dungeon.drop.item.mark
+First Clear
+ui.dungeon.reset.challengecount.title
+Reset number of challenges
+ui.dungeon.reset.challengecount.content
+Do you want to reset the number of challenges for this Dungeon?\nToday's remaining resets: {0}
+ui.dungeon.reset.buy
+Purchase
+ui.dungeon.reset.challengecount.forbidden
+Today's resets have run out. Please come back tomorrow.
+ui.dungeon.reset.challengecount.vip.insufficient
+Today's resets have been used up. Upgrade to VIP level {0} to increase the number of resets.
+ui_dungeon_chapter_done_get_dec
+Get Rare Items: Astral Stone
+ui.dungeon.stage.name.modaoyuandating
+Akademia Hall
+ui.dungeon.stage.name.zuozhanzhihuishi
+Combat Command Center
+ui.dungeon.stage.name.modaoyuanhouyuan
+Tranquil Garden
+ui.dungeon.stage.name.mofashi
+Magic Research Council
+ui.dungeon.stage.name.posuipenquanguangchang
+Ruins of Akademia
+ui.dungeon.stage.name.jingjichang
+Arena
+ui.dungeon.stage.name.mojingtansuoyanshi
+Crystal Exploration Demo
+ui.dungeon.stage.name.zhuquecheng
+Rubrum Akademia
+ui.dungeon.probable.drop.title
+Congratulations!
+ui.dungeon.hero.count.limit.message
+Please note that the maximum number of heroes in this Dungeon is {0}
+ui.dungeon.troop.adjust.leader.skill.title
+Captain skills:
+ui.dungeon.troop.adjust.leader.skill.button
+Captain skills
+ui.dungeon.troop.adjust.switch.fashion.button
+Replace costume
+ui.dungeon.troop.adjust.puton.fashion
+Replace with {0}
+ui.dungeon.troop.adjust.putoff.fashion
+Remove costumes
+ui.dungeon.troop.adjust.fashion.not.owned
+Not yet available {0}
+ui.dungeon.conf.null
+Cannot find Dungeon
+ui.dungeon.canfight.predungeon
+Please clear the earlier Dungeon first
+ui.dungeon.canfight.openlevel
+Unlock Dungeon Level {0}
+ui.dungoen.fightpower.low.title
+Combat Reminder
+ui.dungoen.fightpower.low.desc
+This dungeon is more difficult! Attacking a dungeon with your current combat power will be very challenging. \nRecommended combat power to reach is [FF0000]{0}[-]before trying to attempt it！If you have exceptionally high confidence in your strength then you can challenge and give it a try!
+ui.triple.dungoen.fightpower.low.desc
+This Dungeon is tough! Attacking a dungeon with your current APEX Hero Rating will be very challenging. \nRecommended rating is [FF0000]{0}[-]before trying to attempt it. If you have exceptionally high confidence in your strength then you can challenge and give it a try!
+ui.dungeon.fightpower.low.buy
+Get Stronger
+ui.dungeon.fightpower.low.fight
+Still challenge
+ui.dungoen.fightpower.forbid.desc
+You do not meet the minimum Combat Power requirements [FF0000]{0}[-] for this Dungeon. Please upgrade and then retry the challenge or blitz
+ui.triple.dungoen.fightpower.forbid.desc
+Hero Rating failed to reach the min requirement [FF0000]{0}[-]. Upgrade and try again. Check hero rating in Throne of Paragons
+ui.dungeon.fightpower.forbid.back
+Back
+ui.dungeon.cleanout.nothing
+Unfortunately nothing was received
+ui.dungeon.recent.3star
+Recent 3 Star Clears
+ui.dungeon.recent.fightpower
+Power
+ui.dungeon.recent.addfriend
+Add to Friends
+ui.dungeon.recent.alreadyfriend
+Already Friends
+ui.dungeon.leaderboard.title
+Dungeon Star Rankings
+ui.dungeon.leaderboard.star
+Dungeon stars
+ui.dungeon.troop
+Lineup
+ui.dungeon.single
+Single Player Dungeon
+ui.enemyinvasion.title
+Enemy Invasion!!
+ui.enemyinvasion.hint
+Invasion!!
+ui.enemyinvasion.detail.title
+Enemy Invasion
+ui.enemyinvasion.detail.tip
+Enemies will retreat every day at 24:00. Attack as soon as possible!
+ui.enemyinvasion.detail.enmeytroop
+Enemy Formation
+ui.enemyinvasion.detail.dropaward
+Drops Rewards
+ui.enemyinvasion.detail.faction.recruit
+Guild Hire
+ui.enemyinvasion.detail.cost
+Cost
+ui.enemyinvasion.detail.chapter
+Chapter {0}
+ui.dungeon.cleanout.maindrop.hero.none
+Summons Speed:{0}:{1}/{2}
+ui.dungeon.cleanout.maindrop.hero.starup
+Star Up Speed:{0}:{1}/{2}
+ui.dungeon.cleanout.maindrop.hero.starfull
+{0}:{1}
+ui.dungeon.cleanout.maindrop.item.standard
+{0}x{1}
+ui.dungeon.cleanout.maindrop.item.enough
+{0}x{1} is sufficient
+ui.dungeon.cleanout.maindrop.item.notenough
+{0}x{1} still lacking {2}
+ui.dungeon.supercleanout
+Super Blitz
+ui.dungeon.supercleanout.prompt
+Clear with {0}stars before you can blitz,  do you want to proceed to battle?
+ui.vsready.alternate
+Substitute Team Members
+ui.currency.consume
+Consumed:
+ui.dungeon.element.ice
+[3079BDFF]Ice Stats Enhance[-]
+ui.dungeon.element.fire
+[C4251FFF]Fire Stats Enhance[-]
+ui.dungeon.element.nature
+[78A834FF]Nature Stats Enhance[-]
+ui.dungeon.element.demon
+[FAFD1DFF]Holy Stats Enhance[-]
+ui.dungeon.drop.item.double
+Double

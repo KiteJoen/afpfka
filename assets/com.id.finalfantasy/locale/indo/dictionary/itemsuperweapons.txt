@@ -1,0 +1,260 @@
+itemsuperweapon_520001_name
+Agito heart
+itemsuperweapon_520001_desc1
+Artifact memiliki potensi besar, dapat memberikan kekuatan kepada Agito.
+itemsuperweapon_520001_desc2
+Artifact khusus Agito
+itemsuperweapon_520001_desc3
+
+itemsuperweapon_520001_desc4
+
+itemsuperweapon_520002_name
+Flame axe
+itemsuperweapon_520002_desc1
+Artifact milik Dominion Primus l'Cie Xuyu, melambangkan battle power, flame dan anger Dominion.
+itemsuperweapon_520002_desc2
+Artifact khusus Xuyu
+itemsuperweapon_520002_desc3
+
+itemsuperweapon_520002_desc4
+
+itemsuperweapon_520003_name
+Concordia will
+itemsuperweapon_520003_desc1
+Pemimpin Concordia adalah l'Cie crystal Concordia, Artifactnya merupakan kehendak Concordia yang teguh .
+itemsuperweapon_520003_desc2
+Artifact khusus Andoria
+itemsuperweapon_520003_desc3
+
+itemsuperweapon_520003_desc4
+
+itemsuperweapon_520004_name
+Sword king
+itemsuperweapon_520004_desc1
+Sebagai Lorican King, Gilgamesh menggunakan pedang ini untuk membersihkan semua penghalang, tidak heran menjadi orang yang terkuat.
+itemsuperweapon_520004_desc2
+Artifact khusus Gilgamesh
+itemsuperweapon_520004_desc3
+
+itemsuperweapon_520004_desc4
+
+itemsuperweapon_520005_name
+Thunderbolt
+itemsuperweapon_520005_desc1
+Kekuatan Nimbus terletak pada lingkarang lightning, ini adalah sumber kekuatannya yang paling besar.
+itemsuperweapon_520005_desc2
+Artifact khusus Nimbus
+itemsuperweapon_520005_desc3
+
+itemsuperweapon_520005_desc4
+
+itemsuperweapon_520006_name
+Aoyi heart
+itemsuperweapon_520006_desc1
+Aoyi heart adalah artifact l'Cie Caetuna, dia melambangkan aoyi terakhir Dominion, hanya orang yang paling kuat yang dapat mengendarainya.
+itemsuperweapon_520006_desc2
+Artifact khusus Caetuna
+itemsuperweapon_520006_desc3
+
+itemsuperweapon_520006_desc4
+
+itemsuperweapon_520007_name
+Lava fist
+itemsuperweapon_520007_desc1
+Untuk melindungi ketenangan dunia, artifact ini memiliki kekuatan dunia yang tidak terbatas.
+itemsuperweapon_520007_desc2
+Artifact khusus Atra
+itemsuperweapon_520007_desc3
+
+itemsuperweapon_520007_desc4
+
+itemsuperweapon_520008_name
+Ultimate medicine
+itemsuperweapon_520008_desc1
+Ini adalah hasil penelitian Doctor Kazusa yang paling kreatif, dia dapat menaikkan unsur seni dalam battle.
+itemsuperweapon_520008_desc2
+Artifact khusus Kazusa
+itemsuperweapon_520008_desc3
+
+itemsuperweapon_520008_desc4
+
+itemsuperweapon_520009_name
+Shadow claw
+itemsuperweapon_520009_desc1
+Qun'mi sering menggunakan tenaga mesin untuk meningkatkan persentase kemenangan battle, artifact ini adalah alat yang paling dia suka.
+itemsuperweapon_520009_desc2
+Artifact khusus Qun'mi
+itemsuperweapon_520009_desc3
+
+itemsuperweapon_520009_desc4
+
+itemsuperweapon_520010_name
+Glorious messenger
+itemsuperweapon_520010_desc1
+Melambangkan sinar kedamaian dan kekal, hanya pembela kebenaran yang paling kuat yang dapat mengendarainya.
+itemsuperweapon_520010_desc2
+Artifact khusus Machina
+itemsuperweapon_520010_desc3
+
+itemsuperweapon_520010_desc4
+
+itemsuperweapon_520011_name
+Wing dagger
+itemsuperweapon_520011_desc1
+Katanya merupakan pisau yang terbuat dari Dominion wing, dia melambangkan kedisiplinan dan ketertiban.
+itemsuperweapon_520011_desc2
+Artifact khusus Rem
+itemsuperweapon_520011_desc3
+
+itemsuperweapon_520011_desc4
+
+itemsuperweapon_520012_name
+Recovery flute
+itemsuperweapon_520012_desc1
+Memiliki power yang dapat digunakan untuk remote recovery, artifact khusus untuk Deuce, menurut legenda, Flute ini adalah hadiah dari God.
+itemsuperweapon_520012_desc2
+Artifact khusus Deuce
+itemsuperweapon_520012_desc3
+
+itemsuperweapon_520012_desc4
+
+itemsuperweapon_520013_name
+Spine ghost
+itemsuperweapon_520013_desc1
+Artifact yang sangat diinginkan banyak warrior, dia bukan hanya sebuah pedang, tetapi juga bukti kekuatan.
+itemsuperweapon_520013_desc2
+Artifact khusus Jack
+itemsuperweapon_520013_desc3
+
+itemsuperweapon_520013_desc4
+
+itemsuperweapon_520014_name
+Final trump card
+itemsuperweapon_520014_desc1
+Artifact khusus Ace, ketika dia menggunakan artifact ini, battle power akan meningkat.
+itemsuperweapon_520014_desc2
+Artifact khusus Ace
+itemsuperweapon_520014_desc3
+
+itemsuperweapon_520014_desc4
+
+itemsuperweapon_520015_name
+Star mountain saber
+itemsuperweapon_520015_desc1
+Mengikuti bentuk karakter yang bijak, blacksmith paling terkenal sepanjang sejarah Dominion membuat pedang ini, dia memiliki energy yang hanya dapat dikuasai oleh orang yang jenius.
+itemsuperweapon_520015_desc2
+Artifact khusus Queen
+itemsuperweapon_520015_desc3
+
+itemsuperweapon_520015_desc4
+
+itemsuperweapon_520016_name
+Dragon horn gun
+itemsuperweapon_520016_desc1
+Di dalam mata kapten Concordia, partner yang dapat dipercaya hanyalah weapon yang ada di tangannya, artifact ini khusus untuk Tenochi, dia telah menemani Tenochi dalam banyak battle.
+itemsuperweapon_520016_desc2
+Artifact khusus Tenochi
+itemsuperweapon_520016_desc3
+
+itemsuperweapon_520016_desc4
+
+itemsuperweapon_520017_name
+Dragon magic wing
+itemsuperweapon_520017_desc1
+Claes memiliki hubungan darah dengan Dragon, pada saat yang berbahaya, dia dapat mengeluarkan tenaga khusus.
+itemsuperweapon_520017_desc2
+Artifact khusus Claes
+itemsuperweapon_520017_desc3
+
+itemsuperweapon_520017_desc4
+
+itemsuperweapon_520018_name
+Cold blade
+itemsuperweapon_520018_desc1
+Kurasame yang dipanggil Frost sword reaper memiliki sebuah artifact, dia dapat mengeluarkan frost power.
+itemsuperweapon_520018_desc2
+Artifact khusus Kurasame
+itemsuperweapon_520018_desc3
+
+itemsuperweapon_520018_desc4
+
+itemsuperweapon_520019_name
+Commander glory
+itemsuperweapon_520019_desc1
+Artifact eksklusif milik Cater menandakan kehormatan tertinggi yg diberikan Empire padanya, bukan hanya sebagai bukti, tapi lbh utk menunjukkan kekuatannya.
+itemsuperweapon_520019_desc2
+Artifact khusus Qator
+itemsuperweapon_520019_desc3
+
+itemsuperweapon_520019_desc4
+
+itemsuperweapon_520020_name
+Giant hammer
+itemsuperweapon_520020_desc1
+Cinque suka menggunakan hammer untuk menyerang, artifact ini dibuat untuk menyesuaikan dengan berat badannya.
+itemsuperweapon_520020_desc2
+Artifact khusus Cinque
+itemsuperweapon_520020_desc3
+
+itemsuperweapon_520020_desc4
+
+itemsuperweapon_520021_name
+Executor
+itemsuperweapon_520021_desc1
+Double gun yang dibuat menggunakan magic power, hanya orang dengan skill yang tinggi yang dapat menggunakannya.
+itemsuperweapon_520021_desc2
+Artifact khusus King
+itemsuperweapon_520021_desc3
+
+itemsuperweapon_520021_desc4
+
+itemsuperweapon_520022_name
+Deadly thorn
+itemsuperweapon_520022_desc1
+Duri yang terlihat lentur tak bertenaga ternyata adalah senjata yang paling kuat, siapapun, sekali jatuh dalam perangkapnya pasti tidak dapat kabur.
+itemsuperweapon_520022_desc2
+Artifact khusus Seven
+itemsuperweapon_520022_desc3
+
+itemsuperweapon_520022_desc4
+
+itemsuperweapon_520023_name
+Reaper summon
+itemsuperweapon_520023_desc1
+Katanya artifact yang dijatuhkan oleh reaper ke dunia, ini adalah sickle yang dapat digunakan untuk membuat perjanjian hidup mati orang.
+itemsuperweapon_520023_desc2
+Artifact khusus Sice
+itemsuperweapon_520023_desc3
+
+itemsuperweapon_520023_desc4
+
+itemsuperweapon_520024_name
+Early artifact
+itemsuperweapon_520024_desc1
+Aritifact primary yang digunakan oleh Agito
+itemsuperweapon_520024_desc2
+
+itemsuperweapon_520024_desc3
+
+itemsuperweapon_520024_desc4
+
+itemsuperweapon_520025_name
+Experimental artifact
+itemsuperweapon_520025_desc1
+Aritifact primary yang digunakan oleh Agito
+itemsuperweapon_520025_desc2
+
+itemsuperweapon_520025_desc3
+
+itemsuperweapon_520025_desc4
+
+itemsuperweapon_520026_name
+Universal artifact
+itemsuperweapon_520026_desc1
+Aritifact primary yang digunakan oleh Agito
+itemsuperweapon_520026_desc2
+
+itemsuperweapon_520026_desc3
+
+itemsuperweapon_520026_desc4
+

@@ -1,0 +1,3 @@
+<color=#ff0000>清除道具</color>
+RunFile putoff_equip.cmds
+RemoveAllItems

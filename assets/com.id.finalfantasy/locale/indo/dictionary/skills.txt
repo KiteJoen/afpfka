@@ -1,0 +1,4908 @@
+skills_106_name
+Wind split
+skills_106_destiny_name
+True · Windbreak
+skills_106_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membentuk tornado, menyebabkan [FFD700] float [-], bisa menyerang di udara.
+skills_106_destiny_desc
+
+skills_106_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_106_captain_effect_desc
+Skill damage bertambah 50%
+skills_106_comment
+Skill Female Swordsman 1
+skills_108_name
+Waltz kill
+skills_108_destiny_name
+True · Waltz kill
+skills_108_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melompati musuh, menyebabkan damage besar. Bila target dalam status [FFD700] float [-], akan ada tambahan damage 50%.
+skills_108_destiny_desc
+
+skills_108_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_108_captain_effect_desc
+Skill damage bertambah 50%
+skills_108_comment
+Skill Female Swordsman 3
+skills_109_name
+Wind cursed blade
+skills_109_destiny_name
+True · Wind cursed blade
+skills_109_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membunuh musuh di depan dengan cepat.
+skills_109_destiny_desc
+
+skills_109_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_109_captain_effect_desc
+Skill damage bertambah 75%
+skills_109_comment
+Skill Female Swordsman
+skills_109_combo_value_destiny1
+#0#
+skills_109_combo_value_no_destiny1
+#0#
+skills_206_name
+Wind split
+skills_206_destiny_name
+True · Windbreak
+skills_206_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membentuk tornado, menyebabkan [FFD700] float [-], bisa menyerang di udara.
+skills_206_destiny_desc
+
+skills_206_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_206_captain_effect_desc
+Skill damage bertambah 50%
+skills_206_comment
+Skill Swordsman 1
+skills_208_name
+Waltz kill
+skills_208_destiny_name
+True · Waltz kill
+skills_208_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melompati musuh, menyebabkan damage besar. Bila target dalam status [FFD700] float [-], akan ada tambahan damage 50%.
+skills_208_destiny_desc
+
+skills_208_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_208_captain_effect_desc
+Skill damage bertambah 50%
+skills_208_comment
+Skill Swordsman 3
+skills_209_name
+Wind cursed blade
+skills_209_destiny_name
+True · Wind cursed blade
+skills_209_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membunuh musuh di depan dengan cepat.
+skills_209_destiny_desc
+
+skills_209_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_209_captain_effect_desc
+Skill damage bertambah 75%
+skills_209_comment
+Skill Swordsman
+skills_209_combo_value_destiny1
+#0#
+skills_209_combo_value_no_destiny1
+#0#
+skills_305_name
+Grenade Raid
+skills_305_destiny_name
+True · Grenade Raid
+skills_305_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melempar grenade ke musuh dan menyebabkan damage besar.
+skills_305_destiny_desc
+
+skills_305_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_305_captain_effect_desc
+Skill damage bertambah 50%
+skills_305_comment
+Skill Female Gunman 1
+skills_306_name
+Thunder spider
+skills_306_destiny_name
+True · Thunder spider
+skills_306_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas 5 Mecha thunder spider, mencari target acak dan meledak menyebabkan damage di sekitarnya.
+skills_306_destiny_desc
+
+skills_306_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_306_captain_effect_desc
+Skill damage bertambah 50%
+skills_306_comment
+Skill Female Gunman 2
+skills_307_name
+Fatal shot
+skills_307_destiny_name
+True · Fatal shot
+skills_307_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Menembakkan dual handguns, menyebabkan damage besar terhadap musuh di sekitar.
+skills_307_destiny_desc
+
+skills_307_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_307_captain_effect_desc
+Skill damage bertambah 75%
+skills_307_comment
+Skill Female Gunman
+skills_307_combo_value_destiny1
+#0#
+skills_307_combo_value_no_destiny1
+#0#
+skills_321_name
+Spider explode skill
+skills_321_destiny_name
+True · Spider explode skill
+skills_321_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengambil Akademeia gun, menembakkan flame bomb 1 kali.
+skills_321_destiny_desc
+
+skills_321_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_321_captain_effect_desc
+
+skills_321_comment
+Skill Female Gunman 2
+skills_405_name
+Grenade Raid
+skills_405_destiny_name
+True · Grenade Raid
+skills_405_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melepaskan ledakan petir menyebabkan damage terhadap musuh di depan.
+skills_405_destiny_desc
+
+skills_405_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_405_captain_effect_desc
+Skill damage bertambah 50%
+skills_405_comment
+Skill Male Gunman 1
+skills_406_name
+Thunder spider
+skills_406_destiny_name
+True · Thunder spider
+skills_406_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas 5 Mecha thunder spider, mencari target acak dan meledak menyebabkan damage di sekitarnya.
+skills_406_destiny_desc
+
+skills_406_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_406_captain_effect_desc
+Skill damage bertambah 50%
+skills_406_comment
+Skill Male Gunman 2
+skills_407_name
+Fatal shot
+skills_407_destiny_name
+True · Fatal shot
+skills_407_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Menembakkan dual handguns, menyebabkan damage besar terhadap musuh di sekitar.
+skills_407_destiny_desc
+
+skills_407_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_407_captain_effect_desc
+Skill damage bertambah 75%
+skills_407_comment
+Skill Male Gunman
+skills_407_combo_value_destiny1
+#0#
+skills_407_combo_value_no_destiny1
+#0#
+skills_421_name
+Spider explode skill
+skills_421_destiny_name
+True · Spider explode skill
+skills_421_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengambil Akademeia gun, menembakkan flame bomb 1 kali.
+skills_421_destiny_desc
+
+skills_421_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_421_captain_effect_desc
+
+skills_421_comment
+Skill Female Gunman 2
+skills_504_name
+Frost Whirl
+skills_504_destiny_name
+True · Frost Whirl
+skills_504_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], memasang frost whirl di bawah target, menyebabkan damage berkelanjutan dan menarik musuh di sekitar.
+skills_504_destiny_desc
+
+skills_504_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_504_captain_effect_desc
+Skill damage bertambah 76%
+skills_504_comment
+Skill Female Mage 1
+skills_505_name
+Frozen magic ball
+skills_505_destiny_name
+True · Frozen magic ball
+skills_505_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas frozen magic ball, menyebabkan damage dan [FFD700] memukul mundur [-] musuh 
+skills_505_destiny_desc
+
+skills_505_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_505_captain_effect_desc
+Skill damage bertambah 50%
+skills_505_comment
+Skill Female Mage 2
+skills_506_name
+Iceberg invasion
+skills_506_destiny_name
+True · Iceberg invasion
+skills_506_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepas kekuatan frost, summon iceberg menyebabkan damage dan efek [FFD700] freeze [-] terhadap musuh di sekitar, selama 2 detik.
+skills_506_destiny_desc
+
+skills_506_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_506_captain_effect_desc
+Skill damage bertambah 107%
+skills_506_comment
+Skill Female Mage
+skills_506_combo_value_destiny1
+#0#
+skills_506_combo_value_no_destiny1
+#0#
+skills_506_combo_value_destiny2
+1.8 detik
+skills_506_combo_value_no_destiny2
+1.8 detik
+skills_604_name
+Frost Whirl
+skills_604_destiny_name
+True · Frost Whirl
+skills_604_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], memasang frost whirl di bawah target, menyebabkan damage berkelanjutan dan menarik musuh di sekitar.
+skills_604_destiny_desc
+
+skills_604_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_604_captain_effect_desc
+Skill damage bertambah 76%
+skills_604_comment
+Skill Male Mage 1
+skills_605_name
+Frozen magic ball
+skills_605_destiny_name
+True · Frozen magic ball
+skills_605_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas frozen magic ball, menyebabkan damage dan [FFD700] memukul mundur [-] musuh 
+skills_605_destiny_desc
+
+skills_605_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_605_captain_effect_desc
+Skill damage bertambah 50%
+skills_605_comment
+Skill Male Mage 2
+skills_606_name
+Iceberg invasion
+skills_606_destiny_name
+True · Iceberg invasion
+skills_606_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepas kekuatan frost, summon iceberg menyebabkan damage dan efek [FFD700] freeze [-] terhadap musuh di sekitar, selama 2 detik.
+skills_606_destiny_desc
+
+skills_606_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_606_captain_effect_desc
+Skill damage bertambah 107%
+skills_606_comment
+Skill Male Mage
+skills_606_combo_value_destiny1
+#0#
+skills_606_combo_value_no_destiny1
+#0#
+skills_606_combo_value_destiny2
+1.8 detik
+skills_606_combo_value_no_destiny2
+1.8 detik
+skills_1001_name
+Pyroblast
+skills_1001_destiny_name
+True · Pyroblast
+skills_1001_desc
+Damage tunggal kuat melempar 1 bola api, saat terkena tubuh musuh akan terbakar.
+skills_1001_destiny_desc
+Roll
+skills_1001_levelup_desc
+
+skills_1001_captain_effect_desc
+
+skills_1001_comment
+Magic
+skills_1002_name
+Split fire bomb
+skills_1002_destiny_name
+True · Split fire bomb
+skills_1002_desc
+Setelah fire bomb mengenai musuh akan terpecah menjadi banyak bom.
+skills_1002_destiny_desc
+Roll
+skills_1002_levelup_desc
+
+skills_1002_captain_effect_desc
+
+skills_1002_comment
+Magic
+skills_1003_name
+Ice thorn
+skills_1003_destiny_name
+True · Ice thorn
+skills_1003_desc
+Menembakkan ice thorn ke depan, menimbulkan damage dan efek dingin pada musuh, kemungkinan freeze.
+skills_1003_destiny_desc
+Roll
+skills_1003_levelup_desc
+
+skills_1003_captain_effect_desc
+
+skills_1003_comment
+Magic
+skills_1004_name
+Blizzard
+skills_1004_destiny_name
+True · Badai salju
+skills_1004_desc
+Membuat badai salju di dalam area lingkaran, menimbulkan damage dan efek dingin terhadap musuh, ada kemungkinan freeze.
+skills_1004_destiny_desc
+Roll
+skills_1004_levelup_desc
+
+skills_1004_captain_effect_desc
+
+skills_1004_comment
+Magic
+skills_1005_name
+Frost Pulse
+skills_1005_destiny_name
+True · Frost Pulse
+skills_1005_desc
+Summon beberapa Ice mark, setiap jarak 10 detik menembakkan circle pulse, menyebabkan damage dan mendinginkan musuh, ada kemungkinan freeze 
+skills_1005_destiny_desc
+Roll
+skills_1005_levelup_desc
+
+skills_1005_captain_effect_desc
+
+skills_1005_comment
+Magic
+skills_1006_name
+Magnetic area thunder bomb
+skills_1006_destiny_name
+True · Magnetic area thunder bomb
+skills_1006_desc
+Menembakkan sebuah Thunder Bomb dengan magnet, bila terkena musuh akan membentuk area magnetis, musuh dalam area ini mendapat efek [FFD700] electric [-] dan damage.
+skills_1006_destiny_desc
+Roll
+skills_1006_levelup_desc
+
+skills_1006_captain_effect_desc
+
+skills_1006_comment
+Magic
+skills_1007_name
+Laser
+skills_1007_destiny_name
+True · Laser
+skills_1007_desc
+Summon 2 electric ball yang terus berputar, terhubung dengan lightning, musuh yang menabrak akan terkena damage.
+skills_1007_destiny_desc
+Roll
+skills_1007_levelup_desc
+
+skills_1007_captain_effect_desc
+
+skills_1007_comment
+Magic
+skills_1008_name
+Lightning enchantment- enhance dan reduce damage
+skills_1008_destiny_name
+True · Lightning enchantment - enhance dan reduce damage
+skills_1008_desc
+Memasang spell circle di depan karakter, musuh yang masuk ke dalam circle BP akan menurun. Semakin besar circle, waktu bertahan lebih lama.
+skills_1008_destiny_desc
+Roll
+skills_1008_levelup_desc
+
+skills_1008_captain_effect_desc
+
+skills_1008_comment
+Magic
+skills_1009_name
+Invincible Shield
+skills_1009_destiny_name
+True · Invincible Shield
+skills_1009_desc
+Invincible dalam waktu yang ditentukan
+skills_1009_destiny_desc
+Roll
+skills_1009_levelup_desc
+
+skills_1009_captain_effect_desc
+
+skills_1009_comment
+Magic
+skills_1010_name
+Cure Shield
+skills_1010_destiny_name
+True · Cure Shield
+skills_1010_desc
+Mendapat satu shield yang bisa menyerap damage. Saat shield berfungsi, akan memulihkan HP tiap jarak 1 detik.
+skills_1010_destiny_desc
+Roll
+skills_1010_levelup_desc
+
+skills_1010_captain_effect_desc
+
+skills_1010_comment
+Magic
+skills_1011_name
+Group shield
+skills_1011_destiny_name
+True · Group shield
+skills_1011_desc
+Semua mendapat satu shield yang bisa menyerap damage.
+skills_1011_destiny_desc
+Roll
+skills_1011_levelup_desc
+
+skills_1011_captain_effect_desc
+
+skills_1011_comment
+Magic
+skills_1012_name
+Strong cure
+skills_1012_destiny_name
+True · Strong cure
+skills_1012_desc
+Pemulihan diperkuat.
+skills_1012_destiny_desc
+Roll
+skills_1012_levelup_desc
+
+skills_1012_captain_effect_desc
+
+skills_1012_comment
+Magic
+skills_1013_name
+Continuous Self cure
+skills_1013_destiny_name
+True · Continuous Self cure
+skills_1013_desc
+Terus memulihkan diri sendiri.
+skills_1013_destiny_desc
+Roll
+skills_1013_levelup_desc
+
+skills_1013_captain_effect_desc
+
+skills_1013_comment
+Magic
+skills_1014_name
+Turn over
+skills_1014_destiny_name
+True · Turn over
+skills_1014_desc
+Saat roll memulihkan HP.
+skills_1014_destiny_desc
+Roll
+skills_1014_levelup_desc
+
+skills_1014_captain_effect_desc
+
+skills_1014_comment
+Magic
+skills_1015_name
+Flip
+skills_1015_destiny_name
+True · Flip
+skills_1015_desc
+Roll sangat jauh.
+skills_1015_destiny_desc
+Roll
+skills_1015_levelup_desc
+
+skills_1015_captain_effect_desc
+
+skills_1015_comment
+Magic
+skills_1016_name
+Dark shadow flip
+skills_1016_destiny_name
+True · Dark shadow flip
+skills_1016_desc
+Setelah roll ada waktu dimana setiap attack berefek menyerap blood.
+skills_1016_destiny_desc
+Roll
+skills_1016_levelup_desc
+
+skills_1016_captain_effect_desc
+
+skills_1016_comment
+Magic
+skills_1111_name
+Wind split
+skills_1111_destiny_name
+True · Windbreak
+skills_1111_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membentuk tornado, menyebabkan [FFD700] float [-], bisa menyerang di udara.
+skills_1111_destiny_desc
+
+skills_1111_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1111_captain_effect_desc
+
+skills_1111_comment
+Skill Female Swordsman 1
+skills_1121_name
+Quick stab
+skills_1121_destiny_name
+True · Quick stab
+skills_1121_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membunuh musuh di depan dengan cepat.
+skills_1121_destiny_desc
+
+skills_1121_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1121_captain_effect_desc
+
+skills_1121_comment
+Skill Female Swordsman
+skills_1121_combo_value_destiny1
+#0#
+skills_1121_combo_value_no_destiny1
+#0#
+skills_1211_name
+Wind split
+skills_1211_destiny_name
+True · Windbreak
+skills_1211_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membentuk tornado, menyebabkan [FFD700] float [-], bisa menyerang di udara.
+skills_1211_destiny_desc
+
+skills_1211_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1211_captain_effect_desc
+
+skills_1211_comment
+Skill Swordsman 1
+skills_1221_name
+Quick stab
+skills_1221_destiny_name
+True · Quick stab
+skills_1221_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membunuh musuh di depan dengan cepat.
+skills_1221_destiny_desc
+
+skills_1221_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1221_captain_effect_desc
+
+skills_1221_comment
+Skill Swordsman
+skills_1221_combo_value_destiny1
+#0#
+skills_1221_combo_value_no_destiny1
+#0#
+skills_1311_name
+Explosive impact
+skills_1311_destiny_name
+True · Explosive impact
+skills_1311_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengambil Heavy magic gun, menembakkan flame missile satu kali ke depan. (Tekan lama tombol skill untuk menentukan arah tembakan)
+skills_1311_destiny_desc
+
+skills_1311_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1311_captain_effect_desc
+
+skills_1311_comment
+Skill Female Gunman 2
+skills_1321_name
+Fire power overload
+skills_1321_destiny_name
+True · Fire power overload
+skills_1321_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], dual handguns menembak bersamaan, semua musuh dalam area lingkaran di sekeliling akan terkena damage besar.
+skills_1321_destiny_desc
+
+skills_1321_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1321_captain_effect_desc
+
+skills_1321_comment
+Skill Female Gunman
+skills_1321_combo_value_destiny1
+#0#
+skills_1321_combo_value_no_destiny1
+#0#
+skills_1411_name
+Explosive impact
+skills_1411_destiny_name
+True · Explosive impact
+skills_1411_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengambil Heavy magic gun, menembakkan flame missile satu kali ke depan. (Tekan lama tombol skill untuk menentukan arah tembakan)
+skills_1411_destiny_desc
+
+skills_1411_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1411_captain_effect_desc
+
+skills_1411_comment
+Skill Male Gunman 2
+skills_1421_name
+Fire power overload
+skills_1421_destiny_name
+True · Fire power overload
+skills_1421_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], dual handguns menembak bersamaan, semua musuh dalam area lingkaran di sekeliling akan terkena damage besar.
+skills_1421_destiny_desc
+
+skills_1421_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1421_captain_effect_desc
+
+skills_1421_comment
+Skill Male Gunman
+skills_1421_combo_value_destiny1
+#0#
+skills_1421_combo_value_no_destiny1
+#0#
+skills_1511_name
+Frost Whirl
+skills_1511_destiny_name
+True · Frost Whirl
+skills_1511_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Memasang frost whirl di bawah target, menyebabkan damage pada musuh dalam area lingkaran dan menarik musuh masuk ke area.
+skills_1511_destiny_desc
+
+skills_1511_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1511_captain_effect_desc
+
+skills_1511_comment
+Skill Female Mage 1
+skills_1521_name
+Holy light bloom
+skills_1521_destiny_name
+True · Holy light bloom
+skills_1521_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melepaskan holy light, menyebabkan damage pada musuh dalam area lingkaran.
+skills_1521_destiny_desc
+
+skills_1521_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1521_captain_effect_desc
+
+skills_1521_comment
+Skill Female Mage
+skills_1521_combo_value_destiny1
+#0#
+skills_1521_combo_value_no_destiny1
+#0#
+skills_1611_name
+Frost Whirl
+skills_1611_destiny_name
+True · Frost Whirl
+skills_1611_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Memasang frost whirl di bawah target, menyebabkan damage pada musuh dalam area lingkaran dan menarik musuh masuk ke area.
+skills_1611_destiny_desc
+
+skills_1611_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1611_captain_effect_desc
+
+skills_1611_comment
+Skill Male Mage 1
+skills_1612_name
+Frost ball
+skills_1612_destiny_name
+True · Frost ball
+skills_1612_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepas frost ball, musuh yang bersentuhan akan terkena damage.
+skills_1612_destiny_desc
+
+skills_1612_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1612_captain_effect_desc
+
+skills_1612_comment
+Skill Male Mage 1
+skills_1621_name
+Holy light bloom
+skills_1621_destiny_name
+True · Holy light bloom
+skills_1621_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melepaskan holy light, menyebabkan damage pada musuh dalam area lingkaran.
+skills_1621_destiny_desc
+
+skills_1621_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_1621_captain_effect_desc
+
+skills_1621_comment
+Skill Male Mage
+skills_1621_combo_value_destiny1
+#0#
+skills_1621_combo_value_no_destiny1
+#0#
+skills_50105_name
+Meteor
+skills_50105_destiny_name
+True · Meteor
+skills_50105_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], summon deck dari udara, menyebabkan damage berkelanjutan terhadap musuh dalam area lingkaran dan berefek [FFD700] slow [-].
+skills_50105_destiny_desc
+
+skills_50105_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50105_captain_effect_desc
+Skill damage bertambah 64%
+skills_50105_comment
+Skill Ace 1
+skills_50107_name
+Fate whirl
+skills_50107_destiny_name
+True · Fate whirl
+skills_50107_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar trap card, saat terkena musuh akan membentuk jebakan flying card, terus menyebabkan damage di sekitar.
+skills_50107_destiny_desc
+
+skills_50107_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50107_captain_effect_desc
+Skill damage bertambah 50%
+skills_50107_comment
+Skill Ace 3
+skills_50108_name
+Imperial Tarot
+skills_50108_destiny_name
+True · Imperial Tarot arrival
+skills_50108_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], summon Magician deck untuk menutupi musuh dan menyebabkan damage besar.
+skills_50108_destiny_desc
+[FFD700] Dmg 25% [-]
+skills_50108_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50108_captain_effect_desc
+Skill damage bertambah 29%, saat melepas critical skill akan memulihkan energy penuh (hanya 1 kali)
+skills_50108_comment
+Skill Ace
+skills_50108_combo_value_destiny1
+#0#
+skills_50108_combo_value_no_destiny1
+#0#
+skills_50120_name
+Imperial Tarot
+skills_50120_destiny_name
+True · Imperial Tarot arrival
+skills_50120_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon magic card untuk menutupi musuh dan menyebabkan damage besar.
+skills_50120_destiny_desc
+[FFD700] Dmg 25% [-]
+skills_50120_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50120_captain_effect_desc
+
+skills_50120_comment
+Skill Ace
+skills_50208_name
+Shocking fist
+skills_50208_destiny_name
+True · Shocking fist
+skills_50208_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan shocking fist, menyebabkan damage pada target dan [FFD700] memukul mundur [-] musuh.
+skills_50208_destiny_desc
+
+skills_50208_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50208_captain_effect_desc
+Skill damage bertambah 50%
+skills_50208_comment
+Skill Eight 1
+skills_50209_name
+Strong gateway
+skills_50209_destiny_name
+True · Strong gateway
+skills_50209_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]28%[-] \n Mengeluarkan courage roar, membuat [FFD700] defense bertambah [-] dan [FFD700] memukul mundur [-] musuh di sekitar.
+skills_50209_destiny_desc
+
+skills_50209_levelup_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]28%[-]
+skills_50209_captain_effect_desc
+Defense bertambah 207%
+skills_50209_comment
+Skill Eight 2
+skills_50211_name
+Grudge shield
+skills_50211_destiny_name
+True · Grudge shield
+skills_50211_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-] \n Melepaskan grudge shield menyerap damage, menyebabkan tim di sekitar [FFD700] invincible [-], grudge shield maks bertahan 8 detik.
+skills_50211_destiny_desc
+[FFD700] HP grudge shield bertambah 25% [-]
+skills_50211_levelup_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-]
+skills_50211_captain_effect_desc
+Damage tim dalam perlindungan bertambah 76%
+skills_50211_comment
+Skill Eight
+skills_50211_combo_value_destiny1
+#0#
+skills_50211_combo_value_no_destiny1
+#0#
+skills_50212_name
+Grudge shield
+skills_50212_destiny_name
+True · Grudge shield
+skills_50212_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-] \n Melepaskan grudge shield menyerap damage, menyebabkan tim di sekitar [FFD700] invincible [-], grudge shield maks bertahan 8 detik.
+skills_50212_destiny_desc
+[FFD700] HP grudge shield bertambah 25% [-]
+skills_50212_levelup_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-]
+skills_50212_captain_effect_desc
+
+skills_50212_comment
+Skill Eight
+skills_50212_combo_value_destiny1
+#0#
+skills_50212_combo_value_no_destiny1
+#0#
+skills_50220_name
+Grudge shield
+skills_50220_destiny_name
+True · Grudge shield
+skills_50220_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-] \n Melepaskan grudge shield menyerap damage, menyebabkan tim di sekitar [FFD700] invincible [-], grudge shield maks bertahan 8 detik.
+skills_50220_destiny_desc
+[FFD700] HP grudge shield bertambah 25% [-]
+skills_50220_levelup_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-]
+skills_50220_captain_effect_desc
+
+skills_50220_comment
+Skill Eight
+skills_50220_combo_value_destiny1
+#0#
+skills_50220_combo_value_no_destiny1
+#0#
+skills_50240_name
+Tanpa lawan
+skills_50240_destiny_name
+True · Invincible
+skills_50240_desc
+
+skills_50240_destiny_desc
+
+skills_50240_levelup_desc
+
+skills_50240_captain_effect_desc
+
+skills_50240_comment
+
+skills_50241_name
+Tanpa lawan
+skills_50241_destiny_name
+True · Invincible
+skills_50241_desc
+
+skills_50241_destiny_desc
+
+skills_50241_levelup_desc
+
+skills_50241_captain_effect_desc
+
+skills_50241_comment
+
+skills_50304_name
+Life bloom
+skills_50304_destiny_name
+True · Life bloom
+skills_50304_desc
+Setiap detik memulihkan [CCFF66]{1}[-] HP \n Summon flower of life, memulihkan HP teman di sekitar.
+skills_50304_destiny_desc
+
+skills_50304_levelup_desc
+Setiap detik memulihkan [CCFF66]{1}[-] HP
+skills_50304_captain_effect_desc
+Skill recovery bertambah 50%
+skills_50304_comment
+Skill Deuce 1
+skills_50305_name
+Entangled roots
+skills_50305_destiny_name
+True · Entangled roots
+skills_50305_desc
+Stun musuh selama 2 detik dan menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], meniup satu bibit ke arah musuh, bibit akan melilit musuh berefek [FFD700] stun [-] dan menyebabkan damage kecil.
+skills_50305_destiny_desc
+
+skills_50305_levelup_desc
+Stun musuh 3 detik dan menimbulkan [CCFF66]{1}[-] damage
+skills_50305_captain_effect_desc
+Skill damage bertambah 154%
+skills_50305_comment
+Skill Deuce 2
+skills_50306_name
+Song of hope
+skills_50306_destiny_name
+True · Song of hope
+skills_50306_desc
+Setiap detik memulihkan [CCFF66]{3}[-] HP tim \n Mengumpulkan kekuatan alam, memulihkan HP tim, selama 5 detik.
+skills_50306_destiny_desc
+[FFD700] Hit rate tim bertambah 25% [-]
+skills_50306_levelup_desc
+Setiap detik memulihkan [CCFF66]{3}[-] HP tim
+skills_50306_captain_effect_desc
+Saat cure mendapat tambahan pengurangan damage 60%
+skills_50306_comment
+Skill Deuce
+skills_50306_combo_value_destiny1
+#0#
+skills_50306_combo_value_no_destiny1
+#0#
+skills_50310_name
+Skill flower of life
+skills_50310_destiny_name
+True · Skill flower of life
+skills_50310_desc
+Memulihkan [CCFF66]{1}[-] HP \n Summon flower of life, memulihkan blood semua teman.
+skills_50310_destiny_desc
+
+skills_50310_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_50310_captain_effect_desc
+
+skills_50310_comment
+Skill Deuce 1
+skills_50311_name
+Strong skill flower of life
+skills_50311_destiny_name
+True · Strong skill flower of life
+skills_50311_desc
+Memulihkan [CCFF66]{1}[-] HP \n Summon flower of life, memulihkan blood semua teman.
+skills_50311_destiny_desc
+
+skills_50311_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_50311_captain_effect_desc
+
+skills_50311_comment
+Skill Deuce 1
+skills_50312_name
+Super skill flower of life
+skills_50312_destiny_name
+True · Super skill flower of life
+skills_50312_desc
+Memulihkan [CCFF66]{1}[-] HP \n Summon flower of life, memulihkan blood semua teman.
+skills_50312_destiny_desc
+
+skills_50312_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_50312_captain_effect_desc
+
+skills_50312_comment
+Skill Deuce 1
+skills_50320_name
+Hymn of hope - simplified
+skills_50320_destiny_name
+True · Hymn of hope - simplified
+skills_50320_desc
+Memulihkan [CCFF66]{1}[-] HP tim \n Mengumpulkan kekuatan alam, memulihkan HP teman, selama 10 detik.
+skills_50320_destiny_desc
+Memulihkan [CCFF66]{1}[-] HP tim \n [FFD700] Menghapus semua efek debuff dan kebal efek debuff [-]
+skills_50320_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP tim
+skills_50320_captain_effect_desc
+
+skills_50320_comment
+Skill Deuce
+skills_50405_name
+Flame dance
+skills_50405_destiny_name
+True · Flame dance
+skills_50405_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyebabkan damage pada musuh di sekitar dengan radius 3 meter.
+skills_50405_destiny_desc
+
+skills_50405_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50405_captain_effect_desc
+Skill damage bertambah 50%
+skills_50405_comment
+Skill Rem 1
+skills_50406_name
+Shadow stab
+skills_50406_destiny_name
+True · Shadow stab
+skills_50406_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Menghilang lalu 1.5 detik kemudian muncul di depan musuh dengan HP terendah dan menyebabkan damage
+skills_50406_destiny_desc
+
+skills_50406_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50406_captain_effect_desc
+Skill damage bertambah 50%
+skills_50406_comment
+Skill Rem 2
+skills_50407_name
+Declaration of death - advanced
+skills_50407_destiny_name
+True · Declaration of death - advanced
+skills_50407_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], ke arah musuh dengan HP terendah, menyebabkan damage besar. Skill memiliki efek [FFD700] menyerap blood [-] dan setiap musuh yang punya 1 lapisan death mark akan [FFD700] stun [-] 0.5 detik.
+skills_50407_destiny_desc
+
+skills_50407_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50407_captain_effect_desc
+
+skills_50407_comment
+Advanced skill Rem
+skills_50407_combo_value_destiny1
+#0#
+skills_50407_combo_value_no_destiny1
+#0#
+skills_50408_name
+Death proclaim
+skills_50408_destiny_name
+True · Death proclaim
+skills_50408_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Menerobos ke musuh dengan HP terendah, terus melakukan slash.
+skills_50408_destiny_desc
+[FFD700] Menimbulkan damage yang sama dengan 32% HP target [-]
+skills_50408_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50408_captain_effect_desc
+Saat critical skill mengeluarkan beberapa fire beam, menyebabkan damage besar
+skills_50408_comment
+Skill Rem
+skills_50408_combo_value_destiny1
+#0#
+skills_50408_combo_value_no_destiny1
+#0#
+skills_50420_name
+Declaration of death - simplified
+skills_50420_destiny_name
+True · Declaration of death - simplified
+skills_50420_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Mengumumkan kematian musuh, menyerang musuh dengan HP terendah, menyebabkan damage besar.
+skills_50420_destiny_desc
+
+skills_50420_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50420_captain_effect_desc
+
+skills_50420_comment
+Skill Rem
+skills_50420_combo_value_destiny1
+#0#
+skills_50420_combo_value_no_destiny1
+#0#
+skills_50504_name
+Frozen armor
+skills_50504_destiny_name
+True · Ice Shield
+skills_50504_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]34%[-] \n Summon Ice shield untuk menambah efek [FFD700] reduce damage [-] diri sendiri.
+skills_50504_destiny_desc
+
+skills_50504_levelup_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]34%[-]
+skills_50504_captain_effect_desc
+Defense bertambah 208%
+skills_50504_comment
+Skill Cinque 1
+skills_50505_name
+Whirlwind hammer
+skills_50505_destiny_name
+True · Whirlwind hammer
+skills_50505_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Mengangkat hammer dan berputar, menyebabkan damage dan [FFD700] memukul mundur [-] musuh di sekitar.
+skills_50505_destiny_desc
+
+skills_50505_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50505_captain_effect_desc
+Dmg 50%
+skills_50505_comment
+Skill Cinque 2
+skills_50506_name
+Ice dome
+skills_50506_destiny_name
+True · Ice dome
+skills_50506_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-] \n Memasang Ice dome menyerap damage, membuat teman di sekitar [FFD700] invincible [-], ice dome maks bertahan selama 7 detik.
+skills_50506_destiny_desc
+[FFD700] HP Ice dome bertambah 25% [-]
+skills_50506_levelup_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-]
+skills_50506_captain_effect_desc
+Saat tim yang berada dalam guard cover menyerang musuh ada kemungkinan freeze musuh
+skills_50506_comment
+Skill Cinque 
+skills_50506_combo_value_destiny1
+#0#
+skills_50506_combo_value_no_destiny1
+#0#
+skills_50520_name
+Ice dome
+skills_50520_destiny_name
+True · Ice dome
+skills_50520_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-] \n Memasang Ice dome menyerap damage, membuat teman di sekitar [FFD700] invincible [-], ice dome maks bertahan selama 7 detik.
+skills_50520_destiny_desc
+[FFD700] HP Ice dome bertambah 25% [-]
+skills_50520_levelup_desc
+Mengaktifkan protector dengan HP [CCFF66]{1}[-]
+skills_50520_captain_effect_desc
+
+skills_50520_comment
+Skill Cinque 
+skills_50540_name
+Tanpa lawan
+skills_50540_destiny_name
+True · Invincible
+skills_50540_desc
+
+skills_50540_destiny_desc
+
+skills_50540_levelup_desc
+
+skills_50540_captain_effect_desc
+
+skills_50540_comment
+
+skills_50605_name
+Watertight lens
+skills_50605_destiny_name
+True · Watertight lens
+skills_50605_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menerobos ke depan menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_50605_destiny_desc
+
+skills_50605_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50605_captain_effect_desc
+Skill damage bertambah 51%
+skills_50605_comment
+Skill Jack 1
+skills_50606_name
+Receive all
+skills_50606_destiny_name
+True · Receive all
+skills_50606_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Menyerang ke depan menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_50606_destiny_desc
+
+skills_50606_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50606_captain_effect_desc
+Skill damage bertambah 50%
+skills_50606_comment
+Skill Jack 2
+skills_50607_name
+Penalty blade
+skills_50607_destiny_name
+True · Penalty blade
+skills_50607_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Blood intertwine, menyebabkan damage dan berefek [FFD700] menyerap darah [-] musuh di sekitar.
+skills_50607_destiny_desc
+[FFD700] Meningkatkan efek menyerap blood [-]
+skills_50607_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50607_captain_effect_desc
+Summon sebilah Totem sword, menimbulkan damage di sekitar dan meningkatkan penyerapan blood tim, selama 10 detik
+skills_50607_comment
+Skill Jack
+skills_50607_combo_value_destiny1
+#0#
+skills_50607_combo_value_no_destiny1
+#0#
+skills_50607_combo_value_destiny2
+#0#
+skills_50607_combo_value_no_destiny2
+#0#
+skills_50704_name
+Exploding arrow
+skills_50704_destiny_name
+True · Exploding arrow
+skills_50704_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan satu exploding arrow, menyebabkan damage terhadap target dan musuh di sekitar.
+skills_50704_destiny_desc
+
+skills_50704_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50704_captain_effect_desc
+Skill damage bertambah 50%
+skills_50704_comment
+Skill Trey 1
+skills_50705_name
+Longbow arrow rain
+skills_50705_destiny_name
+True · Longbow arrow rain
+skills_50705_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan banyak arrow ke udara, saat terjatuh menyebabkan kebakaran besar dan damage berkelanjutan.
+skills_50705_destiny_desc
+
+skills_50705_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50705_captain_effect_desc
+Skill damage bertambah 50%
+skills_50705_comment
+Skill Trey 2
+skills_50706_name
+Accurate shot
+skills_50706_destiny_name
+True · Accurate shot
+skills_50706_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan banyak arrow pada musuh secara acak.
+skills_50706_destiny_desc
+[FFD700] Meningkatkan jumlah arrow yang ditembakkan [-]
+skills_50706_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50706_captain_effect_desc
+Arrow yang ditembakkan membawa efek merusak armor
+skills_50706_comment
+Skill Trey
+skills_50706_combo_value_destiny1
+#0#
+skills_50706_combo_value_no_destiny1
+#0#
+skills_50803_name
+Gas bomb
+skills_50803_destiny_name
+True · Gas bomb
+skills_50803_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan satu gas bomb, menyebabkan damage dan [FFD700] memukul mundur [-] musuh di sekitar.
+skills_50803_destiny_desc
+
+skills_50803_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50803_captain_effect_desc
+Skill damage bertambah 50%
+skills_50803_comment
+Skill Cater 1
+skills_50804_name
+Laser cannon
+skills_50804_destiny_name
+True · Laser cannon
+skills_50804_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan laser ke musuh menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_50804_destiny_desc
+
+skills_50804_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50804_captain_effect_desc
+Skill damage bertambah 90%
+skills_50804_comment
+Skill Cater 2
+skills_50805_name
+Recovery light
+skills_50805_destiny_name
+True · Recovery light
+skills_50805_desc
+Memulihkan [CCFF66]{1}[-] HP \n Mengeluarkan heal power, teman dengan HP terendah akan mendapat HP terus menerus, dan menambah 15% damage, selama 5 detik.
+skills_50805_destiny_desc
+[FFD700] Pemulihan HP bertambah 25% dan cepat [-]
+skills_50805_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_50805_captain_effect_desc
+Teman yang mendapat cure, Blok 60%, selama 10 detik
+skills_50805_comment
+Skill Cater
+skills_50805_combo_value_destiny1
+#0#
+skills_50805_combo_value_no_destiny1
+#0#
+skills_50810_name
+Recovery light
+skills_50810_destiny_name
+True · Recovery light
+skills_50810_desc
+Memulihkan [CCFF66]{1}[-] HP \n Mengeluarkan heal power, memulihkan HP teman dengan HP terendah.
+skills_50810_destiny_desc
+[FFD700] Pemulihan HP bertambah 25% [-]
+skills_50810_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_50810_captain_effect_desc
+
+skills_50810_comment
+Skill Cater
+skills_50810_combo_value_destiny1
+#0#
+skills_50810_combo_value_no_destiny1
+#0#
+skills_50820_name
+Recovery light
+skills_50820_destiny_name
+True · Recovery light
+skills_50820_desc
+Memulihkan [CCFF66]{1}[-] HP \n Mengumpulkan kekuatan weapon, terus menembakkan laser attack, [FFD700] memukul mundur [-] musuh.
+skills_50820_destiny_desc
+[FFD700] Pemulihan HP bertambah 25% [-]
+skills_50820_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_50820_captain_effect_desc
+
+skills_50820_comment
+Skill Cater
+skills_50905_name
+Dark Whirlpool
+skills_50905_destiny_name
+True · Dark whirlpool
+skills_50905_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun dark force di sekitar menciptakan pusaran, menyebabkan damage berkelanjutan terhadap musuh.
+skills_50905_destiny_desc
+[FFD700] Pusaran akan perlahan [FFD700] attract [-] musuh di sekitar untuk mendekat [-]
+skills_50905_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50905_captain_effect_desc
+Efek merusak armor bertambah terhadap musuh yang berada dekat tornado
+skills_50905_comment
+Skill Sice
+skills_50905_combo_value_destiny1
+#0#
+skills_50905_combo_value_no_destiny1
+#0#
+skills_50906_name
+Hell claws
+skills_50906_destiny_name
+True · Hell claws
+skills_50906_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], summon Dark claws, menarik musuh di area bentuk kipas di depan untuk mendekat, dan menyebabkan damage.
+skills_50906_destiny_desc
+
+skills_50906_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50906_captain_effect_desc
+Skill damage bertambah 83%
+skills_50906_comment
+Skill Sice 2
+skills_50907_name
+Rotting poison pond
+skills_50907_destiny_name
+True · Rotting poison pond
+skills_50907_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memasang poison pond di bawah musuh menyebabkan musuh kena efek [FFD700] poison [-].
+skills_50907_destiny_desc
+
+skills_50907_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50907_captain_effect_desc
+Skill damage bertambah 50%
+skills_50907_comment
+Skill Sice 1
+skills_50908_name
+Thunder whirl - advanced
+skills_50908_destiny_name
+True · Thunder whirl - advanced
+skills_50908_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menarik kekuatan kegelapan membentuk pusaran di sekeliling, menyebabkan damage di sekitar dan [FFD700] menarik [-] musuh mendekat.
+skills_50908_destiny_desc
+
+skills_50908_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50908_captain_effect_desc
+
+skills_50908_comment
+Advanced skill Sice
+skills_50920_name
+Thunder whirl - simplified
+skills_50920_destiny_name
+True · Thunder whirl - simplified
+skills_50920_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menarik kekuatan kegelapan membentuk pusaran di sekeliling, menyebabkan damage di sekitar.
+skills_50920_destiny_desc
+
+skills_50920_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_50920_captain_effect_desc
+
+skills_50920_comment
+Skill Sice
+skills_51004_name
+Connecting cure
+skills_51004_destiny_name
+True · Connecting cure
+skills_51004_desc
+Memulihkan [CCFF66]{1}[-] HP \n Mengeluarkan satu cure chain memulihkan HP diri sendiri dan satu teman.
+skills_51004_destiny_desc
+
+skills_51004_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_51004_captain_effect_desc
+Skill restore bertambah 50%
+skills_51004_comment
+Skill Queen 1
+skills_51005_name
+Soul hit
+skills_51005_destiny_name
+True · Soul hit
+skills_51005_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengangkat sword dan menusukkan ke tanah, menyebabkan damage terhadap musuh di sekitar.
+skills_51005_destiny_desc
+
+skills_51005_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51005_captain_effect_desc
+Skill damage bertambah 50%
+skills_51005_comment
+Skill Queen 2
+skills_51006_name
+Lightning rule
+skills_51006_destiny_name
+True · Lightning rule
+skills_51006_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n[FFD700] Skill break [-], mengangkat long sword, menuntun kedatangan petir dan cahaya suci, menyembuhkan teman di sekitar dan melukai musuh, berefek merusak armor 30%, selama 6 detik
+skills_51006_destiny_desc
+[FFD700] Meningkatkan cure [-]
+skills_51006_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure
+skills_51006_captain_effect_desc
+Menambah 116% damage dan menambah 80% pengurangan damage
+skills_51006_comment
+Skill Queen
+skills_51006_combo_value_destiny1
+#0#
+skills_51006_combo_value_no_destiny1
+#0#
+skills_51006_combo_value_destiny2
+#0#
+skills_51006_combo_value_no_destiny2
+#0#
+skills_51007_name
+Lightning rule
+skills_51007_destiny_name
+True · Lightning rule
+skills_51007_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n [FFD700] Skill break [-], mengangkat long sword, menuntun kedatangan thunder dan holy light, memulihkan teman di sekitar dan menyebabkan damage terhadap musuh.
+skills_51007_destiny_desc
+[FFD700] Meningkatkan cure [-]
+skills_51007_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure
+skills_51007_captain_effect_desc
+
+skills_51007_comment
+Advanced skill Queen
+skills_51007_combo_value_destiny1
+#0#
+skills_51007_combo_value_no_destiny1
+#0#
+skills_51007_combo_value_destiny2
+#0#
+skills_51007_combo_value_no_destiny2
+#0#
+skills_51020_name
+Lightning rule
+skills_51020_destiny_name
+True · Lightning rule
+skills_51020_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n [FFD700] Skill break [-], mengangkat long sword, menuntun kedatangan thunder dan holy light, memulihkan teman di sekitar dan menyebabkan damage terhadap musuh.
+skills_51020_destiny_desc
+[FFD700] Meningkatkan cure [-]
+skills_51020_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure
+skills_51020_captain_effect_desc
+
+skills_51020_comment
+Skill Queen
+skills_51099_name
+Lightning rule
+skills_51099_destiny_name
+True · Lightning rule
+skills_51099_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n [FFD700] Skill break [-], mengangkat long sword, menuntun kedatangan thunder dan holy light, memulihkan teman di sekitar dan menyebabkan damage terhadap musuh.
+skills_51099_destiny_desc
+[FFD700] Meningkatkan cure [-]
+skills_51099_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure
+skills_51099_captain_effect_desc
+
+skills_51099_comment
+Skill Queen
+skills_51099_combo_value_destiny1
+#0#
+skills_51099_combo_value_no_destiny1
+#0#
+skills_51099_combo_value_destiny2
+#0#
+skills_51099_combo_value_no_destiny2
+#0#
+skills_51104_name
+Summon thunder ball
+skills_51104_destiny_name
+True · Summon thunder ball
+skills_51104_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon satu thunder ball terus menyerang musuh di sekitar.
+skills_51104_destiny_desc
+
+skills_51104_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51104_captain_effect_desc
+Skill damage bertambah 50%
+skills_51104_comment
+Skill Seven 1
+skills_51105_name
+Lightning stream
+skills_51105_destiny_name
+True · Lightning stream
+skills_51105_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], saat whip ke tanah, mengeluarkan listrik menyebabkan damage terhadap musuh di sekitar.
+skills_51105_destiny_desc
+
+skills_51105_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51105_captain_effect_desc
+Skill damage bertambah 50%
+skills_51105_comment
+Skill Seven 2
+skills_51106_name
+Thunder emitter
+skills_51106_destiny_name
+True · Thunder emitter
+skills_51106_desc
+Saat Thunder emitter datang menimbulkan [CCFF66]{1}[-] damage \n Menuntun petir menyebabkan damage dan summon satu thunder emitter masuk ke battle, selama 10 detik.
+skills_51106_destiny_desc
+[FFD700] Thunder emitter semakin kuat, terus mengeluarkan electric ring menyerang musuh di sekitar [-]
+skills_51106_levelup_desc
+HP thunder element [CCFF66]{0}[-]
+skills_51106_captain_effect_desc
+Saat thunder element mati akan otomatis meledak melukai semua dalam arena
+skills_51106_comment
+Skill Seven
+skills_51106_combo_value_destiny1
+#0#
+skills_51106_combo_value_no_destiny1
+#0#
+skills_51107_name
+Summon thunder - advanced
+skills_51107_destiny_name
+True · Summon thunder - advanced
+skills_51107_desc
+Summon thunder element [CCFF66]{0}[-] HP dan [CCFF66][-] poin attack \n Summon Thunder emitter masuk ke battle, selama 20 detik.
+skills_51107_destiny_desc
+[FFD700] Thunder emitter semakin kuat, terus mengeluarkan electric ring menyerang musuh di sekitar [-]
+skills_51107_levelup_desc
+Summon thunder element [CCFF66]{0}[-] HP dan [CCFF66][-] poin attack
+skills_51107_captain_effect_desc
+
+skills_51107_comment
+Advanced skill Seven
+skills_51120_name
+Summon thunder - simplified
+skills_51120_destiny_name
+True · Summon thunder - simplified
+skills_51120_desc
+Summon thunder element [CCFF66]{0}[-] HP dan [CCFF66][-] poin attack \n Summon Thunder emitter masuk ke battle, selama 20 detik.
+skills_51120_destiny_desc
+[FFD700] Thunder emitter semakin kuat, terus mengeluarkan electric ring menyerang musuh di sekitar [-]
+skills_51120_levelup_desc
+Summon thunder element [CCFF66]{0}[-] HP dan [CCFF66][-] poin attack
+skills_51120_captain_effect_desc
+
+skills_51120_comment
+Skill Seven
+skills_51205_name
+Ice blade piercing 
+skills_51205_destiny_name
+True · Ice blade piercing 
+skills_51205_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], summon cold untuk dipasang di atas sword, bergerak ke depan menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_51205_destiny_desc
+
+skills_51205_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51205_captain_effect_desc
+Skill damage bertambah 50%
+skills_51205_comment
+Skill Kurasame 1
+skills_51206_name
+Frozen tornado
+skills_51206_destiny_name
+True · Frozen tornado
+skills_51206_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon frozen tornado, menyebabkan damage berkelanjutan pada musuh, dan menambah efek [FFD700] slow [-].
+skills_51206_destiny_desc
+
+skills_51206_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51206_captain_effect_desc
+Skill damage bertambah 50%
+skills_51206_comment
+Skill Kurasame 2
+skills_51207_name
+Ice phoenix arrival
+skills_51207_destiny_name
+True · Ice phoenix arrival
+skills_51207_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengumpulkan ice power, summon ice phoenix menyerang ke depan, menyebabkan damage besar dan [FFD700] memukul mundur [-] musuh.
+skills_51207_destiny_desc
+[FFD700] Setelah ice phoenix hilang, jalur yang pernah dilewatinya akan muncul Ice blast, [FFD700] freeze [-] musuh [-]
+skills_51207_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51207_captain_effect_desc
+Saat Ice phoenix mati akan meledak, melukai semua dalam arena
+skills_51207_comment
+Skill Kurasame
+skills_51207_combo_value_destiny1
+#0#
+skills_51207_combo_value_no_destiny1
+#0#
+skills_51207_combo_value_destiny2
+1.5 detik
+skills_51207_combo_value_no_destiny2
+
+skills_51220_name
+Ice phoenix arrival
+skills_51220_destiny_name
+True · Ice phoenix arrival
+skills_51220_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengumpulkan kekuatan es, summon Ice Phoenix menyerang, menyebabkan damage tambahan dan [FFD700] memukul mundur [-] musuh.
+skills_51220_destiny_desc
+[FFD700] Setelah ice phoenix hilang, jalur yang pernah dilewatinya akan muncul Ice blast, [FFD700] freeze [-] musuh [-]
+skills_51220_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51220_captain_effect_desc
+
+skills_51220_comment
+Skill Kurasame
+skills_51304_name
+Black hole
+skills_51304_destiny_name
+True · Black hole
+skills_51304_desc
+Menimbulkan [CCFF66]{1}[-] dmg \n [FFD700] Skill break [-], [FFD700] menarik [-] musuh di sekitar dan memijak tanah, menyebabkan dmg dan [FFD700]memukul mundur[-] musuh.
+skills_51304_destiny_desc
+
+skills_51304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51304_captain_effect_desc
+Skill damage bertambah 50%
+skills_51304_comment
+Skill Gilgamesh 1
+skills_51305_name
+Black Tortoise Armor
+skills_51305_destiny_name
+True · Black Tortoise Armor
+skills_51305_desc
+Menimbulkan [CCFF66]{1}[-]dmg \n Melepaskan Lorican power, memberikan diri sendiri 30% reduce dmg, dan tak berhenti menyebabkan dmg musuh, selama 6 detik. 
+skills_51305_destiny_desc
+
+skills_51305_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_51305_captain_effect_desc
+Skill damage bertambah 75%
+skills_51305_comment
+Skill Gilgamesh 2
+skills_51306_name
+Evil spirit raid
+skills_51306_destiny_name
+True · Evil spirit raid
+skills_51306_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Summon banyak abyss demon, menyebabkan damage terhadap musuh di sekitar.
+skills_51306_destiny_desc
+[FFD700]Pada waktu ini Gilgamesh akan terus memulihkan HP[-]
+skills_51306_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51306_captain_effect_desc
+
+skills_51306_comment
+Skill Gilgamesh
+skills_51306_combo_value_destiny1
+#0#
+skills_51306_combo_value_no_destiny1
+#0#
+skills_51306_combo_value_destiny2
+#0#
+skills_51306_combo_value_no_destiny2
+
+skills_51320_name
+Invincible Summon
+skills_51320_destiny_name
+True · Invincible Summon
+skills_51320_desc
+
+skills_51320_destiny_desc
+
+skills_51320_levelup_desc
+
+skills_51320_captain_effect_desc
+
+skills_51320_comment
+
+skills_51321_name
+Summon break
+skills_51321_destiny_name
+True · Summon break
+skills_51321_desc
+
+skills_51321_destiny_desc
+
+skills_51321_levelup_desc
+
+skills_51321_captain_effect_desc
+
+skills_51321_comment
+
+skills_51404_name
+Quick shoot
+skills_51404_destiny_name
+True · Quick shoot
+skills_51404_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan 3 peluru ke arah musuh dan menyebabkan damage.
+skills_51404_destiny_desc
+
+skills_51404_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51404_captain_effect_desc
+Skill damage bertambah 50%
+skills_51404_comment
+Skill King 1
+skills_51405_name
+Accurate shot
+skills_51405_destiny_name
+True · Accurate shot
+skills_51405_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menandakan satu musuh dengan blood terendah, dan menyebabkan damage terhadapnya.
+skills_51405_destiny_desc
+
+skills_51405_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51405_captain_effect_desc
+Skill damage bertambah 50%
+skills_51405_comment
+Skill King 2
+skills_51406_name
+Open fire power
+skills_51406_destiny_name
+True · Open fire power
+skills_51406_desc
+BP tim meningkat [CCFF66]{2}[-] \n Menembakkan peluru ke udara, mengubah attack form, menambah BP diri sendiri dan teman.
+skills_51406_destiny_desc
+[FFD700] Attack speed bertambah 28% [-]
+skills_51406_levelup_desc
+BP tim meningkat [CCFF66]{2}[-]
+skills_51406_captain_effect_desc
+Saat melepas critical skill mendapat tyrant, hit rate tim bertambah 15%
+skills_51406_comment
+Skill King
+skills_51406_combo_value_destiny1
+#0#
+skills_51406_combo_value_no_destiny1
+#0#
+skills_51505_name
+Slash
+skills_51505_destiny_name
+True · Slash
+skills_51505_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Lompat dan menyerang ke musuh di area bentuk kipas, menyebabkan damage dan [FFD700] float [-].
+skills_51505_destiny_desc
+
+skills_51505_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51505_captain_effect_desc
+Skill damage bertambah 50%
+skills_51505_comment
+Skill Hayne 1
+skills_51506_name
+Warrior code
+skills_51506_destiny_name
+True · Warrior code
+skills_51506_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]14%[-] \n Mengangkat shield untuk meningkatkan defense diri dan tim.
+skills_51506_destiny_desc
+
+skills_51506_levelup_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]14%[-]
+skills_51506_captain_effect_desc
+Defense bertambah 126%
+skills_51506_comment
+Skill Hayne 2
+skills_51507_name
+Sword and shield
+skills_51507_destiny_name
+True · Sword and shield
+skills_51507_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengangkat sword, mengibaskan pedang dengan cepat, menyebabkan damage besar bagi musuh.
+skills_51507_destiny_desc
+[FFD700] dan meningkatkan damage tim [-]
+skills_51507_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51507_captain_effect_desc
+Bounce rate tim bertambah 62%, selama 4 detik
+skills_51507_comment
+Skill Hayne
+skills_51507_combo_value_destiny1
+#0#
+skills_51507_combo_value_no_destiny1
+#0#
+skills_51520_name
+Tanpa lawan
+skills_51520_destiny_name
+True · Invincible
+skills_51520_desc
+
+skills_51520_destiny_desc
+
+skills_51520_levelup_desc
+
+skills_51520_captain_effect_desc
+
+skills_51520_comment
+
+skills_51604_name
+Magic fantasy ball
+skills_51604_destiny_name
+True · Magic fantasy ball
+skills_51604_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon thunder ball terbang perlahan, terus menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_51604_destiny_desc
+
+skills_51604_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51604_captain_effect_desc
+Skill damage bertambah 50%
+skills_51604_comment
+Skill Ruka 1
+skills_51605_name
+Lightning sacrifice
+skills_51605_destiny_name
+True · Lightning sacrifice
+skills_51605_desc
+Menimbulkan [CCFF66]{1}[-] damage \n[FFD700] Skill break [-], Summon Lightning di bawah target, menyebabkan damage di sekitarnya.
+skills_51605_destiny_desc
+
+skills_51605_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51605_captain_effect_desc
+Skill damage bertambah 50%
+skills_51605_comment
+Skill Ruka 2
+skills_51606_name
+Dark moon
+skills_51606_destiny_name
+True · Dark moon
+skills_51606_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menyebabkan damage berkelanjutan pada satu musuh dan berefek [FFD700] imprisoned [-].
+skills_51606_destiny_desc
+[FFD700] Dmg 25%, menyebabkan damage pada target acak. [-]
+skills_51606_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51606_captain_effect_desc
+Tambahan summon satu dark power menyebabkan damage dan  imprisoned
+skills_51606_comment
+Skill Ruka
+skills_51606_combo_value_destiny1
+#0#
+skills_51606_combo_value_no_destiny1
+#0#
+skills_51606_combo_value_destiny2
+1s
+skills_51606_combo_value_no_destiny2
+1s
+skills_51704_name
+Chain support
+skills_51704_destiny_name
+True · Chain support
+skills_51704_desc
+Memulihkan [CCFF66]{3}[-] HP \n Memulihkan HP dan energy teman dengan HP terendah.
+skills_51704_destiny_desc
+
+skills_51704_levelup_desc
+Memulihkan [CCFF66]{3}[-] HP
+skills_51704_captain_effect_desc
+Skill restore bertambah 50%
+skills_51704_comment
+Skill Machina 1
+skills_51705_name
+Spiral stab
+skills_51705_destiny_name
+True · Spiral stab
+skills_51705_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Double sword membuat suatu gelombang, menyebabkan damage pada musuh yang terkena.
+skills_51705_destiny_desc
+
+skills_51705_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51705_captain_effect_desc
+Skill damage bertambah 50%
+skills_51705_comment
+Skill Machina 2
+skills_51706_name
+Guard power
+skills_51706_destiny_name
+True · Guard power
+skills_51706_desc
+Shield menyerap [CCFF66]{3}[-] damage \n Menambah satu shield yang menyerap damage besar untuk teman dengan HP terendah.
+skills_51706_destiny_desc
+[FFD700] Saat shield hilang akan memulihkan blood karakter [-]
+skills_51706_levelup_desc
+Shield menyerap [CCFF66]{3}[-] damage
+skills_51706_captain_effect_desc
+Shield HP 134%, saat shield berfungsi, target damage bertambah 16%
+skills_51706_comment
+Skill Machina
+skills_51706_combo_value_destiny1
+{0}
+skills_51706_combo_value_no_destiny1
+{0}
+skills_51720_name
+Wind roar
+skills_51720_destiny_name
+True · Wind roar
+skills_51720_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun kekuatan angin, summon sebuah tornado raksasa yang bergerak ke arah musuh.
+skills_51720_destiny_desc
+[FFD700] Saat shield hilang akan memulihkan blood karakter [-]
+skills_51720_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51720_captain_effect_desc
+
+skills_51720_comment
+Skill Machina
+skills_51804_name
+Fury roar
+skills_51804_destiny_name
+True · Fury roar
+skills_51804_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]34%[-] \n [FFD700] Reduce damage [-] diri sendiri.
+skills_51804_destiny_desc
+
+skills_51804_levelup_desc
+Defense bertambah [CCFF66]{2}[-] dan Blok [CCFF66]34%[-]
+skills_51804_captain_effect_desc
+Defense bertambah 212%
+skills_51804_comment
+Skill Nine 1
+skills_51805_name
+Rifle shock
+skills_51805_destiny_name
+True · Rifle shock
+skills_51805_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Lompat dan menyerang tanah, menyebabkan damage di sekitar.
+skills_51805_destiny_desc
+
+skills_51805_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51805_captain_effect_desc
+Skill damage bertambah 50%
+skills_51805_comment
+Skill Nine 2
+skills_51806_name
+Rifle guard
+skills_51806_destiny_name
+True · Rifle guard
+skills_51806_desc
+Shield menyerap [CCFF66]{3}[-] damage \n [FFD700] Skill break [-], Melompat ke area target, menyebabkan damage dan mendapat shield.
+skills_51806_destiny_desc
+Saat shield hilang akan menyebabkan efek [FFD700] stun [-] di sekitar
+skills_51806_levelup_desc
+Shield menyerap [CCFF66]{3}[-] damage
+skills_51806_captain_effect_desc
+Saat menginjak tanah akan stun musuh di sekitar selama 1.5 detik dan shield HP bertambah 72.5%
+skills_51806_comment
+Skill Nine
+skills_51806_combo_value_destiny1
+{0}
+skills_51806_combo_value_no_destiny1
+{0}
+skills_51820_name
+Provokasi mutlak - simplified
+skills_51820_destiny_name
+True · Provokasi mutlak - simplified
+skills_51820_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [CCFF67] Skill break [-], masuk ke area target, menyebabkan damage berkelanjutan dan membuat musuh [FFD700] immobilize [-].
+skills_51820_destiny_desc
+Saat shield hilang akan menyebabkan efek [FFD700] stun [-] di sekitar
+skills_51820_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51820_captain_effect_desc
+
+skills_51820_comment
+Skill Nine
+skills_51904_name
+Punishment
+skills_51904_destiny_name
+True · Punishment
+skills_51904_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menciptakan blizzard untuk menyerang musuh, menyebabkan damage [FFD700] memukul mundur [-] dan [FFD700] mengurangi speed [-].
+skills_51904_destiny_desc
+
+skills_51904_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51904_captain_effect_desc
+Skill damage bertambah 100%
+skills_51904_comment
+Skill Caetuna 1
+skills_51905_name
+Kemurahan hati
+skills_51905_destiny_name
+True · Kemurahan hati 
+skills_51905_desc
+Memulihkan [CCFF66]{1}[-] HP \n Memberikan tim kekuatan sumber kehidupan, memulihkan HP teman dengan HP terendah dalam sekejap.
+skills_51905_destiny_desc
+
+skills_51905_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_51905_captain_effect_desc
+Pemulihan skill bertambah 71%
+skills_51905_comment
+Skill Caetuna 2
+skills_51906_name
+Cold prison
+skills_51906_destiny_name
+True · Cold prison
+skills_51906_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengeluarkan ice power, menyebabkan damage dan [FFD700] freeze [-] semua musuh.
+skills_51906_destiny_desc
+[FFD700] Dan menambah 1 poin energy Eidolon [-]
+skills_51906_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_51906_captain_effect_desc
+Dan menurunkan 30% attack power semua musuh, selama battle (maks bertambah 1 layer)
+skills_51906_comment
+Skill Caetuna 3
+skills_51906_combo_value_destiny1
+#0#
+skills_51906_combo_value_no_destiny1
+#0#
+skills_51906_combo_value_destiny2
+2.5 detik
+skills_51906_combo_value_no_destiny2
+4 detik
+skills_52005_name
+Strike
+skills_52005_destiny_name
+True · Strike
+skills_52005_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menerjang musuh menyebabkan damage di sekitar.
+skills_52005_destiny_desc
+
+skills_52005_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52005_captain_effect_desc
+Skill damage bertambah 50%
+skills_52005_comment
+Skill Xuyu 1
+skills_52006_name
+Whirl slash
+skills_52006_destiny_name
+True · Whirl slash
+skills_52006_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengayunkan axe sekuat tenaga, menyebabkan damage besar ke musuh di sekitar.
+skills_52006_destiny_desc
+
+skills_52006_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52006_captain_effect_desc
+Skill damage bertambah 50%
+skills_52006_comment
+Skill Xuyu 2
+skills_52007_name
+Flame Phantom
+skills_52007_destiny_name
+True · Flame Phantom
+skills_52007_desc
+BP flame phantom [CCFF66]{1}[-] \n Summon satu flame phantom masuk ke battle, phantom tidak terkalahkan, BP [CCFF66]{1}[-].
+skills_52007_destiny_desc
+[FFD700] Jumlah flame phantom menjadi dua. [-]
+skills_52007_levelup_desc
+HP flame phantom [CCFF66]{0}[-]
+skills_52007_captain_effect_desc
+Tambahan summon satu flame phantom
+skills_52007_comment
+Skill Xuyu 3
+skills_52007_combo_value_destiny1
+#0#
+skills_52007_combo_value_no_destiny1
+#0#
+skills_52104_name
+Real Dragon
+skills_52104_destiny_name
+True·Real Dragon
+skills_52104_desc
+Menimbulkan [CCFF66]{1}[-] dmg\n Transformasi menjadi Dragon, mengubah normal atk dan skill, dapat kemampuan ekspor yg kuat, dan menaikan 50% reduce dmg. 
+skills_52104_destiny_desc
+[FFD700]Dragon form dapat Tyrant dan Anti-control. [-]
+skills_52104_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_52104_captain_effect_desc
+
+skills_52104_comment
+Skill Andoria 
+skills_52104_combo_value_destiny1
+13 detik
+skills_52104_combo_value_no_destiny1
+13 detik
+skills_52105_name
+Wind power
+skills_52105_destiny_name
+True · Wind power
+skills_52105_desc
+Menimbulkan [CCFF66]{1}[-]dmg \n Mengarahkan Wind power, menghentikan musuh dlm jangkauan dan terus menimbulkan banyak tahap dmg. 
+skills_52105_destiny_desc
+
+skills_52105_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_52105_captain_effect_desc
+Skill damage bertambah 50%
+skills_52105_comment
+Skill Andoria 1
+skills_52106_name
+Vine seeds
+skills_52106_destiny_name
+True · Vine seeds
+skills_52106_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepas satu bibit tanaman merambat, melilit musuh menyebabkan damage dan berefek [FFD700] stun [-].
+skills_52106_destiny_desc
+
+skills_52106_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52106_captain_effect_desc
+dmg skill naik 86%
+skills_52106_comment
+Skill Andoria 2
+skills_52107_name
+Turn Around Cactus
+skills_52107_destiny_name
+Real·Turn Around Cactus
+skills_52107_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_52107_destiny_desc
+
+skills_52107_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52107_captain_effect_desc
+
+skills_52107_comment
+Skill Andoria 2
+skills_52109_name
+Dragon Blood Spurt 
+skills_52109_destiny_name
+Real·Dragon Blood Spurt 
+skills_52109_desc
+Menimbulkan [CCFF66]{1}[-] dmg \n Menyemburkan Raging Flames ke area yg luas, terus menyebabkan banyak dmg. 
+skills_52109_destiny_desc
+
+skills_52109_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52109_captain_effect_desc
+
+skills_52109_comment
+Skill Andoria 1
+skills_52110_name
+Dragon Doze 
+skills_52110_destiny_name
+Real·Dragon Doze 
+skills_52110_desc
+Memulihkan [CCFF66]{1}[-]HP\n Masuk keadaan mengantuk sejenak, dapat Brief Invicible dan terus memulihkan banyak HP. (dlm battle otomatis akan langsung melepas skill ini ketika HP kurang dari 30%, dan hanya bs melepas satu kali)
+skills_52110_destiny_desc
+
+skills_52110_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52110_captain_effect_desc
+
+skills_52110_comment
+Skill Andoria 2
+skills_52204_name
+Enhance potion
+skills_52204_destiny_name
+True · Enhance potion
+skills_52204_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Kazusa meminum enhance potion, mengeluarkan double attack, mengurangi semua damage dan memantulkan ke musuh, selama 3 detik.
+skills_52204_destiny_desc
+
+skills_52204_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52204_captain_effect_desc
+
+skills_52204_comment
+Skill Kazusa 1
+skills_52205_name
+Burst potion
+skills_52205_destiny_name
+True · Burst potion
+skills_52205_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Kazusa melempar burst potion, menyerang musuh dengan serpihan batu dan [FFD700] memukul mundur [-] 
+skills_52205_destiny_desc
+
+skills_52205_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52205_captain_effect_desc
+
+skills_52205_comment
+Skill Kazusa 2
+skills_52206_name
+Ultimate mixture
+skills_52206_destiny_name
+True · Ultimate mixture
+skills_52206_desc
+Menimbulkan [CCFF66]{1}[-]damage \n [FFD700] Skill damage [-], melompat ke target dan menyerang, menyebabkan damage dan [FFD700] memukul mundur [-] musuh di sekitar, memasuki status violent, damage bertambah 30%.
+skills_52206_destiny_desc
+[FFD700] Dmg 25% [-]
+skills_52206_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52206_captain_effect_desc
+
+skills_52206_comment
+Skill Kazusa 3
+skills_52206_combo_value_destiny1
+#0#
+skills_52206_combo_value_no_destiny1
+#0#
+skills_52304_name
+Lightning shot
+skills_52304_destiny_name
+True · Lighting shot
+skills_52304_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melemparkan javelin yang menembus musuh, menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_52304_destiny_desc
+
+skills_52304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52304_captain_effect_desc
+Skill damage bertambah 50%
+skills_52304_comment
+Skill Tenochi 1
+skills_52305_name
+Soaring dragon attack
+skills_52305_destiny_name
+True · Soaring dragon attack
+skills_52305_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Teleport hingga ke depan musuh dengan BP tertinggi, menyebabkan damage dan [FFD700] memukul mundur [-] musuh di sekitar.
+skills_52305_destiny_desc
+
+skills_52305_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52305_captain_effect_desc
+Skill damage bertambah 50%
+skills_52305_comment
+Skill Tenochi 2
+skills_52306_name
+Thunder gun
+skills_52306_destiny_name
+True · Thunder gun
+skills_52306_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melompat tinggi, melempar lightning spear di tangan ke target, menyebabkan damage tinggi.
+skills_52306_destiny_desc
+[FFD700] Saat lightning spear mengenai target akan meledak mengeluarkan electric ring, musuh dalam ring akan terkena damage. [-]
+skills_52306_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52306_captain_effect_desc
+Skill damage bertambah 45%, dan dalam 10 detik evade bertambah 22%
+skills_52306_comment
+Skill Tenochi 3
+skills_52306_combo_value_destiny1
+#0#
+skills_52306_combo_value_no_destiny1
+#0#
+skills_52405_name
+Moon trace
+skills_52405_destiny_name
+True · Moon trace
+skills_52405_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepas Moon trace, menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_52405_destiny_desc
+
+skills_52405_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52405_captain_effect_desc
+Skill damage bertambah 50%
+skills_52405_comment
+Skill Claes 1
+skills_52406_name
+Meteor rain
+skills_52406_destiny_name
+True · Meteor rain
+skills_52406_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon thunder, menyebabkan damage berkelanjutan.
+skills_52406_destiny_desc
+
+skills_52406_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52406_captain_effect_desc
+Skill damage bertambah 50%
+skills_52406_comment
+Skill Claes 2
+skills_52407_name
+Giant dragon force
+skills_52407_destiny_name
+True · Giant dragon force
+skills_52407_desc
+BP bertambah [CCFF66]{2}[-] \n Membangkitkan dragon force, meningkatkan BP dan mengubah attack gesture.
+skills_52407_destiny_desc
+[FFD700] Attack speed bertambah 30% [-]
+skills_52407_levelup_desc
+Dmg [CCFF66]{2}[-]
+skills_52407_captain_effect_desc
+Saat crit skill, Hit rate Claes bertambah 30%, dan damage bertambah 30%
+skills_52407_comment
+Skill Claes
+skills_52407_combo_value_destiny1
+#0#
+skills_52407_combo_value_no_destiny1
+#0#
+skills_52504_name
+Quake
+skills_52504_destiny_name
+True · Quake
+skills_52504_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], mengeluarkan shock power, menyebabkan damage dan [FFD700] memukul mundur [-] musuh di depan.
+skills_52504_destiny_desc
+
+skills_52504_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52504_captain_effect_desc
+Skill damage bertambah 162%
+skills_52504_comment
+Skill Ryid 1
+skills_52505_name
+Ground impact
+skills_52505_destiny_name
+True · Ground impact
+skills_52505_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memasang weapon di darat, [FFD700] memukul mundur [-] musuh di sekitar dan menyebabkan damage.
+skills_52505_destiny_desc
+
+skills_52505_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52505_captain_effect_desc
+Skill damage bertambah 50%
+skills_52505_comment
+Skill Ryid 2
+skills_52506_name
+Violent roar
+skills_52506_destiny_name
+True · Violent roar
+skills_52506_desc
+Pemulihan [CCFF66]{1}[-] \n Membangkitkan darah Lorican dalam tubuh, berubah menjadi demon, terus memulihkan HP dan mendapat [FFD700] reduce damage [-] [CCFF66] 20% [-] dan efek [FFD700] tyrant [-], selama 10 detik.
+skills_52506_destiny_desc
+[FFD700] Meningkatkan kecepatan pemulihan HP [-]
+skills_52506_levelup_desc
+Pemulihan [CCFF66]{1}[-]
+skills_52506_captain_effect_desc
+Damage terus bertambah 23% saat berlangsung dan 23% Blok
+skills_52506_comment
+Skill Ryid
+skills_52506_combo_value_destiny1
+#0#
+skills_52506_combo_value_no_destiny1
+#0#
+skills_52604_name
+Timing trap
+skills_52604_destiny_name
+True · Timing trap
+skills_52604_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melempar satu bomb, menyebabkan damage besar.
+skills_52604_destiny_desc
+
+skills_52604_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52604_captain_effect_desc
+Skill damage bertambah 50%
+skills_52604_comment
+Skill Mutsuki 1
+skills_52605_name
+Poison bomb
+skills_52605_destiny_name
+True · Poison bomb
+skills_52605_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu bomb yang bergulir pelan, setelah meledak menyebabkan damage kecil.
+skills_52605_destiny_desc
+
+skills_52605_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52605_captain_effect_desc
+Skill damage bertambah 50%
+skills_52605_comment
+Skill Mutsuki 2
+skills_52606_name
+Enhance blast
+skills_52606_destiny_name
+True · Enhance blast
+skills_52606_desc
+Release speed + [CCFF66]66%[-], BP + [CCFF66]{2}[-] \n Mengumpulkan energi, mempersingkat waktu melepas skill, waktu cooldown dan waktu efektif, dan meningkatkan skill damage.
+skills_52606_destiny_desc
+[FFD700] Saat crit skill ada kemungkinan membawa efek poison [-]
+skills_52606_levelup_desc
+Release speed + [CCFF66]66%[-], BP + [CCFF66]{2}[-]
+skills_52606_captain_effect_desc
+Saat Crit skill mendapat immune control dan damage bertambah 28%
+skills_52606_comment
+Skill Mutsuki
+skills_52606_combo_value_destiny1
+#0#
+skills_52606_combo_value_no_destiny1
+#0#
+skills_52606_combo_value_destiny2
+.2
+skills_52606_combo_value_no_destiny2
+
+skills_52705_name
+Collision
+skills_52705_destiny_name
+True · Collision
+skills_52705_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menyerbu ke depan, menyebabkan damage dan [FFD700] memukul musuh [-] sepanjang jalur.
+skills_52705_destiny_desc
+
+skills_52705_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52705_captain_effect_desc
+Skill damage bertambah 99%
+skills_52705_comment
+Skill Atra 1
+skills_52706_name
+Sacrifice
+skills_52706_destiny_name
+True · Sacrifice
+skills_52706_desc
+Memulihkan [CCFF66]{1}[-]HP\n Mengorbankan 15% HP sendiri saat ini, summon satu Blood Pond, terus memulihkan [FFD700] HP terendah[-] teman . 
+skills_52706_destiny_desc
+
+skills_52706_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_52706_captain_effect_desc
+Saat melepas skill tidak memakai HP 
+skills_52706_comment
+Skill Atra 2
+skills_52707_name
+Blood sacrifice
+skills_52707_destiny_name
+True · Blood sacrifice
+skills_52707_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], terbang ke udara melepas blood chain dan mengikatnya dengan musuh, menyebabkan damage dan memulihkan HP diri sendiri.
+skills_52707_destiny_desc
+[FFD700] Speed penyerapan blood bertambah [-]
+skills_52707_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52707_captain_effect_desc
+Damage saat critical skill berkurang 50%, dan skill damage bertambah 75%
+skills_52707_comment
+Skill Atra
+skills_52707_combo_value_destiny1
+#0#
+skills_52707_combo_value_no_destiny1
+#0#
+skills_52707_combo_value_destiny2
+#0#
+skills_52707_combo_value_no_destiny2
+#0#
+skills_52804_name
+Fire power support
+skills_52804_destiny_name
+True · Fire power support
+skills_52804_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melepas banyak missile di udara, menyebabkan damage besar.
+skills_52804_destiny_desc
+
+skills_52804_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52804_captain_effect_desc
+Skill damage bertambah 50%
+skills_52804_comment
+Skill Ryid 1
+skills_52805_name
+Machine trap
+skills_52805_destiny_name
+True · Machine trap
+skills_52805_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon 2 buah cannon menyerang musuh terdekat.
+skills_52805_destiny_desc
+
+skills_52805_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52805_captain_effect_desc
+Skill damage meningkat 56%
+skills_52805_comment
+Skill Ryid 2
+skills_52806_name
+Fixed bomb
+skills_52806_destiny_name
+True · Fixed bomb
+skills_52806_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], summon Gabriel menyebabkan damage ke musuh di area bentuk segiempat di depan.
+skills_52806_destiny_desc
+[FFD700] Gabriel menembakkan banyak missile [-]
+skills_52806_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52806_captain_effect_desc
+Jangkauan damage membesar, damage bertambah 62%, dan menyebabkan BP semua cannon bertambah 50%, selama 3 detik
+skills_52806_comment
+Skill Ryid
+skills_52806_combo_value_destiny1
+#0#
+skills_52806_combo_value_no_destiny1
+#0#
+skills_52904_name
+Poison
+skills_52904_destiny_name
+True · Poison
+skills_52904_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar poison bottle ke arah target, menyebabkan damage dan efek [FFD700] poison [-] terhadap musuh di sekitar.
+skills_52904_destiny_desc
+
+skills_52904_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52904_captain_effect_desc
+Skill damage dan poison damage bertambah 50%
+skills_52904_comment
+Skill Ryid 1
+skills_52905_name
+Explosive potion
+skills_52905_destiny_name
+True · Explosive potion
+skills_52905_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melempar potion bottle yang mudah meledak ke arah target, menyebabkan damage.
+skills_52905_destiny_desc
+
+skills_52905_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52905_captain_effect_desc
+Skill damage bertambah 50%
+skills_52905_comment
+Skill Ryid 2
+skills_52906_name
+Ultimate mixture
+skills_52906_destiny_name
+True · Ultimate mixture
+skills_52906_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], membuat ultimate mixture, menyebabkan damage dan menambah efek [FFD700] fear [-] terhadap musuh.
+skills_52906_destiny_desc
+[FFD700] Memperluas jangkauan damage hingga radius 3 meter [-]
+skills_52906_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52906_captain_effect_desc
+Waktu fear bertambah 1 detik, dan menambah efek merusak armor 65%, selama 6.5 detik
+skills_52906_comment
+Skill Ryid
+skills_52906_combo_value_destiny1
+#0#
+skills_52906_combo_value_no_destiny1
+#0#
+skills_52911_name
+Centipedes self explode
+skills_52911_destiny_name
+True·Centipedes explode skill
+skills_52911_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengambil Akademeia gun, menembakkan flame bomb 1 kali.
+skills_52911_destiny_desc
+
+skills_52911_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_52911_captain_effect_desc
+
+skills_52911_comment
+Centipedes skill
+skills_53004_name
+Charge
+skills_53004_destiny_name
+True · Charge
+skills_53004_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], , menabrak musuh di depan dan menyebabkan damage.
+skills_53004_destiny_desc
+
+skills_53004_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53004_captain_effect_desc
+Skill damage bertambah 50%
+skills_53004_comment
+Skill Ryid 1
+skills_53005_name
+Strong hit
+skills_53005_destiny_name
+True · Strong hit
+skills_53005_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menunjuk dengan tangan kanan menyebabkan damage pada musuh di area bentuk segiempat di depan.
+skills_53005_destiny_desc
+
+skills_53005_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53005_captain_effect_desc
+Skill damage bertambah 50%
+skills_53005_comment
+Skill Ryid 2
+skills_53006_name
+Armor Form
+skills_53006_destiny_name
+True · Armor Form
+skills_53006_desc
+Mendapat [CCFF66]{3}[-] shield \n Saat transformasi, armor memasuki status suspend, mengubah attack biasa dan skill, mendapat [FFD700] control immune [-] dan efek [FFD700] tyrant [-], dan mendapat sebuah shield kuat.
+skills_53006_destiny_desc
+[FFD700] Saat transformasi akan mendapat tambahan attack speed [-]
+skills_53006_levelup_desc
+Mendapat [CCFF66]{3}[-] shield
+skills_53006_captain_effect_desc
+Saat transformasi akan memasuki status armor violent (damage, attack speed bertambah 40%)
+skills_53006_comment
+Skill Ryid
+skills_53006_combo_value_destiny1
+13 detik
+skills_53006_combo_value_no_destiny1
+13 detik
+skills_53010_name
+Armor push
+skills_53010_destiny_name
+True · Armor push
+skills_53010_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Menyerang maju, menyebabkan damage dan [FFD700] memukul mundur [-] musuh yang dilewati.
+skills_53010_destiny_desc
+
+skills_53010_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53010_captain_effect_desc
+Skill damage bertambah 85%
+skills_53010_comment
+Skill Ryid 1
+skills_53011_name
+Gravity pull
+skills_53011_destiny_name
+True · Gravity pull
+skills_53011_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon terus melepas dark ball, menyebabkan banyak tahap damage dan berefek [FFD700] menarik [-] musuh mendekat.
+skills_53011_destiny_desc
+
+skills_53011_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53011_captain_effect_desc
+Skill damage meningkat 56%
+skills_53011_comment
+Skill Ryid 2
+skills_53104_name
+Electric area
+skills_53104_destiny_name
+True · Electric area
+skills_53104_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] skill break [-], kedua tangan memukul tanah,  di depan muncul sebuah lingkaran petir, menimbulkan damage yang berkelanjutan.
+skills_53104_destiny_desc
+
+skills_53104_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53104_captain_effect_desc
+Skill damage bertambah 50%
+skills_53104_comment
+Skill Hadad 1
+skills_53105_name
+Thunder shoot
+skills_53105_destiny_name
+True · Thunder shoot
+skills_53105_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan pusaran petir berkecepatan tinggi, pusaran ini menembakkan petir ke segala arah dan menimbulkan damage besar.
+skills_53105_destiny_desc
+
+skills_53105_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_53105_captain_effect_desc
+Skill damage bertambah 50%
+skills_53105_comment
+Skill Hadad 2
+skills_53106_name
+Savior arrival
+skills_53106_destiny_name
+True · Savior arrival
+skills_53106_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] skill break [-], lepas dari belenggu naik ke langit, tubuh diselimuti petir, terus melepaskan, summon petir menyebabkan damage besar ke musuh di depan.
+skills_53106_destiny_desc
+
+skills_53106_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53106_captain_effect_desc
+Skill damage bertambah 75%
+skills_53106_comment
+Skill Hadad
+skills_53106_combo_value_destiny1
+#0#
+skills_53106_combo_value_no_destiny1
+#0#
+skills_53211_name
+Fire Butterfly
+skills_53211_destiny_name
+True · Fire Butterfly
+skills_53211_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon fire butterfly, terbang menuju target, menimbulkan damage terhadap musuh yang disentuh.
+skills_53211_destiny_desc
+
+skills_53211_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53211_captain_effect_desc
+Skill damage bertambah 50%
+skills_53211_comment
+Skill Dancer 1
+skills_53212_name
+Dragon Dance
+skills_53212_destiny_name
+True · Dragon Dance
+skills_53212_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] skill break [-], menyebabkan damage terhadap musuh dalam area bentuk kipas.
+skills_53212_destiny_desc
+
+skills_53212_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_53212_captain_effect_desc
+Skill damage bertambah 50%
+skills_53212_comment
+Skill Dancer 2
+skills_53221_name
+Purifying fire
+skills_53221_destiny_name
+True · Purifying fire
+skills_53221_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] skill break [-], menyebabkan damage besar terhadap musuh dengan HP tertinggi.
+skills_53221_destiny_desc
+
+skills_53221_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_53221_captain_effect_desc
+Skill damage bertambah 75%
+skills_53221_comment
+Skill Dancer
+skills_53221_combo_value_destiny1
+#0#
+skills_53221_combo_value_no_destiny1
+#0#
+skills_53304_name
+Light ball chaos
+skills_53304_destiny_name
+True · Light ball chaos
+skills_53304_desc
+Menimbulkan [CCFF66]{1}[-] damage dan [CCFF66]{1}[-] cure \n [FFD700] Skill break [-], melepaskan bola sihir yang membesar ke arah depan, bila tim teman yang terkena akan berefek cure, bila musuh yang terkena akan menyebabkan damage.
+skills_53304_destiny_desc
+
+skills_53304_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53304_captain_effect_desc
+Skill damage dan cure bertambah 50%
+skills_53304_comment
+Skill Priest 1
+skills_53305_name
+Nature touch
+skills_53305_destiny_name
+True · Nature touch
+skills_53305_desc
+Menimbulkan [CCFF66]{1}[-] damage dan [CCFF66]{1}[-] cure \n Membuat lingkaran di bawah target, tim dalam lingkaran akan mendapat cure, musuh dalam lingkaran akan mendapat damage.
+skills_53305_destiny_desc
+
+skills_53305_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53305_captain_effect_desc
+Skill damage dan cure bertambah 50%
+skills_53305_comment
+Skill Priest 2
+skills_53306_name
+Last trial
+skills_53306_destiny_name
+True · Last trial
+skills_53306_desc
+Menimbulkan [CCFF66]{1}[-] damage dan [CCFF66]{1}[-] cure  \n[FFD700] Skill break [-], summon giant cross yang jatuh dari langit, memulihkan HP tim dan menyebabkan damage untuk musuh.
+skills_53306_destiny_desc
+
+skills_53306_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53306_captain_effect_desc
+Skill damage dan cure bertambah 75%
+skills_53306_comment
+Skill Priest
+skills_53306_combo_value_destiny1
+#0#
+skills_53306_combo_value_no_destiny1
+#0#
+skills_53306_combo_value_destiny2
+#0#
+skills_53306_combo_value_no_destiny2
+#0#
+skills_53411_name
+HP steal
+skills_53411_destiny_name
+True · HP steal
+skills_53411_desc
+Menimbulkan [CCFF66]{1}[-] damage dan [CCFF66]{1}[-] cure \n[FFD700] Skill break [-], mengambil semua HP musuh dan memulihkan HP sendiri.
+skills_53411_destiny_desc
+
+skills_53411_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53411_captain_effect_desc
+Skill damage bertambah 50%
+skills_53411_comment
+Skill Priest 1
+skills_53412_name
+Fear shock
+skills_53412_destiny_name
+True · Fear shock
+skills_53412_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Membuat damage cakupan besar menambah 15% kekuatan attack diri sendiri dan tim.
+skills_53412_destiny_desc
+
+skills_53412_levelup_desc
+Tim mendapat tambahan kekuatan attack.
+skills_53412_captain_effect_desc
+Skill damage bertambah 50%
+skills_53412_comment
+Skill Priest 2
+skills_53421_name
+HP slave
+skills_53421_destiny_name
+True · HP slave
+skills_53421_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan sinar laser ke musuh, menyebabkan damage besar berkelanjutan dan memulihkan HP sendiri. (Saat skill berlangsung bisa bergerak)
+skills_53421_destiny_desc
+
+skills_53421_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53421_captain_effect_desc
+Skill damage bertambah 107%
+skills_53421_comment
+Skill Priest
+skills_53421_combo_value_destiny1
+#0#
+skills_53421_combo_value_no_destiny1
+#0#
+skills_53421_combo_value_destiny2
+#0#
+skills_53421_combo_value_no_destiny2
+#0#
+skills_53504_name
+Ice dragon whirl
+skills_53504_destiny_name
+True · Ice dragon whirl
+skills_53504_desc
+Menimbulkan [CCFF66]{1}[-] damage \n[FFD700] Skill break [-], melepas ice dragon whirl menyebabkan damage, terus [FFD700] menyerap [-] dan [FFD700] menyerang mundur [-] musuh, menambah efek [FFD700] pengurangan kecepatan [-].
+skills_53504_destiny_desc
+
+skills_53504_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53504_captain_effect_desc
+Skill damage bertambah 85%
+skills_53504_comment
+Skill Priest 1
+skills_53505_name
+Cold invasion
+skills_53505_destiny_name
+True · Cold Invasion
+skills_53505_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon duri es di bawah kaki musuh, menyebabkan damage besar.
+skills_53505_destiny_desc
+
+skills_53505_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53505_captain_effect_desc
+Skill damage bertambah 50%
+skills_53505_comment
+Skill Priest 2
+skills_53506_name
+Ice and snow
+skills_53506_destiny_name
+True · Ice and snow
+skills_53506_desc
+Saat cold soul datang menimbulkan [CCFF66]{1}[-] damage \n Summon cold soul ke dalam battle, attack cold soul ada kemungkinan memperlambat dan freeze musuh.
+skills_53506_destiny_desc
+
+skills_53506_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53506_captain_effect_desc
+Kedatangan cold soul menambah 150% damage
+skills_53506_comment
+Skill Priest
+skills_53506_combo_value_destiny1
+#0#
+skills_53506_combo_value_no_destiny1
+#0#
+skills_53507_name
+Cold soul skill
+skills_53507_destiny_name
+True · Cold soul skill
+skills_53507_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon cold soul masuk dalam battle.
+skills_53507_destiny_desc
+
+skills_53507_levelup_desc
+Menimbulkan [CCFF66]{3}[-] damage dan [CCFF66]{1}[-] cure \n
+skills_53507_captain_effect_desc
+
+skills_53507_comment
+Skill Priest
+skills_53507_combo_value_destiny1
+#0#
+skills_53507_combo_value_no_destiny1
+#0#
+skills_53611_name
+Shadow Whirl
+skills_53611_destiny_name
+True · Shadow Whirl
+skills_53611_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepaskan pusaran bayangan, menyebabkan damage. (Saat bayangan kembali bisa menyebabkan damage lagi)
+skills_53611_destiny_desc
+
+skills_53611_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_53611_captain_effect_desc
+Skill damage bertambah 50%
+skills_53611_comment
+Skill Ninja 1
+skills_53612_name
+Darts shoot
+skills_53612_destiny_name
+True · Darts shoot
+skills_53612_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar banyak bomb beracun ke depan, membuat cakupan damage 3 meter dan mengurangi defense musuh.
+skills_53612_destiny_desc
+
+skills_53612_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_53612_captain_effect_desc
+Skill damage bertambah 111%
+skills_53612_comment
+Skill Ninja 2
+skills_53621_name
+Mystery.Empty
+skills_53621_destiny_name
+True · Mystery.Empty
+skills_53621_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepaskan secret stealth, menyebabkan damage terhadap musuh dengan blood terendah dan yang ada disekitarnya.
+skills_53621_destiny_desc
+
+skills_53621_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_53621_captain_effect_desc
+Skill damage bertambah 75%
+skills_53621_comment
+Skill Ninja
+skills_53621_combo_value_destiny1
+#0#
+skills_53621_combo_value_no_destiny1
+#0#
+skills_60105_name
+Curse arrival
+skills_60105_destiny_name
+True · Curse arrival
+skills_60105_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], terus summon 7 light beam menyerang musuh secara acak dan menyebabkan damage.
+skills_60105_destiny_desc
+[FFD700] Saat melepas Critical skill menghabiskan energy 1 musuh secara acak [-]
+skills_60105_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_60105_captain_effect_desc
+Saat melepas critical skill, efek Fatal berubah menjadi menghabiskan energy musuh, dan light beam menimbulkan damage di sekitar
+skills_60105_comment
+Skill Nimbus
+skills_60105_combo_value_destiny1
+#0#
+skills_60105_combo_value_no_destiny1
+#0#
+skills_60106_name
+Ignite flame
+skills_60106_destiny_name
+True · Ignite flame
+skills_60106_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan sebuah light beam, menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_60106_destiny_desc
+
+skills_60106_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_60106_captain_effect_desc
+Skill damage bertambah 50%
+skills_60106_comment
+Skill Nimbus 2
+skills_60107_name
+Thousand arrow pierce
+skills_60107_destiny_name
+True · Thousand arrow pierce
+skills_60107_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon 2 barisan di samping karakter, barisan akan terus menembak light ball ke musuh dan menyebabkan damage.
+skills_60107_destiny_desc
+
+skills_60107_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_60107_captain_effect_desc
+Skill damage bertambah 50%
+skills_60107_comment
+Skill Nimbus 3
+skills_60108_name
+Judgement coming
+skills_60108_destiny_name
+True · Trial arrival
+skills_60108_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Summon 4 lingkaran yang menembakkan laser ke target secara otomatis untuk mengikuti karakter.
+skills_60108_destiny_desc
+
+skills_60108_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_60108_captain_effect_desc
+
+skills_60108_comment
+Skill Nimbus yang tidak terpakai
+skills_60120_name
+Curse arrival - simplified
+skills_60120_destiny_name
+True · Curse arrival - simplified
+skills_60120_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mulai hukuman, cahaya hukum langit yang berkilau menghancurkan musuh.
+skills_60120_destiny_desc
+
+skills_60120_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_60120_captain_effect_desc
+
+skills_60120_comment
+Skill Nimbus
+skills_80103_name
+Giant blade dance
+skills_80103_destiny_name
+True · Giant blade dance
+skills_80103_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Giant blade dikibas, menyebabkan damage, [FFD700] memukul mundur [-] musuh dan menambah efek [FFD700] bleeding [-].
+skills_80103_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Giant blade dikibas, menyebabkan damage, [FFD700] memukul mundur [-]musuh dan menambah efek [FFD700] bleed [-].
+skills_80103_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80103_captain_effect_desc
+
+skills_80103_comment
+Skill Iron Giant 1
+skills_80104_name
+Repression
+skills_80104_destiny_name
+True · Repression
+skills_80104_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah melompati lalu memukul tanah dengan pisau raksasa, menyebabkan damage dan [FFD700] memukul mundur [-].
+skills_80104_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah melompati lalu memukul tanah dengan pisau raksasa, menyebabkan damage dan [FFD700] memukul mundur [-]
+skills_80104_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80104_captain_effect_desc
+
+skills_80104_comment
+Skill Iron Giant 2
+skills_80105_name
+Giant attack
+skills_80105_destiny_name
+True · Giant attack
+skills_80105_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyerang maju, menyebabkan damage [FFD700] memukul mundur [-] musuh, menambah efek [FFD700] bleeding [-].
+skills_80105_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyerang maju, menyebabkan damage [FFD700] memukul mundur [-] musuh, menambah efek [FFD700] bleed [-]
+skills_80105_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80105_captain_effect_desc
+
+skills_80105_comment
+Skill
+skills_80201_name
+Menyemburkan api
+skills_80201_destiny_name
+True · Menyemburkan api
+skills_80201_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Membuka mulut terus menyemburkan api, menambah efek [FFD700] burn [-].
+skills_80201_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Membuka mulut terus menyemburkan api, menambah efek [FFD700] burn [-]
+skills_80201_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80201_captain_effect_desc
+
+skills_80201_comment
+Skill Fire Bomb 1
+skills_80202_name
+Kekuatan ledakan api
+skills_80202_destiny_name
+True · Kekuatan ledakan api
+skills_80202_desc
+Semua attack speed bertambah \n Dalam waktu tertentu menambah attack speed tim.
+skills_80202_destiny_desc
+Semua attack speed bertambah \n Setelah bersuara akan meledak, menyebabkan damage di musuh sekitarnya
+skills_80202_levelup_desc
+Semua attack speed bertambah
+skills_80202_captain_effect_desc
+
+skills_80202_comment
+Skill Fire Bomb 2
+skills_80203_name
+Explode!
+skills_80203_destiny_name
+True · Explode!
+skills_80203_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bersuara akan meledak, menyebabkan damage di musuh sekitarnya.
+skills_80203_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bersuara akan meledak, menyebabkan damage di musuh sekitarnya
+skills_80203_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80203_captain_effect_desc
+
+skills_80203_comment
+Skill
+skills_80302_name
+Advanced soldier seal
+skills_80302_destiny_name
+True · Advanced soldier seal
+skills_80302_desc
+Semua BP bertambah \n Dalam waktu tertentu BP tim bertambah.
+skills_80302_destiny_desc
+Semua BP bertambah \n Dalam waktu tertentu BP tim bertambah
+skills_80302_levelup_desc
+Semua BP bertambah
+skills_80302_captain_effect_desc
+
+skills_80302_comment
+Attack biasa Advanced Milites Soldier 2
+skills_80303_name
+Flame explosion
+skills_80303_destiny_name
+True · Flame bomb
+skills_80303_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan flame bomb, meledak di area pertama jatuhnya tembakan, menyebabkan damage di sekitarnya.
+skills_80303_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan flame bomb, meledak di area pertama jatuhnya tembakan, menyebabkan damage di sekitarnya.
+skills_80303_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80303_captain_effect_desc
+
+skills_80303_comment
+Skill Advanced Milites soldier 1
+skills_80304_name
+Machine raid
+skills_80304_destiny_name
+True · Machine raid
+skills_80304_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memanggil pesawat untuk menjatuhkan bomb, menyebabkan damage di sekitarnya.
+skills_80304_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memanggil pesawat untuk menjatuhkan bomb, menyebabkan damage di sekitarnya.
+skills_80304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80304_captain_effect_desc
+
+skills_80304_comment
+Skill
+skills_80402_name
+Swing attack
+skills_80402_destiny_name
+True · Swing attack
+skills_80402_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Maju mengayunkan serangan, menyebabkan damage dan memukul [FFD700] mundur [-] musuh , menambah efek freeze.
+skills_80402_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Maju mengayunkan serangan, menyebabkan damage dan memukul [FFD700] mundur [-] musuh , menambah efek [FFD700] freeze [-]
+skills_80402_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80402_captain_effect_desc
+
+skills_80402_comment
+Skill raksasa liar 1
+skills_80403_name
+Slam attack
+skills_80403_destiny_name
+True · Slam attack
+skills_80403_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memukul tanah, menyebabkan damage dan [FFD700] stun [-].
+skills_80403_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memukul tanah, menyebabkan damage dan [FFD700] stun [-]
+skills_80403_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80403_captain_effect_desc
+
+skills_80403_comment
+Skill raksasa liar 2
+skills_80404_name
+Brutal hit
+skills_80404_destiny_name
+True · Brutal hit
+skills_80404_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menerobos maju, menyebabkan damage [FFD700] memukul mundur [-] musuh, dan menambah efek freeze.
+skills_80404_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menerobos maju, menyebabkan damage [FFD700] memukul mundur [-] musuh, dan menambah efek [FFD700] freeze [-]
+skills_80404_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80404_captain_effect_desc
+
+skills_80404_comment
+Skill
+skills_80502_name
+Treatment
+skills_80502_destiny_name
+True · Cure
+skills_80502_desc
+Setiap detik memulihkan [CCFF66]{1}[-] HP \n Melemparkan magic bomb ke kaki dan membuat magic circle, tim teman yang berada dalam lingkaran akan mendapat blood kembali.
+skills_80502_destiny_desc
+Setiap detik memulihkan [CCFF66]{1}[-] HP \n Melemparkan magic bomb ke kaki dan membuat magic circle, tim teman yang berada dalam lingkaran akan mendapat blood kembali
+skills_80502_levelup_desc
+Setiap detik memulihkan [CCFF66]{1}[-] HP
+skills_80502_captain_effect_desc
+
+skills_80502_comment
+Skill
+skills_80503_name
+Self cure
+skills_80503_destiny_name
+True · Self cure
+skills_80503_desc
+Setiap detik restore [CCFF66]{1}[-] HP \n Saat melepas skill, memulihkan blood sendiri.
+skills_80503_destiny_desc
+Setiap detik restore [CCFF66]{1}[-] HP \n Saat melepas skill, memulihkan blood sendiri
+skills_80503_levelup_desc
+Setiap detik memulihkan [CCFF66]{1}[-] HP
+skills_80503_captain_effect_desc
+
+skills_80503_comment
+Skill Milites Medical soldier 1
+skills_80504_name
+Firm guard
+skills_80504_destiny_name
+True · Firm guard
+skills_80504_desc
+Semua defense bertambah \n Dalam waktu tertentu defense tim bertambah.
+skills_80504_destiny_desc
+Semua defense bertambah \n Dalam waktu tertentu defense tim bertambah
+skills_80504_levelup_desc
+Semua defense bertambah
+skills_80504_captain_effect_desc
+
+skills_80504_comment
+Skill Milites Medical soldier 2
+skills_80602_name
+Flame bomb
+skills_80602_destiny_name
+True · Flame bomb
+skills_80602_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, musuh yang pertama kali terkena akan mendapat damage dan efek [FFD700] burn [-].
+skills_80602_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas burn bomb, musuh yang pertama kali terkena akan mendapat damage dan efek [FFD700] burn [-]
+skills_80602_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80602_captain_effect_desc
+
+skills_80602_comment
+Skill Milites Airship soldier 1
+skills_80603_name
+Burn bomb
+skills_80603_destiny_name
+True · Burn bomb
+skills_80603_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, menyebabkan damage di sekitar dan berefek  [FFD700] burn [-] berkelanjutan.
+skills_80603_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, menyebabkan damage di sekitar dan berefek  [FFD700] burn [-] berkelanjutan
+skills_80603_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80603_captain_effect_desc
+
+skills_80603_comment
+Skill Milites Airship soldier 2
+skills_80604_name
+Rage burning
+skills_80604_destiny_name
+True · Rage burning
+skills_80604_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar beberapa burn bomb ke tanah, menyebabkan damage luas dan berefek [FFD700] burn [-] berkelanjutan.
+skills_80604_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar beberapa burn bomb ke tanah, menyebabkan damage luas dan berefek [FFD700] burn [-] berkelanjutan
+skills_80604_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80604_captain_effect_desc
+
+skills_80604_comment
+Skill
+skills_80701_name
+Violent stab
+skills_80701_destiny_name
+True · Violent stab
+skills_80701_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menusuk musuh dengan pisau tajam, menyebabkan damage dan menambah efek [FFD700] bleeding [-].
+skills_80701_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menusuk musuh dengan pisau tajam, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_80701_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80701_captain_effect_desc
+
+skills_80701_comment
+Skill Milites soldier 1
+skills_80702_name
+Combo
+skills_80702_destiny_name
+True · Combo
+skills_80702_desc
+Menimbulkan [CCFF66]{1}[-] damage \n attack 3 tahap, menyebabkan damage dan menambah efek [FFD700] bleeding [-].
+skills_80702_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n attack 3 tahap, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_80702_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80702_captain_effect_desc
+
+skills_80702_comment
+Skill
+skills_80802_name
+Ultrasonic attack
+skills_80802_destiny_name
+True · Ultrasonic attack
+skills_80802_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang maju [FFD700] menyerang mundur [-] musuh hingga jarak tertentu dan menyebabkan damage.
+skills_80802_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang maju [FFD700] menyerang mundur [-] musuh hingga jarak tertentu dan menyebabkan damage
+skills_80802_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80802_captain_effect_desc
+
+skills_80802_comment
+Skill kelelawar penghisap darah 1
+skills_80804_name
+Hunting howl
+skills_80804_destiny_name
+True · Hunting howl
+skills_80804_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan gelombang ultrasonik, menyebabkan damage dan [FFD700] menakuti [-] musuh.
+skills_80804_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan gelombang ultrasonik, menyebabkan damage dan menakuti musuh
+skills_80804_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80804_captain_effect_desc
+
+skills_80804_comment
+Skill
+skills_80902_name
+Into the ground
+skills_80902_destiny_name
+True · Into the ground
+skills_80902_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek freeze di sekitar pengeboran.
+skills_80902_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_80902_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80902_captain_effect_desc
+
+skills_80902_comment
+Skill Ice pudding 1
+skills_80903_name
+Raging explode
+skills_80903_destiny_name
+True · Raging explode
+skills_80903_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bernyanyi menyebabkan damage ke segala arah, musuh dalam cakupan nyanyian melambat, musuh yang kena damage akan freeze.
+skills_80903_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bernyanyi menyebabkan damage ke segala arah, musuh dalam cakupan nyanyian [FFD700] melambat [-], musuh yang kena damage akan freeze
+skills_80903_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80903_captain_effect_desc
+
+skills_80903_comment
+Skill
+skills_80904_name
+Kekuatan Ice pudding
+skills_80904_destiny_name
+True · Kekuatan Ice pudding
+skills_80904_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Dalam waktu tertentu menambah move speed tim.
+skills_80904_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bernyanyi menyebabkan damage ke segala arah, musuh dalam cakupan nyanyian [FFD700] melambat [-], musuh yang kena damage akan freeze
+skills_80904_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80904_captain_effect_desc
+
+skills_80904_comment
+Skill Ice pudding 2
+skills_80905_name
+Fire Pudding
+skills_80905_destiny_name
+True · Kekuatan Fire pudding
+skills_80905_desc
+Dapat [CCFF66]{3}[-] shield \n Transform menjadi form akhir fire pudding.
+skills_80905_destiny_desc
+Transformasi adalah form akhir Fire Pudding.
+skills_80905_levelup_desc
+Mendapat [CCFF66]{3}[-] shield
+skills_80905_captain_effect_desc
+
+skills_80905_comment
+Skill besar mini Fire pudding
+skills_80905_combo_value_destiny1
+17 detik
+skills_80905_combo_value_no_destiny1
+17 detik
+skills_80906_name
+Raging explode
+skills_80906_destiny_name
+True · Raging explode
+skills_80906_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan menyebabkan damage dan efek burn di sekitar pengeboran.
+skills_80906_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, menyebabkan damage di sekitar dan berefek  [FFD700] burn [-] berkelanjutan
+skills_80906_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80906_captain_effect_desc
+
+skills_80906_comment
+Serangan mini fire pudding 2
+skills_80907_name
+Flame Rage
+skills_80907_destiny_name
+True · Flame Rage
+skills_80907_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan api besar ke depan, menyebabkan damage yang berkelanjutan.
+skills_80907_destiny_desc
+Semua BP bertambah \n Melempar beberapa burn bomb ke depan, menyebabkan damage besar dan berefek [FFD700] burn [-] berkelanjutan
+skills_80907_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80907_captain_effect_desc
+
+skills_80907_comment
+Serangan mini fire pudding 2
+skills_80908_name
+True · Raging explode
+skills_80908_destiny_name
+True·True·Raging explode
+skills_80908_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan menyebabkan damage dan efek burn di sekitar pengeboran.
+skills_80908_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, menyebabkan damage di sekitar dan berefek  [FFD700] burn [-] berkelanjutan
+skills_80908_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80908_captain_effect_desc
+
+skills_80908_comment
+Skill Fire pudding 1
+skills_80909_name
+True · Flame Rage
+skills_80909_destiny_name
+True·True·Flame Rage
+skills_80909_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan api besar ke depan, menyebabkan damage yang berkelanjutan.
+skills_80909_destiny_desc
+Semua BP bertambah \n Melempar beberapa burn bomb ke depan, menyebabkan damage besar dan berefek [FFD700] burn [-] berkelanjutan
+skills_80909_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_80909_captain_effect_desc
+
+skills_80909_comment
+Skill fire pudding 2
+skills_81002_name
+Cold Rage
+skills_81002_destiny_name
+True · Cold Rage
+skills_81002_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Membuka mulut terus mengeluarkan hawa dingin, dan menambah efek freeze.
+skills_81002_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bernyanyi menyebabkan damage ke segala arah, musuh dalam cakupan nyanyian [FFD700] melambat [-], musuh yang kena damage akan freeze
+skills_81002_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81002_captain_effect_desc
+
+skills_81002_comment
+Skill Ice bomb 1
+skills_81003_name
+Explode!
+skills_81003_destiny_name
+True · Explode!
+skills_81003_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bersuara akan meledak, menyebabkan damage di musuh sekitarnya.
+skills_81003_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas burn bomb, musuh yang pertama kali terkena akan mendapat damage dan efek [FFD700] burn [-]
+skills_81003_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81003_captain_effect_desc
+
+skills_81003_comment
+Skill
+skills_81004_name
+Ice explode power
+skills_81004_destiny_name
+True · Ice explode power
+skills_81004_desc
+Semua defense bertambah \n Dalam waktu tertentu defense tim bertambah.
+skills_81004_destiny_desc
+Semua defense bertambah \n Melepas satu burn bomb ke depan, menyebabkan damage dan efek [FFD700] burn [-] terhadap musuh yang terkena pertama kali
+skills_81004_levelup_desc
+Semua defense bertambah
+skills_81004_captain_effect_desc
+
+skills_81004_comment
+Skill Ice bomb 2
+skills_81102_name
+Into the ground
+skills_81102_destiny_name
+True · Into the ground
+skills_81102_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan menyebabkan damage dan efek burn di sekitar pengeboran.
+skills_81102_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, menyebabkan damage di sekitar dan berefek  [FFD700] burn [-] berkelanjutan
+skills_81102_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81102_captain_effect_desc
+
+skills_81102_comment
+Skill Fire pudding 1
+skills_81103_name
+Flame Rage
+skills_81103_destiny_name
+True · Flame Rage
+skills_81103_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan api besar ke depan, menyebabkan damage yang berkelanjutan.
+skills_81103_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar beberapa burn bomb ke tanah, menyebabkan damage luas dan berefek [FFD700] burn [-] berkelanjutan
+skills_81103_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81103_captain_effect_desc
+
+skills_81103_comment
+Skill
+skills_81104_name
+Fire Pudding
+skills_81104_destiny_name
+True · Kekuatan Fire pudding
+skills_81104_desc
+Semua BP bertambah \n Dalam waktu yang ditentukan BP tim bertambah.
+skills_81104_destiny_desc
+Semua BP bertambah \n Melempar beberapa burn bomb ke depan, menyebabkan damage besar dan berefek [FFD700] burn [-] berkelanjutan
+skills_81104_levelup_desc
+Semua BP bertambah
+skills_81104_captain_effect_desc
+
+skills_81104_comment
+Skill fire pudding 2
+skills_81202_name
+Menjaga teritori udara
+skills_81202_destiny_name
+True · Menjaga teritori udara
+skills_81202_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang berputar dalam satu wilayah, menyebabkan damage dan [FFD700] membakar [-] musuh yang terkena.
+skills_81202_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menusuk musuh dengan pisau tajam, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_81202_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81202_captain_effect_desc
+
+skills_81202_comment
+Skill
+skills_81203_name
+Menyemburkan api
+skills_81203_destiny_name
+True · Menyemburkan api
+skills_81203_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyemburkan api ke area bentuk kipas di depan, menyebabkan damage dan efek [FFD700] burn [-] di sekitarnya.
+skills_81203_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n attack 3 tahap, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_81203_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81203_captain_effect_desc
+
+skills_81203_comment
+Skill fire dragon 1
+skills_81204_name
+Fire dragon roar
+skills_81204_destiny_name
+True · Fire dragon roar
+skills_81204_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Fire dragon meraung, menyebabkan efek [FFD700] fear [-] terhadap musuh di sekitar.
+skills_81204_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang maju [FFD700] menyerang mundur [-] musuh hingga jarak tertentu dan menyebabkan damage
+skills_81204_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81204_captain_effect_desc
+
+skills_81204_comment
+Skill fire dragon 2
+skills_81302_name
+Fatal horn
+skills_81302_destiny_name
+True · Fatal horn
+skills_81302_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyerang maju, menyebabkan damage [FFD700] memukul mundur [-] dan menambah efek [FFD700] stun [-] terhadap musuh.
+skills_81302_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan gelombang ultrasonik, menyebabkan damage dan menakuti musuh
+skills_81302_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81302_captain_effect_desc
+
+skills_81302_comment
+Skill
+skills_81303_name
+Double shock
+skills_81303_destiny_name
+True · Double shock
+skills_81303_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengangkat musuh dengan tanduk, berefek [FFD700] memukul mundur [-].
+skills_81303_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_81303_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81303_captain_effect_desc
+
+skills_81303_comment
+Skill Double horn 1
+skills_81304_name
+War roar
+skills_81304_destiny_name
+True · War roar
+skills_81304_desc
+Semua attack speed bertambah \n Mengeluarkan raungan, dalam waktu tertentu attack speed tim bertambah.
+skills_81304_destiny_desc
+Semua attack speed bertambah \n Setelah bernyanyi menyebabkan damage ke segala arah, saat bernyanyi musuh di sekitar akan [FFD700] melambat [-], musuh yang terkena damage akan freeze
+skills_81304_levelup_desc
+Semua attack speed bertambah
+skills_81304_captain_effect_desc
+
+skills_81304_comment
+Skill Double horn 2
+skills_81402_name
+Giant bite
+skills_81402_destiny_name
+True · Giant bite
+skills_81402_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Hit musuh dan menambah efek [FFD700] stun [-].
+skills_81402_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bernyanyi menyebabkan damage ke segala arah, musuh dalam cakupan nyanyian [FFD700] melambat [-], musuh yang kena damage akan freeze
+skills_81402_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81402_captain_effect_desc
+
+skills_81402_comment
+Skill centipedes 1
+skills_81403_name
+Hundred feet dance
+skills_81403_destiny_name
+True · Hundred feet dance
+skills_81403_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengigit musuh hingga terluka dan bergulung ke arah musuh [FFD700] menyerang mundur [-], menyebabkan damage berkelanjutan dan menekan musuh.
+skills_81403_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bernyanyi menyebabkan damage ke segala arah, musuh dalam cakupan nyanyian [FFD700] melambat [-], musuh yang kena damage akan freeze
+skills_81403_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81403_captain_effect_desc
+
+skills_81403_comment
+Skill
+skills_81502_name
+Arrogant
+skills_81502_destiny_name
+True · Arrogant
+skills_81502_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Maju perlahan, menyebabkan damage dan [FFD700] memukul mundur [-] musuh yang tertabrak.
+skills_81502_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas burn bomb, musuh yang pertama kali terkena akan mendapat damage dan efek [FFD700] burn [-]
+skills_81502_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81502_captain_effect_desc
+
+skills_81502_comment
+Skill
+skills_81503_name
+Giant tortoise bite
+skills_81503_destiny_name
+True · Giant tortoise bite
+skills_81503_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mencabik-cabik dan menekan target.
+skills_81503_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepas satu burn bomb, menyebabkan damage di sekitar dan berefek  [FFD700] burn [-] berkelanjutan
+skills_81503_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81503_captain_effect_desc
+
+skills_81503_comment
+Skill Broken teeth Metal Tortoise 1
+skills_81504_name
+Giant tortoise step
+skills_81504_destiny_name
+True · Giant tortoise step
+skills_81504_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memukul tanah, menyebabkan damage dan [FFD700] memukul mundur [-] musuh.
+skills_81504_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melempar beberapa burn bomb ke tanah, menyebabkan damage luas dan berefek [FFD700] burn [-] berkelanjutan
+skills_81504_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81504_captain_effect_desc
+
+skills_81504_comment
+Skill Broken teeth Metal Tortoise 2
+skills_81602_name
+Shield attack
+skills_81602_destiny_name
+True · Shield attack
+skills_81602_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Berlari hingga jarak tertentu ke depan menggunakan shield menyerang musuh, dan [FFD700] memukul mundur [-] musuh.
+skills_81602_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menusuk musuh dengan pisau tajam, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_81602_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81602_captain_effect_desc
+
+skills_81602_comment
+Skill Raid Soldier 1
+skills_81603_name
+Shield guard
+skills_81603_destiny_name
+True · Shield guard
+skills_81603_desc
+Semua mendapat waktu singkat tanpa musuh \n Berlari hingga jarak tertentu ke depan membuat area sekitar target tidak ada musuh dalam waktu singkat.
+skills_81603_destiny_desc
+Semua mendapat waktu singkat tanpa musuh \n attack 3 tahap, menyebabkan damage dan efek [FFD700] bleed [-] terhadap musuh
+skills_81603_levelup_desc
+Semua mendapat waktu singkat tanpa musuh
+skills_81603_captain_effect_desc
+
+skills_81603_comment
+Skill
+skills_81702_name
+Magic flower charm
+skills_81702_destiny_name
+True · Magic flower charm
+skills_81702_desc
+Menyebabkan [CCFF66]{1}[-] damage \n Terus melepas attack, musuh di sekitar perlahan [FFD700] ditarik [-] mendekat dan menyebabkan damage.
+skills_81702_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang maju [FFD700] menyerang mundur [-] musuh hingga jarak tertentu dan menyebabkan damage
+skills_81702_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81702_captain_effect_desc
+
+skills_81702_comment
+Skill
+skills_81703_name
+Flower poison
+skills_81703_destiny_name
+True · Flower poison
+skills_81703_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyemburkan hawa beracun, menambah efek poison.
+skills_81703_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan gelombang ultrasonik, menyebabkan damage dan menakuti musuh
+skills_81703_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81703_captain_effect_desc
+
+skills_81703_comment
+Skill magic flower 1
+skills_81704_name
+Flower grind
+skills_81704_destiny_name
+True · Flower grind
+skills_81704_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Lompat dan memukul tanah, menyebabkan damage di sekitar dan [FFD700] stun [-].
+skills_81704_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_81704_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81704_captain_effect_desc
+
+skills_81704_comment
+Skill magic flower 2
+skills_81802_name
+Into the ground
+skills_81802_destiny_name
+True · Into the ground
+skills_81802_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor sampai bawah tanah dan terus [FFD700] menarik [-] musuh dari segala arah, lalu menyebabkan damage dan menambah efek [FFD700] shock [-].
+skills_81802_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_81802_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81802_captain_effect_desc
+
+skills_81802_comment
+Skill thunder pudding  1
+skills_81803_name
+Thunder shock
+skills_81803_destiny_name
+True · Thunder shock
+skills_81803_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Membuat lingkaran listrik di sekeliling karakter, menambah move speed tim teman dalam lingkaran ini dan memulihkan blood.
+skills_81803_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_81803_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81803_captain_effect_desc
+
+skills_81803_comment
+Skill
+skills_81804_name
+Kekuatan thunder pudding
+skills_81804_destiny_name
+True · Kekuatan Thunder pudding
+skills_81804_desc
+Semua hit bertambah dalam waktu tertentu perlahan memulihkan energi tim.
+skills_81804_destiny_desc
+Semua hit bertambah, mengebor sampai bawah tanah dan memulihkan blood, lalu setelah mengebor menyebabkan damage dan efek [FFD700] freeze [-] di sekitarnya
+skills_81804_levelup_desc
+Semua hit bertambah
+skills_81804_captain_effect_desc
+
+skills_81804_comment
+Skill Thunder pudding 2
+skills_81902_name
+Thunder attack
+skills_81902_destiny_name
+True · Thunder attack
+skills_81902_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Buka mulut dan menyemburkan Thunder ball, melewati musuh menambah efek [FFD700] shock [-].
+skills_81902_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_81902_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81902_captain_effect_desc
+
+skills_81902_comment
+Skill Thunder Bomb 1
+skills_81903_name
+Explode!
+skills_81903_destiny_name
+True · Explode!
+skills_81903_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah bersuara akan meledak, menyebabkan damage di musuh sekitarnya.
+skills_81903_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_81903_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_81903_captain_effect_desc
+
+skills_81903_comment
+Skill
+skills_81904_name
+Thunder power
+skills_81904_destiny_name
+True · Thunder power
+skills_81904_desc
+Memulihkan [CCFF66]{1}[-] HP tim \n Dalam waktu tertentu memulihkan blood seluruh tim.
+skills_81904_destiny_desc
+Memulihkan [CCFF66]{1}[-] HP tim \n Mengebor sampai bawah tanah dan memulihkan blood, menyebabkan damage dan menambah efek [FFD700] freeze [-] di sekitarnya
+skills_81904_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP tim
+skills_81904_captain_effect_desc
+
+skills_81904_comment
+Skill Thunder Bomb 2
+skills_82002_name
+Crazy tail whip
+skills_82002_destiny_name
+True · Crazy tail whip
+skills_82002_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terus mengibas dengan hebat, menyebabkan damage dan [FFD700] memukul mundur [-].
+skills_82002_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_82002_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82002_captain_effect_desc
+
+skills_82002_comment
+Skill
+skills_82003_name
+Tail whip
+skills_82003_destiny_name
+True · Tail whip
+skills_82003_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengibaskan ekor mendekati lalu [FFD700] memukul mundur [-] musuh dan menyebabkan damage.
+skills_82003_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_82003_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82003_captain_effect_desc
+
+skills_82003_comment
+Skill fierce dragon 1
+skills_82004_name
+Fierce dragon roar
+skills_82004_destiny_name
+True · Fierce dragon roar
+skills_82004_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Meraung menyebabkan damage dan menambah efek [FFD700]fear [-].
+skills_82004_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_82004_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82004_captain_effect_desc
+
+skills_82004_comment
+Skill fierce dragon 2
+skills_82102_name
+Lightning ball
+skills_82102_destiny_name
+True · Thunder ball
+skills_82102_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan satu thunder ball, menyebabkan damage dan penembakan.
+skills_82102_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_82102_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82102_captain_effect_desc
+
+skills_82102_comment
+Skill thunder dragon 1
+skills_82103_name
+Lightning bomb
+skills_82103_destiny_name
+True · Lightning bomb
+skills_82103_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah mengumpulkan tenaga lalu memancarkan kilat, menyebabkan damage berkelanjutan.
+skills_82103_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengebor ke bawah tanah dan memulihkan blood, menyebabkan damage dan efek [FFD700] freeze [-] di sekitar pengeboran
+skills_82103_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82103_captain_effect_desc
+
+skills_82103_comment
+Skill
+skills_82203_name
+Giant blade dance
+skills_82203_destiny_name
+True · Giant blade dance
+skills_82203_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Giant blade diayunkan, menyebabkan damage, [FFD700] memukul mundur [-] musuh dan menambah efek [FFD700] bleeding [-].
+skills_82203_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Giant blade dikibas, menyebabkan damage, [FFD700] memukul mundur [-]musuh dan menambah efek [FFD700] bleed [-].
+skills_82203_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82203_captain_effect_desc
+
+skills_82203_comment
+Skill Iron giant blue 1
+skills_82204_name
+Giant split attack
+skills_82204_destiny_name
+True · Giant split attack
+skills_82204_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah melompati lalu memukul tanah dengan pisau raksasa, menyebabkan damage dan [FFD700] memukul mundur [-].
+skills_82204_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Setelah melompati lalu memukul tanah dengan pisau raksasa, menyebabkan damage dan [FFD700] memukul mundur [-]
+skills_82204_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82204_captain_effect_desc
+
+skills_82204_comment
+Skill Iron giant blue 2
+skills_82205_name
+Giant power
+skills_82205_destiny_name
+True · Giant power
+skills_82205_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyerang maju, menyebabkan damage [FFD700] memukul mundur [-] musuh, menambah efek [FFD700] bleeding [-].
+skills_82205_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyerang maju, menyebabkan damage [FFD700] memukul mundur [-] musuh, menambah efek [FFD700] bleed [-]
+skills_82205_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82205_captain_effect_desc
+
+skills_82205_comment
+Skill
+skills_82302_name
+Menjaga teritori udara
+skills_82302_destiny_name
+True · Menjaga teritori udara
+skills_82302_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang berputar dalam satu wilayah, menyebabkan damage dan [FFD700] membakar [-] musuh yang terkena.
+skills_82302_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menusuk musuh dengan pisau tajam, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_82302_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82302_captain_effect_desc
+
+skills_82302_comment
+Skill
+skills_82303_name
+Circle sweep
+skills_82303_destiny_name
+True · Circle sweep
+skills_82303_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menyemburkan api ke area bentuk kipas di depan, menyebabkan damage dan efek [FFD700] burn [-] di sekitarnya.
+skills_82303_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n attack 3 tahap, menyebabkan damage dan menambah efek [FFD700] bleed [-]
+skills_82303_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82303_captain_effect_desc
+
+skills_82303_comment
+Skill fire dragon ungu 1
+skills_82304_name
+Thunder roar
+skills_82304_destiny_name
+True · Thunder roar
+skills_82304_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Fire dragon meraung, menyebabkan efek [FFD700] fear [-] terhadap musuh di sekitar.
+skills_82304_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Terbang maju [FFD700] menyerang mundur [-] musuh hingga jarak tertentu dan menyebabkan damage
+skills_82304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_82304_captain_effect_desc
+
+skills_82304_comment
+Skill Flame dragon ungu 2
+skills_90103_name
+Contoh skill Nine 1
+skills_90103_destiny_name
+True · Contoh skill Nine 1
+skills_90103_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90103_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Nine mengirim raungan perang, melakukan double attack, mengurangi semua damage dan mengembalikannya pada musuh, selama 3 detik
+skills_90103_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90103_captain_effect_desc
+
+skills_90103_comment
+Skill Nine 1
+skills_90104_name
+Contoh skill Nine 2
+skills_90104_destiny_name
+True · Contoh skill Nine 2
+skills_90104_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90104_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Nine menusuk tanah, membangkitkan pecahan batu menyerang dan [FFD700] memukul mundur [-] musuh
+skills_90104_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90104_captain_effect_desc
+
+skills_90104_comment
+Skill Nine 2
+skills_90105_name
+Absolute provoke
+skills_90105_destiny_name
+True · Absolute provoke
+skills_90105_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melompat dan menyerang target , menyebabkan damage dan [FFD700] memukul mundur [-] musuh, memasuki status violent, damage bertambah 30%
+skills_90105_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Break skill [-], Nine Melompat dan menyerang target , menyebabkan damage dan [FFD700] memukul mundur [-] musuh, memasuki status violent, damage bertambah 30%
+skills_90105_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90105_captain_effect_desc
+
+skills_90105_comment
+Skill Nine
+skills_90203_name
+Contoh skill Nine 1
+skills_90203_destiny_name
+True · Contoh skill Nine 1
+skills_90203_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90203_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Nine mengirim raungan perang, melakukan double attack, mengurangi semua damage dan mengembalikannya pada musuh, selama 3 detik
+skills_90203_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90203_captain_effect_desc
+
+skills_90203_comment
+Skill Nine 1
+skills_90204_name
+Contoh skill Nine 2
+skills_90204_destiny_name
+True · Contoh skill Nine 2
+skills_90204_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90204_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Nine menusuk tanah, membangkitkan pecahan batu menyerang dan [FFD700] memukul mundur [-] musuh
+skills_90204_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90204_captain_effect_desc
+
+skills_90204_comment
+Skill Nine 2
+skills_90205_name
+Absolute provoke
+skills_90205_destiny_name
+True · Absolute provoke
+skills_90205_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melompat dan menyerang target , menyebabkan damage dan [FFD700] memukul mundur [-] musuh, memasuki status violent, damage bertambah 30%
+skills_90205_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Break skill [-], Nine Melompat dan menyerang target , menyebabkan damage dan [FFD700] memukul mundur [-] musuh, memasuki status violent, damage bertambah 30%
+skills_90205_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90205_captain_effect_desc
+
+skills_90205_comment
+Skill Nine
+skills_90303_name
+Contoh skill Nine 1
+skills_90303_destiny_name
+True · Contoh skill Nine 1
+skills_90303_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90303_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Nine mengirim raungan perang, melakukan double attack, mengurangi semua damage dan mengembalikannya pada musuh, selama 3 detik
+skills_90303_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90303_captain_effect_desc
+
+skills_90303_comment
+Skill Nine 1
+skills_90304_name
+Contoh skill Nine 2
+skills_90304_destiny_name
+True · Contoh skill Nine 2
+skills_90304_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90304_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Nine menusuk tanah, membangkitkan pecahan batu menyerang dan [FFD700] memukul mundur [-] musuh
+skills_90304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90304_captain_effect_desc
+
+skills_90304_comment
+Skill Nine 2
+skills_90305_name
+Absolute provoke
+skills_90305_destiny_name
+True · Absolute provoke
+skills_90305_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Melompat dan menyerang target , menyebabkan damage dan [FFD700] memukul mundur [-] musuh, memasuki status violent, damage bertambah 30%
+skills_90305_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Break skill [-], Nine Melompat dan menyerang target , menyebabkan damage dan [FFD700] memukul mundur [-] musuh, memasuki status violent, damage bertambah 30%
+skills_90305_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90305_captain_effect_desc
+
+skills_90305_comment
+Skill Nine
+skills_90404_name
+Strong shield
+skills_90404_destiny_name
+True · Strong shield
+skills_90404_desc
+Membuat sebuah shield penahan [CCFF66] 30% [-] damage \n Memuja kehendak kuat, mengurangi damage teman dengan HP terendah dan memberi shield, selama 5 detik
+skills_90404_destiny_desc
+Membuat sebuah shield penahan [CCFF66] 30% [-] damage \n Queen memuja kehendak kuat, mengurangi damage teman dengan HP terendah dan memberi shield, selama 5 detik
+skills_90404_levelup_desc
+Membuat sebuah shield penahan [CCFF66] 30% [-] damage
+skills_90404_captain_effect_desc
+
+skills_90404_comment
+Skill Queen 1
+skills_90405_name
+Soul hit
+skills_90405_destiny_name
+True · Soul hit
+skills_90405_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90405_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Break skill [-], menusukkan sword ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_90405_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90405_captain_effect_desc
+
+skills_90405_comment
+Skill Queen 2
+skills_90406_name
+Ruling
+skills_90406_destiny_name
+True · Ruling
+skills_90406_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n Mengangkat long sword, menuntun kedatangan petir dan cahaya suci, menyembuhkan teman di sekitar dan melukai musuh
+skills_90406_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n Queen mengangkat long sword, menuntun kedatangan petir dan cahaya suci, menyembuhkan teman di sekitar dan melukai musuh
+skills_90406_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure
+skills_90406_captain_effect_desc
+
+skills_90406_comment
+Skill Queen
+skills_90704_name
+Frost Ray
+skills_90704_destiny_name
+True · Frost Ray
+skills_90704_desc
+Menimbulkan [CCFF66]{1}[-] damage \n  Chancellor menembakkan Frost Ray, menyebabkan damage terhadap musuh di depan
+skills_90704_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n  Chancellor menembakkan Frost Ray, menyebabkan damage terhadap musuh di depan
+skills_90704_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90704_captain_effect_desc
+
+skills_90704_comment
+Skill Male Mage 1
+skills_90705_name
+Frost thorn
+skills_90705_destiny_name
+True · Frost thorn
+skills_90705_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan udara dingin dari tanah menjadi frost thorn, menyebabkan damage terhadap musuh di area berbentuk kipas
+skills_90705_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan udara dingin dari tanah menjadi frost thorn, menyebabkan damage terhadap musuh di area berbentuk kipas
+skills_90705_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90705_captain_effect_desc
+
+skills_90705_comment
+Skill Male Mage 2
+skills_90706_name
+Winter is coming
+skills_90706_destiny_name
+True · Winter is coming
+skills_90706_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan semua udara dingin, membentuk bola es raksasa di langit, dijatuhkan dan meledak menyerang musuh
+skills_90706_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan semua udara dingin, membentuk bola es raksasa di langit, dijatuhkan dan meledak menyerang musuh
+skills_90706_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90706_captain_effect_desc
+
+skills_90706_comment
+Skill Male Mage
+skills_90804_name
+Frost Ray
+skills_90804_destiny_name
+True · Frost Ray
+skills_90804_desc
+Menimbulkan [CCFF66]{1}[-] damage \n  Chancellor menembakkan Frost Ray, menyebabkan damage terhadap musuh di depan
+skills_90804_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n  Chancellor menembakkan Frost Ray, menyebabkan damage terhadap musuh di depan
+skills_90804_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90804_captain_effect_desc
+
+skills_90804_comment
+Skill Male Mage 1
+skills_90805_name
+Frost thorn
+skills_90805_destiny_name
+True · Frost thorn
+skills_90805_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan udara dingin dari tanah menjadi frost thorn, menyebabkan damage terhadap musuh di area berbentuk kipas
+skills_90805_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan udara dingin dari tanah menjadi frost thorn, menyebabkan damage terhadap musuh di area berbentuk kipas
+skills_90805_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90805_captain_effect_desc
+
+skills_90805_comment
+Skill Male Mage 2
+skills_90806_name
+Winter is coming
+skills_90806_destiny_name
+True · Winter is coming
+skills_90806_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan semua udara dingin, membentuk bola es raksasa di langit, dijatuhkan dan meledak menyerang musuh
+skills_90806_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan semua udara dingin, membentuk bola es raksasa di langit, dijatuhkan dan meledak menyerang musuh
+skills_90806_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90806_captain_effect_desc
+
+skills_90806_comment
+Skill Male Mage
+skills_90904_name
+Frost Ray
+skills_90904_destiny_name
+True · Frost Ray
+skills_90904_desc
+Menimbulkan [CCFF66]{1}[-] damage \n  Chancellor menembakkan Frost Ray, menyebabkan damage terhadap musuh di depan
+skills_90904_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n  Chancellor menembakkan Frost Ray, menyebabkan damage terhadap musuh di depan
+skills_90904_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90904_captain_effect_desc
+
+skills_90904_comment
+Skill Male Mage 1
+skills_90905_name
+Frost thorn
+skills_90905_destiny_name
+True · Frost thorn
+skills_90905_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan udara dingin dari tanah menjadi frost thorn, menyebabkan damage terhadap musuh di area berbentuk kipas
+skills_90905_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan udara dingin dari tanah menjadi frost thorn, menyebabkan damage terhadap musuh di area berbentuk kipas
+skills_90905_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90905_captain_effect_desc
+
+skills_90905_comment
+Skill Male Mage 2
+skills_90906_name
+Winter is coming
+skills_90906_destiny_name
+True · Winter is coming
+skills_90906_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan semua udara dingin, membentuk bola es raksasa di langit, dijatuhkan dan meledak menyerang musuh
+skills_90906_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Chancellor mengumpulkan semua udara dingin, membentuk bola es raksasa di langit, dijatuhkan dan meledak menyerang musuh
+skills_90906_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_90906_captain_effect_desc
+
+skills_90906_comment
+Skill Male Mage
+skills_91008_name
+Heroic Concerto
+skills_91008_destiny_name
+True · Heroic Concerto
+skills_91008_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memulihkan HP teman terendah atau HP karakter sendiri
+skills_91008_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memulihkan HP teman terendah atau HP karakter sendiri
+skills_91008_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_91008_captain_effect_desc
+
+skills_91008_comment
+Skill Deuce 1
+skills_91009_name
+Frozen Aria
+skills_91009_destiny_name
+True · Frozen Aria
+skills_91009_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepaskan sebuah Ice crystal menyerang tim musuh
+skills_91009_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Melepaskan sebuah Ice crystal menyerang musuh
+skills_91009_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_91009_captain_effect_desc
+
+skills_91009_comment
+Skill Deuce 2
+skills_91011_name
+Hymn of Hope
+skills_91011_destiny_name
+True · Hymn of Hope
+skills_91011_desc
+Memulihkan [CCFF66]{2}[-] HP tim \n Memainkan puisi harapan, memulihkan HP semua tim teman, selama 10 detik
+skills_91011_destiny_desc
+Memulihkan [CCFF66]{2}[-] HP tim \n Tiz memainkan puisi harapan, memulihkan HP semua tim teman, selama 10 detik
+skills_91011_levelup_desc
+Memulihkan [CCFF66]{2}[-] HP tim
+skills_91011_captain_effect_desc
+
+skills_91011_comment
+Skill Deuce
+skills_91308_name
+Shadow fist
+skills_91308_destiny_name
+True · Shadow Fist
+skills_91308_desc
+Mengakibatkan damage [CCFF66]{1}[-] \n Mengeluarkan Phantom hit terhadap musuh di depan, phantom akan melukai target, dan meledak menyebabkan damage di sekitarnya
+skills_91308_destiny_desc
+Mengakibatkan damage [CCFF66]{1}[-] \n Eight mengeluarkan phantom hit terhadap musuh di depan, phantom akan melukai target, dan meledak menyebabkan damage di sekitarnya
+skills_91308_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_91308_captain_effect_desc
+
+skills_91308_comment
+Skill Eight 1
+skills_91309_name
+Explosion
+skills_91309_destiny_name
+True · Meledak
+skills_91309_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Meraung menyebabkan damage dan [FFD700] memukul mundur [-] musuh, juga menjadi shield pengurang damage
+skills_91309_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Meraung menyebabkan damage dan [FFD700] memukul mundur [-] musuh, juga menyediakan shield pengurang damage untuk Eight
+skills_91309_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_91309_captain_effect_desc
+
+skills_91309_comment
+Skill Eight 2
+skills_91311_name
+Bombard
+skills_91311_destiny_name
+True · Bombard
+skills_91311_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepaskan tendangan tajam menembakkan satu revenge bomb, menyebabkan damage dan efek stun
+skills_91311_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Break skill [-], Eight melepaskan tendangan tajam menembakkan satu revenge bomb, menyebabkan damage dan efek stun
+skills_91311_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_91311_captain_effect_desc
+
+skills_91311_comment
+Skill Eight
+skills_200108_name
+Shadow fist
+skills_200108_destiny_name
+True · Shadow Fist
+skills_200108_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memukulkan shadow fist ke arah depan, shadow menyebabkan damage ke target
+skills_200108_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200108_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200108_captain_effect_desc
+
+skills_200108_comment
+Skill Eight 1
+skills_200109_name
+Declare victory
+skills_200109_destiny_name
+True · Declare victory
+skills_200109_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengeluarkan courage roar, menyebabkan damage dan [FFD700] memukul mundur [-] musuh di sekitar
+skills_200109_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200109_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200109_captain_effect_desc
+
+skills_200109_comment
+Skill Eight 2
+skills_200111_name
+Bombard
+skills_200111_destiny_name
+True · Bombard
+skills_200111_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melepaskan tendangan tajam dan [FFD700] memukul mundur [-] satu musuh
+skills_200111_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200111_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200111_captain_effect_desc
+
+skills_200111_comment
+Skill Eight
+skills_200204_name
+Exploding arrow
+skills_200204_destiny_name
+True · Exploding arrow
+skills_200204_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menembakkan satu exploding arrow, menyebabkan damage dan kemungkinan [FFD700] burn [-]
+skills_200204_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200204_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200204_captain_effect_desc
+
+skills_200204_comment
+Skill Trey 1
+skills_200205_name
+Arrow rain
+skills_200205_destiny_name
+True · Arrow rain
+skills_200205_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan satu flame arrow ke udara, saat jatuh akan membuat api besar menyebabkan damage berkelanjutan
+skills_200205_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200205_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200205_captain_effect_desc
+
+skills_200205_comment
+Skill Trey 2
+skills_200206_name
+Burst arrow
+skills_200206_destiny_name
+True · Burst arrow
+skills_200206_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menembakkan banyak arrow dengan cepat ke musuh di sekeliling
+skills_200206_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200206_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200206_captain_effect_desc
+
+skills_200206_comment
+Skill Trey
+skills_200304_name
+Warfare guard
+skills_200304_destiny_name
+True · Warfare guard
+skills_200304_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Mengumpulkan kekuatan, menyebabkan damage pada musuh.
+skills_200304_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200304_captain_effect_desc
+
+skills_200304_comment
+Skill Nine 1
+skills_200305_name
+Shock power
+skills_200305_destiny_name
+True · Shock power
+skills_200305_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], melewati daratan berduri, menyebabkan damage di sekitar.
+skills_200305_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200305_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200305_captain_effect_desc
+
+skills_200305_comment
+Skill Nine 2
+skills_200306_name
+Absolute provoke
+skills_200306_destiny_name
+True · Absolute provoke
+skills_200306_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], Lompat masuk ke area target, menyebabkan damage berkelanjutan dan membuat musuh [FFD700] immobilize [-]
+skills_200306_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200306_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200306_captain_effect_desc
+
+skills_200306_comment
+Skill Nine
+skills_200404_name
+Life bloom
+skills_200404_destiny_name
+True · Life bloom
+skills_200404_desc
+Memulihkan [CCFF66]{1}[-] HP \n Summon flower of life, terus memulihkan blood tim di sekitar.
+skills_200404_destiny_desc
+Memulihkan [CCFF66]{1}[-] HP \n Roll
+skills_200404_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_200404_captain_effect_desc
+
+skills_200404_comment
+Skill Deuce 1
+skills_200405_name
+Entangled roots
+skills_200405_destiny_name
+True · Entangled roots
+skills_200405_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menjatuhkan 1 bibit ke arah musuh, menyebabkan damage dan melilit musuh hingga tidak bisa bergerak.
+skills_200405_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200405_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200405_captain_effect_desc
+
+skills_200405_comment
+Skill Deuce 2
+skills_200406_name
+Hymn of Hope
+skills_200406_destiny_name
+True · Hymn of Hope
+skills_200406_desc
+Memulihkan [CCFF66]{2}[-] HP tim \n Memainkan puisi harapan, memulihkan HP semua tim teman, selama 10 detik
+skills_200406_destiny_desc
+Memulihkan [CCFF66]{2}[-] HP tim \n Roll
+skills_200406_levelup_desc
+Memulihkan [CCFF66]{2}[-] HP tim
+skills_200406_captain_effect_desc
+
+skills_200406_comment
+Skill Deuce
+skills_200504_name
+Strong shield
+skills_200504_destiny_name
+True · Strong shield
+skills_200504_desc
+Memulihkan [CCFF66]{1}[-] HP \n Mengeluarkan cure chain untuk menyembuhkan diri sendiri dan 1 teman, dan memencarkan efek debuff
+skills_200504_destiny_desc
+Memulihkan [CCFF66]{1}[-] HP \n Roll
+skills_200504_levelup_desc
+Memulihkan [CCFF66]{1}[-] HP
+skills_200504_captain_effect_desc
+
+skills_200504_comment
+Skill Queen 1
+skills_200505_name
+Soul hit
+skills_200505_destiny_name
+True · Soul hit
+skills_200505_desc
+Menimbulkan [CCFF66]{1}[-] damage \n [FFD700] Skill break [-], menusukkan pedang ke tanah, melukai dan mengurangi 10% BP musuh di sekitar, selama 8 detik
+skills_200505_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Roll
+skills_200505_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_200505_captain_effect_desc
+
+skills_200505_comment
+Skill Queen 2
+skills_200506_name
+Ruling
+skills_200506_destiny_name
+True · Ruling
+skills_200506_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n Mengangkat long sword, menuntun kedatangan petir dan cahaya suci, menyembuhkan teman di sekitar dan menyebabkan [FFD700] holy damage [-] terhadap musuh
+skills_200506_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n Roll
+skills_200506_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure
+skills_200506_captain_effect_desc
+
+skills_200506_comment
+Skill Queen
+skills_900197_name
+Switch split
+skills_900197_destiny_name
+True · Switch split
+skills_900197_desc
+
+skills_900197_destiny_desc
+Roll
+skills_900197_levelup_desc
+
+skills_900197_captain_effect_desc
+
+skills_900197_comment
+Test
+skills_900198_name
+Keluar dari status battle
+skills_900198_destiny_name
+True · keluar dari status battle
+skills_900198_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_900198_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n0
+skills_900198_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_900198_captain_effect_desc
+
+skills_900198_comment
+
+skills_900199_name
+Masuk ke status battle
+skills_900199_destiny_name
+True · Masuk ke status battle
+skills_900199_desc
+Menimbulkan [CCFF66]{1}[-] damage \n
+skills_900199_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n0
+skills_900199_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_900199_captain_effect_desc
+
+skills_900199_comment
+
+skills_9000201_name
+Switch split
+skills_9000201_destiny_name
+True · Switch split
+skills_9000201_desc
+
+skills_9000201_destiny_desc
+Roll
+skills_9000201_levelup_desc
+
+skills_9000201_captain_effect_desc
+
+skills_9000201_comment
+Test
+skills_9000202_name
+Switch split
+skills_9000202_destiny_name
+True · Switch split
+skills_9000202_desc
+
+skills_9000202_destiny_desc
+Roll
+skills_9000202_levelup_desc
+
+skills_9000202_captain_effect_desc
+
+skills_9000202_comment
+Test
+skills_9000203_name
+Switch split
+skills_9000203_destiny_name
+True · Switch split
+skills_9000203_desc
+
+skills_9000203_destiny_desc
+Roll
+skills_9000203_levelup_desc
+
+skills_9000203_captain_effect_desc
+
+skills_9000203_comment
+Test
+skills_9000204_name
+Switch split
+skills_9000204_destiny_name
+True · Switch split
+skills_9000204_desc
+
+skills_9000204_destiny_desc
+Roll
+skills_9000204_levelup_desc
+
+skills_9000204_captain_effect_desc
+
+skills_9000204_comment
+Test
+skills_9000205_name
+Switch split
+skills_9000205_destiny_name
+True · Switch split
+skills_9000205_desc
+
+skills_9000205_destiny_desc
+Roll
+skills_9000205_levelup_desc
+
+skills_9000205_captain_effect_desc
+
+skills_9000205_comment
+Test
+skills_9000206_name
+Switch split
+skills_9000206_destiny_name
+True · Switch split
+skills_9000206_desc
+
+skills_9000206_destiny_desc
+Roll
+skills_9000206_levelup_desc
+
+skills_9000206_captain_effect_desc
+
+skills_9000206_comment
+Test
+skills_990105_name
+Skill test01 1
+skills_990105_destiny_name
+True · Skill test01 1
+skills_990105_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n Melompat ke depan dan menyerang musuh dalam area berbentuk kipas, memulihkan blood berdasarkan jumlah musuh yang terkena attack
+skills_990105_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure \n Hayne melompat ke depan dan menyerang musuh dalam area berbentuk kipas, mengurangi efek attack dan memulihkan blood berdasarkan jumlah musuh yang terkena attack
+skills_990105_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage dan cure
+skills_990105_captain_effect_desc
+
+skills_990105_comment
+Skill test01 1
+skills_990106_name
+Skill test01 2
+skills_990106_destiny_name
+True · Skill test01 2
+skills_990106_desc
+Reduce damage bertambah 56% \n Mengangkat shield menambah efek reduce attack
+skills_990106_destiny_desc
+Reduce damage bertambah 56% \n Hayne mengangkat shield menambah efek reduce attack, dalam waktu yang sama memulihkan HP
+skills_990106_levelup_desc
+Reduce damage bertambah 56%
+skills_990106_captain_effect_desc
+
+skills_990106_comment
+Skill test01 2
+skills_990107_name
+Skill test01
+skills_990107_destiny_name
+True · Skill test01
+skills_990107_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Membuka sebuah tembok shield, membuat tim teman dalam area tersebut [FFD700] damage free [-]
+skills_990107_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Hayne membuka sebuah tembok shield, membuat tim teman dalam area tersebut [FFD700] damage free [-] dan bisa [FFD700] menyerap blood [-]
+skills_990107_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990107_captain_effect_desc
+
+skills_990107_comment
+Skill test01
+skills_990204_name
+Skill test02 1
+skills_990204_destiny_name
+True · Skill test02 1
+skills_990204_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memanggil satu magic ball terbang perlahan, [FFD700] menarik [-] musuh dan menyebabkan damage
+skills_990204_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka memanggil satu magic ball terbang perlahan, [FFD700] menarik [-] musuh dan menyebabkan damage, ada kemungkinan [FFD700] merusak armor [-]
+skills_990204_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990204_captain_effect_desc
+
+skills_990204_comment
+Skill test02 1
+skills_990205_name
+Skill test02 2
+skills_990205_destiny_name
+True · Skill test02 2
+skills_990205_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Memanggil lingkaran hitam mengorbankan target, menyebabkan damage
+skills_990205_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka memanggil lingkaran hitam mengorbankan target, menyebabkan damage. Saat lingkaran hilang akan meledak, menyebabkan damage dan  float
+skills_990205_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990205_captain_effect_desc
+
+skills_990205_comment
+Skill test02 2
+skills_990206_name
+Skill test02
+skills_990206_destiny_name
+True · Skill test02
+skills_990206_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990206_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990206_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990206_captain_effect_desc
+
+skills_990206_comment
+Skill test02
+skills_990301_name
+April Mop Player normal hit
+skills_990301_destiny_name
+True·April Mop Player normal hit
+skills_990301_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990301_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990301_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990301_captain_effect_desc
+
+skills_990301_comment
+Attack biasa
+skills_990302_name
+April Mop Player weak
+skills_990302_destiny_name
+True·April Mop Player weak
+skills_990302_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990302_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990302_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990302_captain_effect_desc
+
+skills_990302_comment
+Weak
+skills_990303_name
+April Mop Player frozen
+skills_990303_destiny_name
+True·April Mop Player frozen
+skills_990303_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990303_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990303_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990303_captain_effect_desc
+
+skills_990303_comment
+Froze
+skills_990304_name
+April Mop Player strong hit
+skills_990304_destiny_name
+True·April Mop Player strong hit
+skills_990304_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990304_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990304_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990304_captain_effect_desc
+
+skills_990304_comment
+Strong hit
+skills_990305_name
+April Mop Player transform
+skills_990305_destiny_name
+True·April Mop Player transform
+skills_990305_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990305_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990305_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990305_captain_effect_desc
+
+skills_990305_comment
+Transform
+skills_990306_name
+April Mop Player no skill
+skills_990306_destiny_name
+True·April Mop Player no skill
+skills_990306_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990306_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990306_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990306_captain_effect_desc
+
+skills_990306_comment
+Kosong
+skills_990307_name
+April Mop Player Iron Giant
+skills_990307_destiny_name
+True·April Mop Player Iron Giant
+skills_990307_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Menuntun Dark Mon turun dari langit, menyebabkan damage ke 1 musuh. Kalau target mati, bola kekuatan akan memilih target baru
+skills_990307_destiny_desc
+Menimbulkan [CCFF66]{1}[-] damage \n Ruka menuntun sebuah bola sihir besar turun dari langit, menyebabkan damage ke 3 musuh. Kalau target mati, bola kekuatan akan memilih target baru. Saat bola kekuatan hilang akan menyebabkan damage di sekelilingnya
+skills_990307_levelup_desc
+Menimbulkan [CCFF66]{1}[-] damage
+skills_990307_captain_effect_desc
+
+skills_990307_comment
+Metal giant

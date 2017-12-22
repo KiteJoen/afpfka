@@ -1,0 +1,500 @@
+regulation_2_name
+Hero List
+regulation_2_title_b
+Rules
+regulation_3_name
+Hero Info
+regulation_4_name
+Agito
+regulation_4_title_b
+Rules
+regulation_4_title_s_1
+9th Realm
+regulation_4_desc_1
+1. Every Agito can break through the 9 realms. Breaking through a realm brings a powerful effect.\n2. Every realm has many ranks within it. Break through a rank to obtain a rare stat. \n3. Of course,  bonuses to base stats increase the more times a player breaks through.\n4. When an Agito skill replaces the original skill,  the skill level stays the same. When the skill is upgraded,  the Agito skill is upgraded. The higher the Agito skill,  the better the stats.\n5. When a support has been permanently activated,  it only takes effect when the corresponding hero is in battle. If they are not in battle,  the support does not take effect.
+regulation_4_title_s_2
+Awakening Potential
+regulation_4_desc_2
+1. Along with the rising level of Awakening among Agito, the other corresponding system of awakening potential will rise \n2. You can use Awakening materials to upgrade Awakened level, and along with the rise in Awakening level, potential will also increase. \n3. All Agito will also receive a great amount of Awakening Potential. Now go hurry and gather your Heroes!
+regulation_5_name
+Agito
+regulation_5_title_b
+Rules
+regulation_5_title_s_1
+9th Realm
+regulation_5_desc_1
+1. Every Agito can break through the 9 realms. Breaking through a realm brings a powerful effect.\n2. Every realm has many ranks within it. Break through a rank to obtain a rare stat. \n3. Of course,  bonuses to base stats increase the more times a player breaks through.\n4. When an Agito skill replaces the original skill,  the skill level stays the same. When the skill is upgraded,  the Agito skill is upgraded. The higher the Agito skill,  the better the stats.\n5. When a support has been permanently activated,  it only takes effect when the corresponding hero is in battle. If they are not in battle,  the support does not take effect.
+regulation_5_title_s_2
+Awakening Potential
+regulation_5_desc_2
+1. Along with the rising level of Awakening among Agito, the other corresponding system of awakening potential will rise \n2. You can use Awakening materials to upgrade Awakened level, and along with the rise in Awakening level, potential will also increase. \n3. All Agito will also receive a great amount of Awakening Potential. Now go hurry and gather your Heroes!
+regulation_6_name
+Party
+regulation_7_name
+Hero Summon
+regulation_8_name
+Hero Summon
+regulation_9_name
+Astral
+regulation_9_title_b
+Rules
+regulation_9_desc_1
+1. Spend Astral Stones to activate one spot. \n2. Activating a spot grants a Stats Bonus.\n3. Activating all spots in a zone gives a bonus reward.
+regulation_10_name
+VIP
+regulation_10_title_b
+Rules
+regulation_11_name
+Research Accessory
+regulation_11_title_b
+Rules
+regulation_11_title_s_1
+Accessory Enhance
+regulation_11_desc_1
+1. Players can increase their Accessory's Enhance EXP by using other pieces of Accessory or EXP Accessory.\n2. Once Accessory Enhance level increases,  stats rise significantly
+regulation_11_title_s_2
+Accessory Refine
+regulation_11_desc_2
+1. Payers can use Accessory Refine Stones or other pieces of Accessory to increase Accessory refine level.\n2. After increasing Accessory refine level,  stats will increase greatly and get a rise in percentages.
+regulation_11_title_s_3
+craft Accessory
+regulation_11_desc_3
+1. By spending [DD7518]Diamonds[-] and [C4251F]Mythic Accessory Essense[-] [DD7518]Legendary Accessory [-] can become [C4251F]Mythic Accessory [-].\n2.Only [DD7518]Legendary Accessory[-] can be crafted in this way.
+regulation_12_name
+Research Gear
+regulation_12_title_b
+Rules
+regulation_13_name
+Backpack
+regulation_14_name
+Gear Backpack
+regulation_15_name
+Shop
+regulation_16_name
+Combat
+regulation_17_name
+Schedule
+regulation_18_name
+Eidolon
+regulation_18_title_b
+Rules
+regulation_18_title_s_1
+Eidolon
+regulation_18_desc_1
+1. Set an eidolon to help you on the battlefield. Upgrade to give the entire party a Stats Bonus.\n2. Every eidolon noticeably increases stats when unlocked.
+regulation_18_title_s_2
+Resonance Skill
+regulation_18_desc_2
+Eidolon Resonance Skills are available in all kinds of PVP battle (Except Throne of Paragons), including Arena, Battle of Kings, Guild Battle, Airship Transport, Enemy Invades, Accessory Arena, Samsara Realm and World Adventure.
+regulation_19_name
+Rankings
+regulation_20_name
+Bounty Quests
+regulation_20_title_b
+Rules
+regulation_20_desc_1
+1. Bounty Quests are rated from 1-5 stars. Higher hero stars mean better rewards.\n2. Complete 3 quests to receive 3 new quests.\n3. Use refresh to receive 3 new quests right away.
+regulation_21_name
+Arena
+regulation_21_title_b
+Rules
+regulation_23_name
+Samsara Realm
+regulation_24_name
+Friends
+regulation_25_name
+Daily Events
+regulation_26_name
+Team Dungeon
+regulation_26_title_b
+Rules
+regulation_26_desc_1
+1. Players can fight in Team Dungeons an unlimited number of times,  but can only receive rewards the first 3 times.\n.2 Even if you don't get anything for yourself,  it's good to help out other players!
+regulation_27_name
+Switch Dungeon
+regulation_28_name
+Team Room
+regulation_29_name
+Limited Time Diamond Sale
+regulation_29_title_b
+Rules
+regulation_29_desc_1
+1. Every reward is equal to the dice score.\n2. Buying items in the points shop results in a corresponding amount of points.\n3. Get the item needed to refresh the points shop by spinning the wheel.\n4. Remote-Control Dice can allow you to land on the space you want. These can also be obtained from spinning the wheel.\n5. When dice land on the x2 square,the next reward will be doubled.\n6.Cost of 1 Shake resets daily\n7. Points Shop resets 1 time per day\n8.At the end of the event, rewards based on points rankings will be sent.
+regulation_30_name
+Accessory Arena
+regulation_30_title_b
+Rules
+regulation_30_title_s_1
+Collect Shards
+regulation_30_desc_1
+1. Select target Accessory: Select n Accessory from the list at the left.\n2. Select target shard: In the center,  tap the icon for the shards you desire.\n3. Select opponent: Select the player you wish to challenge.
+regulation_30_title_s_2
+Accessory Crafting
+regulation_30_desc_2
+Collect all shards to craft into Accessory.
+regulation_31_name
+Accessory Arena
+regulation_32_name
+World Adventure
+regulation_32_title_b
+Rules
+regulation_32_desc_1
+1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy Cost. The longer the duration of the adventure, the greater the energy Cost, and of course, the more incentives. \n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
+regulation_33_name
+Hero Select
+regulation_33_title_b
+Rules
+regulation_33_desc_1
+1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy Cost. The longer the duration of the adventure, the greater the energy Cost, and of course, the more incentives. \n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
+regulation_34_name
+Friendly Territory
+regulation_34_title_b
+Rules
+regulation_34_desc_1
+1. Each area has a Guard. Only after passing the Guard's test may you go on to receive the corresponding Adventure qualifications. Quickly enhance Power to conquer the world! \ n2. Each area has a different specialty. Explore the different areas to receive different rewards. \n3. Adventure requires energy Cost. The longer the duration of the adventure, the greater the energy Cost, and of course, the more incentives. \ n4. On Adventures, you also need to dispatch a Hero as a Moogle Guide. After the Adventure you can receive the Moogle Guide's Vigor. \ n5. Don't forget to upgrade Moogle Skills - this is a way to effortlessly rake in a lot of income \n6. When visiting friends you have a chance of finding Moogles with low morale. If you help cheer him up, you can get Diamond rewards \ n7. There's a daily limit to helping friends. To increase your limit, upgrade your VIP Level.
+regulation_35_name
+Guild
+regulation_36_name
+Guild Battle Registered
+regulation_36_title_b
+Rules
+regulation_36_desc_1
+1. The guild will convene twice a week \n2. Each Guild War will begin according to the ranking of the guild in the corresponding battle zone and automatically grouped. \n3. On Wednesday the server's guilds battle: The battlefield is divided into three areas: gold area, silver area, bronze area. Guilds with higher rankings will be assigned to a better battle area. The better the battle area, the higher the reward. \n4. Every four guilds will participate a Guild War. The better the performance of the guild, the higher the reward. \n5. On Wednesday, in the server's gold area, when the server has been online for 21 days, it will be assigned to Sunday's cross-server combat, and move into the diamond area. \n6. Cross-server and server combat will be begin at the same time. Those assigned to the cross-guild war will no longer participate in this server's Guild War and those who do not meet the new conditions can still participate in the Guild War. \n7. Each guild has a total of three large maps, and each large map has 16 smaller maps. \n8. Strongholds and cities will be indicated in the map. The occupier of a base will continue to receive rewards, and after the occupation of the city, members of the guild will receive bonus pts. \n9. Cities cannot be directly taken during fighting. A city's occupations and strongholds must also be connected before the full occupation of the city. \n10. Attacks can be made on other players to grab points, and also to seize each other's strongholds. \n11. Guild War ends at 22:00 pm, and awards will be based on personal and guild rankings at the event's end. The higher the ranking, the better the reward.
+regulation_37_name
+Guild Battle
+regulation_37_title_b
+Rules
+regulation_37_desc_1
+1. The guild will convene twice a week \n2. Each Guild War will begin according to the ranking of the guild in the corresponding battle zone and automatically grouped. \n3. On Wednesday the server's guilds battle: The battlefield is divided into three areas: gold area, silver area, bronze area. Guilds with higher rankings will be assigned to a better battle area. The better the battle area, the higher the reward. \n4. Every four guilds will participate a Guild War. The better the performance of the guild, the higher the reward. \n5. On Wednesday, in the server's gold area, when the server has been online for 21 days, it will be assigned to Sunday's cross-server combat, and move into the diamond area. \n6. Cross-server and server combat will be begin at the same time. Those assigned to the cross-guild war will no longer participate in this server's Guild War and those who do not meet the new conditions can still participate in the Guild War. \n7. Each guild has a total of three large maps, and each large map has 16 smaller maps. \n8. Strongholds and cities will be indicated in the map. The occupier of a base will continue to receive rewards, and after the occupation of the city, members of the guild will receive bonus pts. \n9. Cities cannot be directly taken during fighting. A city's occupations and strongholds must also be connected before the full occupation of the city. \n10. Attacks can be made on other players to grab points, and also to seize each other's strongholds. \n11. Guild War ends at 22:00 pm, and awards will be based on personal and guild rankings at the event's end. The higher the ranking, the better the reward.
+regulation_38_name
+Guild Battle Region
+regulation_38_title_b
+Rules
+regulation_38_desc_1
+1. The guild will convene twice a week \n2. Each Guild War will begin according to the ranking of the guild in the corresponding battle zone and automatically grouped. \n3. On Wednesday the server's guilds battle: The battlefield is divided into three areas: gold area, silver area, bronze area. Guilds with higher rankings will be assigned to a better battle area. The better the battle area, the higher the reward. \n4. Every four guilds will participate a Guild War. The better the performance of the guild, the higher the reward. \n5. On Wednesday, in the server's gold area, when the server has been online for 21 days, it will be assigned to Sunday's cross-server combat, and move into the diamond area. \n6. Cross-server and server combat will be begin at the same time. Those assigned to the cross-guild war will no longer participate in this server's Guild War and those who do not meet the new conditions can still participate in the Guild War. \n7. Each guild has a total of three large maps, and each large map has 16 smaller maps. \n8. Strongholds and cities will be indicated in the map. The occupier of a base will continue to receive rewards, and after the occupation of the city, members of the guild will receive bonus pts. \n9. Cities cannot be directly taken during fighting. A city's occupations and strongholds must also be connected before the full occupation of the city. \n10. Attacks can be made on other players to grab points, and also to seize each other's strongholds. \n11. Guild War ends at 22:00 pm, and awards will be based on personal and guild rankings at the event's end. The higher the ranking, the better the reward.
+regulation_39_name
+Guild Battle Map
+regulation_39_title_b
+Rules
+regulation_39_desc_1
+1. The guild will convene twice a week \n2. Each Guild War will begin according to the ranking of the guild in the corresponding battle zone and automatically grouped. \n3. On Wednesday the server's guilds battle: The battlefield is divided into three areas: gold area, silver area, bronze area. Guilds with higher rankings will be assigned to a better battle area. The better the battle area, the higher the reward. \n4. Every four guilds will participate a Guild War. The better the performance of the guild, the higher the reward. \n5. On Wednesday, in the server's gold area, when the server has been online for 21 days, it will be assigned to Sunday's cross-server combat, and move into the diamond area. \n6. Cross-server and server combat will be begin at the same time. Those assigned to the cross-guild war will no longer participate in this server's Guild War and those who do not meet the new conditions can still participate in the Guild War. \n7. Each guild has a total of three large maps, and each large map has 16 smaller maps. \n8. Strongholds and cities will be indicated in the map. The occupier of a base will continue to receive rewards, and after the occupation of the city, members of the guild will receive bonus pts. \n9. Cities cannot be directly taken during fighting. A city's occupations and strongholds must also be connected before the full occupation of the city. \n10. Attacks can be made on other players to grab points, and also to seize each other's strongholds. \n11. Guild War ends at 22:00 pm, and awards will be based on personal and guild rankings at the event's end. The higher the ranking, the better the reward.
+regulation_40_name
+World Adventure
+regulation_40_title_b
+Rules
+regulation_40_title_s_1
+Correspondent
+regulation_40_desc_1
+1. Every adventure has bonus correspondent hero souls in proportion to adventure time.\n2. Every hero only can qualify as correspondent for one region
+regulation_40_title_s_2
+Moogle Skill
+regulation_40_desc_2
+1. Purchase skills once you meet special requirements. Purchased skills are permanent. \n2. After unlocking a skill,  there is a chance to get double the items.\n3. If you activate a skill during an adventure,  you must wait for the moogle to return before it will take effect.
+regulation_41_name
+Soul Transfer
+regulation_41_title_b
+Rules
+regulation_41_title_s_1
+Rules
+regulation_41_desc_1
+1. Mythic heroes can be turned into other heroes through soul transfer.\n2. After the transfer is complete,  upgrade materials will be completely transferred,  except gold spent on skill breakthroughs.\n3. The more upgrade materials spent,  the higher the Diamond and Mythic Hero Essense required.\n4. If the target's quality is higher,  the amount of Diamonds and Mythic Hero Essense required will also increase.
+regulation_42_name
+Guild Tech
+regulation_42_title_s_1
+Rules
+regulation_42_desc_1
+1. Get tech points from Airship Transport and Guild Battle. \n2. Guild Tech is limited by Guild Tech Level and previous tech unlocks
+regulation_43_name
+Guild Mess
+regulation_43_title_b
+Rules
+regulation_43_desc_1
+1. A meal begins once a table in the Guild Mess seated with 5 people,  each guild member seated gets a reward.\n2. Each person can only get 1 reward every day.\n3. Those who have already collected their reward can help fill vacancies for other members.\n4. Tap a Slot at the table to broadcast an invitation in the Guild chat.\n5. You can also spend Diamonds to take up multiple spaces.
+regulation_44_name
+Guild Escort Room
+regulation_44_title_b
+Rules
+regulation_48_name
+Airship Transport
+regulation_48_title_b
+Rules
+regulation_49_name
+Hero Trial
+regulation_49_title_b
+Rules
+regulation_49_title_s_1
+Chapter Description
+regulation_49_desc_1
+Hero Trials have 5 chapters in all.\nEvery chapter's hero gives out a few quests\nComplete these quests across 5 stages\nFinishing these 5 stages will complete the chapter.\nAfter clearing these stages,  the next chapter will unlock.\n
+regulation_49_title_s_2
+Stage Description
+regulation_49_desc_2
+Every stage has its own form of gameplay and skills to master.\nAfter clearing a stage,  you will get a reward\n
+regulation_49_title_s_3
+Refresh Description
+regulation_49_desc_3
+Hero Trials refresh once every 3 days.\nAfter refreshing,  challenges begin from Chapter 1,  Stage 1.\nDifficulty increases after refreshing
+regulation_50_name
+Hero Trial
+regulation_50_title_b
+Rules
+regulation_51_name
+Card Exchange
+regulation_51_title_b
+Rules
+regulation_52_name
+Guild Red Envelopes
+regulation_52_title_b
+Rules
+regulation_52_desc_1
+ 1. Guild members can send red envelopes filled with benefits to other guild members. All players within a guild can collect them once.\n2. Players may send one red envelope for free every day.\n3. Red envelopes have many types of rewards inside them and reward a percentage of the reward prize pool.\n4. Pulling from the prize pool will extract a certain percentage of Diamonds from the prize. If you pull another prize,  the system will automatically add an amount of Diamonds to the reward pool.\n5. There are 3 different types of red envelopes. Which quality of red envelope is sent is based on VIP level requirements.\n6. Different quality red envelopes contain different rewards and and have different initial prize pool amounts.
+regulation_53_name
+Gem Backpack
+regulation_54_name
+Gem Draw
+regulation_55_name
+Gem Enhance
+regulation_56_name
+Select Material
+regulation_57_name
+Craft&Transform
+regulation_57_title_b
+Rules
+regulation_57_title_s_1
+Gem Craft
+regulation_57_desc_1
+1. Players can use unwanted gems to craft into new ones. \n2. Crafting gems requires [9900cc]4[-] gems of the same type as materials.\n3. After crafting,  the gems used in crafting become a random gem [9900cc]with increased quality +1[-]\n4. [9900cc]100%[-] of resources spent on gems used as crafting materials will be returned after crafting. \n5. Gem crafting has a chance to crit. If crafting crits,  the player will receive a random gem of the target quality.
+regulation_57_title_s_2
+Gems Transform
+regulation_57_desc_2
+1. Players can convert gems that they no longer want\n2. Gem Convert turns any gem into another gem of the same quality\n3. Converting gems requires Diamonds
+regulation_57_title_s_3
+Artifact Transformation
+regulation_57_desc_3
+1. Players can use unused Artifacts for Artifact Transformation\n2.Artifact Transformation will transform any Artifact into another Artifact of the same Quality\n3.After transformation, the Artifact upgrade level will not change\n4.Artifact Transformation Cost will be calculated based on the Artifact’s quality and Upgrade level.
+regulation_58_name
+Limited Purchase
+regulation_58_title_b
+Rules
+regulation_58_desc_1
+1. As more people make purchases, the discount of items will decrease. \n2. Recharge Coupons can be used as Diamonds during limited time purchases. One purchase coupon equals one Diamond. \n3. After the event ends, diamonds will be returned depending on the final item price. \n4. The earlier you buy, the more points you get that can be exchanged for Recharge Coupons. \n5. Item purchase limit will refresh at 00:00 everyday
+regulation_59_name
+Accessory Backpack
+regulation_60_name
+Daily Dungeon
+regulation_60_title_b
+Rules
+regulation_60_title_s_1
+Difficulty Description
+regulation_60_desc_1
+1. There are 5 kinds of gameplay among the daily dungeons with different resources as rewards. \n2. Each gameplay type has 8 difficulties. Unlock new difficulties by clearing the previous difficulty.\n3. Rewards increase with difficulty. \n4. After getting 3 stars on a difficulty for a daily dungeon,  players can blitz to get rewards quickly.
+regulation_60_title_s_2
+Schedule
+regulation_60_desc_2
+1. Gold Battle takes place daily and offers a large amount of gold.\n2. Fire and Ice as well as Courage Trials are available every Monday,  Wednesday,  Friday,  and Sunday. These events offer Hero EXP Books and Accessory Refine Stones.\n3. Light Shield and Limited Trials are available every Tuesday, Thursday, Saturday and Sunday. These events offer EXP Jewelry and Gear Refine Stones.
+regulation_61_name
+Title
+regulation_62_name
+Infinite Trials
+regulation_62_title_b
+Rules
+regulation_62_desc_1
+1. Each floor of the trials has one stage. Each stage has 3 difficulties. Clear any difficulty to move to the next floor.\n2. Each floor's trial has different victory requirements. Select the right party formation to suit that stage's requirements.\n3. You'll get different amounts of hero stars based on the difficulty you selected.\n4. Stars earned from clearing trials can be used to purchase different stats for battle.\n5. The more floors you clear,  the better your rewards will be!\n6.Players can reset trials by spending diamonds every day. VIP players will be able to reset multiple times per day.\n7. Players can blitz stages that have already been cleared and have low requirements to pass.
+regulation_63_name
+Limited Hero
+regulation_63_title_b
+Rules
+regulation_63_desc_1
+1. Every draw gives 5 random rewards as well as an amount of text EXP and points. \n2. Acquire enough text EXP to get a chest reward.\n3. Chests can be reset when all chests are collected. After resetting activating text will open chests again.\n4. When the event is over,  players will be ranked on points and will receive rewards accordingly.
+regulation_64_name
+Battle of Kings
+regulation_64_title_b
+Rules
+regulation_64_title_s_1
+Gameplay Description
+regulation_64_desc_1
+1. Battle of Kings is another arena mode where players can fight other players.\n2. Players' records are wiped clean when each season of Battle of Kings begins.\n3. Players can participate in Battle of Kings from Thursday to Saturday at 12:00-14:00 and 18:00-22:00.\n4. When the event begins,  tap to start matching. Once matched with another player,  the battle begins.\n5. The first 5 battles are free. Fighting beyond that costs Diamonds.\n6. Battle attempts refresh at 0:00 every morning.
+regulation_64_title_s_2
+Division Description
+regulation_64_desc_2
+1. When a season begins,  all players' position starts at 10.\n2. When the battle is over,  players will Star Up or Down based on the battle's result.\n3. Points are calculated once players arrive at the the highest division.\n4. Victorious players receive points based on their points and their opponent's points.\n5. Players are ranked based on their division and points.
+regulation_64_title_s_3
+Reward Description
+regulation_64_desc_3
+1. Players are rewarded whether they win or lose.\n2. Players get rewards for a certain number of challenges per day. Tap quests to collect rewards.\n3. Win enough battles per season to get rewards. Tap quests to collect rewards. \n4. After increasing position,  players get position rewards. Players must tap Increase Position Rewards to collect them.\n5. When a season is over,  players are sent rewards based on their final ranks by mail.
+regulation_65_name
+Get Stronger
+regulation_66_name
+Guild Dungeon
+regulation_66_title_b
+Rules
+regulation_66_title_s_1
+Dungeon Rules
+regulation_66_desc_1
+1. Guild dungeons unlock from 08:00-23:59. Players attack from 08:00-21:59 and collect rewards from 22:00-23:59. Players cannot attack during the reward collection time.\n2. Every dungeon chapter has 10 leaders. Players can select the enemy they wish to challenge.\n3. After clearing a chapter,  the next chapter is automatically unlocked.\n4. Before guild dungeons begin,  yesterday's progress,  points,  and chests reset.\n5. Players must have entered a guild before guild dungeons start in order to collect that day’s points chests.
+regulation_66_title_s_2
+Reward Description
+regulation_66_desc_2
+1. Each attack may add a large amount of Guild contribution. The more damage dealt,  the better the rewards,  so select the best target for you.\n2. Every leader killed adds Guild Points. When players have enough points, all guild members get a chance at a reward.\n3. The player who deals a leader the last hit will receive an additional contribution bonus.
+regulation_67_name
+World Boss
+regulation_67_title_b
+Rules
+regulation_67_title_s_1
+Dungeon Rules
+regulation_67_desc_1
+1. World Boss begins from 16:00-22:00 daily.\n2. When a boss dies it will level up and respawn. Players who deliver a final blow to a boss will get a "lucky strike" reward.\n3. Rewards are based on the amount of damage dealt to a boss. The more damage dealt,  the better the rewards. Prizes for damage rankings are sent at the end of the event. Don't forget to collect them!\n4. The more stars a hero has,  the more damage it will deal to the boss. Starting at legendary 1-star,  every star added adds a multiplier to boss damage.
+regulation_68_name
+Happy Cards
+regulation_68_title_b
+Rules
+regulation_68_title_s_1
+Drawing Cards
+regulation_68_desc_1
+1. There are two kinds of draw: ordinary and supreme draw.\n2. Players will have 8 cards to collect and can exchange for the associated reward after drawing.\n3. If a draw results in a multiplier card multiplier,  the next draw will have the original reward and the multiplier
+regulation_68_title_s_2
+Shuffling Cards
+regulation_68_desc_2
+1. Players can choose to shuffle. Every shuffle gives players opportunity to draw 8 cards.\n2. Players dissatisfied with their 8 cards can choose to shuffle again for 8 new cards.\n3. After shuffling,  the previous 8 cards cannot be recovered.
+regulation_68_title_s_3
+Other Rewards
+regulation_68_desc_3
+1. When a player spends Diamonds to flip a card,  they will get Diamond Points. \n2. Points may be exchanged for rewards.\n3. Rewards according to points rankings are sent by mail at the end of the event.\n4. When ranking points are high enough,  players may enter the elite rankings. Normal rankings and elite ranking rewards can be collected at the same time.
+regulation_69_name
+Tycoon
+regulation_69_title_b
+Rules
+regulation_69_title_s_1
+Gameplay Description
+regulation_69_desc_1
+1. Every reward is equal to the dice score.\n2. Buying items in the points shop results in a corresponding amount of points.\n3. Get the item needed to refresh the points shop by spinning the wheel.\n4. Remote-Control Dice can allow you to land on the space you want. These can also be obtained from spinning the wheel.\n5. When dice land on the x2 square,  the next reward will be doubled.\n6. At the end of the event,  rewards based on points rankings will be sent.
+regulation_70_name
+constumes
+regulation_71_name
+Happy Cards
+regulation_71_title_b
+Rules
+regulation_71_title_s_1
+Drawing Cards
+regulation_71_desc_1
+1. There are two kinds of draw: ordinary and supreme draw.\n2. Players will have 8 cards to collect and can exchange for the associated reward after drawing.\n3. If a draw results in a multiplier card multiplier,  the next draw will have the original reward and the multiplier
+regulation_71_title_s_2
+Shuffling Cards
+regulation_71_desc_2
+1. Players can choose to shuffle. Every shuffle gives players opportunity to draw 8 cards.\n2. Players dissatisfied with their 8 cards can choose to shuffle again for 8 new cards.\n3. After shuffling,  the previous 8 cards cannot be recovered.
+regulation_71_title_s_3
+Other Rewards
+regulation_71_desc_3
+1. When a player spends Diamonds to flip a card,  they will get Diamond Points. \n2. Points may be exchanged for rewards.\n3. Rewards according to points rankings are sent by mail at the end of the event.\n4. When ranking points are high enough,  players may enter the elite rankings. Normal rankings and elite ranking rewards can be collected at the same time.
+regulation_73_name
+Rules
+regulation_73_title_b
+Rules
+regulation_73_desc_1
+Every [00FF00] Sunday at 24:00 [-] the intimacy rankings are calculated. At the same time, the weekly boards will be cleared. Rankings and rewards will be sent via [00FF00]email[-] to inform everyone of the news. \nNo. [00FF00]1[-] \n[FFA500]Signed photo / poster of Hottie[-] + [FFA500] limited edition Hottie costume[-] + [FFA500] Hey Yo title[-] \nNo. [00FF00]2-20[-] \n[FFA500]Limited edition Hottie costume[-] + [FFA500] Hey Yo title [-] \nNo.[00FF00]21-50[-] \n[FFA500] Hey Yo title [-] \nDescription: \n1) Limited edition Hottie costume will be replaced from time to time with the new version \n2) Signed photos and signed posters will be rewarded as the first prize. Players who win signed posters or photos should go through the [00FF00]official post[-] to indicate the preferred delivery method. Winners will also be announced on the[00FF00]official website[-]. [FF0000] Ignore private messages informing you of prizes to avoid fraud [-].
+regulation_74_name
+Guild
+regulation_75_name
+Lolita Robber
+regulation_76_name
+Guild Mercenary
+regulation_76_title_b
+Rules
+regulation_76_title_s_1
+Mercenary Camp
+regulation_76_desc_1
+1. When Guild Mercenary is unlocked, all members of the guild can AFK in the Mercenary Camp.\n2. Players get rewarded based on their combat power and the amount of time they are AFK.\n3. Players in the internal guild power rankings get additional buffs.\n4. The captain of a player's defending arena team determines their avatar.
+regulation_76_title_s_2
+Hire
+regulation_76_desc_2
+1. Guild members can hire a guild member from the Mercenary Camp to help complete dungeons,  defeat world bosses,  and clear daily dungeons.\n2. More powerful players are more expensive. Some of the fee is given to the other player. \n3. You can only hire a mercenary who is within ten places of you on the guild combat power rankings.\n4. Every mercenary can only be hired once per day. Gameplay attempts are shared.
+regulation_77_name
+Throne of Paragons
+regulation_77_title_b
+Rules
+regulation_77_desc_1
+Throne of Paragons begins: Daily 08:00-22:00\nDaily free challenges: 2
+regulation_77_title_s_2
+Reward
+regulation_77_desc_2
+1. Throne of Paragons has many levels. Rewards are better at higher levels.\n2. Every level has 4 regions to choose from. Each region gives different rewards.\n3. You can get certain rewards after each challenge, win or lose. \n4. Rewards are calculated every 10 minutes. Increase your position in the tiers for better resources. \n5. Resources accumulate for two days. Remember to claim them. \n6.While resting during the event you will cease to receive resources
+regulation_77_title_s_3
+Battle Rules
+regulation_77_desc_3
+1. You may only attack a player who is of the same or an adjacent rank. You will swap places with the opponents after the battle. \n2. Battles are 2 out of 3. If a player wins twice, the third battle does not occur.\n3. Every player must send 3 teams to battle. Every team can have between 1-3 people. \n4. Battles last up to 2 minutes. If no one wins in 2 minutes, the attacker loses.\n5. As the rank goes up, players’ defending formations will be hid away with unpredicted attacking orders
+regulation_77_title_s_4
+Stat Effect
+regulation_77_desc_4
+1. All heroes have a default fate effect. \n2. Methods to add stats include: hero level, hero star rank, upgrade, skill level, agito effect,  Destiny Rune stats (upgrades and skills for the whole party don't count)\n3. Characters bonus stats include: Astrals, costumes, titles\n4. Battles don't count gear, accessory, gems, or artifact bonuses.
+regulation_78_name
+Player Info
+regulation_79_name
+Shop
+regulation_80_name
+Demon Crusade
+regulation_80_title_b
+Rules
+regulation_80_desc_1
+1. Players can crusade against demons every day in Demon Crusades. There are two reward claiming opportunities daily. After opportunities are used up, additional Demon Crusades will not give rewards. \n2. Players can spend Diamonds to purchase extra Demon Crusade reward attempts to get more rewards. \n3. At the same time daily, the game system will automatically refresh monsters in the crusades. You can also spend refresh tokens or Diamonds to refresh the Boss. \n4. There will be a random daily mission in the crusade gameplay. Complete the mission to get great rewards. \n5. Monster Difficulty: Hard > Normal > Easy. The higher the difficulty, the greater the rewards.
+regulation_81_name
+Eidolon Resonance
+regulation_81_title_b
+Rules
+regulation_81_title_s_1
+Eidolon Resonance
+regulation_81_desc_1
+1. Certain Eidolons have Resonance with each other. When players can certain Eidolons, it will produce Resonance to activate a stat.\n2.Reach the conditions to upgrade Resonance effect and get stat bonuses. \n3. Eidolon Resonance will be unlocked and improved along with Eidolon upgrade.
+regulation_81_title_s_2
+Resonance Skill
+regulation_81_desc_2
+1. Resonance effects between different Eidolons are different.\n2. Eidolon Resonance effects are active in all PVP battles except for Throne of Paragons. This includes the Arena, Battle of Kings, Guild Wars, Airship Transport, Enemy Invasion, Accessory Arena, Samsara Realm, World Adventures, and more.\n3. Eidolon Resonance will only be effective when Eidolon is in battle.
+regulation_82_name
+Destiny Rune
+regulation_82_title_b
+Rules
+regulation_82_desc_1
+1. Each Hero can choose a Rune slot. Each Rune Slot can have one entered Hero.\n2.Rune Slots are only effective with entered hero. Runes can increase hero stats.\n3.There are different Rune qualities. Refresh Rune stats with the refresh action. \n4.Each Rune Slot has three Runes. Each refresh will replace the three original stats with new ones. You can select to lock 1 to 2 Runes during Refresh. Locked Runes will not be replaced. \n5.The higher the Quality of active Runes, the greater the Rune’s Rating. Once the Rune rating is high enough, it will greatly increase the team’s stats.
+regulation_83_name
+Dissolve
+regulation_83_title_b
+Rules
+regulation_83_desc_1
+1. Hero Dissolve will dissolve the Hero into Shards and return all resources used in cultivation (Shards are returned as Soul Crystals) Soul Crystals can be exchanged in the Hero Shards Shop for rare Hero Shards and rare resources. \n2. Gear Dissolving dissolves gear into Trial Coins. Trial Coins can be exchanged in the Gear Shop for rare gear and resources. \n3. Shard Dissolving will dissolve unused Hero Shards into Soul Crystals. n3. Artifact Dissolving will return resources used in artifact cultivation. The Artifact will be returned as Artifact Coins.
+regulation_84_name
+Rebirth
+regulation_84_title_b
+Rules
+regulation_84_desc_1
+1. Hero Rebirth returns materials used in cultivation heroes, including the hero himself (returned in the form of Hero Shards). \n2. Accessory Rebirth returns materials used in Accessory cultivation. \n3. Gem Rebirth returns Gem to original level and returns all cultivation materials. \n3. Artifact Rebirth returns original Artifact and Gold and Artifact Upgrade Stones used in cultivation. Artifact will be returned as Shards.
+regulation_85_name
+Fantasy Market
+regulation_85_title_b
+Rules
+regulation_85_title_s_1
+Basic Rules
+regulation_85_desc_1
+1. Stocks can be traded between 08:00-22:00 Monday through Friday. Markets are closed all other times. \n2. Stocks cannot be traded while markets are closed. \n3. Players on all servers share the same stock pool. Rises and falls in stock prices will be consistent for players across all servers. \n4. Stock Market Funds will be cleared each weekend.
+regulation_85_title_s_2
+Buy Stocks
+regulation_85_desc_2
+1. Funds are used to purchase stocks. \n2. Claim Funds daily in the achievements tab after entering the stock market. \n3. You can also spend Diamonds to purchase Funds. \n4. The amount of Funds that can be purchased is dependent upon VIP level. \n5. Upon starting, select one stock to check its trend for the day. \n6. Select whether to use Funds to buy or sell stocks.
+regulation_85_title_s_3
+Financial News
+regulation_85_desc_3
+1. Tap the Financial News to check the news for the day. \n2. The news includes all kinds of information regarding stocks. \n3. Investors profit depend largely on their ability to determine stock trends from the information in the news.
+regulation_85_title_s_4
+Stock Market Rewards
+regulation_85_desc_4
+1. Player assets include held stock and total funds.\n2.Accrue enough assets to claim achievement rewards.\n3.At midnight this Friday, get rewards according to player assets. Rewards are as follows
+regulation_86_name
+Rules
+regulation_86_title_b
+Gameplay Description
+regulation_86_title_s_1
+Standard
+regulation_86_desc_1
+Standard
+regulation_86_title_s_2
+APEX
+regulation_86_desc_2
+In APEX mode: \n1. All heroes have a default fate effect. \n2. Methods to add stats include: hero level, hero star rank, upgrade, skill level, agito effect (upgrades and skills for the whole party don't count)\n3. Characters bonus stats include: Astrals, costumes, titles\n4. Battles don't count gear, accessory, gems, or artifact bonuses.

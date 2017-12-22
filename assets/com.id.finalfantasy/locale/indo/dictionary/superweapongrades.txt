@@ -1,0 +1,198 @@
+superweapongrade_105_gift_desc
+HP+202500，Attack+12%
+superweapongrade_110_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_115_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_125_gift_desc
+Ketika HP lbh dari 50%, seluruh dmg team naik 10%, [C4251F]Bentuk Agito weapon[-]
+superweapongrade_205_gift_desc
+Attack+6750，HP+14%
+superweapongrade_210_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_215_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_225_gift_desc
+Ketika HP kurang dari 50%, dapat satu perisai dgn nilai HP terbesar 27%, berlangsung 5 detik, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_305_gift_desc
+HP+337500，Attack+14%
+superweapongrade_310_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_315_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_325_gift_desc
+Ketika HP kurang dari 30%, seluruh musuh dililit selama 3 detik, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_405_gift_desc
+Defense+5400，HP+14%
+superweapongrade_410_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_415_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_425_gift_desc
+Ketika HP kurang dari 30%, menambah efek terbakar kepada musuh, berlangsung 8 detik, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_505_gift_desc
+Defense+5400，Attack+14%
+superweapongrade_510_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_515_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_525_gift_desc
+Dimulai dlm 25s, dmg naik 13%, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_605_gift_desc
+HP+337500，Attack+14%
+superweapongrade_610_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_615_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_625_gift_desc
+Ketika HP kurang dari 30%, seluruh dmg musuh menurun 22%, berlangsung 5 detik, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_705_gift_desc
+HP+337500，Defense+14%
+superweapongrade_710_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_715_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_725_gift_desc
+Ketika HP kurang dari 50%, dapat 67%reduce dmg, berlangsung 5 detik, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_805_gift_desc
+Defense+5400，Attack+14%
+superweapongrade_810_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_815_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_825_gift_desc
+Ketika menyerang akan menurunkan 100% restore effect target, berlangsung 5 detik, [C4251F]Bentuk Agito Weapon[-]
+superweapongrade_905_gift_desc
+HP+337500，Defense+14%
+superweapongrade_910_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_915_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_925_gift_desc
+Ketika pelepasan sangat terbatas, seluruh tim menaikan 19% atk speed dan movement speed, berlangsung 5 detik , [C4251F] Bentuk Agito Weapon[-]
+superweapongrade_1005_gift_desc
+HP+202500，Attack+12%
+superweapongrade_1010_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1015_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1025_gift_desc
+Saat cure target, damage target bertambah 14%, selama 5 detik, [C4251F] Form Agito yang mengupgrade weapon [-]
+superweapongrade_1105_gift_desc
+Attack+4050，HP+12%
+superweapongrade_1110_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1115_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1125_gift_desc
+Dalam 25 detik setelah mulai, damage bertambah 12%, [C4251F] Form agito yang mengupgrade weapon [-]
+superweapongrade_1205_gift_desc
+Attack+4050，HP+12%
+superweapongrade_1210_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1215_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1225_gift_desc
+Saat cure target, damage target bertambah 14%, selama 5 detik, [C4251F] Form Agito yang mengupgrade weapon [-]
+superweapongrade_1305_gift_desc
+Defense+3240，Attack+12%
+superweapongrade_1310_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1315_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1325_gift_desc
+Saat HP dibawah 30%, Blok 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+superweapongrade_1405_gift_desc
+Defense+3240，Attack+12%
+superweapongrade_1410_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1415_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1425_gift_desc
+Saat HP dibawah 50%, damage bertambah 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+superweapongrade_1505_gift_desc
+HP+202500，Defense+12%
+superweapongrade_1510_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1515_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1525_gift_desc
+Saat cure target, damage target bertambah 14%, selama 5 detik, [C4251F] Form Agito yang mengupgrade weapon [-]
+superweapongrade_1605_gift_desc
+Attack+4050，HP+12%
+superweapongrade_1610_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1615_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1625_gift_desc
+Dalam 25 detik setelah mulai, damage bertambah 12%, [C4251F] Form agito yang mengupgrade weapon [-]
+superweapongrade_1705_gift_desc
+Defense+3240，Attack+12%
+superweapongrade_1710_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1715_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1725_gift_desc
+Saat HP dibawah 50%, damage bertambah 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+superweapongrade_1805_gift_desc
+Attack+4050，HP+12%
+superweapongrade_1810_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1815_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1825_gift_desc
+Saat HP dibawah 30%, Blok 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+superweapongrade_1905_gift_desc
+Defense+3240，Attack+12%
+superweapongrade_1910_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_1915_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_1925_gift_desc
+Dalam 25 detik setelah mulai, damage bertambah 12%, [C4251F] Form agito yang mengupgrade weapon [-]
+superweapongrade_2005_gift_desc
+HP+202500，Defense+12%
+superweapongrade_2010_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2015_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_2025_gift_desc
+Ketika HP kurang dari 30%, seluruh musuh membeku 2 detik, [C4251F]Bentuk Agito Weapon [-]
+superweapongrade_2105_gift_desc
+HP+202500，Attack+12%
+superweapongrade_2110_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2115_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_2125_gift_desc
+Saat HP dibawah 50%, damage bertambah 56%, selama 5 detik, [C4251F] form Agito yang upgrade weapon [-]
+superweapongrade_2205_gift_desc
+HP+202500，Attack+12%
+superweapongrade_2210_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2215_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_2225_gift_desc
+Dalam 25 detik setelah mulai, damage bertambah 12%, [C4251F] Form agito yang mengupgrade weapon [-]
+superweapongrade_2305_gift_desc
+Attack+4050，HP+12%
+superweapongrade_2310_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2315_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_2325_gift_desc
+Saat HP dibawah 30%, Blok 56%, selama 5 detik
+superweapongrade_2415_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2515_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2615_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2705_gift_desc
+Attack+4050，HP+12%
+superweapongrade_2710_gift_desc
+Agito GodI，Attribute artifact upgrade
+superweapongrade_2715_gift_desc
+Aktifkan skill pasif atribut, [C4251F] Form Agito yang menyalakan senjata [-]
+superweapongrade_2725_gift_desc
+HP低于30%时，获得56%的伤害减免，持续5秒

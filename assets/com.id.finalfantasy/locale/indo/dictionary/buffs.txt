@@ -1,0 +1,3948 @@
+buffs_100_name
+Melepas perang BUFF 1
+buffs_100_desc
+Gunakan skill
+buffs_100_effect_desc
+
+buffs_101_name
+Melepas perang BUFF 2
+buffs_101_desc
+Gunakan skill
+buffs_101_effect_desc
+
+buffs_102_name
+Melepas perang BUFF 3 - digunakan untuk memulihkan formasi
+buffs_102_desc
+Gunakan skill
+buffs_102_effect_desc
+
+buffs_111_name
+WTF
+buffs_111_desc
+Digunakan untuk tes, tidak ada cooldown, energy penuh, attack berkurang 99.9%
+buffs_111_effect_desc
+
+buffs_112_name
+hidup kekal
+buffs_112_desc
+Digunakan untuk tes, HP 100 kali, setiap detik pulih 50%
+buffs_112_effect_desc
+
+buffs_200_name
+Burn
+buffs_200_desc
+Damage tipe fire dot, damage setiap 1 detik, damage dan waktu akan bertambah dari skill, setiap tambahan Burn akan menambah jumlah damage, jika ada Burn dengan logic special, group harus sama
+buffs_200_effect_desc
+Burn
+buffs_210_name
+Cold
+buffs_210_desc
+Control lemah tipe ice, movement speed berkurang 75%, efek tidak dapat ditumpuk
+buffs_210_effect_desc
+Kurangi speed
+buffs_220_name
+Froze
+buffs_220_desc
+Control kuat tipe ice
+buffs_220_effect_desc
+Froze
+buffs_230_name
+Numb
+buffs_230_desc
+Control kuat tipe electricity, efek setingkat daze
+buffs_230_effect_desc
+Numb
+buffs_240_name
+Shock
+buffs_240_desc
+Control lemah tipe electricity dot+, damage setiap 2 detik, saat damage ada tyrant effect (attack biasa, berpindah tempat, diserang saat berdiri), pemburnan dan lainnya
+buffs_240_effect_desc
+Shock
+buffs_250_name
+Break Armor
+buffs_250_desc
+Debuff tipe dark, menurunkan immune damage, point dan waktu mengikuti skill
+buffs_250_effect_desc
+Break Armor
+buffs_251_name
+Break Armor
+buffs_251_desc
+Armor Break khusus skill pasif Rem, point tetap
+buffs_251_effect_desc
+Break Armor
+buffs_252_name
+Break Armor
+buffs_252_desc
+Armor Break khusus skill pasif Trey, point tetap
+buffs_252_effect_desc
+Break Armor
+buffs_260_name
+Poison
+buffs_260_desc
+Damage tipe dark dot, damage setiap 2 detik, burn dan lainnya
+buffs_260_effect_desc
+Poison
+buffs_261_name
+Poison
+buffs_261_desc
+Damage tipe dark dot, damage setiap 2 detik, burn dan lainnya
+buffs_261_effect_desc
+Poison
+buffs_270_name
+Terus memulihkan HP
+buffs_270_desc
+Memulihkan HP menurut poin skill, HP pulih setiap 2 detik
+buffs_270_effect_desc
+
+buffs_280_name
+Terus memulihkan Rage (sementara tidak digunakan)
+buffs_280_desc
+Memulihkan Rage mengikuti skill, Rage pulih setiap 0.1 detik
+buffs_280_effect_desc
+
+buffs_290_name
+Armor pelindung
+buffs_290_desc
+Seluruh armor dapat ditumpuk, armor menembakkan laser ke depan 100% tanpa damage
+buffs_290_effect_desc
+
+buffs_300_name
+Berdarah
+buffs_300_desc
+Semacam special dot, damage setiap 1 detik, logic lainnya sama dengan Burn
+buffs_300_effect_desc
+Berdarah
+buffs_310_name
+Suck blood (sementara tidak dapat digunakan)
+buffs_310_desc
+Tambah poin darah, poin skill menjadi parameter
+buffs_310_effect_desc
+
+buffs_320_name
+Fear
+buffs_320_desc
+Control effect menjadi Fear, 75% efek mengurangi speed
+buffs_320_effect_desc
+Fear
+buffs_330_name
+Imprison
+buffs_330_desc
+Control kuat tipe dark, daze effect
+buffs_330_effect_desc
+Imprison
+buffs_331_name
+Thunder Imprison
+buffs_331_desc
+Control kuat tipe lightning, daze effect
+buffs_331_effect_desc
+Imprison
+buffs_340_name
+Melilit
+buffs_340_desc
+Control kuat tipe natural, daze effect
+buffs_340_effect_desc
+Melilit
+buffs_350_name
+Stop
+buffs_350_desc
+Tidak dapat bergerak, efek bergerak skill juga tidak efektif
+buffs_350_effect_desc
+Stop
+buffs_360_name
+Blinding
+buffs_360_desc
+
+buffs_360_effect_desc
+Blinding
+buffs_370_name
+Silence
+buffs_370_desc
+Tidak dapat melepas skill
+buffs_370_effect_desc
+Silence
+buffs_380_name
+Kurangi speed
+buffs_380_desc
+Monster mengurangi speed, bukan tipe ice
+buffs_380_effect_desc
+Kurangi speed
+buffs_390_name
+Daze
+buffs_390_desc
+Monster menggunakan daze, tanpa tipe
+buffs_390_effect_desc
+Daze
+buffs_400_name
+Pasti Crit
+buffs_400_desc
+
+buffs_400_effect_desc
+Crit
+buffs_401_name
+Pasti bukan Crit
+buffs_401_desc
+
+buffs_401_effect_desc
+
+buffs_500_name
+Tanpa lawan (tanpa special effect)
+buffs_500_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, tidak ada special effect lain
+buffs_500_effect_desc
+
+buffs_501_name
+Tanpa lawan
+buffs_501_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, ada special effect
+buffs_501_effect_desc
+Tanpa lawan
+buffs_502_name
+Anti-control
+buffs_502_desc
+Immune control
+buffs_502_effect_desc
+
+buffs_503_name
+immune aneh (sementara menggunakan special effect yang sama dengan immune control)
+buffs_503_desc
+immune control, immune DEBUFF
+buffs_503_effect_desc
+
+buffs_504_name
+Tyrant (sementara tidak ada special effect yang cocok)
+buffs_504_desc
+Tyrant, tidak akan masuk kondisi mendapatkan attack, immune knock dan down
+buffs_504_effect_desc
+
+buffs_505_name
+Tidak dapat dipilih (tanpa efek spesial)
+buffs_505_desc
+Hanya ada yang tidak dapat dipilih
+buffs_505_effect_desc
+
+buffs_506_name
+Immune damage (tanpa special effect)
+buffs_506_desc
+Hanya ada immune damage
+buffs_506_effect_desc
+
+buffs_507_name
+Immune control (tanpa special effect)
+buffs_507_desc
+Hanya ada immune control
+buffs_507_effect_desc
+
+buffs_508_name
+Tyrant (tanpa special effect)
+buffs_508_desc
+Hanya ada Tyrant special effect
+buffs_508_effect_desc
+
+buffs_509_name
+Eidolon menggunakan tanpa lawan (tanpa special effect)
+buffs_509_desc
+Dapat dipilih, yang lain sama dengan tanpa lawan yang tidak terlihat
+buffs_509_effect_desc
+
+buffs_510_name
+Fire BUFF immune
+buffs_510_desc
+Immune burn
+buffs_510_effect_desc
+
+buffs_511_name
+Ice BUFF immune
+buffs_511_desc
+Immune cold dan frozen
+buffs_511_effect_desc
+
+buffs_512_name
+Lightning BUFF immune
+buffs_512_desc
+Immune Shock dan numb
+buffs_512_effect_desc
+
+buffs_513_name
+Poison BUFF immune
+buffs_513_desc
+Immune merusak armor, poison dan imprison
+buffs_513_effect_desc
+
+buffs_520_name
+Fire damage immune
+buffs_520_desc
+Immune damage tipe fire
+buffs_520_effect_desc
+
+buffs_521_name
+Ice damage immune
+buffs_521_desc
+Immune damage tipe ice
+buffs_521_effect_desc
+
+buffs_522_name
+Lightning damage immune
+buffs_522_desc
+Immune damage tipe lightning
+buffs_522_effect_desc
+
+buffs_523_name
+Poison damage immune
+buffs_523_desc
+Immune damage tipe poison
+buffs_523_effect_desc
+
+buffs_524_name
+Blood Rage damage immune
+buffs_524_desc
+Immune damage tipe blood Rage
+buffs_524_effect_desc
+
+buffs_525_name
+Natural damage immune
+buffs_525_desc
+Immune damage tipe natural
+buffs_525_effect_desc
+
+buffs_526_name
+Tyrant (bisa attack mundur)
+buffs_526_desc
+Hanya ada Tyrant special effect
+buffs_526_effect_desc
+
+buffs_527_name
+Gem menggunakan persentase holy damage
+buffs_527_desc
+
+buffs_527_effect_desc
+
+buffs_528_name
+Gem menggunakan revive
+buffs_528_desc
+
+buffs_528_effect_desc
+
+buffs_529_name
+Semua attribute buff 10%
+buffs_529_desc
+
+buffs_529_effect_desc
+
+buffs_530_name
+Aoyi damage meningkat
+buffs_530_desc
+
+buffs_530_effect_desc
+
+buffs_531_name
+Attack speed bertambah
+buffs_531_desc
+
+buffs_531_effect_desc
+
+buffs_532_name
+Ice lightning enhance
+buffs_532_desc
+Hero tipe ice lightning damage bertambah
+buffs_532_effect_desc
+Ice lightning enhance
+buffs_533_name
+Rage fire enhance
+buffs_533_desc
+Hero tipe Rage fire damage bertambah
+buffs_533_effect_desc
+Rage fire enhance
+buffs_534_name
+Natural enhance
+buffs_534_desc
+Hero tipe natural damage bertambah
+buffs_534_effect_desc
+Natural enhance
+buffs_535_name
+Apocalypse enhance
+buffs_535_desc
+Hero tipe apocalypse damage bertambah
+buffs_535_effect_desc
+Apocalypse enhance
+buffs_536_name
+Damage immune (10s)
+buffs_536_desc
+Hanya ada immune damage
+buffs_536_effect_desc
+
+buffs_537_name
+Control immune (10s)
+buffs_537_desc
+Hanya ada immune control
+buffs_537_effect_desc
+
+buffs_538_name
+Frozen immune
+buffs_538_desc
+Hanya ada frozen immune
+buffs_538_effect_desc
+Immune frozen
+buffs_600_name
+Tambah damage : dapat ditumpuk
+buffs_600_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_600_effect_desc
+Attack ↑
+buffs_601_name
+Tambah damage : tetap 12%, digunakan oleh King
+buffs_601_desc
+
+buffs_601_effect_desc
+
+buffs_602_name
+Tambah damage : tidak dapat ditumpuk, khusus Ruka
+buffs_602_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_602_effect_desc
+
+buffs_603_name
+Tambah damage : tidak dapat ditumpuk, digunakan oleh monster, 6% attack power dan attack speed
+buffs_603_desc
+
+buffs_603_effect_desc
+
+buffs_610_name
+Menurunkan tambah damage
+buffs_610_desc
+Buff yang mengurangi attack, juga digunakan untuk mengurangi damage, special effect, text, angka yang bertambah digunakan untuk skill
+buffs_610_effect_desc
+Attack↓
+buffs_620_name
+Menambah immune damage
+buffs_620_desc
+Defense bertambah, selain kondisi special, semua menggunakan tambahan anti damage, special effect, text, angkat yang bertambah digunakan untuk skill
+buffs_620_effect_desc
+Defense↑
+buffs_621_name
+Menambah immune damage
+buffs_621_desc
+Menambah immune damage (tanpa special effect, map, buff lain, dapat menyimpan 620)
+buffs_621_effect_desc
+
+buffs_622_name
+Common menambahkan attack power
+buffs_622_desc
+Menambah attack power, dapat berkembang
+buffs_622_effect_desc
+
+buffs_623_name
+Common menambahkan defense power
+buffs_623_desc
+Defense bertambah, dapat berkembang
+buffs_623_effect_desc
+
+buffs_1001_name
+Eight : Blaze armor (eight)
+buffs_1001_desc
+
+buffs_1001_effect_desc
+
+buffs_1002_name
+Eight : Blok (eight)
+buffs_1002_desc
+
+buffs_1002_effect_desc
+Defense↑
+buffs_1003_name
+Eight : menambah defense diri 
+buffs_1003_desc
+
+buffs_1003_effect_desc
+
+buffs_1004_name
+Eight : summon item
+buffs_1004_desc
+
+buffs_1004_effect_desc
+
+buffs_1005_name
+Eight : summon item upgrade
+buffs_1005_desc
+
+buffs_1005_effect_desc
+
+buffs_1006_name
+Eight : merusak armor
+buffs_1006_desc
+
+buffs_1006_effect_desc
+
+buffs_1021_name
+Cinque : mendapatkan lebih banyak attack Rage
+buffs_1021_desc
+
+buffs_1021_effect_desc
+
+buffs_1022_name
+Cinque : armor es
+buffs_1022_desc
+
+buffs_1022_effect_desc
+
+buffs_1023_name
+Cinque : summon item
+buffs_1023_desc
+
+buffs_1023_effect_desc
+
+buffs_1024_name
+Cinque : summon item upgrade
+buffs_1024_desc
+
+buffs_1024_effect_desc
+
+buffs_1041_name
+Gilgamesh : Meningkatkan defense
+buffs_1041_desc
+
+buffs_1041_effect_desc
+Defense↑
+buffs_1042_name
+Gilgamesh : menambah aoyi damage
+buffs_1042_desc
+
+buffs_1042_effect_desc
+skill terbatas ↑
+buffs_1043_name
+Gilgamesh : Mempertahankan Rage
+buffs_1043_desc
+
+buffs_1043_effect_desc
+
+buffs_1061_name
+Kurasame : buff tidak mati
+buffs_1061_desc
+
+buffs_1061_effect_desc
+
+buffs_1062_name
+Kurasame : buff tidak mati +
+buffs_1062_desc
+
+buffs_1062_effect_desc
+
+buffs_1081_name
+Claes : skill besar muncul + damage bertambah
+buffs_1081_desc
+
+buffs_1081_effect_desc
+
+buffs_1082_name
+Claes : skill besar di tangan special effect
+buffs_1082_desc
+
+buffs_1082_effect_desc
+
+buffs_1083_name
+Claes : skill besar di tangan special effect
+buffs_1083_desc
+
+buffs_1083_effect_desc
+
+buffs_1084_name
+Claes : vertigo lemah special effect
+buffs_1084_desc
+
+buffs_1084_effect_desc
+Numb
+buffs_1085_name
+Claes : vertigo lemah special effect
+buffs_1085_desc
+
+buffs_1085_effect_desc
+Numb yang kuat
+buffs_1086_name
+Claes : Speed bertambah
+buffs_1086_desc
+
+buffs_1086_effect_desc
+attack speed ↑
+buffs_1087_name
+Claes : Crit
+buffs_1087_desc
+
+buffs_1087_effect_desc
+Crit ↑
+buffs_1088_name
+Claes : Crit +
+buffs_1088_desc
+
+buffs_1088_effect_desc
+Crit ↑
+buffs_1089_name
+Claes : Crit ++
+buffs_1089_desc
+
+buffs_1089_effect_desc
+Crit ↑
+buffs_1090_name
+Eight : damage bertambah
+buffs_1090_desc
+
+buffs_1090_effect_desc
+Attack ↑
+buffs_1101_name
+Hayne : menambah defense armor
+buffs_1101_desc
+
+buffs_1101_effect_desc
+Defense↑
+buffs_1121_name
+Trey : pasif 1
+buffs_1121_desc
+
+buffs_1121_effect_desc
+
+buffs_1122_name
+Trey : Speed bertambah
+buffs_1122_desc
+
+buffs_1122_effect_desc
+
+buffs_1123_name
+Trey : mengurangi speed
+buffs_1123_desc
+
+buffs_1123_effect_desc
+Kurangi speed
+buffs_1141_name
+King : mengurangi defense armor
+buffs_1141_desc
+
+buffs_1141_effect_desc
+
+buffs_1142_name
+King : menambah attack
+buffs_1142_desc
+
+buffs_1142_effect_desc
+
+buffs_1143_name
+King : menambah attack special effect
+buffs_1143_desc
+
+buffs_1143_effect_desc
+
+buffs_1144_name
+King : menambah attack speed
+buffs_1144_desc
+
+buffs_1144_effect_desc
+attack speed ↑
+buffs_1145_name
+King : Crit + tyrant
+buffs_1145_desc
+
+buffs_1145_effect_desc
+Crit ↑
+buffs_1146_name
+King : mark
+buffs_1146_desc
+
+buffs_1146_effect_desc
+
+buffs_1147_name
+Rem : Crit
+buffs_1147_desc
+Pintu sembilan stage 5
+buffs_1147_effect_desc
+Crit ↑
+buffs_1148_name
+King : burn
+buffs_1148_desc
+Damage tipe fire dot, damage setiap 1 detik, damage dan waktu akan bertambah dari skill, setiap tambahan Burn akan menambah jumlah damage, jika ada Burn dengan logic special, group harus sama
+buffs_1148_effect_desc
+Burn
+buffs_1161_name
+Jack : suck blood
+buffs_1161_desc
+Jack pasif
+buffs_1161_effect_desc
+suck blood ↑
+buffs_1162_name
+Jack : suck blood (skill)
+buffs_1162_desc
+
+buffs_1162_effect_desc
+
+buffs_1163_name
+Jack : suck blood (upgrade dengan skill)
+buffs_1163_desc
+
+buffs_1163_effect_desc
+
+buffs_1164_name
+Jack : Blaze armor
+buffs_1164_desc
+
+buffs_1164_effect_desc
+
+buffs_1165_name
+Jack : suck blood
+buffs_1165_desc
+Pintu sembilan stage 7
+buffs_1165_effect_desc
+suck blood ↑
+buffs_1166_name
+Jack : suck blood
+buffs_1166_desc
+Pintu sembilan stage 9
+buffs_1166_effect_desc
+suck blood ↑
+buffs_1181_name
+Andoria : buff tidak mati
+buffs_1181_desc
+
+buffs_1181_effect_desc
+
+buffs_1182_name
+Andoria : sisa Rage
+buffs_1182_desc
+
+buffs_1182_effect_desc
+
+buffs_1201_name
+Atra : tyrant effect
+buffs_1201_desc
+
+buffs_1201_effect_desc
+
+buffs_1202_name
+Atra : suck blood
+buffs_1202_desc
+
+buffs_1202_effect_desc
+
+buffs_1203_name
+Atra : suck blood
+buffs_1203_desc
+
+buffs_1203_effect_desc
+suck blood ↑
+buffs_1204_name
+Atra : rebound
+buffs_1204_desc
+
+buffs_1204_effect_desc
+rebound ↑
+buffs_1205_name
+Atra : suck blood
+buffs_1205_desc
+
+buffs_1205_effect_desc
+suck blood ↑
+buffs_1206_name
+Atra : mengurangi damage
+buffs_1206_desc
+
+buffs_1206_effect_desc
+Defense↑
+buffs_1221_name
+Queen : mengurangi attack
+buffs_1221_desc
+
+buffs_1221_effect_desc
+Attack↓
+buffs_1222_name
+Queen : heal effect meningkat
+buffs_1222_desc
+
+buffs_1222_effect_desc
+
+buffs_1223_name
+Queen : mark
+buffs_1223_desc
+
+buffs_1223_effect_desc
+
+buffs_1241_name
+Nine : bebas damage meningkat
+buffs_1241_desc
+
+buffs_1241_effect_desc
+
+buffs_1242_name
+Nine : mark
+buffs_1242_desc
+
+buffs_1242_effect_desc
+
+buffs_1261_name
+Xuyu : mark
+buffs_1261_desc
+
+buffs_1261_effect_desc
+
+buffs_1262_name
+Xuyu : pasif meningkatkan Crit, dapat ditumpuk
+buffs_1262_desc
+
+buffs_1262_effect_desc
+
+buffs_1263_name
+Xuyu : damage Crit meningkat
+buffs_1263_desc
+
+buffs_1263_effect_desc
+
+buffs_1281_name
+Deuce : summon item Blok 10%
+buffs_1281_desc
+
+buffs_1281_effect_desc
+
+buffs_1282_name
+skill besar Vampire : suck blood
+buffs_1282_desc
+
+buffs_1282_effect_desc
+
+buffs_1283_name
+Deuce : summon item Blok 20%
+buffs_1283_desc
+
+buffs_1283_effect_desc
+
+buffs_1301_name
+Machina : armor (melindungi HP)
+buffs_1301_desc
+
+buffs_1301_effect_desc
+
+buffs_1302_name
+Machina : armor (tidak melindungi HP)
+buffs_1302_desc
+
+buffs_1302_effect_desc
+
+buffs_1321_name
+Tenochi : meningkatkan movement speed dan dodge
+buffs_1321_desc
+
+buffs_1321_effect_desc
+
+buffs_1322_name
+Tenochi : meningkatkan attack speed
+buffs_1322_desc
+
+buffs_1322_effect_desc
+attack speed ↑
+buffs_1323_name
+Tenochi : meningkatkan dodge
+buffs_1323_desc
+
+buffs_1323_effect_desc
+dodge ↑
+buffs_1324_name
+Tenochi : meningkatkan dodge ++
+buffs_1324_desc
+
+buffs_1324_effect_desc
+dodge ↑
+buffs_1341_name
+Rem : mark
+buffs_1341_desc
+
+buffs_1341_effect_desc
+
+buffs_1361_name
+Mutsuki : skill damage meningkat
+buffs_1361_desc
+
+buffs_1361_effect_desc
+
+buffs_1362_name
+Mutsuki : skill mendinginkan bertambah cepat, speed melepaskan meningkat
+buffs_1362_desc
+
+buffs_1362_effect_desc
+
+buffs_1363_name
+Maksimum darah Nine meningkat
+buffs_1363_desc
+
+buffs_1363_effect_desc
+
+buffs_1381_name
+Eidolon Odin suck blood
+buffs_1381_desc
+
+buffs_1381_effect_desc
+
+buffs_1382_name
+summon item special effect 1
+buffs_1382_desc
+
+buffs_1382_effect_desc
+
+buffs_1383_name
+skill besar Kazusa poison + melambat
+buffs_1383_desc
+damage dot gelap, damage setiap 1 detik, yang lain juga burn
+buffs_1383_effect_desc
+Poison
+buffs_1384_name
+Eight kartu pasif special effect
+buffs_1384_desc
+
+buffs_1384_effect_desc
+
+buffs_1385_name
+Atra menambah bebas damage
+buffs_1385_desc
+Defense bertambah, selain kondisi special, semua menggunakan tambahan anti damage, special effect, text, angkat yang bertambah digunakan untuk skill
+buffs_1385_effect_desc
+Defense↑
+buffs_1386_name
+Ninja menambah speed
+buffs_1386_desc
+
+buffs_1386_effect_desc
+
+buffs_1387_name
+Break Armor
+buffs_1387_desc
+Ninja merusak armor, nilai tetap
+buffs_1387_effect_desc
+Break Armor
+buffs_1401_name
+Qun'mi : armor
+buffs_1401_desc
+Seluruh armor dapat ditumpuk, armor menembakkan laser ke depan 100% tanpa damage
+buffs_1401_effect_desc
+
+buffs_1402_name
+Nine : armor
+buffs_1402_desc
+
+buffs_1402_effect_desc
+
+buffs_1403_name
+Nine : rebound damage
+buffs_1403_desc
+
+buffs_1403_effect_desc
+
+buffs_1404_name
+Nine : armor +
+buffs_1404_desc
+
+buffs_1404_effect_desc
+
+buffs_1405_name
+Peringatan laba-laba kecil
+buffs_1405_desc
+
+buffs_1405_effect_desc
+
+buffs_1406_name
+Mutsuki terkena poison
+buffs_1406_desc
+Damage tipe dark dot, damage setiap 2 detik, burn dan lainnya
+buffs_1406_effect_desc
+Poison
+buffs_1407_name
+attack berkurang
+buffs_1407_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1407_effect_desc
+Attack↓
+buffs_1408_name
+skill besar Nine merusak armor
+buffs_1408_desc
+Debuff tipe dark, menurunkan immune damage, point dan waktu mengikuti skill
+buffs_1408_effect_desc
+Break Armor
+buffs_1409_name
+skill besar Cater menambah damage
+buffs_1409_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1409_effect_desc
+Attack ↑
+buffs_1410_name
+skill besar Deuce menambah Crit
+buffs_1410_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1410_effect_desc
+Attack ↑
+buffs_1411_name
+Gilgamesh : Repel
+buffs_1411_desc
+
+buffs_1411_effect_desc
+rebound ↑
+buffs_1412_name
+Spiral world seimbang buff
+buffs_1412_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1412_effect_desc
+
+buffs_1413_name
+Andoria Dragon menambah immune dmg
+buffs_1413_desc
+Defense bertambah, selain kondisi special, semua menggunakan tambahan anti damage, special effect, text, angkat yang bertambah digunakan untuk skill
+buffs_1413_effect_desc
+Defense↑
+buffs_1500_name
+Eight : menambah bebas damage
+buffs_1500_desc
+
+buffs_1500_effect_desc
+
+buffs_1501_name
+Cinque : menambah bebas damage
+buffs_1501_desc
+
+buffs_1501_effect_desc
+
+buffs_1502_name
+Gilgamesh : armor bebas damage tinggi
+buffs_1502_desc
+
+buffs_1502_effect_desc
+Blok ↑
+buffs_1503_name
+Nine : bebas damage meningkat
+buffs_1503_desc
+
+buffs_1503_effect_desc
+
+buffs_1504_name
+Claes : skill besar muncul
+buffs_1504_desc
+
+buffs_1504_effect_desc
+
+buffs_1505_name
+Hayne : menambah bebas damage
+buffs_1505_desc
+Defense bertambah, selain kondisi special, semua menggunakan tambahan anti damage, special effect, text, angkat yang bertambah digunakan untuk skill
+buffs_1505_effect_desc
+Defense↑
+buffs_1506_name
+Mutsuki : skill damage meningkat
+buffs_1506_desc
+
+buffs_1506_effect_desc
+
+buffs_1507_name
+Tambah damage : dapat ditumpuk
+buffs_1507_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1507_effect_desc
+Attack ↑
+buffs_1508_name
+Dancer : damage bertambah
+buffs_1508_desc
+
+buffs_1508_effect_desc
+Attack ↑
+buffs_1509_name
+Vampir : damage bertambah lv 1
+buffs_1509_desc
+
+buffs_1509_effect_desc
+Attack ↑
+buffs_1510_name
+Vampir : damage bertambah lv 2
+buffs_1510_desc
+
+buffs_1510_effect_desc
+Attack ↑
+buffs_1511_name
+Vampir : damage bertambah lv 3
+buffs_1511_desc
+
+buffs_1511_effect_desc
+Attack ↑
+buffs_1512_name
+Dancer : damage bertambah
+buffs_1512_desc
+
+buffs_1512_effect_desc
+
+buffs_1513_name
+Ruka : mark
+buffs_1513_desc
+
+buffs_1513_effect_desc
+
+buffs_1514_name
+Ruka : attack power menurun
+buffs_1514_desc
+
+buffs_1514_effect_desc
+Attack↓
+buffs_1515_name
+Ruka : defense power menurun
+buffs_1515_desc
+
+buffs_1515_effect_desc
+defense ↓
+buffs_1516_name
+Ruka : persentase Crit menurun
+buffs_1516_desc
+
+buffs_1516_effect_desc
+Crit ↓
+buffs_1517_name
+Ruka : meningkatkan damage bertambah
+buffs_1517_desc
+
+buffs_1517_effect_desc
+Attack ↑
+buffs_1518_name
+Ruka : meningkatkan bebas damage
+buffs_1518_desc
+
+buffs_1518_effect_desc
+Blok ↑
+buffs_1519_name
+Ruka : meningkatkan persentase Crit
+buffs_1519_desc
+
+buffs_1519_effect_desc
+Crit ↑
+buffs_1520_name
+Ruka : meningkatkan damage Crit
+buffs_1520_desc
+
+buffs_1520_effect_desc
+damage Crit ↑
+buffs_1521_name
+Mutsuki : skill yang dapat ditumpuk menambah damage
+buffs_1521_desc
+
+buffs_1521_effect_desc
+
+buffs_1522_name
+Ruka : attack power meningkat
+buffs_1522_desc
+
+buffs_1522_effect_desc
+Attack ↑
+buffs_1523_name
+Avatar Xuyu dan diri sendiri violent
+buffs_1523_desc
+
+buffs_1523_effect_desc
+violent
+buffs_1524_name
+Pemakaman baru Andoria
+buffs_1524_desc
+
+buffs_1524_effect_desc
+
+buffs_1525_name
+Kurasame : Meningkatkan bebas damage
+buffs_1525_desc
+
+buffs_1525_effect_desc
+Blok ↑
+buffs_1526_name
+armor mesin violent Qun'mi
+buffs_1526_desc
+
+buffs_1526_effect_desc
+armor mesin violent
+buffs_1527_name
+mark Caetuna
+buffs_1527_desc
+
+buffs_1527_effect_desc
+
+buffs_1528_name
+mark Qator
+buffs_1528_desc
+
+buffs_1528_effect_desc
+
+buffs_1529_name
+Aoyi damage meningkat
+buffs_1529_desc
+
+buffs_1529_effect_desc
+skill terbatas ↑
+buffs_1530_name
+Andoria bebas control bebas debuff
+buffs_1530_desc
+Immune control
+buffs_1530_effect_desc
+
+buffs_1531_name
+armor Chique
+buffs_1531_desc
+
+buffs_1531_effect_desc
+
+buffs_1532_name
+damage Caetuna aoyi meningkat banyak
+buffs_1532_desc
+
+buffs_1532_effect_desc
+skill terbatas ↑
+buffs_1533_name
+damage bertambah di dalam armor Eight
+buffs_1533_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1533_effect_desc
+Attack ↑
+buffs_1534_name
+Ryid menggunakan pemakaman
+buffs_1534_desc
+
+buffs_1534_effect_desc
+
+buffs_1535_name
+Deuce menambah bebas damage
+buffs_1535_desc
+Defense bertambah, selain kondisi special, semua menggunakan tambahan anti damage, special effect, text, angkat yang bertambah digunakan untuk skill
+buffs_1535_effect_desc
+Defense↑
+buffs_1536_name
+Seven : mark summon item
+buffs_1536_desc
+
+buffs_1536_effect_desc
+
+buffs_1537_name
+Seven : menambah attack speed
+buffs_1537_desc
+
+buffs_1537_effect_desc
+attack speed ↑
+buffs_1538_name
+Seven : mark di benda
+buffs_1538_desc
+
+buffs_1538_effect_desc
+
+buffs_1539_name
+Damage Machina bertambah
+buffs_1539_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1539_effect_desc
+Attack ↑
+buffs_1540_name
+Damage Mutsuki bertambah
+buffs_1540_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1540_effect_desc
+Attack ↑
+buffs_1541_name
+Damage Ryid bertambah Blok
+buffs_1541_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1541_effect_desc
+Attack ↑
+buffs_1542_name
+Damage Rem bertambah
+buffs_1542_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1542_effect_desc
+Attack ↑
+buffs_1543_name
+Qun'mi menguatkan benteng
+buffs_1543_desc
+
+buffs_1543_effect_desc
+Menyerang HP ↑
+buffs_1544_name
+Movement speed Qun'mi bertambah
+buffs_1544_desc
+
+buffs_1544_effect_desc
+
+buffs_1545_name
+Speed attack Qun'mi meningkat
+buffs_1545_desc
+
+buffs_1545_effect_desc
+
+buffs_1546_name
+Little Lolita : bertambah dua kali lipat
+buffs_1546_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1546_effect_desc
+Jumlah attack, heal ↑
+buffs_1547_name
+Ninja : jumlah heal menurun
+buffs_1547_desc
+
+buffs_1547_effect_desc
+Jumlah heal ↓
+buffs_1548_name
+Invincible khusus Avatar Xuyu
+buffs_1548_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, tidak ada special effect lain
+buffs_1548_effect_desc
+
+buffs_1549_name
+Caetuna menurunkan heal 5 hari berurutan
+buffs_1549_desc
+
+buffs_1549_effect_desc
+Jumlah heal ↓
+buffs_1550_name
+Nimbus menambah damage 5 hari berurutan
+buffs_1550_desc
+
+buffs_1550_effect_desc
+Attack ↑
+buffs_1551_name
+Tidak bisa menambah damage free
+buffs_1551_desc
+Defense bertambah, selain kondisi special, semua menggunakan tambahan anti damage, special effect, text, angkat yang bertambah digunakan untuk skill
+buffs_1551_effect_desc
+Defense↑
+buffs_1552_name
+Xuyu immune frozen 1 kali
+buffs_1552_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, tidak ada special effect lain
+buffs_1552_effect_desc
+
+buffs_1553_name
+Qun'mi menambah serangan dan defense
+buffs_1553_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1553_effect_desc
+Attack defense ↑
+buffs_1554_name
+HP limit Atra bertambah
+buffs_1554_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1554_effect_desc
+HP↑
+buffs_1555_name
+Caetuna menurunkan serangan 9 hari berurutan
+buffs_1555_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1555_effect_desc
+Attack↓
+buffs_1556_name
+Immune Caetuna menurunkan jumlah heal 5 hari berurutan 
+buffs_1556_desc
+
+buffs_1556_effect_desc
+
+buffs_1557_name
+Serangan Jack menurun 7 hari berurutan
+buffs_1557_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1557_effect_desc
+Attack↓
+buffs_1558_name
+Rem menambah defense 7 hari berurutan 
+buffs_1558_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1558_effect_desc
+Rage defense ↑
+buffs_1559_name
+Machina menambah speed crit hit 7 hari berurutan
+buffs_1559_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1559_effect_desc
+Speed Hit ↑
+buffs_1560_name
+Qun'mi menurunkan heal 7 hari berurutan
+buffs_1560_desc
+
+buffs_1560_effect_desc
+
+buffs_1561_name
+Kazusa Worm tyrant (no special effect)
+buffs_1561_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, tidak ada special effect lain
+buffs_1561_effect_desc
+
+buffs_1562_name
+Andoria stop
+buffs_1562_desc
+Tidak dapat bergerak, efek bergerak skill juga tidak efektif
+buffs_1562_effect_desc
+Stop
+buffs_1563_name
+Cactus Andoria immune ctrl
+buffs_1563_desc
+Immune control
+buffs_1563_effect_desc
+
+buffs_1564_name
+Gilgamesh menambah limit HP
+buffs_1564_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1564_effect_desc
+HP↑
+buffs_1600_name
+Item menurunkan tambahan damage
+buffs_1600_desc
+Buff yang mengurangi attack, juga digunakan untuk mengurangi damage, special effect, text, angka yang bertambah digunakan untuk skill
+buffs_1600_effect_desc
+Attack↓
+buffs_1601_name
+Item meningkatkan speed attack dan movement speed
+buffs_1601_desc
+Buff yang mengurangi attack, juga digunakan untuk mengurangi damage, special effect, text, angka yang bertambah digunakan untuk skill
+buffs_1601_effect_desc
+Speed attack, movement speed ↑
+buffs_1602_name
+Item menurunkan jumlah heal
+buffs_1602_desc
+
+buffs_1602_effect_desc
+Jumlah heal ↓
+buffs_1603_name
+Item menambah attack (dapat dihapus)
+buffs_1603_desc
+
+buffs_1603_effect_desc
+Attack ↑
+buffs_1604_name
+Menambah damage : tidak dapat ditumpuk
+buffs_1604_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1604_effect_desc
+Attack ↑
+buffs_1605_name
+Mengembalikan semua penambah damage (tidak terlihat)
+buffs_1605_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1605_effect_desc
+
+buffs_1606_name
+Mengembalikan semua pengurang damage (tidak terlihat)
+buffs_1606_desc
+Bermacam-macam meningkatkan serangan, menggunakan tambahan damage, special effect, menutup kata, jumlah yang bertambah ditukar dengan skill
+buffs_1606_effect_desc
+
+buffs_1607_name
+Andoria Dragon buff
+buffs_1607_desc
+Dragon buff
+buffs_1607_effect_desc
+Immune control
+buffs_1608_name
+utk tanda cosplay
+buffs_1608_desc
+
+buffs_1608_effect_desc
+
+buffs_1609_name
+Buff permanen Dragon yg pernah berubah
+buffs_1609_desc
+
+buffs_1609_effect_desc
+
+buffs_4001_name
+Armor pelindung
+buffs_4001_desc
+
+buffs_4001_effect_desc
+
+buffs_4002_name
+Crit
+buffs_4002_desc
+
+buffs_4002_effect_desc
+
+buffs_4003_name
+Attack meningkat
+buffs_4003_desc
+
+buffs_4003_effect_desc
+
+buffs_4004_name
+Attack meningkat
+buffs_4004_desc
+
+buffs_4004_effect_desc
+
+buffs_4005_name
+Attack menumpuk meningkat
+buffs_4005_desc
+
+buffs_4005_effect_desc
+
+buffs_4006_name
+Heal effect meningkat
+buffs_4006_desc
+
+buffs_4006_effect_desc
+
+buffs_4007_name
+Refresh cooldown skill
+buffs_4007_desc
+
+buffs_4007_effect_desc
+
+buffs_4008_name
+Attack meningkat
+buffs_4008_desc
+
+buffs_4008_effect_desc
+
+buffs_4009_name
+Dmg
+buffs_4009_desc
+
+buffs_4009_effect_desc
+Attack ↑
+buffs_4010_name
+HP langsung meningkat
+buffs_4010_desc
+
+buffs_4010_effect_desc
+
+buffs_4011_name
+Blok
+buffs_4011_desc
+
+buffs_4011_effect_desc
+
+buffs_4012_name
+Attribute tower robot meningkat
+buffs_4012_desc
+
+buffs_4012_effect_desc
+
+buffs_4013_name
+Attribute tower robot meningkat
+buffs_4013_desc
+
+buffs_4013_effect_desc
+
+buffs_4014_name
+Attack meningkat
+buffs_4014_desc
+
+buffs_4014_effect_desc
+Attack ↑
+buffs_4101_name
+Eight : leader skill armor
+buffs_4101_desc
+
+buffs_4101_effect_desc
+
+buffs_4102_name
+Qun'mi leader skill : blinding
+buffs_4102_desc
+Attack menurun, Crit menurun
+buffs_4102_effect_desc
+Blinding
+buffs_4103_name
+Qun'mi leader skill : mark
+buffs_4103_desc
+
+buffs_4103_effect_desc
+
+buffs_4104_name
+Tenochi Leader skill : dodge
+buffs_4104_desc
+
+buffs_4104_effect_desc
+dodge ↑
+buffs_4105_name
+Ruka Leader skill menambah persentage Crit (boleh ditumpuk)
+buffs_4105_desc
+
+buffs_4105_effect_desc
+Crit ↑
+buffs_4106_name
+King leader skill menambah Crit
+buffs_4106_desc
+
+buffs_4106_effect_desc
+
+buffs_4107_name
+Sice leader skill : merusak armor
+buffs_4107_desc
+
+buffs_4107_effect_desc
+
+buffs_4108_name
+Mutsuki leader skill menambah attribute aneh
+buffs_4108_desc
+HP musuh semakin sedikit, damage yang diberikan semakin tinggi, paling banyak memberi damage naik 40%
+buffs_4108_effect_desc
+
+buffs_4109_name
+Ryid leader skill menambah heal
+buffs_4109_desc
+
+buffs_4109_effect_desc
+
+buffs_4110_name
+Nimbus leader skill : numb
+buffs_4110_desc
+
+buffs_4110_effect_desc
+Numb
+buffs_4111_name
+Kurasame leader skill : mengurangi jumlah heal
+buffs_4111_desc
+
+buffs_4111_effect_desc
+
+buffs_4112_name
+Claes leader skill : 9% attack
+buffs_4112_desc
+
+buffs_4112_effect_desc
+Attack ↑9%
+buffs_4113_name
+Claes leader skill : 18% attack
+buffs_4113_desc
+
+buffs_4113_effect_desc
+Attack ↑18%
+buffs_4114_name
+Claes leader skill : 27% attack
+buffs_4114_desc
+
+buffs_4114_effect_desc
+Attack ↑27%
+buffs_4115_name
+Hayne : leader skill
+buffs_4115_desc
+
+buffs_4115_effect_desc
+HP↑
+buffs_4116_name
+Cinque : leader skill
+buffs_4116_desc
+
+buffs_4116_effect_desc
+
+buffs_4117_name
+Eight leader skill : damage bertambah, aoyi bertambah
+buffs_4117_desc
+
+buffs_4117_effect_desc
+
+buffs_4118_name
+Jack leader skill : suck blood
+buffs_4118_desc
+
+buffs_4118_effect_desc
+
+buffs_4119_name
+Jack leader skill : suck blood (menyerah)
+buffs_4119_desc
+
+buffs_4119_effect_desc
+
+buffs_4120_name
+Trey leader skill : tambah attack
+buffs_4120_desc
+
+buffs_4120_effect_desc
+Attack ↑
+buffs_4121_name
+Rem leader skill : tambah attack, tambah damage critical
+buffs_4121_desc
+
+buffs_4121_effect_desc
+Crit ↑
+buffs_4122_name
+Cinque : leader skill
+buffs_4122_desc
+Defense bertambah
+buffs_4122_effect_desc
+Defense power ↑
+buffs_4123_name
+Leader skill Swordman ungu + attack
+buffs_4123_desc
+Leader skill Swordman + attack
+buffs_4123_effect_desc
+Attack ↑
+buffs_4124_name
+Leader skill Swordman orange + attack
+buffs_4124_desc
+Leader skill Swordman + attack
+buffs_4124_effect_desc
+Attack ↑
+buffs_4125_name
+Leader skill Swordman merah + attack
+buffs_4125_desc
+Leader skill Swordman + attack
+buffs_4125_effect_desc
+Attack ↑
+buffs_4126_name
+Gilgamesh : leader skill
+buffs_4126_desc
+Defense bertambah, menambah attack
+buffs_4126_effect_desc
+HP, Bounce ↑
+buffs_4127_name
+Leader skill Mage biru
+buffs_4127_desc
+Leader skill Mage + attack
+buffs_4127_effect_desc
+Attack ↑
+buffs_4128_name
+Leader skill Mage ungu
+buffs_4128_desc
+Leader skill Mage + attack
+buffs_4128_effect_desc
+Attack ↑
+buffs_4129_name
+Leader skill Mage orange
+buffs_4129_desc
+Leader skill Mage + attack
+buffs_4129_effect_desc
+Attack ↑
+buffs_4130_name
+Leader skill Shooter menambah skill damage
+buffs_4130_desc
+Leader skill Shooter
+buffs_4130_effect_desc
+Attack ↑
+buffs_4131_name
+Leader skill Kazusa + mengalahkan monster mendapatkan rage
+buffs_4131_desc
+Leader skill Kazusa + mengalahkan monster mendapatkan rage
+buffs_4131_effect_desc
+
+buffs_4132_name
+Andoria leader skill Rage - CD
+buffs_4132_desc
+
+buffs_4132_effect_desc
+
+buffs_4133_name
+Atra leader skill + defense dan damage dibagi rata
+buffs_4133_desc
+Defense bertambah
+buffs_4133_effect_desc
+Defense↑
+buffs_4134_name
+Nine leader skill menambah anti-damage
+buffs_4134_desc
+Menambah immune damage (tanpa special effect, map, buff lain, dapat menyimpan 620)
+buffs_4134_effect_desc
+
+buffs_4135_name
+Caetuna leader skill : mengurangi jumlah heal
+buffs_4135_desc
+
+buffs_4135_effect_desc
+
+buffs_4136_name
+Caetuna leader skill : menambah jumlah heal
+buffs_4136_desc
+
+buffs_4136_effect_desc
+
+buffs_4137_name
+Xuyu leader skill menambah Crit
+buffs_4137_desc
+
+buffs_4137_effect_desc
+
+buffs_4138_name
+Swordman warna biru leader skill + attack
+buffs_4138_desc
+Leader skill Swordman + attack
+buffs_4138_effect_desc
+Attack ↑
+buffs_4139_name
+Shooter leader skill menambah attack power
+buffs_4139_desc
+
+buffs_4139_effect_desc
+Attack ↑
+buffs_4140_name
+Dancer leader skill menambah attack power, menambah critical damage
+buffs_4140_desc
+
+buffs_4140_effect_desc
+Attack ↑
+buffs_4141_name
+Vampir leader skill : suck blood
+buffs_4141_desc
+
+buffs_4141_effect_desc
+
+buffs_4142_name
+Kurasame leader skill : damage bertambah
+buffs_4142_desc
+
+buffs_4142_effect_desc
+Attack ↑
+buffs_4143_name
+Claes leader skill : 40% attack
+buffs_4143_desc
+
+buffs_4143_effect_desc
+Attack ↑40%
+buffs_5001_name
+Buff kosong (raksasa liar, tentara mech)
+buffs_5001_desc
+
+buffs_5001_effect_desc
+
+buffs_5002_name
+Attack tiba-tiba dari depan mengurangi damage
+buffs_5002_desc
+
+buffs_5002_effect_desc
+
+buffs_5003_name
+Snowman raksasa 100% speed attack
+buffs_5003_desc
+
+buffs_5003_effect_desc
+violent
+buffs_5004_name
+Empire small soldier BOSS violent
+buffs_5004_desc
+
+buffs_5004_effect_desc
+violent
+buffs_5005_name
+Violent (giant snowman violent)
+buffs_5005_desc
+
+buffs_5005_effect_desc
+violent
+buffs_5006_name
+Mark (common)
+buffs_5006_desc
+
+buffs_5006_effect_desc
+
+buffs_5007_name
+Takut
+buffs_5007_desc
+
+buffs_5007_effect_desc
+
+buffs_5008_name
+Bentuk kelelawar (Diablos)
+buffs_5008_desc
+
+buffs_5008_effect_desc
+
+buffs_5009_name
+Mark (Odin menabrak orang)
+buffs_5009_desc
+
+buffs_5009_effect_desc
+
+buffs_5010_name
+Bentuk batu
+buffs_5010_desc
+
+buffs_5010_effect_desc
+
+buffs_5011_name
+Kulit mengeras
+buffs_5011_desc
+
+buffs_5011_effect_desc
+Mengeras
+buffs_5012_name
+Special effect black smoke (digunakan oleh Pandemonium knight)
+buffs_5012_desc
+
+buffs_5012_effect_desc
+
+buffs_5013_name
+Mark (memanggil centipede kecil)
+buffs_5013_desc
+
+buffs_5013_effect_desc
+
+buffs_5014_name
+Mark (memanggil landak)
+buffs_5014_desc
+
+buffs_5014_effect_desc
+
+buffs_5015_name
+Mark (memanggil centipede besar)
+buffs_5015_desc
+
+buffs_5015_effect_desc
+
+buffs_5016_name
+Armor pelindung
+buffs_5016_desc
+20% armor HP
+buffs_5016_effect_desc
+
+buffs_5017_name
+Armor pelindung
+buffs_5017_desc
+30% armor HP
+buffs_5017_effect_desc
+
+buffs_5018_name
+Buff kosong (hakim)
+buffs_5018_desc
+
+buffs_5018_effect_desc
+
+buffs_5019_name
+Mark (flying dragon)
+buffs_5019_desc
+
+buffs_5019_effect_desc
+
+buffs_5020_name
+violent
+buffs_5020_desc
+
+buffs_5020_effect_desc
+violent
+buffs_5021_name
+Step (Diabolos)
+buffs_5021_desc
+
+buffs_5021_effect_desc
+
+buffs_5022_name
+Golden body
+buffs_5022_desc
+
+buffs_5022_effect_desc
+
+buffs_5023_name
+Mengurangi damage (flame dragon)
+buffs_5023_desc
+
+buffs_5023_effect_desc
+
+buffs_5024_name
+Mengurangi armor (Acid Sandworm)
+buffs_5024_desc
+
+buffs_5024_effect_desc
+
+buffs_5025_name
+Effect bertambah- Speed bertambah (khusus benefit)
+buffs_5025_desc
+
+buffs_5025_effect_desc
+
+buffs_5026_name
+Effect bertambah- Crit (khusus benefit)
+buffs_5026_desc
+
+buffs_5026_effect_desc
+
+buffs_5027_name
+Effect bertambah- skill CD (khusus benefit)
+buffs_5027_desc
+
+buffs_5027_effect_desc
+
+buffs_5028_name
+Effect bertambah- Acting Cute (khusus benefit)
+buffs_5028_desc
+
+buffs_5028_effect_desc
+
+buffs_5029_name
+Effect bertambah- ATK Speed bertambah tidak efektif (khusus benefit)
+buffs_5029_desc
+
+buffs_5029_effect_desc
+
+buffs_5030_name
+effect bertambah-Crit damage (khusus benefit)
+buffs_5030_desc
+
+buffs_5030_effect_desc
+
+buffs_5031_name
+effect bertambah-CD (khusus benefit)
+buffs_5031_desc
+
+buffs_5031_effect_desc
+
+buffs_5032_name
+effect bertambah- Acting Cute (khusus benefit)
+buffs_5032_desc
+
+buffs_5032_effect_desc
+
+buffs_5033_name
+effect bertambah-violent (khusus benefit)
+buffs_5033_desc
+
+buffs_5033_effect_desc
+
+buffs_5034_name
+effect bertambah-heal tidak ada effect (khusus benefit)
+buffs_5034_desc
+
+buffs_5034_effect_desc
+
+buffs_5035_name
+Altar_defense
+buffs_5035_desc
+
+buffs_5035_effect_desc
+Defense↑
+buffs_5036_name
+Altar_attack
+buffs_5036_desc
+
+buffs_5036_effect_desc
+Attack ↑
+buffs_5037_name
+Dark
+buffs_5037_desc
+
+buffs_5037_effect_desc
+Dark
+buffs_5038_name
+Heal effect (digunakan oleh newbie)
+buffs_5038_desc
+
+buffs_5038_effect_desc
+
+buffs_5039_name
+HP langsung meningkat (110rb)
+buffs_5039_desc
+
+buffs_5039_effect_desc
+
+buffs_5040_name
+HP berkurang drastis
+buffs_5040_desc
+
+buffs_5040_effect_desc
+
+buffs_5041_name
+Stage damage immune (tidak buta huruf)
+buffs_5041_desc
+
+buffs_5041_effect_desc
+
+buffs_5042_name
+Dmg (Khusus Guild 2- Death)
+buffs_5042_desc
+Blok
+buffs_5042_effect_desc
+
+buffs_5043_name
+Pandemonium knight : Avatar hit buff
+buffs_5043_desc
+
+buffs_5043_effect_desc
+
+buffs_5044_name
+Lampu patrol alarm 5 meter 120 derajat
+buffs_5044_desc
+
+buffs_5044_effect_desc
+
+buffs_5045_name
+Armor pelindung
+buffs_5045_desc
+Odin BOSS armor spesial
+buffs_5045_effect_desc
+
+buffs_5046_name
+Armor pelindung
+buffs_5046_desc
+Odin BOSS armor spesial (muncul)
+buffs_5046_effect_desc
+
+buffs_5047_name
+Burn
+buffs_5047_desc
+Kabur menggunakan burn Debuff tipe fire dot damage, damage setiap 1 detik, damage dan waktu menggunakan point skill.
+buffs_5047_effect_desc
+Burn
+buffs_5048_name
+Poison
+buffs_5048_desc
+Dot damage, setiap 1 detik
+buffs_5048_effect_desc
+Poison
+buffs_5049_name
+Wind Blade
+buffs_5049_desc
+4 senter yang khusus digunakan untuk thunder dragon
+buffs_5049_effect_desc
+Wind Blade
+buffs_5050_name
+Special effect kabut
+buffs_5050_desc
+Sneak stage card dengan special effect kabut
+buffs_5050_effect_desc
+
+buffs_5051_name
+Menambah damage (digunakan oleh 110 Eidolon)
+buffs_5051_desc
+Blok
+buffs_5051_effect_desc
+
+buffs_5052_name
+Lampu patrol alarm 5 meter 120 derajat (advance)
+buffs_5052_desc
+
+buffs_5052_effect_desc
+
+buffs_5053_name
+Meningkatkan movement speed (white tower monster)
+buffs_5053_desc
+
+buffs_5053_effect_desc
+
+buffs_5054_name
+Blood Rage armor
+buffs_5054_desc
+6% armor HP
+buffs_5054_effect_desc
+
+buffs_5055_name
+Daze setelah merusak armor
+buffs_5055_desc
+Monster menggunakan daze, tanpa tipe
+buffs_5055_effect_desc
+
+buffs_5056_name
+Dmg
+buffs_5056_desc
+
+buffs_5056_effect_desc
+Merusak defense
+buffs_5057_name
+Flame dragon Blok
+buffs_5057_desc
+
+buffs_5057_effect_desc
+
+buffs_5058_name
+HP decay (digunakan oleh newbie)
+buffs_5058_desc
+
+buffs_5058_effect_desc
+
+buffs_5059_name
+Dmg 2x (newbie 106)
+buffs_5059_desc
+
+buffs_5059_effect_desc
+Attack ↑
+buffs_5060_name
+Immune damage 30% (newbie 106)
+buffs_5060_desc
+
+buffs_5060_effect_desc
+Defense↑
+buffs_5061_name
+Immune damage 60% (newbie giant elephant soldier)
+buffs_5061_desc
+
+buffs_5061_effect_desc
+
+buffs_5062_name
+Dmg 2.275 kali (newbie 110)
+buffs_5062_desc
+
+buffs_5062_effect_desc
+
+buffs_5063_name
+Immune kondisi aneh (dapat merusak item rusak, digunakan untuk item)
+buffs_5063_desc
+immune control, immune DEBUFF
+buffs_5063_effect_desc
+
+buffs_5064_name
+Poison
+buffs_5064_desc
+Damage tipe dark dot, damage setiap 2 detik, burn dan lainnya
+buffs_5064_effect_desc
+Poison
+buffs_5065_name
+Movement speed bertambah cepat
+buffs_5065_desc
+204 off movement speed bertambah cepat BUFF
+buffs_5065_effect_desc
+Movement speed ↑
+buffs_5066_name
+Help Buff (25% damage bertambah + 20% movement speed)
+buffs_5066_desc
+Khusus digunakan untuk rescue game Buff
+buffs_5066_effect_desc
+Attack enhance ↑
+buffs_5067_name
+Help Buff (setiap 2 detik 5%)
+buffs_5067_desc
+Khusus digunakan untuk rescue game Buff
+buffs_5067_effect_desc
+HP restore
+buffs_5068_name
+Dmg (World Boss 2 kali)
+buffs_5068_desc
+Blok
+buffs_5068_effect_desc
+
+buffs_5069_name
+Dmg (World Boss 4 kali)
+buffs_5069_desc
+Blok
+buffs_5069_effect_desc
+
+buffs_5070_name
+Dmg (World Boss 8 kali)
+buffs_5070_desc
+Blok
+buffs_5070_effect_desc
+
+buffs_5071_name
+Dmg (World Boss 16 kali)
+buffs_5071_desc
+Blok
+buffs_5071_effect_desc
+
+buffs_5072_name
+Dmg (World Boss 32 kali)
+buffs_5072_desc
+Blok
+buffs_5072_effect_desc
+
+buffs_5073_name
+Gift immune damage
+buffs_5073_desc
+99.9999% immune damage
+buffs_5073_effect_desc
+
+buffs_5074_name
+Qun'mi super saiya Buff (damage bertambah + movement speed)
+buffs_5074_desc
+Qun'mi transform Boss
+buffs_5074_effect_desc
+Attack enhance ↑
+buffs_5075_name
+Qun'mi off Rage mendapatkan 0
+buffs_5075_desc
+Qun'mi transform Boss
+buffs_5075_effect_desc
+
+buffs_5076_name
+Qun'mi off Rage mendapatkan 1.5
+buffs_5076_desc
+Qun'mi transform Boss
+buffs_5076_effect_desc
+
+buffs_5077_name
+Qun'mi off BOSS Defense bertambah
+buffs_5077_desc
+Qun'mi transform Boss
+buffs_5077_effect_desc
+
+buffs_5078_name
+Boss bertambah kuat (HP dan attack)
+buffs_5078_desc
+
+buffs_5078_effect_desc
+
+buffs_5079_name
+Qun'mi transform Boss HP heal buff (setiap 2 detik 2.4%)
+buffs_5079_desc
+Qun'mi transform Boss
+buffs_5079_effect_desc
+HP restore
+buffs_5080_name
+Qun'mi super saiya Buff (stage 1, attack bertambah)
+buffs_5080_desc
+Qun'mi transform Boss
+buffs_5080_effect_desc
+
+buffs_5081_name
+Musuh yang tidak bisa dipukul mundur
+buffs_5081_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, ada special effect
+buffs_5081_effect_desc
+
+buffs_5082_name
+Claes : skill besar muncul + damage bertambah
+buffs_5082_desc
+
+buffs_5082_effect_desc
+
+buffs_5083_name
+Claes : skill besar di tangan special effect
+buffs_5083_desc
+
+buffs_5083_effect_desc
+
+buffs_5084_name
+Claes : skill besar di tangan special effect
+buffs_5084_desc
+
+buffs_5084_effect_desc
+
+buffs_5085_name
+Special effect rage system Monster crusade
+buffs_5085_desc
+Atra (Single Boss)
+buffs_5085_effect_desc
+
+buffs_5086_name
+Special effect rage system Monster crusade
+buffs_5086_desc
+Iron Giant (Red Boss)
+buffs_5086_effect_desc
+
+buffs_5087_name
+Special effect rage system Monster crusade
+buffs_5087_desc
+Giant flame pudding (Boss)
+buffs_5087_effect_desc
+
+buffs_5088_name
+Special effect rage system Monster crusade
+buffs_5088_desc
+Assault Soldier (merah tanpa shield) _Assault Soldier (Elite leader)
+buffs_5088_effect_desc
+
+buffs_5089_name
+Special effect rage system Monster crusade
+buffs_5089_desc
+Flame son (Elite leader)
+buffs_5089_effect_desc
+
+buffs_5090_name
+Special effect Ice Thunder Monster crusade
+buffs_5090_desc
+Caetuna (Single Boss)
+buffs_5090_effect_desc
+
+buffs_5091_name
+Special effect Ice Thunder Monster crusade
+buffs_5091_desc
+Snow Giant (Boss)
+buffs_5091_effect_desc
+
+buffs_5092_name
+Special effect Ice Thunder Monster crusade
+buffs_5092_desc
+Frost pudding giant (Boss)
+buffs_5092_effect_desc
+
+buffs_5093_name
+Special effect Ice Thunder Monster crusade
+buffs_5093_desc
+Tenochi (Elite leader)
+buffs_5093_effect_desc
+
+buffs_5094_name
+Special effect Ice Thunder Monster crusade
+buffs_5094_desc
+Frost child (Elite Leader)
+buffs_5094_effect_desc
+
+buffs_5095_name
+Special effect Monster crusade nature
+buffs_5095_desc
+Kazusa (Single Boss)
+buffs_5095_effect_desc
+
+buffs_5096_name
+Special effect Monster crusade nature
+buffs_5096_desc
+Double horn (BOSS)
+buffs_5096_effect_desc
+
+buffs_5097_name
+Special effect Monster crusade nature
+buffs_5097_desc
+Demon flower (Boss)
+buffs_5097_effect_desc
+
+buffs_5098_name
+Special effect Monster crusade nature
+buffs_5098_desc
+Poison Bat (Elite leader)
+buffs_5098_effect_desc
+
+buffs_5099_name
+Special effect Monster crusade nature
+buffs_5099_desc
+Poison Centipedes (Elite leader)
+buffs_5099_effect_desc
+
+buffs_5100_name
+Special effect Monster crusade nature
+buffs_5100_desc
+Qun'mi (Single Boss)
+buffs_5100_effect_desc
+
+buffs_5101_name
+Special effect Monster crusade nature
+buffs_5101_desc
+Blackburn (Boss)
+buffs_5101_effect_desc
+
+buffs_5102_name
+Special effect Monster crusade nature
+buffs_5102_desc
+Eksperimen hilang kendali (Boss)
+buffs_5102_effect_desc
+
+buffs_5103_name
+Special effect Monster crusade nature
+buffs_5103_desc
+Air fleet (Elite leader)
+buffs_5103_effect_desc
+
+buffs_5104_name
+Special effect Monster crusade nature
+buffs_5104_desc
+Empire armor (Elite leader)
+buffs_5104_effect_desc
+
+buffs_5105_name
+dmg berkurang 80%
+buffs_5105_desc
+pangolin
+buffs_5105_effect_desc
+Defense↑
+buffs_5106_name
+Repel
+buffs_5106_desc
+pangolin
+buffs_5106_effect_desc
+rebound ↑
+buffs_5555_name
+Kelemahan monster khusus buff
+buffs_5555_desc
+
+buffs_5555_effect_desc
+
+buffs_5556_name
+Tampilan skill
+buffs_5556_desc
+Progress skill bertambah
+buffs_5556_effect_desc
+
+buffs_5557_name
+Skill hilang
+buffs_5557_desc
+Progress skill berkurang
+buffs_5557_effect_desc
+
+buffs_5888_name
+Level violent monster
+buffs_5888_desc
+Level violent (bs ditambah) Harus tipe 5888
+buffs_5888_effect_desc
+Attack ↑
+buffs_6000_name
+Dmg
+buffs_6000_desc
+
+buffs_6000_effect_desc
+Attack ↑
+buffs_6001_name
+Dmg
+buffs_6001_desc
+
+buffs_6001_effect_desc
+Attack ↑
+buffs_6002_name
+Dmg
+buffs_6002_desc
+
+buffs_6002_effect_desc
+Attack ↑
+buffs_6003_name
+Blok
+buffs_6003_desc
+
+buffs_6003_effect_desc
+Defense↑
+buffs_6004_name
+Blok
+buffs_6004_desc
+
+buffs_6004_effect_desc
+Defense↑
+buffs_6005_name
+Blok
+buffs_6005_desc
+
+buffs_6005_effect_desc
+Defense↑
+buffs_6006_name
+HP
+buffs_6006_desc
+
+buffs_6006_effect_desc
+
+buffs_6007_name
+HP
+buffs_6007_desc
+
+buffs_6007_effect_desc
+
+buffs_6008_name
+HP
+buffs_6008_desc
+
+buffs_6008_effect_desc
+
+buffs_6009_name
+Crit
+buffs_6009_desc
+
+buffs_6009_effect_desc
+Crit ↑
+buffs_6010_name
+Crit
+buffs_6010_desc
+
+buffs_6010_effect_desc
+Crit ↑
+buffs_6011_name
+Crit
+buffs_6011_desc
+
+buffs_6011_effect_desc
+Crit ↑
+buffs_6012_name
+Anti-crit
+buffs_6012_desc
+
+buffs_6012_effect_desc
+
+buffs_6013_name
+Anti-crit
+buffs_6013_desc
+
+buffs_6013_effect_desc
+
+buffs_6014_name
+Anti-crit
+buffs_6014_desc
+
+buffs_6014_effect_desc
+
+buffs_6015_name
+Hit
+buffs_6015_desc
+
+buffs_6015_effect_desc
+
+buffs_6016_name
+Hit
+buffs_6016_desc
+
+buffs_6016_effect_desc
+
+buffs_6017_name
+Hit
+buffs_6017_desc
+
+buffs_6017_effect_desc
+
+buffs_6018_name
+Elak
+buffs_6018_desc
+
+buffs_6018_effect_desc
+
+buffs_6019_name
+Elak
+buffs_6019_desc
+
+buffs_6019_effect_desc
+
+buffs_6020_name
+Elak
+buffs_6020_desc
+
+buffs_6020_effect_desc
+
+buffs_6021_name
+Combo memperlihatkan buff
+buffs_6021_desc
+
+buffs_6021_effect_desc
+Combo
+buffs_6022_name
+Counter attack memperlihatkan buff
+buffs_6022_desc
+
+buffs_6022_effect_desc
+Counter attack
+buffs_6023_name
+Armor memperlihatkan buff
+buffs_6023_desc
+
+buffs_6023_effect_desc
+Armor pelindung
+buffs_6024_name
+Restore memperlihatkan buff
+buffs_6024_desc
+
+buffs_6024_effect_desc
+Restore
+buffs_7001_name
+Truth Ifrit Crit Damage
+buffs_7001_desc
+
+buffs_7001_effect_desc
+damage Crit ↑
+buffs_7002_name
+Truth Ifrit Burn lv 2
+buffs_7002_desc
+
+buffs_7002_effect_desc
+Burn
+buffs_7003_name
+Truth Ifrit Burn lv 3
+buffs_7003_desc
+
+buffs_7003_effect_desc
+Burn
+buffs_7004_name
+Truth Ifrit Burn lv 4
+buffs_7004_desc
+
+buffs_7004_effect_desc
+Burn
+buffs_7005_name
+Truth Ifrit Burn lv 5
+buffs_7005_desc
+
+buffs_7005_effect_desc
+Burn
+buffs_7006_name
+Truth Ifrit Burn lv 6
+buffs_7006_desc
+
+buffs_7006_effect_desc
+Burn
+buffs_7007_name
+Truth Ifrit Burn lv 7
+buffs_7007_desc
+
+buffs_7007_effect_desc
+Burn
+buffs_7008_name
+Truth Ifrit Burn lv 8
+buffs_7008_desc
+
+buffs_7008_effect_desc
+Burn
+buffs_7009_name
+Truth Ifrit Burn lv 9
+buffs_7009_desc
+
+buffs_7009_effect_desc
+Burn
+buffs_7010_name
+Truth Ifrit Burn lv 10
+buffs_7010_desc
+
+buffs_7010_effect_desc
+Burn
+buffs_7101_name
+Truth Shiva Frozen immune shield
+buffs_7101_desc
+
+buffs_7101_effect_desc
+Armor pelindung
+buffs_7102_name
+Truth Shiva Frozen decay lv 2
+buffs_7102_desc
+
+buffs_7102_effect_desc
+Frozen decay ↑
+buffs_7103_name
+Truth Shiva Frozen decay lv 3
+buffs_7103_desc
+
+buffs_7103_effect_desc
+Frozen decay ↑
+buffs_7104_name
+Truth Shiva Frozen decay lv 4
+buffs_7104_desc
+
+buffs_7104_effect_desc
+Frozen decay ↑
+buffs_7105_name
+Truth Shiva Frozen decay lv 5
+buffs_7105_desc
+
+buffs_7105_effect_desc
+Frozen decay ↑
+buffs_7106_name
+Truth Shiva Frozen decay lv 6
+buffs_7106_desc
+
+buffs_7106_effect_desc
+Frozen decay ↑
+buffs_7107_name
+Truth Shiva Frozen decay lv 7
+buffs_7107_desc
+
+buffs_7107_effect_desc
+Frozen decay ↑
+buffs_7108_name
+Truth Shiva Frozen decay lv 8
+buffs_7108_desc
+
+buffs_7108_effect_desc
+Frozen decay ↑
+buffs_7109_name
+Truth Shiva Frozen decay lv 9
+buffs_7109_desc
+
+buffs_7109_effect_desc
+Frozen decay ↑
+buffs_7110_name
+Truth Shiva Frozen decay lv 10
+buffs_7110_desc
+
+buffs_7110_effect_desc
+Frozen decay ↑
+buffs_7201_name
+Titan Anti-damage lv1
+buffs_7201_desc
+
+buffs_7201_effect_desc
+Hit rate ↑
+buffs_7202_name
+Titan Anti-damage lv2
+buffs_7202_desc
+
+buffs_7202_effect_desc
+Hit rate ↑
+buffs_7203_name
+Titan Anti-damage lv3
+buffs_7203_desc
+
+buffs_7203_effect_desc
+Hit rate ↑
+buffs_7204_name
+Titan Anti-damage lv4
+buffs_7204_desc
+
+buffs_7204_effect_desc
+Hit rate ↑
+buffs_7205_name
+Titan Anti-damage lv5
+buffs_7205_desc
+
+buffs_7205_effect_desc
+Hit rate ↑
+buffs_7206_name
+Titan Anti-damage lv6
+buffs_7206_desc
+
+buffs_7206_effect_desc
+Hit rate ↑
+buffs_7207_name
+Titan Anti-damage lv7
+buffs_7207_desc
+
+buffs_7207_effect_desc
+Hit rate ↑
+buffs_7208_name
+Titan Anti-damage lv8
+buffs_7208_desc
+
+buffs_7208_effect_desc
+Hit rate ↑
+buffs_7209_name
+Titan Anti-damage lv9
+buffs_7209_desc
+
+buffs_7209_effect_desc
+Hit rate ↑
+buffs_7210_name
+Titan Anti-damage lv10
+buffs_7210_desc
+
+buffs_7210_effect_desc
+Hit rate ↑
+buffs_7301_name
+Bahamut Rage reduce rate
+buffs_7301_desc
+
+buffs_7301_effect_desc
+Gain Rage ↓
+buffs_10001_name
+Persentase Crit meningkat
+buffs_10001_desc
+
+buffs_10001_effect_desc
+
+buffs_10002_name
+Vampire sword small wolf enhance
+buffs_10002_desc
+
+buffs_10002_effect_desc
+violent
+buffs_10003_name
+Armor petir untuk melindungi pasukan di langit
+buffs_10003_desc
+
+buffs_10003_effect_desc
+
+buffs_10004_name
+Armor petir untuk melindungi pasukan di langit
+buffs_10004_desc
+
+buffs_10004_effect_desc
+
+buffs_10005_name
+Nomad green ring
+buffs_10005_desc
+
+buffs_10005_effect_desc
+
+buffs_10006_name
+Golem enhance
+buffs_10006_desc
+
+buffs_10006_effect_desc
+violent
+buffs_10007_name
+Buff kosong (vampire sword)
+buffs_10007_desc
+
+buffs_10007_effect_desc
+
+buffs_10008_name
+Deuce pasif 1
+buffs_10008_desc
+
+buffs_10008_effect_desc
+Attack ↑
+buffs_10009_name
+Armor Queen
+buffs_10009_desc
+
+buffs_10009_effect_desc
+
+buffs_10010_name
+Cinque hoarfrost
+buffs_10010_desc
+
+buffs_10010_effect_desc
+
+buffs_10011_name
+Blaze armor Cid
+buffs_10011_desc
+
+buffs_10011_effect_desc
+
+buffs_10012_name
+King defense berkurang
+buffs_10012_desc
+
+buffs_10012_effect_desc
+defense ↓
+buffs_10013_name
+HP meningkat
+buffs_10013_desc
+
+buffs_10013_effect_desc
+
+buffs_10014_name
+Attack power meningkat
+buffs_10014_desc
+
+buffs_10014_effect_desc
+
+buffs_10015_name
+Movement speed bertambah cepat
+buffs_10015_desc
+
+buffs_10015_effect_desc
+
+buffs_10016_name
+Defense meningkat
+buffs_10016_desc
+
+buffs_10016_effect_desc
+
+buffs_10017_name
+Attack speed meningkat
+buffs_10017_desc
+
+buffs_10017_effect_desc
+
+buffs_10018_name
+Hisap HP
+buffs_10018_desc
+
+buffs_10018_effect_desc
+
+buffs_10019_name
+Cater : attack meningkat
+buffs_10019_desc
+
+buffs_10019_effect_desc
+
+buffs_10020_name
+Ace : kehilangan control
+buffs_10020_desc
+
+buffs_10020_effect_desc
+
+buffs_10021_name
+Trey : burn
+buffs_10021_desc
+
+buffs_10021_effect_desc
+
+buffs_10022_name
+Nine defense pasif bertambah
+buffs_10022_desc
+
+buffs_10022_effect_desc
+
+buffs_10023_name
+Nine tidak damage saat rebound
+buffs_10023_desc
+
+buffs_10023_effect_desc
+
+buffs_10024_name
+Machina : attack power berkurang
+buffs_10024_desc
+
+buffs_10024_effect_desc
+
+buffs_10025_name
+Seven : speed berkurang
+buffs_10025_desc
+
+buffs_10025_effect_desc
+Kurangi speed
+buffs_10026_name
+Nine : damage bertambah
+buffs_10026_desc
+
+buffs_10026_effect_desc
+violent
+buffs_10027_name
+Attack power meningkat
+buffs_10027_desc
+
+buffs_10027_effect_desc
+
+buffs_10028_name
+Defense meningkat
+buffs_10028_desc
+
+buffs_10028_effect_desc
+
+buffs_10029_name
+Defense Hayne meningkat
+buffs_10029_desc
+
+buffs_10029_effect_desc
+
+buffs_10030_name
+Attack Ruka meningkat
+buffs_10030_desc
+
+buffs_10030_effect_desc
+
+buffs_10031_name
+Buff kosong (vampire sword menggunakan special effect)
+buffs_10031_desc
+
+buffs_10031_effect_desc
+
+buffs_10032_name
+HP Cater pulih
+buffs_10032_desc
+
+buffs_10032_effect_desc
+
+buffs_10033_name
+Frost : attack meningkat
+buffs_10033_desc
+
+buffs_10033_effect_desc
+
+buffs_10034_name
+Deuce : mengurangi attack power musuh
+buffs_10034_desc
+
+buffs_10034_effect_desc
+
+buffs_10035_name
+Ace : persentase dodge meningkat 20%
+buffs_10035_desc
+
+buffs_10035_effect_desc
+Elak
+buffs_10036_name
+Eidolon Odin menambah attack speed dan movement speed
+buffs_10036_desc
+
+buffs_10036_effect_desc
+
+buffs_10037_name
+Nimbus: speed berkurang
+buffs_10037_desc
+
+buffs_10037_effect_desc
+Kurangi speed
+buffs_10038_name
+Nimbus: Stop
+buffs_10038_desc
+
+buffs_10038_effect_desc
+
+buffs_10039_name
+Cinque : Stop + damage (skill 1 imprison)
+buffs_10039_desc
+
+buffs_10039_effect_desc
+
+buffs_10040_name
+Deuce : menambah attack power diri sendiri
+buffs_10040_desc
+
+buffs_10040_effect_desc
+
+buffs_10041_name
+Queen : Shock
+buffs_10041_desc
+
+buffs_10041_effect_desc
+
+buffs_10042_name
+Queen : menambah attack power
+buffs_10042_desc
+
+buffs_10042_effect_desc
+
+buffs_10043_name
+Sice : mark
+buffs_10043_desc
+
+buffs_10043_effect_desc
+
+buffs_10044_name
+Sice : Stop
+buffs_10044_desc
+
+buffs_10044_effect_desc
+
+buffs_10045_name
+Seven : Shock
+buffs_10045_desc
+
+buffs_10045_effect_desc
+
+buffs_10046_name
+Claes : mengurangi speed
+buffs_10046_desc
+
+buffs_10046_effect_desc
+Kurangi speed
+buffs_10047_name
+Eidolon Golem Menambah bebas damage
+buffs_10047_desc
+
+buffs_10047_effect_desc
+
+buffs_10048_name
+Eidolon Diabolos Menambah Crit
+buffs_10048_desc
+
+buffs_10048_effect_desc
+
+buffs_10049_name
+Eidolon Ifrit Menambah attack
+buffs_10049_desc
+
+buffs_10049_effect_desc
+
+buffs_10050_name
+Eidolon Shiva Mendapatkan heal effect
+buffs_10050_desc
+
+buffs_10050_effect_desc
+
+buffs_10051_name
+Eidolon Bahamut blinding
+buffs_10051_desc
+
+buffs_10051_effect_desc
+
+buffs_10052_name
+Eidolon Bahamut mendinginkan dan shrink
+buffs_10052_desc
+
+buffs_10052_effect_desc
+
+buffs_10053_name
+Rem : meningkatkan damage critical
+buffs_10053_desc
+
+buffs_10053_effect_desc
+
+buffs_10054_name
+Machina :  Wind Bind
+buffs_10054_desc
+
+buffs_10054_effect_desc
+
+buffs_10055_name
+Ryid: Speed berkurang
+buffs_10055_desc
+
+buffs_10055_effect_desc
+Kurangi speed
+buffs_10056_name
+Ryid: Attack power berkurang
+buffs_10056_desc
+
+buffs_10056_effect_desc
+
+buffs_10057_name
+Seven summon item : armor listrik
+buffs_10057_desc
+
+buffs_10057_effect_desc
+
+buffs_10058_name
+Rem : suck blood
+buffs_10058_desc
+
+buffs_10058_effect_desc
+
+buffs_10059_name
+Rem : persentase Crit meningkat
+buffs_10059_desc
+
+buffs_10059_effect_desc
+
+buffs_10060_name
+Cater : menurunkan heal effect musuh
+buffs_10060_desc
+
+buffs_10060_effect_desc
+
+buffs_10061_name
+Claes : numb
+buffs_10061_desc
+
+buffs_10061_effect_desc
+Daze
+buffs_10062_name
+Caetuna HP heal
+buffs_10062_desc
+
+buffs_10062_effect_desc
+
+buffs_10063_name
+Andoria : mengembalikan Rage
+buffs_10063_desc
+
+buffs_10063_effect_desc
+
+buffs_10064_name
+Eight : skill besar menambah mengurangi damage
+buffs_10064_desc
+
+buffs_10064_effect_desc
+Blok ↑
+buffs_10065_name
+Cinque : skill besar menambah mengurangi damage
+buffs_10065_desc
+
+buffs_10065_effect_desc
+Blok ↑
+buffs_10066_name
+Cinque : skill besar menambah mengurangi damage upgrade
+buffs_10066_desc
+
+buffs_10066_effect_desc
+Blok ↑
+buffs_10067_name
+Cater : mark
+buffs_10067_desc
+
+buffs_10067_effect_desc
+
+buffs_10068_name
+Kazusa : mengurangi speed
+buffs_10068_desc
+
+buffs_10068_effect_desc
+
+buffs_10069_name
+Jack : armor berduri
+buffs_10069_desc
+
+buffs_10069_effect_desc
+
+buffs_10070_name
+King : merusak armor
+buffs_10070_desc
+
+buffs_10070_effect_desc
+
+buffs_10071_name
+Gilgamesh: kehilangan control
+buffs_10071_desc
+
+buffs_10071_effect_desc
+
+buffs_10072_name
+summon item mendeteksi pasif buff
+buffs_10072_desc
+
+buffs_10072_effect_desc
+
+buffs_10073_name
+Gilgamesh: Defense bertambah
+buffs_10073_desc
+
+buffs_10073_effect_desc
+
+buffs_10074_name
+Gilgamesh : armor bebas damage tinggi
+buffs_10074_desc
+
+buffs_10074_effect_desc
+Blok ↑
+buffs_10075_name
+Nine : Defense bertambah
+buffs_10075_desc
+
+buffs_10075_effect_desc
+
+buffs_10076_name
+Nine : Defense bertambah 3 kali, menambah bebas damage
+buffs_10076_desc
+
+buffs_10076_effect_desc
+
+buffs_10077_name
+Nine : merusak armor
+buffs_10077_desc
+
+buffs_10077_effect_desc
+
+buffs_10078_name
+Nine : holy armor
+buffs_10078_desc
+
+buffs_10078_effect_desc
+
+buffs_10079_name
+Nine : holy armor
+buffs_10079_desc
+
+buffs_10079_effect_desc
+
+buffs_10080_name
+Ruka : merusak armor
+buffs_10080_desc
+
+buffs_10080_effect_desc
+
+buffs_10081_name
+Hayne : menurunkan attack
+buffs_10081_desc
+
+buffs_10081_effect_desc
+
+buffs_10082_name
+summon item special effect 1
+buffs_10082_desc
+
+buffs_10082_effect_desc
+
+buffs_10083_name
+summon item special effect 2
+buffs_10083_desc
+
+buffs_10083_effect_desc
+
+buffs_10084_name
+Machina : Defense bertambah
+buffs_10084_desc
+
+buffs_10084_effect_desc
+
+buffs_10085_name
+buff kosong (tentara raksasa berpenglihatan special effect)
+buffs_10085_desc
+
+buffs_10085_effect_desc
+
+buffs_10086_name
+Bentuk defense (digunakan oleh Vampiree sword) menurunkan attack
+buffs_10086_desc
+
+buffs_10086_effect_desc
+
+buffs_10087_name
+Bentuk attack (digunakan oleh Vampiree sword) mark
+buffs_10087_desc
+
+buffs_10087_effect_desc
+
+buffs_10088_name
+Tidak dapat memilih non-special effect (digunakan oleh naga terbang)
+buffs_10088_desc
+
+buffs_10088_effect_desc
+
+buffs_10089_name
+mark (Bunga dunia setan memuntahkan orang)
+buffs_10089_desc
+
+buffs_10089_effect_desc
+
+buffs_10090_name
+Kelelawar mengurangi speed 50%
+buffs_10090_desc
+
+buffs_10090_effect_desc
+Kurangi speed
+buffs_10091_name
+Kembar mengembalikan darah status buff
+buffs_10091_desc
+
+buffs_10091_effect_desc
+
+buffs_10092_name
+Shiva memulihkan buff
+buffs_10092_desc
+
+buffs_10092_effect_desc
+
+buffs_10093_name
+Pengorbanan api (api pudding besar)
+buffs_10093_desc
+
+buffs_10093_effect_desc
+
+buffs_10094_name
+Armor pelindung
+buffs_10094_desc
+
+buffs_10094_effect_desc
+armor berat
+buffs_10095_name
+mark BUFF (digunakan di panggung)
+buffs_10095_desc
+
+buffs_10095_effect_desc
+
+buffs_10096_name
+mark 1 (Ulat pasir)
+buffs_10096_desc
+
+buffs_10096_effect_desc
+
+buffs_10097_name
+mark 2 (Ulat pasir)
+buffs_10097_desc
+
+buffs_10097_effect_desc
+
+buffs_10098_name
+mark 3 (Ulat pasir)
+buffs_10098_desc
+
+buffs_10098_effect_desc
+
+buffs_10099_name
+mark 4 (Ulat pasir)
+buffs_10099_desc
+
+buffs_10099_effect_desc
+
+buffs_20001_name
+Cold
+buffs_20001_desc
+
+buffs_20001_effect_desc
+
+buffs_20002_name
+Freeze (besar)
+buffs_20002_desc
+
+buffs_20002_effect_desc
+
+buffs_20003_name
+Heal
+buffs_20003_desc
+
+buffs_20003_effect_desc
+
+buffs_20004_name
+Tanpa lawan
+buffs_20004_desc
+
+buffs_20004_effect_desc
+
+buffs_20005_name
+Invincible (besar)
+buffs_20005_desc
+
+buffs_20005_effect_desc
+
+buffs_20006_name
+Shock
+buffs_20006_desc
+
+buffs_20006_effect_desc
+
+buffs_20007_name
+Poison
+buffs_20007_desc
+
+buffs_20007_effect_desc
+
+buffs_20008_name
+Burn
+buffs_20008_desc
+
+buffs_20008_effect_desc
+
+buffs_20009_name
+Burn (medium)
+buffs_20009_desc
+
+buffs_20009_effect_desc
+
+buffs_20010_name
+Burn (besar)
+buffs_20010_desc
+
+buffs_20010_effect_desc
+
+buffs_20011_name
+Froze
+buffs_20011_desc
+
+buffs_20011_effect_desc
+
+buffs_20012_name
+Daze
+buffs_20012_desc
+
+buffs_20012_effect_desc
+
+buffs_20013_name
+Daze (medium)
+buffs_20013_desc
+
+buffs_20013_effect_desc
+
+buffs_20014_name
+Daze (besar)
+buffs_20014_desc
+
+buffs_20014_effect_desc
+
+buffs_20015_name
+Chaos
+buffs_20015_desc
+
+buffs_20015_effect_desc
+
+buffs_20016_name
+Break Armor
+buffs_20016_desc
+
+buffs_20016_effect_desc
+
+buffs_20017_name
+Merusak armor (medium)
+buffs_20017_desc
+
+buffs_20017_effect_desc
+
+buffs_20018_name
+Merusak armor (besar)
+buffs_20018_desc
+
+buffs_20018_effect_desc
+
+buffs_20019_name
+Aging
+buffs_20019_desc
+
+buffs_20019_effect_desc
+
+buffs_20020_name
+Kurangi speed
+buffs_20020_desc
+
+buffs_20020_effect_desc
+
+buffs_20021_name
+Poison (green)
+buffs_20021_desc
+
+buffs_20021_effect_desc
+
+buffs_20022_name
+Rage
+buffs_20022_desc
+
+buffs_20022_effect_desc
+
+buffs_20023_name
+Berdarah
+buffs_20023_desc
+
+buffs_20023_effect_desc
+
+buffs_20024_name
+Tambah attack
+buffs_20024_desc
+
+buffs_20024_effect_desc
+
+buffs_20025_name
+Tambah attack (medium)
+buffs_20025_desc
+
+buffs_20025_effect_desc
+
+buffs_20026_name
+Tambah attack (besar)
+buffs_20026_desc
+
+buffs_20026_effect_desc
+
+buffs_20027_name
+Blaze armor
+buffs_20027_desc
+
+buffs_20027_effect_desc
+
+buffs_20028_name
+Tambah defense magic
+buffs_20028_desc
+
+buffs_20028_effect_desc
+
+buffs_20029_name
+Tambah attack item
+buffs_20029_desc
+
+buffs_20029_effect_desc
+
+buffs_20030_name
+Kurangi damage
+buffs_20030_desc
+
+buffs_20030_effect_desc
+
+buffs_20031_name
+Kurangi damage (medium)
+buffs_20031_desc
+
+buffs_20031_effect_desc
+
+buffs_20032_name
+Kurangi damage (besar)
+buffs_20032_desc
+
+buffs_20032_effect_desc
+
+buffs_20033_name
+Tambah defense item
+buffs_20033_desc
+
+buffs_20033_effect_desc
+
+buffs_20034_name
+Turunkan seluruh damage
+buffs_20034_desc
+
+buffs_20034_effect_desc
+
+buffs_20035_name
+Tambah speed attack
+buffs_20035_desc
+
+buffs_20035_effect_desc
+
+buffs_20036_name
+Tambah persentase Crit
+buffs_20036_desc
+
+buffs_20036_effect_desc
+
+buffs_20037_name
+Frozen armor
+buffs_20037_desc
+
+buffs_20037_effect_desc
+
+buffs_20038_name
+Hisap HP
+buffs_20038_desc
+
+buffs_20038_effect_desc
+
+buffs_20039_name
+Mark di kepala
+buffs_20039_desc
+
+buffs_20039_effect_desc
+
+buffs_20040_name
+Ikatan petir
+buffs_20040_desc
+
+buffs_20040_effect_desc
+
+buffs_20041_name
+Ikatan petir (besar)
+buffs_20041_desc
+
+buffs_20041_effect_desc
+
+buffs_20042_name
+Ice Imprison
+buffs_20042_desc
+
+buffs_20042_effect_desc
+
+buffs_20043_name
+Ice Imprison (besar)
+buffs_20043_desc
+
+buffs_20043_effect_desc
+
+buffs_20044_name
+Grudge
+buffs_20044_desc
+
+buffs_20044_effect_desc
+
+buffs_20045_name
+Blaze Badge
+buffs_20045_desc
+
+buffs_20045_effect_desc
+
+buffs_20046_name
+Kurangi attack fisik
+buffs_20046_desc
+
+buffs_20046_effect_desc
+
+buffs_20047_name
+Kurangi attack fisik (besar)
+buffs_20047_desc
+
+buffs_20047_effect_desc
+
+buffs_20048_name
+Anti-damage
+buffs_20048_desc
+
+buffs_20048_effect_desc
+
+buffs_20049_name
+Holy armor
+buffs_20049_desc
+
+buffs_20049_effect_desc
+
+buffs_20050_name
+Balance menggunakan 1 kali damage blood buff 1
+buffs_20050_desc
+
+buffs_20050_effect_desc
+
+buffs_20051_name
+Balance menggunakan 1 kali damage blood buff 2
+buffs_20051_desc
+
+buffs_20051_effect_desc
+
+buffs_20052_name
+Balance menggunakan 1 kali damage blood buff 3
+buffs_20052_desc
+
+buffs_20052_effect_desc
+
+buffs_20053_name
+Balance menggunakan 1 kali damage blood buff 4
+buffs_20053_desc
+
+buffs_20053_effect_desc
+
+buffs_20054_name
+Balance menggunakan 1 kali damage blood buff 5
+buffs_20054_desc
+
+buffs_20054_effect_desc
+
+buffs_20055_name
+Balance menggunakan 1 kali damage blood buff 6
+buffs_20055_desc
+
+buffs_20055_effect_desc
+
+buffs_20056_name
+Tes armor es
+buffs_20056_desc
+
+buffs_20056_effect_desc
+
+buffs_20057_name
+Heal
+buffs_20057_desc
+
+buffs_20057_effect_desc
+
+buffs_20058_name
+Tanpa lawan
+buffs_20058_desc
+
+buffs_20058_effect_desc
+
+buffs_20059_name
+Shock
+buffs_20059_desc
+
+buffs_20059_effect_desc
+
+buffs_20060_name
+Poison
+buffs_20060_desc
+
+buffs_20060_effect_desc
+
+buffs_20061_name
+Burn
+buffs_20061_desc
+
+buffs_20061_effect_desc
+
+buffs_20062_name
+Froze
+buffs_20062_desc
+
+buffs_20062_effect_desc
+
+buffs_20063_name
+Daze
+buffs_20063_desc
+
+buffs_20063_effect_desc
+
+buffs_20064_name
+Chaos
+buffs_20064_desc
+
+buffs_20064_effect_desc
+
+buffs_20065_name
+Break Armor
+buffs_20065_desc
+
+buffs_20065_effect_desc
+
+buffs_20066_name
+Aging
+buffs_20066_desc
+
+buffs_20066_effect_desc
+
+buffs_20067_name
+Kurangi speed
+buffs_20067_desc
+
+buffs_20067_effect_desc
+
+buffs_20068_name
+Poison (green)
+buffs_20068_desc
+
+buffs_20068_effect_desc
+
+buffs_20069_name
+Rage
+buffs_20069_desc
+
+buffs_20069_effect_desc
+Tambah speed
+buffs_20070_name
+Berdarah
+buffs_20070_desc
+
+buffs_20070_effect_desc
+
+buffs_20071_name
+Tambah attack
+buffs_20071_desc
+
+buffs_20071_effect_desc
+
+buffs_20072_name
+Blaze armor
+buffs_20072_desc
+
+buffs_20072_effect_desc
+
+buffs_20073_name
+Tambah defense magic
+buffs_20073_desc
+
+buffs_20073_effect_desc
+
+buffs_20074_name
+Tambah attack item
+buffs_20074_desc
+
+buffs_20074_effect_desc
+
+buffs_20075_name
+Kurangi damage
+buffs_20075_desc
+
+buffs_20075_effect_desc
+
+buffs_20076_name
+Tambah defense item
+buffs_20076_desc
+
+buffs_20076_effect_desc
+
+buffs_20077_name
+Turunkan seluruh damage
+buffs_20077_desc
+
+buffs_20077_effect_desc
+
+buffs_20078_name
+Tambah speed attack
+buffs_20078_desc
+
+buffs_20078_effect_desc
+
+buffs_20079_name
+Tambah persentase Crit
+buffs_20079_desc
+
+buffs_20079_effect_desc
+
+buffs_20080_name
+Frozen armor
+buffs_20080_desc
+
+buffs_20080_effect_desc
+
+buffs_20081_name
+Hisap HP
+buffs_20081_desc
+
+buffs_20081_effect_desc
+
+buffs_20082_name
+Kurangi attack fisik
+buffs_20082_desc
+
+buffs_20082_effect_desc
+
+buffs_20083_name
+Tes menggunakan armor pelindung
+buffs_20083_desc
+
+buffs_20083_effect_desc
+
+buffs_20084_name
+Machina : armor (tidak melindungi HP)
+buffs_20084_desc
+
+buffs_20084_effect_desc
+
+buffs_20085_name
+Tambah HP
+buffs_20085_desc
+Defense bertambah, dapat berkembang
+buffs_20085_effect_desc
+
+buffs_20086_name
+HP menjadi 200
+buffs_20086_desc
+
+buffs_20086_effect_desc
+
+buffs_20087_name
+Daze
+buffs_20087_desc
+Khusus digunakan Apocalypse Mechanic
+buffs_20087_effect_desc
+
+buffs_20088_name
+HP 1
+buffs_20088_desc
+
+buffs_20088_effect_desc
+
+buffs_20089_name
+April Mop fire pudding
+buffs_20089_desc
+
+buffs_20089_effect_desc
+
+buffs_20090_name
+Invincible (ada tips)
+buffs_20090_desc
+Tidak dapat dipilih, immune control, immune damage, immune debuff, ada special effect
+buffs_20090_effect_desc
+Immune damage
+buffs_20091_name
+Gain Rage empty buff
+buffs_20091_desc
+
+buffs_20091_effect_desc
+Gain Rage ↑
+buffs_20092_name
+Hanya aku yang tahu kegunaannya 1
+buffs_20092_desc
+hari April Mop dipakai
+buffs_20092_effect_desc
+Dapat skill : Fear
+buffs_20093_name
+Hanya aku yang tahu kegunaannya 2
+buffs_20093_desc
+hari April Mop dipakai
+buffs_20093_effect_desc
+Dapat skill : Frozen
+buffs_20094_name
+Hanya aku yang tahu kegunaannya 3
+buffs_20094_desc
+hari April Mop dipakai
+buffs_20094_effect_desc
+Dapat skill : Strong hit
+buffs_20095_name
+Hanya aku yang tahu kegunaannya 4
+buffs_20095_desc
+hari April Mop dipakai
+buffs_20095_effect_desc
+Dapat skill : Transform
+buffs_20096_name
+Tanda Test
+buffs_20096_desc
+test
+buffs_20096_effect_desc
+

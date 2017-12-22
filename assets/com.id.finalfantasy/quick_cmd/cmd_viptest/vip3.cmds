@@ -1,0 +1,7 @@
+<color=#00ff00>冲刺vip档位3</color>
+AddCash 60000
+AddItem 400002 2
+AddItem 800014 240
+AddItem 440000 600000
+AddItem 440022 8000
+SetVipLevel 12

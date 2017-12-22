@@ -1,0 +1,1426 @@
+hero_1_name
+Wind swordman
+hero_1_alias_name
+Wind swordman
+hero_1_english_name
+
+hero_1_desc1
+Mengikuti arah angin, tentara dengan dua pedang, dia akan tetap gesit dan tenang
+hero_1_get_desc
+Serang
+hero_2_name
+Wind swordman
+hero_2_alias_name
+Wind swordman
+hero_2_english_name
+
+hero_2_desc1
+Mengikuti arah angin, tentara dengan dua pedang, dia akan tetap gesit dan tenang
+hero_2_get_desc
+Serang
+hero_3_name
+Gunmen
+hero_3_alias_name
+Gunmen
+hero_3_english_name
+
+hero_3_desc1
+Double magic gun, penampilan yang hangat menyimpan, magic memberikan killing power
+hero_3_get_desc
+Serang
+hero_4_name
+Gunmen
+hero_4_alias_name
+Gunmen
+hero_4_english_name
+
+hero_4_desc1
+Double magic gun, penampilan yang hangat menyimpan, magic memberikan killing power
+hero_4_get_desc
+Serang
+hero_5_name
+Frost Magic
+hero_5_alias_name
+Frost Magic
+hero_5_english_name
+
+hero_5_desc1
+Mage yang dilindungi air dan es, bertanggung jawab terhadap pertahanan dan kehancuran…
+hero_5_get_desc
+Serang
+hero_6_name
+Frost Magic
+hero_6_alias_name
+Frost Magic
+hero_6_english_name
+
+hero_6_desc1
+Mage yang dilindungi air dan es, bertanggung jawab terhadap pertahanan dan kehancuran…
+hero_6_get_desc
+Serang
+hero_301_name
+Fashion-Unique Hadad
+hero_301_alias_name
+Fashion-Unique Hadad
+hero_301_english_name
+Fashion
+hero_301_desc1
+Role output range, pasif skill memberikan control effect, team leader skill akan cepat mengumpulkan energy.
+hero_301_get_desc
+All frozen, versatile secondary
+hero_302_name
+Fashion-Red Dancer
+hero_302_alias_name
+Fashion-Red Dancer
+hero_302_english_name
+Fashion
+hero_302_desc1
+Red Dancer khusus single output role, memiliki bermacam-macam keuntungan setelah damage.
+hero_302_get_desc
+All frozen, versatile secondary
+hero_304_name
+Fashion-fear earl
+hero_304_alias_name
+Fashion-fear earl
+hero_304_english_name
+Fashion
+hero_304_desc1
+Scared Earl memiliki skill bertahan hitup yang kuat, dapat meningkatkan combat power untuk team.
+hero_304_get_desc
+All frozen, versatile secondary
+hero_306_name
+Fashion-ninja master
+hero_306_alias_name
+Fashion-ninja master
+hero_306_english_name
+Fashion
+hero_306_desc1
+Ninja master memiliki bermacam-macam attack skill, dan juga effect merusak armor.
+hero_306_get_desc
+All frozen, versatile secondary
+hero_303_name
+Fashion-forest fairy
+hero_303_alias_name
+Fashion-forest fairy
+hero_303_english_name
+Fashion
+hero_303_desc1
+Heal dan damage output, Dapat memberikan efek output untuk teman team.
+hero_303_get_desc
+All frozen, versatile secondary
+hero_305_name
+Fashion-frost
+hero_305_alias_name
+Fashion-frost
+hero_305_english_name
+Fashion
+hero_305_desc1
+Control output role, selain damage sekitar dasar, juga ada tambahan damage effect.
+hero_305_get_desc
+All frozen, versatile secondary
+hero_32_name
+Blaze Emitter
+hero_32_alias_name
+Xuyu
+hero_32_english_name
+Xuyu
+hero_32_desc1
+Dominion primus l'Cie, memiliki kekuatan flame terkuat di Dominion, karena lama dikontrol crystal, perasaannya menjadi hampa, agar tidak melupakan diri sendiri selalu memakai baju cadet.
+hero_32_get_desc
+Output jarak dekat paling kuat, Crit king
+hero_33_name
+Queen Concordia
+hero_33_alias_name
+Andoria
+hero_33_english_name
+Andoria
+hero_33_desc1
+Concordia Queen, Concordia secundus l'Cie, dapat berbicara dengan Concordia l'Cie menggunakan pikiran, dapat melihat masa depan. Merupakan orang yang sombong dan adil.
+hero_33_get_desc
+Berubah menjadi dragon, ambil alih Battlefield
+hero_28_name
+Lorican King
+hero_28_alias_name
+Gilgamesh
+hero_28_english_name
+Gilgamesh
+hero_28_desc1
+Lorican King, l'Cie Primus Lorican crystal, kolektor weapon, sering battle untuk mengambil weapon dan menggunakannya.
+hero_28_get_desc
+Powerful shield, appalling survival
+hero_13_name
+Empire l'Cie
+hero_13_alias_name
+Nimbus
+hero_13_english_name
+Nimbus
+hero_13_desc1
+Empire Primus l'Cie, dikendalikan oleh crystal selama ratusan tahun, perasaannya lebih hampa dibanding Xuyu, karena crystal Empire dikontrol oleh Cid, hanya dapat mendengar perintah Cid.
+hero_13_get_desc
+Remote output paling kuat
+hero_31_name
+Dominion l'Cie
+hero_31_alias_name
+Caetuna
+hero_31_english_name
+Caetuna
+hero_31_desc1
+Dominion Secundus l'Cie, memiliki kekuatan summon magic, memiliki kemampuan sihir yang tidak terbatas. Merupakan l'Cie Orience tertua, namanya tercatat dalam perang besar 500 tahun lalu.
+hero_31_get_desc
+All frozen, versatile secondary
+hero_37_name
+Earth guard
+hero_37_alias_name
+Atra
+hero_37_english_name
+Atra
+hero_37_desc1
+Lorican Secundus l'Cie, sangat misterius
+hero_37_get_desc
+Break formation, strong suck blood
+hero_34_name
+Strange doctor
+hero_34_alias_name
+Kazusa
+hero_34_english_name
+Kazusa
+hero_34_desc1
+Bertanggung jawab mengembangkan alat perang dan weapon, salah satu penanggung jawab untuk penelitian alat perang. Teman sekelas Kurasame dan Ameena.
+hero_34_get_desc
+Single output, continuous damage
+hero_38_name
+Armor command
+hero_38_alias_name
+Qun'mi
+hero_38_english_name
+Qun'mi
+hero_38_desc1
+Empire secundus l'Cie, memiliki kekuatan untuk mengaktifkan armor magic yang rusak, sangat percaya diri, orang yang penuh harga diri.
+hero_38_get_desc
+Formation breaker, all type human shield
+hero_29_name
+Spiral sword
+hero_29_alias_name
+Machina
+hero_29_english_name
+Machina
+hero_29_desc1
+Salah satu calon Agito Class Zero. Salah satu murid terbaik, teman masa kecil Rem. Sangat bertanggung jawab, selalu memikirkan teman.
+hero_29_get_desc
+Strong revival, single guard
+hero_18_name
+Double edge shadow
+hero_18_alias_name
+Rem
+hero_18_english_name
+Rem
+hero_18_desc1
+Anggota Agito Class Zero. Teman kecil Machina. Karakternya baik hati dan sungguh-sungguh, tidak suka berbohong
+hero_18_get_desc
+Baris belakang menyerang, satu per satu maju
+hero_17_name
+Healing voice
+hero_17_alias_name
+Deuce
+hero_17_english_name
+Deuce
+hero_17_desc1
+Anggota Agito Class Zero. Pekerja keras, anak yang jujur, sangat sungguh-sungguh, memegang teguh pemikiran sendiri, kadang-kadang agak sedikit kuno dan tidak fleksibel.
+hero_17_get_desc
+Control tunggal, group recover
+hero_19_name
+Kehendak yang berani
+hero_19_alias_name
+Jack
+hero_19_english_name
+Jack
+hero_19_desc1
+Anggota Agito Class Zero. Selalu tersenyum. Suka bercanda, meskipun untuk memberi semangat kepada team, tetapi semua orang mengira dia adalah anak yang cuek.
+hero_19_get_desc
+Vampire melee output
+hero_14_name
+Raja kartu Class Zero
+hero_14_alias_name
+Ace
+hero_14_english_name
+Ace
+hero_14_desc1
+Anggota Agito Class Zero. Gerakan dan cara bicara lebih cool, tetapi sebenarnya hatinya hangat, kadang-kadang sangat mudah tergerak, menggunakan perasaan dalam bertindak.
+hero_14_get_desc
+Lemparan jarak jauh yang kuat
+hero_24_name
+Wisdom light
+hero_24_alias_name
+Queen
+hero_24_english_name
+Queen
+hero_24_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_24_get_desc
+Multiple revive, group output
+hero_35_name
+Concordia Captain
+hero_35_alias_name
+Tenochi
+hero_35_english_name
+Tenochi
+hero_35_desc1
+Anak Claes, seperti ibunya, adalah orang yang ramah dan bekerja keras.
+hero_35_get_desc
+Extraordinary mobility
+hero_39_name
+Claes dawn
+hero_39_alias_name
+Claes
+hero_39_english_name
+Claes
+hero_39_desc1
+Guardian Star lima Concordia, ekspresinya hangat dan keji, sejak kecil mendapatkan pendidikan yang baik, memiliki prestige sangat tinggi di Concordia.
+hero_39_get_desc
+Numb enemy, group output
+hero_26_name
+Grim reaper ice sword
+hero_26_alias_name
+Kurasame
+hero_26_english_name
+Kurasame
+hero_26_desc1
+Komandan Class Zero, spesialisasi pada Ice Magic, karena masa lalu ditakuti oleh semua orang dan dipanggil Icy Blade Reaper. Orang yang dingin dan serius.
+hero_26_get_desc
+Control output, immortal
+hero_36_name
+Kingdom general
+hero_36_alias_name
+Qator
+hero_36_english_name
+Qator
+hero_36_desc1
+Jendral Milites Empire yang kemampuannya diakui Syid. Sangat mematuhi peraturan, tenang dan pendiam. Memiliki kebanggaan tinggi sebagai militer.
+hero_36_get_desc
+Fixed output, formation retreat
+hero_20_name
+Frost guard
+hero_20_alias_name
+Cinque
+hero_20_english_name
+Cinque
+hero_20_desc1
+Agito pilihan Class Zero. Sedikit aneh, agak bodoh, gadis yang tidak jelas. Karena tidak ada orang yang tahu apa yang akan dia lakukan, orang di sekitarnya pun tidak ingin mendekatinya.
+hero_20_get_desc
+Single survive, group protect
+hero_27_name
+Flame double gun
+hero_27_alias_name
+King
+hero_27_english_name
+King
+hero_27_desc1
+Salah satu calon Agito Class Zero. Membenci gerakan yang tidak berguna, sangat efektif. Tidak suka dekat dengan orang lain, pendiam, tetapi hatinya baik.
+hero_27_get_desc
+Group attack naik, output bertambah kuat
+hero_25_name
+Rantai lightning
+hero_25_alias_name
+Seven
+hero_25_english_name
+Seven
+hero_25_desc1
+Salah satu calon Agito Class Zero. Gadis yang keren dan pendiam. Penampilannya sangat keren, sangat menjaga adik kelas, sangat populer di antara cadet. Sulit menolak orang lain.
+hero_25_get_desc
+Remote output, summon power semakin kuat
+hero_23_name
+Apostle
+hero_23_alias_name
+Sice
+hero_23_english_name
+Sice
+hero_23_desc1
+Salah satu calon Agito Class Zero. Lidahnya sangat pedas, tidak segan untuk menunjukkan kelemahan orang lain. Tidak suka dilibatkan dalam masalah, gadis yang tidak suka mengeluarkan pendapat dan tidak menyerah. Menggunakan amarah sebagai tenaga battle.
+hero_23_get_desc
+Mengumpulkan musuh, group output
+hero_22_name
+Brave heart
+hero_22_alias_name
+Cater
+hero_22_english_name
+Cater
+hero_22_desc1
+Salah satu calon Agito Class Zero. Sangat percaya diri, karakternya sangat lurus dan kuat, dalam keadaan apapun dapat menjaga diri sendiri. Gadis yang penuh semangat.
+hero_22_get_desc
+Set output dan revive menjadi satu
+hero_16_name
+Petarung Teguh
+hero_16_alias_name
+Eight
+hero_16_english_name
+Eight
+hero_16_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_16_get_desc
+Armor untuk melindungi sekelompok orang
+hero_30_name
+Flame gun
+hero_30_alias_name
+Nine
+hero_30_english_name
+Nine
+hero_30_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_30_get_desc
+Melee armor yang dapat membuat group damage
+hero_40_name
+Explosion Lolita
+hero_40_alias_name
+Mutsuki
+hero_40_english_name
+Mutsuki
+hero_40_desc1
+Gadis jenius yang berperilaku aneh, sangat peduli terhadap fashion perang dan bom
+hero_40_get_desc
+Alternative output, limitless skill
+hero_21_name
+Truth hunter
+hero_21_alias_name
+Trey
+hero_21_english_name
+Trey
+hero_21_desc1
+Salah satu pilihan Agito Class Zero. Karakternya tenang, sangat berpendidikan, berpengetahuan luas, dapat memahami orang lain dan memberikan pendapat, tetapi sekali membuka mulut akan berbicara tanpa henti. Sering dihentikan di tengah-tengah.
+hero_21_get_desc
+Remote output group
+hero_41_name
+Lorican descendant
+hero_41_alias_name
+Ryid
+hero_41_english_name
+Ryid
+hero_41_desc1
+Memiliki setengah darah Lorican, karena itu badannya lebih tinggi dari orang Dominion, orang yang berhati lapang.
+hero_41_get_desc
+Instant recovery, break formation
+hero_51_name
+Claes light
+hero_51_alias_name
+Ruka
+hero_51_english_name
+Ruka
+hero_51_desc1
+Cadet Akademeia Dominion, lidahnya pedas dan sombong, mirip dengan Arecia.
+hero_51_get_desc
+Group damage, single imprison
+hero_52_name
+Broken shield
+hero_52_alias_name
+Hayne
+hero_52_english_name
+Hayne
+hero_52_desc1
+Cadet Akademeia Dominion, ceria, menjaga orang yang penting bagi dirinya.
+hero_52_get_desc
+Balance attack, group guard
+hero_201_name
+hijau
+hero_201_alias_name
+Class 1 cadet
+hero_201_english_name
+
+hero_201_desc1
+Class 1 male cadet
+hero_202_name
+Murphy
+hero_202_alias_name
+Class 1 cadet
+hero_202_english_name
+
+hero_202_desc1
+Class 1 female cadet
+hero_203_name
+Truth
+hero_203_alias_name
+Class 2 cadet
+hero_203_english_name
+
+hero_203_desc1
+Class 2 male cadet
+hero_204_name
+Pear
+hero_204_alias_name
+Class 2 cadet
+hero_204_english_name
+
+hero_204_desc1
+Class 2 female cadet
+hero_205_name
+Weiloka
+hero_205_alias_name
+Class 3 cadet
+hero_205_english_name
+
+hero_205_desc1
+Class 3 male cadet
+hero_206_name
+Kayu
+hero_206_alias_name
+Class 3 cadet
+hero_206_english_name
+
+hero_206_desc1
+Class 3 female cadet
+hero_207_name
+Zuka
+hero_207_alias_name
+Class 4 cadet
+hero_207_english_name
+
+hero_207_desc1
+Class 4 male cadet
+hero_208_name
+Anweien
+hero_208_alias_name
+Class 4 cadet
+hero_208_english_name
+
+hero_208_desc1
+Class 4 female cadet
+hero_209_name
+Xier
+hero_209_alias_name
+Class 5 cadet
+hero_209_english_name
+
+hero_209_desc1
+Class 5 male cadet
+hero_210_name
+Berat benang
+hero_210_alias_name
+Class 5 cadet
+hero_210_english_name
+
+hero_210_desc1
+Class 5 female cadet
+hero_211_name
+Garcia
+hero_211_alias_name
+Class 6 cadet
+hero_211_english_name
+
+hero_211_desc1
+Class 6 male cadet
+hero_212_name
+Judy
+hero_212_alias_name
+Class 6 cadet
+hero_212_english_name
+
+hero_212_desc1
+Class 6 female cadet
+hero_213_name
+Padang es
+hero_213_alias_name
+Class 7 cadet
+hero_213_english_name
+
+hero_213_desc1
+Class 7 male cadet
+hero_214_name
+Fragrance
+hero_214_alias_name
+Class 7 cadet
+hero_214_english_name
+
+hero_214_desc1
+Class 7 female cadet
+hero_215_name
+Gull light
+hero_215_alias_name
+Class 8 cadet
+hero_215_english_name
+
+hero_215_desc1
+Class 8 male cadet
+hero_216_name
+Lilith
+hero_216_alias_name
+Class 8 cadet
+hero_216_english_name
+
+hero_216_desc1
+Class 8 female cadet
+hero_217_name
+Gray feather
+hero_217_alias_name
+Class 9 cadet
+hero_217_english_name
+
+hero_217_desc1
+Class 9 male cadet
+hero_218_name
+Nine bells
+hero_218_alias_name
+Class 9 cadet
+hero_218_english_name
+
+hero_218_desc1
+Class 9 female cadet
+hero_102_name
+Flame bullet
+hero_102_alias_name
+Fantasy beast
+hero_102_english_name
+
+hero_102_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_103_name
+White stage soldier
+hero_103_alias_name
+Fantasy soldier
+hero_103_english_name
+
+hero_103_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_105_name
+White heal soldier
+hero_105_alias_name
+Fantasy soldier
+hero_105_english_name
+
+hero_105_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_106_name
+Green fleet
+hero_106_alias_name
+Fantasy soldier
+hero_106_english_name
+
+hero_106_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_109_name
+Ice pudding
+hero_109_alias_name
+Fantasy beast
+hero_109_english_name
+
+hero_109_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_110_name
+Ice bullet
+hero_110_alias_name
+Fantasy beast
+hero_110_english_name
+
+hero_110_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_111_name
+Fire pudding
+hero_111_alias_name
+Fantasy beast
+hero_111_english_name
+
+hero_111_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_113_name
+Double horn
+hero_113_alias_name
+Fantasy beast
+hero_113_english_name
+
+hero_113_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_118_name
+Red advance soldier
+hero_118_alias_name
+Fantasy soldier
+hero_118_english_name
+
+hero_118_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_123_name
+Red fleet
+hero_123_alias_name
+Fantasy soldier
+hero_123_english_name
+
+hero_123_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_129_name
+Lightning pudding
+hero_129_alias_name
+Fantasy beast
+hero_129_english_name
+
+hero_129_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_130_name
+Lightning explode bullet
+hero_130_alias_name
+Fantasy beast
+hero_130_english_name
+
+hero_130_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_107_name
+Green soldier
+hero_107_alias_name
+Fantasy soldier
+hero_107_english_name
+
+hero_107_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_108_name
+Blood bat
+hero_108_alias_name
+Fantasy beast
+hero_108_english_name
+
+hero_108_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_114_name
+Grey centipedes
+hero_114_alias_name
+Fantasy beast
+hero_114_english_name
+
+hero_114_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_116_name
+Green assault soldier
+hero_116_alias_name
+Fantasy soldier
+hero_116_english_name
+
+hero_116_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_120_name
+Red assault soldier
+hero_120_alias_name
+Fantasy soldier
+hero_120_english_name
+
+hero_120_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_121_name
+Poison bat
+hero_121_alias_name
+Fantasy beast
+hero_121_english_name
+
+hero_121_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_122_name
+Shadow bat
+hero_122_alias_name
+Fantasy beast
+hero_122_english_name
+
+hero_122_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_124_name
+Red centipedes
+hero_124_alias_name
+Fantasy beast
+hero_124_english_name
+
+hero_124_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_131_name
+Pink fierce dragon
+hero_131_alias_name
+Fantasy beast
+hero_131_english_name
+
+hero_131_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_132_name
+Purple fierce dragon
+hero_132_alias_name
+Fantasy beast
+hero_132_english_name
+
+hero_132_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_133_name
+Brown lightning dragon
+hero_133_alias_name
+Fantasy soldier
+hero_133_english_name
+
+hero_133_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_134_name
+Rainbow lightning dragon
+hero_134_alias_name
+Fantasy soldier
+hero_134_english_name
+
+hero_134_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_501_name
+Mini fire pudding
+hero_501_alias_name
+Fantasy beast
+hero_501_english_name
+
+hero_501_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_502_name
+Kazusa yang marah
+hero_502_alias_name
+Kazusa
+hero_502_english_name
+
+hero_502_desc1
+Bertanggung jawab mengembangkan alat perang dan weapon, salah satu penanggung jawab untuk penelitian alat perang. Teman sekelas Kurasame dan Ameena.
+hero_502_get_desc
+Single output, continuous damage
+hero_901_name
+Output jarak dekat biru
+hero_901_alias_name
+Template Nine biru
+hero_901_english_name
+
+hero_901_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_902_name
+Output jarak dekat ungu
+hero_902_alias_name
+Template Nine ungu
+hero_902_english_name
+
+hero_902_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_903_name
+Output jarak dekat orange
+hero_903_alias_name
+Template Nine orange
+hero_903_english_name
+
+hero_903_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_904_name
+Output jarak dekat biru
+hero_904_alias_name
+Template Queen biru
+hero_904_english_name
+
+hero_904_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_905_name
+Output jarak dekat ungu
+hero_905_alias_name
+Template Queen ungu
+hero_905_english_name
+
+hero_905_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_906_name
+Output jarak dekat orange
+hero_906_alias_name
+Template Queen orange
+hero_906_english_name
+
+hero_906_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_907_name
+Output jarak jauh biru
+hero_907_alias_name
+Template Frost biru
+hero_907_english_name
+
+hero_907_desc1
+Mage yang dilindungi air dan es, bertanggung jawab terhadap pertahanan dan kehancuran…
+hero_908_name
+Output jarak jauh ungu
+hero_908_alias_name
+Template Frost ungu
+hero_908_english_name
+
+hero_908_desc1
+Mage yang dilindungi air dan es, bertanggung jawab terhadap pertahanan dan kehancuran…
+hero_909_name
+Output jarak jauh orange
+hero_909_alias_name
+Template Frost orange
+hero_909_english_name
+
+hero_909_desc1
+Mage yang dilindungi air dan es, bertanggung jawab terhadap pertahanan dan kehancuran…
+hero_910_name
+Additional help jarak jauh biru
+hero_910_alias_name
+Template Deuce biru
+hero_910_english_name
+
+hero_910_desc1
+Anggota Agito Class Zero. Pekerja keras, anak yang jujur, sangat sungguh-sungguh, memegang teguh pemikiran sendiri, kadang-kadang agak sedikit kuno dan tidak fleksibel.
+hero_911_name
+Additional help jarak jauh ungu
+hero_911_alias_name
+Template Deuce ungu
+hero_911_english_name
+
+hero_911_desc1
+Anggota Agito Class Zero. Pekerja keras, anak yang jujur, sangat sungguh-sungguh, memegang teguh pemikiran sendiri, kadang-kadang agak sedikit kuno dan tidak fleksibel.
+hero_912_name
+Additional help jarak jauh orange
+hero_912_alias_name
+Template Deuce orange
+hero_912_english_name
+
+hero_912_desc1
+Anggota Agito Class Zero. Pekerja keras, anak yang jujur, sangat sungguh-sungguh, memegang teguh pemikiran sendiri, kadang-kadang agak sedikit kuno dan tidak fleksibel.
+hero_913_name
+Armor jarak dekat biru
+hero_913_alias_name
+Template Eight biru
+hero_913_english_name
+
+hero_913_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_914_name
+Armor jarak dekat ungu
+hero_914_alias_name
+Template Eight ungu
+hero_914_english_name
+
+hero_914_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_915_name
+Armor jarak dekat orange
+hero_915_alias_name
+Template Eight orange
+hero_915_english_name
+
+hero_915_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_951_name
+Spiral melee DPS
+hero_951_alias_name
+Spiral melee DPS
+hero_951_english_name
+
+hero_951_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_952_name
+Spiral melee SUP
+hero_952_alias_name
+Spiral melee SUP
+hero_952_english_name
+
+hero_952_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_953_name
+Spiral remote DPS
+hero_953_alias_name
+Spiral remote DPS
+hero_953_english_name
+
+hero_953_desc1
+Mage yang dilindungi air dan es, bertanggung jawab terhadap pertahanan dan kehancuran…
+hero_954_name
+Spiral remote SUP
+hero_954_alias_name
+Spiral remote SUP
+hero_954_english_name
+
+hero_954_desc1
+Anggota Agito Class Zero. Pekerja keras, anak yang jujur, sangat sungguh-sungguh, memegang teguh pemikiran sendiri, kadang-kadang agak sedikit kuno dan tidak fleksibel.
+hero_955_name
+Spiral melee T
+hero_955_alias_name
+Spiral melee T
+hero_955_english_name
+
+hero_955_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_999_name
+Test
+hero_999_alias_name
+Test
+hero_999_english_name
+
+hero_999_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_7001_name
+Eight
+hero_7001_alias_name
+Eight
+hero_7001_english_name
+
+hero_7001_desc1
+Cadet Class Zero Akademeia. Penampilannya kekanak-kanakan, tetapi perilaku dan cara bicaranya sangat dingin, sebenarnya hatinya ramah, mudah tergerak, dan menggunakan perasaan saat memutuskan.
+hero_7002_name
+Queen
+hero_7002_alias_name
+Queen
+hero_7002_english_name
+
+hero_7002_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_7003_name
+Eight
+hero_7003_alias_name
+Eight
+hero_7003_english_name
+
+hero_7003_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_9901_name
+Test 01
+hero_9901_alias_name
+Test 01
+hero_9901_english_name
+
+hero_9901_desc1
+Melee test
+hero_9902_name
+Test 02
+hero_9902_alias_name
+Test 02
+hero_9902_english_name
+
+hero_9902_desc1
+Remote test
+hero_9903_name
+Test menggunakan wind swordman
+hero_9903_alias_name
+Test menggunakan wind swordman
+hero_9903_english_name
+
+hero_9903_desc1
+Mengikuti arah angin, tentara dengan dua pedang, dia akan tetap gesit dan tenang
+hero_7004_name
+Brave heart
+hero_7004_alias_name
+Newbie Cater
+hero_7004_english_name
+Cater
+hero_7004_desc1
+Salah satu calon Agito Class Zero. Sangat percaya diri, karakternya sangat lurus dan kuat, dalam keadaan apapun dapat menjaga diri sendiri. Gadis yang penuh semangat.
+hero_7005_name
+Petarung Teguh
+hero_7005_alias_name
+Newbie Eight
+hero_7005_english_name
+Eight
+hero_7005_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_7006_name
+Class 4 cadet
+hero_7006_alias_name
+Zuka
+hero_7006_english_name
+
+hero_7006_desc1
+Animasi cadet mengambil buku
+hero_7007_name
+lh
+hero_7007_alias_name
+lh
+hero_7007_english_name
+
+hero_7007_desc1
+Animasi lh
+hero_7008_name
+Standard nilai
+hero_7008_alias_name
+Nilai
+hero_7008_english_name
+
+hero_7008_desc1
+Standard nilai equipment gem
+hero_7009_name
+Blaze Emitter
+hero_7009_alias_name
+Xuyu
+hero_7009_english_name
+Xuyu
+hero_7009_desc1
+Animasi menggunakan sidekick Xuyu
+hero_7010_name
+Unique Hadad
+hero_7010_alias_name
+Unique Hadad
+hero_7010_english_name
+Fashion
+hero_7010_desc1
+Animasi menggunakan fashion Hadad
+hero_7011_name
+Red Dance
+hero_7011_alias_name
+Red Dance
+hero_7011_english_name
+Fashion
+hero_7011_desc1
+Animasi menggunakan fashion Dancer
+hero_7012_name
+Forest spirit
+hero_7012_alias_name
+Forest spirit
+hero_7012_english_name
+Fashion
+hero_7012_desc1
+Animasi menggunakan fashion Little Lolita
+hero_7013_name
+Scared Earl
+hero_7013_alias_name
+Scared Earl
+hero_7013_english_name
+Fashion
+hero_7013_desc1
+Animasi menggunakan fashion Vampiree
+hero_7014_name
+Frost Messenger
+hero_7014_alias_name
+Frost Messenger
+hero_7014_english_name
+Fashion
+hero_7014_desc1
+Animasi menggunakan fashion Rylai
+hero_7015_name
+Ninja master
+hero_7015_alias_name
+Ninja master
+hero_7015_english_name
+Fashion
+hero_7015_desc1
+Animasi menggunakan fashion Ninja
+hero_7016_name
+Dominion l'Cie
+hero_7016_alias_name
+Caetuna
+hero_7016_english_name
+Caetuna
+hero_7016_desc1
+Animasi menggunakan sidekick Caetuna
+hero_7017_name
+lh
+hero_7017_alias_name
+lh
+hero_7017_english_name
+
+hero_7017_desc1
+Animasi lh
+hero_7018_name
+lh
+hero_7018_alias_name
+lh
+hero_7018_english_name
+
+hero_7018_desc1
+Animasi lh
+hero_7019_name
+New year beast
+hero_7019_alias_name
+Fantasy beast
+hero_7019_english_name
+
+hero_7019_desc1
+Magic copy fantasy monster, tidak memiliki power battle, apakah dismantle lebih baik?
+hero_7020_name
+Standar rating 2
+hero_7020_alias_name
+Nilai
+hero_7020_english_name
+
+hero_7020_desc1
+Standar Fate Rune rating
+hero_10032_name
+Flame emitter·Giant Ox
+hero_10032_alias_name
+Xuyu
+hero_10032_english_name
+Xuyu
+hero_10032_desc1
+Dominion primus l'Cie, memiliki kekuatan flame terkuat di Dominion, karena lama dikontrol crystal, perasaannya menjadi hampa, agar tidak melupakan diri sendiri selalu memakai baju cadet.
+hero_10032_get_desc
+Output jarak dekat paling kuat, Crit king
+hero_10033_name
+Queen Andoria·Giant Ox
+hero_10033_alias_name
+Andoria
+hero_10033_english_name
+Andoria
+hero_10033_desc1
+Concordia Queen, Concordia secundus l'Cie, dapat berbicara dengan Concordia l'Cie menggunakan pikiran, dapat melihat masa depan. Merupakan orang yang sombong dan adil.
+hero_10033_get_desc
+Hero cadangan yang paling kuat
+hero_10028_name
+Lorican King·Giant Ox
+hero_10028_alias_name
+Gilgamesh
+hero_10028_english_name
+Gilgamesh
+hero_10028_desc1
+Lorican King, l'Cie Primus Lorican crystal, kolektor weapon, sering battle untuk mengambil weapon dan menggunakannya.
+hero_10028_get_desc
+Powerful shield, appalling survival
+hero_10013_name
+Empire l'Cie·Giant Ox
+hero_10013_alias_name
+Nimbus
+hero_10013_english_name
+Nimbus
+hero_10013_desc1
+Empire Primus l'Cie, dikendalikan oleh crystal selama ratusan tahun, perasaannya lebih hampa dibanding Xuyu, karena crystal Empire dikontrol oleh Cid, hanya dapat mendengar perintah Cid.
+hero_10013_get_desc
+Remote output paling kuat
+hero_10031_name
+l'Cie Dominion·Giant Ox
+hero_10031_alias_name
+Caetuna
+hero_10031_english_name
+Caetuna
+hero_10031_desc1
+Dominion Secundus l'Cie, memiliki kekuatan summon magic, memiliki kemampuan sihir yang tidak terbatas. Merupakan l'Cie Orience tertua, namanya tercatat dalam perang besar 500 tahun lalu.
+hero_10031_get_desc
+All frozen, versatile secondary
+hero_10037_name
+Earth guardian·Giant Ox
+hero_10037_alias_name
+Atra
+hero_10037_english_name
+Atra
+hero_10037_desc1
+Lorican Secundus l'Cie, sangat misterius
+hero_10037_get_desc
+Break formation, strong suck blood
+hero_10034_name
+Strange Doctor·Giant Ox
+hero_10034_alias_name
+Kazusa
+hero_10034_english_name
+Kazusa
+hero_10034_desc1
+Bertanggung jawab mengembangkan alat perang dan weapon, salah satu penanggung jawab untuk penelitian alat perang. Teman sekelas Kurasame dan Ameena.
+hero_10034_get_desc
+Single output, continuous damage
+hero_10038_name
+Armor command·Giant Ox
+hero_10038_alias_name
+Qun'mi
+hero_10038_english_name
+Qun'mi
+hero_10038_desc1
+Empire secundus l'Cie, memiliki kekuatan untuk mengaktifkan armor magic yang rusak, sangat percaya diri, orang yang penuh harga diri.
+hero_10038_get_desc
+Formation breaker, all type human shield
+hero_10029_name
+Twin Rapiers·Giant Ox
+hero_10029_alias_name
+Machina
+hero_10029_english_name
+Machina
+hero_10029_desc1
+Salah satu calon Agito Class Zero. Salah satu murid terbaik, teman masa kecil Rem. Sangat bertanggung jawab, selalu memikirkan teman.
+hero_10029_get_desc
+Strong revival, single guard
+hero_10018_name
+Double edge shadow·Giant Ox
+hero_10018_alias_name
+Rem
+hero_10018_english_name
+Rem
+hero_10018_desc1
+Anggota Agito Class Zero. Teman kecil Machina. Karakternya baik hati dan sungguh-sungguh, tidak suka berbohong
+hero_10018_get_desc
+Baris belakang menyerang, satu per satu maju
+hero_10017_name
+Healing Voice·Giant Ox
+hero_10017_alias_name
+Deuce
+hero_10017_english_name
+Deuce
+hero_10017_desc1
+Anggota Agito Class Zero. Pekerja keras, anak yang jujur, sangat sungguh-sungguh, memegang teguh pemikiran sendiri, kadang-kadang agak sedikit kuno dan tidak fleksibel.
+hero_10017_get_desc
+Control tunggal, group recover
+hero_10019_name
+Fearless will·Giant Ox
+hero_10019_alias_name
+Jack
+hero_10019_english_name
+Jack
+hero_10019_desc1
+Anggota Agito Class Zero. Selalu tersenyum. Suka bercanda, meskipun untuk memberi semangat kepada team, tetapi semua orang mengira dia adalah anak yang cuek.
+hero_10019_get_desc
+Vampire melee output
+hero_10014_name
+Hero Card King zero·Giant Ox
+hero_10014_alias_name
+Eight
+hero_10014_english_name
+Eight
+hero_10014_desc1
+Anggota Agito Class Zero. Gerakan dan cara bicara lebih cool, tetapi sebenarnya hatinya hangat, kadang-kadang sangat mudah tergerak, menggunakan perasaan dalam bertindak.
+hero_10014_get_desc
+Lemparan jarak jauh yang kuat
+hero_10024_name
+Wisdom light·Giant Ox
+hero_10024_alias_name
+Queen
+hero_10024_english_name
+Queen
+hero_10024_desc1
+Salah satu calon Agito Class Zero. Gadis berambut panjang hitam dan memakai kacamata, menggunakan weapon long sword. Memiliki penampilan yang suci dan cantik dan cerdas.
+hero_10024_get_desc
+Multiple revive, group output
+hero_10035_name
+Concordia Captain·Giant Ox
+hero_10035_alias_name
+Tenochi
+hero_10035_english_name
+Tenochi
+hero_10035_desc1
+Anak Claes, seperti ibunya, adalah orang yang ramah dan bekerja keras.
+hero_10035_get_desc
+Extraordinary mobility
+hero_10039_name
+Claes Dawn·Giant Ox
+hero_10039_alias_name
+Claes
+hero_10039_english_name
+Claes
+hero_10039_desc1
+Guardian Star lima Concordia, ekspresinya hangat dan keji, sejak kecil mendapatkan pendidikan yang baik, memiliki prestige sangat tinggi di Concordia.
+hero_10039_get_desc
+Numb enemy, group output
+hero_10026_name
+Ice blade reaper·Giant Ox
+hero_10026_alias_name
+Kurasame
+hero_10026_english_name
+Kurasame
+hero_10026_desc1
+Komandan Class Zero, spesialisasi pada Ice Magic, karena masa lalu ditakuti oleh semua orang dan dipanggil Icy Blade Reaper. Orang yang dingin dan serius.
+hero_10026_get_desc
+Control output, immortal
+hero_10036_name
+Kingdom General·Giant Ox
+hero_10036_alias_name
+Qator
+hero_10036_english_name
+Qator
+hero_10036_desc1
+Jendral Milites Empire yang kemampuannya diakui Syid. Sangat mematuhi peraturan, tenang dan pendiam. Memiliki kebanggaan tinggi sebagai militer.
+hero_10036_get_desc
+Fixed output, formation retreat
+hero_10020_name
+Frost guard·Giant Ox
+hero_10020_alias_name
+Cinque
+hero_10020_english_name
+Cinque
+hero_10020_desc1
+Agito pilihan Class Zero. Sedikit aneh, agak bodoh, gadis yang tidak jelas. Karena tidak ada orang yang tahu apa yang akan dia lakukan, orang di sekitarnya pun tidak ingin mendekatinya.
+hero_10020_get_desc
+Single survive, group protect
+hero_10027_name
+Flame Double Gun·Giant Ox
+hero_10027_alias_name
+King
+hero_10027_english_name
+King
+hero_10027_desc1
+Salah satu calon Agito Class Zero. Membenci gerakan yang tidak berguna, sangat efektif. Tidak suka dekat dengan orang lain, pendiam, tetapi hatinya baik.
+hero_10027_get_desc
+Group attack naik, output bertambah kuat
+hero_10025_name
+Lightning Chain·Giant Ox
+hero_10025_alias_name
+Seven
+hero_10025_english_name
+Seven
+hero_10025_desc1
+Salah satu calon Agito Class Zero. Gadis yang keren dan pendiam. Penampilannya sangat keren, sangat menjaga adik kelas, sangat populer di antara cadet. Sulit menolak orang lain.
+hero_10025_get_desc
+Remote output, summon power semakin kuat
+hero_10023_name
+Apostle·Giant Ox
+hero_10023_alias_name
+Sice
+hero_10023_english_name
+Sice
+hero_10023_desc1
+Salah satu calon Agito Class Zero. Lidahnya sangat pedas, tidak segan untuk menunjukkan kelemahan orang lain. Tidak suka dilibatkan dalam masalah, gadis yang tidak suka mengeluarkan pendapat dan tidak menyerah. Menggunakan amarah sebagai tenaga battle.
+hero_10023_get_desc
+Mengumpulkan musuh, group output
+hero_10022_name
+Brave Heart·Giant Ox
+hero_10022_alias_name
+Cater
+hero_10022_english_name
+Cater
+hero_10022_desc1
+Salah satu calon Agito Class Zero. Sangat percaya diri, karakternya sangat lurus dan kuat, dalam keadaan apapun dapat menjaga diri sendiri. Gadis yang penuh semangat.
+hero_10022_get_desc
+Set output dan revive menjadi satu
+hero_10016_name
+Unyielding Fighter·Giant Ox
+hero_10016_alias_name
+Eight
+hero_10016_english_name
+Eight
+hero_10016_desc1
+Anggota Agito Class Zero. Membenci weapon yang mudah membunuh orang, memilih menggunakan kedua tangan untuk battle. Lebih senang memperhatikan keadaan, selalu dapat menguasai keadaan battle, hatinya kuat.
+hero_10016_get_desc
+Armor untuk melindungi sekelompok orang
+hero_10030_name
+Flame Gun·Giant Ox
+hero_10030_alias_name
+Nine
+hero_10030_english_name
+Nine
+hero_10030_desc1
+Salah satu calon Agito Class Zero. Suka berbicara kasar, orang yang lurus, tidak akan berhenti sebelum memperjelas hitam dan putih. Selalu mengerjakan sesuatu dengan sekuat tenaga.
+hero_10030_get_desc
+Melee armor yang dapat membuat group damage
+hero_10040_name
+Explosive Lolita·Giant Ox
+hero_10040_alias_name
+Mutsuki
+hero_10040_english_name
+Mutsuki
+hero_10040_desc1
+Gadis jenius yang berperilaku aneh, sangat peduli terhadap fashion perang dan bom
+hero_10040_get_desc
+Alternative output, limitless skill
+hero_10021_name
+Truth hunter·Giant Ox
+hero_10021_alias_name
+Trey
+hero_10021_english_name
+Trey
+hero_10021_desc1
+Salah satu pilihan Agito Class Zero. Karakternya tenang, sangat berpendidikan, berpengetahuan luas, dapat memahami orang lain dan memberikan pendapat, tetapi sekali membuka mulut akan berbicara tanpa henti. Sering dihentikan di tengah-tengah.
+hero_10021_get_desc
+Remote output group
+hero_10041_name
+Descendants of Lorican·Giant Ox
+hero_10041_alias_name
+Ryid
+hero_10041_english_name
+Ryid
+hero_10041_desc1
+Memiliki setengah darah Lorican, karena itu badannya lebih tinggi dari orang Dominion, orang yang berhati lapang.
+hero_10041_get_desc
+Instant recovery, break formation
+hero_10051_name
+Meteor Light·Giant Ox
+hero_10051_alias_name
+Ruka
+hero_10051_english_name
+Ruka
+hero_10051_desc1
+Cadet Akademeia Dominion, lidahnya pedas dan sombong, mirip dengan Arecia.
+hero_10051_get_desc
+Group damage, single imprison
+hero_10052_name
+Broken Shield·Giant Ox
+hero_10052_alias_name
+Hayne
+hero_10052_english_name
+Hayne
+hero_10052_desc1
+Cadet Akademeia Dominion, ceria, menjaga orang yang penting bagi dirinya.
+hero_10052_get_desc
+Balance attack, group guard

@@ -1,0 +1,62 @@
+ui.faction.gambling.text.faction.packet.count
+Jmlh angpao hari ini: {0}
+ui.faction.gambling.text.packet.name
+Angpao {1} milik {0}
+ui.faction.gambling.text.packet.residue
+Sisa hadiah : {0} diamond
+ui.faction.gambling.text.time.residue
+Sisa waktu : {0}
+ui.faction.gambling.text.history.goods
+[{0}][0CFF00]{1}[-] mendapat {3}x{2}, hadiah pool bertambah {4} diamond
+ui.faction.gambling.text.history.cash
+[{0}][0CFF00]{1}[-] mendapat {2}% hadiah pool! Dapat {3} diamond, sisa pool {4} diamond
+ui.faction.gambling.title.send.packet
+Kirim Angpao
+ui.faction.gambling.text.vip.info
+Level VIP saat ini : VIP {0}
+ui.faction.gambling.text.next.quality.vip.info
+VIP {0} bisa kirim Angpao kualitas {1}
+ui.faction.gambling.text.packet.quality
+Bisa kirim kualitas angpao : angpao {0}
+ui.faciton.gambling.text.init.cash
+Nilai angpao : {0} diamond
+ui.faction.gambling.text.free.send.count
+Jumlah gratis hari ini : {0}
+ui.faction.gambling.text.send.packet.success
+Berhasil kirim Angpao kualitas {0} 
+ui.faction.gambling.text.send.packet.broadcast
+{0} membagi sebuah angpao Guild kualitas {1}, [url={2}][u][FFDD54] cepat ambil [-][/u][/url]
+ui.faction.gambling.text.get.jacktop.broadcast
+{0} mendapat {1}% pool saat mengambil Angpao, mendapatkan [0CFF00] {2} Diamond [-], asyik sekali, [url={3}][u][FFDD54] ayo ambil [-][/u][/url]
+ui.faction.gambling.text.gambling.increment.broadcast
+{0} sudah mengambil Angpao kualitas {2} yang dikirim {1}, tidak mendapatkan hadiah diamond pool, menambahkan {3} Diamond pada pool, sisa Diamond sekarang adalah {4} , [url={5}][u][FFDD54] coba peruntunganmu [-][/u][/url]
+ui.faction.gambling.text.jackpot.info
+Selamat kamu dapat {0}% dari pool saat ini
+ui.faction.gambling.text.jackpot.cash
+Total hadiah pool : {0} diamond
+ui.faction.gambling.text.get.cash
+Kamu dapat : {0} diamond
+ui.faction.gambling.text.packet.quality.1
+Perunggu
+ui.faction.gambling.text.packet.quality.2
+Perak
+ui.faction.gambling.text.packet.quality.3
+Emas
+ui.faction.gambling.text.packet.quality.4
+Mewah
+ui.faction.gambling.error.packet.got
+Angpao ini sudah diambil
+ui.faction.gambling.error.packet.timeout
+Angpao ini sudah kadaluarsa
+ui.faction.gambling.error.vip.unenough
+VIP 2 baru bisa kirim Angpao
+ui.faction.gambling.error.item.unenough
+Item untuk kirim Angpao tidak cukup
+ui.faction.gambling.error.free.count.is.zero
+Kesempatan hari ini habis
+ui.faction.gambling.sent.all.packet
+Hari ini sdh dikirim
+ui.faction.gambling.could.send.packet
+Gratis Kirim
+ui.faction.gambling.diamond.time.out
+Time out

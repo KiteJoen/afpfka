@@ -1,0 +1,46 @@
+ui.battle.finish.tips.diamond.title
+Congratulations!
+ui.battle.finish.tips.diamond.gain.title
+Collect
+ui.battle.finish.tips.diamond.gain.continue
+Continue to get more rewards
+ui.battle.finish.tips.hero.title
+Bravely clear the stage
+ui.battle.finish.tips.hero.name
+Brave Heart
+ui.battle.finish.tips.hero.gain.title
+Collect progress
+ui.battle.finish.tips.hero.info
+[A0A0A0FF]Clear a new main stage to collect [BB62E6FF]Braveheart: Cater[-]Shards,  Collect[BB62E6FF]{0}[-]Collect shards to summon [BB62E6FF]Braveheart[-]
+ui.battle.three.people.countdown.1
+Revive Countdown
+ui.battle.three.people.countdown.2
+All stages will be lost after a character dies,  make sure you keep up!
+ui.team.room.choose
+Select Dungeon
+ui.team.dungeon.level
+Lv
+ui.endlesschallenge.title
+Click to view Stats Bonus
+ui.recall.recommend
+Recommended Power:
+ui.recall.friend
+Visit Friend
+ui.recall.my.world
+of the world
+ui.recall.correspondent
+Correspondent
+ui.recall.no.one
+Your friend has not sent a team out to Explore yet
+ui.recall.harvest
+Quick Collect
+ui.team.dungeon.today.time
+Today's Reward:
+ui.guilddungeon.schedule.today
+Today's Challenge
+ui.recall.unlock.map.lock
+Congratulations on Unlocking
+ui.battle.mvp
+MVP
+ui.recall.world.income
+Can be gained

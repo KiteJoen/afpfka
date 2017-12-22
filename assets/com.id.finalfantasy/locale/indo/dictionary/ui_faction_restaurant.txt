@@ -1,0 +1,38 @@
+ui.faction.restaurant.cook.waiting
+Mulai makan setelah semua berkumpul
+ui.faction.restaurant.cook.pooling
+Cepat pergi setelah makan, jangan bantu orang atur meja lagi
+ui.faction.restaurant.messagebox
+Kotak saran
+ui.faction.restaurant.button.pool
+Atur meja
+ui.faction.restaurant.button.sit
+Duduk
+ui.faction.restaurant.button.invite
+Mengirim undangan
+ui.faction.restaurant.button.summon
+Pakai avatar
+ui.faction.restaurant.button.eat
+Pakai
+ui.faction.restaurant.tip.summon
+Yakin buat 1 avatar utk ambil posisi? \n (Tips: Sebanyak-banyaknya avatar hanya dapat ambil 1 bonus hadiah)
+ui.faction.restaurant.tip.fulltable
+Meja makan sudah penuh, mari makan~
+ui.faction.chat.invite
+[00FFFF]{1}[-] siap makan di kantin Guild, cepat rebut kursi~ [url={0}][99CC00] Klik utk maju [-][/url]
+ui.restaurant.invite.wait
+Sudah diundang, harap tunggu dan kirim ulang lagi
+ui.restaurant.tip.eaten
+Pesta Guild : sudah diambil
+ui.restaurant.tip.not_eaten
+Pesta Guild : belum diambil
+ui.restaurant.pool.complete
+Berhasil duduk! Kamu berhasil membantu teman-teman Guild makan besar~
+ui.restaurant.Notice
+Pengumuman kantin
+ui.restaurant.Notice.reward
+Makanan sudah siap
+ui.restaurant.button.Notice.reward
+Mengambil
+ui.worldboss.boss.hurt.prompt
+Semakin tinggi Level star Hero, damage semakin tinggi

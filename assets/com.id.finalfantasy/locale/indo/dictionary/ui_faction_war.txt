@@ -1,0 +1,266 @@
+ui.faction.war.enroll.desc
+Sedang daftar perang Guild
+ui.faction.war.enroll.success
+Pendaftaran berhasil
+ui.faction.war.enroll.btn.desc
+Mendaftar
+ui.faction.war.enroll.countdown.tip
+Penutupan pendaftaran masih :
+ui.faction.war.enroll.confirm.title
+Pendaftaran Guild
+ui.faction.war.enroll.confirm.msg
+Perang Guild akan segera dibuka, yakin mau daftar?
+ui.faction.war.enroll.confirm
+Yakin
+ui.faction.war.enroll.concel
+Batal
+ui.faction.war.enroll.war.open
+Waktu perang Guild periode selanjutnya : {0}--{1}
+ui.faction.war.enroll.resting
+Istirahat
+ui.faction.war.enroll.apply.open
+Pendaftaran perang Guild berikutnya akan dimulai {0}
+ui.faction.war.personal.records
+Catatan battle
+ui.faction.war.main.area.title
+Pilihan area perang
+ui.faction.war.main.area.not.open
+Area ini belum dibuka
+ui.faction.war.rank.list
+Ranking
+ui.faction.war.achievement
+Target harian
+ui.faction.war.inner.rank.title
+Peringkat perang
+ui.faction.war.score
+{0}
+ui.faction.war.my.occupation.info
+Wilayah kekuasaanku
+ui.faction.war.my.score
+Skorku
+ui.faction.war.my.score.value
+{0}
+ui.faction.war.my.rank
+Peringkatku
+ui.faction.war.my.rank.value
+{0}
+ui.faction.war.my.occumulated.score
+Jumlah Poin : {0}
+ui.faction.war.my.open.not.occupied
+Belum ditempati
+ui.faction.war.my.locked
+VIP {0} terbuka
+ui.faction.war.resrcPt.rival.occupied.info
+[{0}] pemain {1} seluruh
+ui.faction.war.resrcPt.rival.fight.power.versus
+BP musuh : {0} BP saat ini : {1}
+ui.faction.war.resrcPt.rival.heroes.desc
+Barisan enemy
+ui.faction.war.resrcPt.revenue.desc
+Estimasi pendapatan
+ui.faction.war.resrcPt.battle.adjust
+Penyesuaian sebelum perang
+ui.faction.war.resrcPt.battle.begin
+Mulai
+ui.faction.war.resrcPt.switch.display.desc
+Ubah tampilan
+ui.faction.war.drop.resrcPt.title
+Pilihan pendudukan
+ui.faction.war.drop.resrcPt.desc
+Jumlah pos yang ingin kamu kuasai sudah maksimal \n silakan pilih satu pos untuk dilepas
+ui.faction.war.drop.resrcPt.Btn.desc
+Melepas
+ui.faction.war.drop.belong.city
+(Sedang diduduki)
+ui.faction.war.occupy.empty.resrcPt.title
+Menduduki
+ui.faction.war.occupy.empty.resrcPt.desc
+Saat ini tidak ada yang menduduki
+ui.faction.war.occupy.dialog.confirm
+Yakin
+ui.faction.war.occupy.dialog.cancel
+Batal
+ui.faction.war.occupy.same.faction.resrcPt.title
+Menduduki
+ui.faction.war.occupy.same.faction.resrcPt.desc
+Kamu yakin mau melukai teman sesama Guild?
+ui.faction.war.occupy.player.fight.power
+BP : {0}
+ui.faction.war.occupy.my.resrcPt
+Tidak bisa menyerang wilayah kekuasaan sendiri
+ui.faction.war.occupy.fighting.tip
+Sedang dalam pertempuran, tidak bisa diserang
+ui.faction.war.occupy.in.protect.time.tip
+Sedang berhenti perang, tidak bisa diserang
+ui.faction.war.apply.success
+Pendaftaran berhasil
+ui.faction.war.apply.not.available
+Perang Guild akan mulai pendaftaran di hari kamis, hari jumat resmi dimulai
+ui.faction.war.war.not.available
+Bukan waktu perang Guild
+ui.faction.war.not.in.war.period
+Perang Guild hari ini sudah berakhir
+ui.faction.war.war.not.apply
+Kamu belum mendaftar, silakan mengikuti perang Guild berikutnya
+ui.faction.war.log.item.noraml
+[{0}] [FFDD54] [{1}] [-] [0CFF00] {2} [-] merebut [FF00FC]{5}[-] milik [FFDD54] [{3}] [-] [0CFF00] {4} [-] 
+ui.faction.war.log.item.5win
+{0} [FFDD54] {1} [-] [0CFF00] {2} [-] menang 5 ronde berturut, pembantaian dimulai
+ui.faction.war.log.item.10win
+{0} [FFDD54] {1} [-] [0CFF00] {2} [-] menang 10 ronde berturut, sudah mulai pembantaian
+ui.faction.war.log.item.20win
+{0} [FFDD54] {1} [-] [0CFF00] {2} [-] menang 20 ronde berturut, tidak ada yang bisa menghentikan
+ui.faction.war.log.item.50win
+{0} [FFDD54] {1} [-] [0CFF00] {2} [-] menang 50 ronde berturut, sudah melewati dewa!
+ui.faction.war.resrc.pt
+Poin material
+ui.faction.war.fort
+Benteng
+ui.faction.war.not.open
+Perang Guild belum dibuka
+ui.faction.war.faction.info.score
+Poin : {0}(+{1}/jam)
+ui.faction.war.faction.info.occpuied.city
+Kota : {0}
+ui.faction.war.faction.info.occpuied.fort
+Pos yang diduduki : {0}
+ui.faction.war.faction.info.buff
+Akumulasi bertambah
+ui.faction.war.faction.situation
+Kondisi detil perang
+ui.faction.war.city.occupied.desc
+Sedang diduduki {0}
+ui.faction.war.city.desc
+Kota tidak dapat langsung diduduki. Jika ingin menduduki kota, harus mengontrol seluruh pos yang terhubung dengan kota bersama teman Guild..
+ui.faction.war.city.buff.desc
+Kota bertambah
+ui.faction.war.city.buff.revenue.desc
+Efek pendudukan
+ui.faction.war.city.btn.confirm
+Yakin
+ui.faction.war.city.nobody.occupied
+Tidak ada yang menduduki
+ui.faction.war.city.expected.revenue
+Skor setiap anggota Guild : +{0}/jam
+ui.faction.war.personl.record.attack
+Serang
+ui.faction.war.personl.record.defend
+Defense
+ui.faction.war.area.faction.buff
+Guild bertambah
+ui.faction.war.city.buff.effect.desc
++{0}%
+ui.faction.war.city.occupied
+Menduduki kota {0}
+ui.faction.war.personal.awards.desc
+Hadiah peringkat poin pribadi setiap hari
+ui.faction.war.awards.interval.single
+Ke {0}
+ui.faction.war.awards.interval
+Peringkat {0} - {1}
+ui.faction.war.grade.rule.1
+Keterangan Peraturan
+ui.faction.war.grade.rule.2
+1. Ketua Guild dan wakil Guild memiliki kekuasaan mendaftar perang Guild \n2. Setelah waktu pendaftaran berakhir, Guild akan memasuki area sesuai dengan ranking. \n3. Area dibagi 3: Area Emas, Area Perak, Area Perunggu. Semakin tinggi ranking Guild, semakin mudah mendapatkan area yang bagus. Semakin bagus area perang, semakin tinggi hadiah. \n4. Menyerang pos lawan bisa merebut poin dan pos lawan. \n5. Waktu istirahat setiap pukul 22:00 - 08:00. Selama waktu istirahat, menyerang pos dan kota lain tidak akan mendapat poin.
+ui.faction.war.gold.personal.awards
+Golden area personal reward
+ui.faction.war.gold.faction.awards
+Golden area Guild reward
+ui.faction.war.silver.personal.awards
+Silver area personal reward
+ui.faction.war.silver.faction.awards
+Silver area Guild reward
+ui.faction.war.bronze.personal.awards
+Bronze area personal reward
+ui.faction.war.bronze.faction.awards
+Bronze area Guild reward
+ui.faction.war.my.left.battle.count
+Sisa attack hari ini : {0}
+ui.faction.war.achievement.require.title
+Hadiah prestasi setiap hari
+ui.faction.war.achievement.require.score
+Total skor {0}
+ui.faction.war.achievement.get.award.btn.desc
+Mengambil hadiah
+ui.faction.war.achievement.unfinished
+Belum selesai
+ui.faction.war.achievement.got.award
+Sudah diambil
+ui.faction.war.buy.attack.title
+Level VIP saat ini bisa membeli : {0}/{1} kali
+ui.faction.war.buy.attack.buy.title
+Pilih jumlah pembelian
+ui.faction.war.buy.attack.cost
+Biaya
+ui.faction.war.buy.attack.cancel.btn
+Batal
+ui.faction.war.buy.attack.confirm.btn
+Yakin
+ui.faction.war.buy.attack.consumed.out
+Jumlah pembelian sudah habis terpakai, menaikkan level VIP bisa menambah jumlah pembelian
+ui.faction.war.attack.count.bought
+Sukses beli
+ui.faction.war.resrcPt.produce.per.hour
+{0}/jam
+ui.faction.war.resrcPt.output.per.hour
+Skor : {0}/jam
+ui.faction.war.resrcPt.colored.my.name
+[E89D44] {0} [-]
+ui.faction.war.beginday.round1
+Rabu
+ui.faction.war.beginday.round2
+Minggu
+ui.faction.war.occupied.resrcPt.count
+X{0}
+ui.faction.war.faction.situation.my.score.title
+Skorku
+ui.faction.war.faction.situation.in.faction.score.title
+Guild bertambah
+ui.faction.war.faction.report.group
+Grup ke {0}
+ui.faction.war.faction.report.rank
+Ke {0}
+ui.faction.war.faction.report.title
+Laporan perang sebelumnya
+ui.faction.war.faction.report.diamond.section
+Area Diamond
+ui.faction.war.faction.report.gold.section
+Area Emas
+ui.faction.war.faction.report.silver.section
+Area Perak
+ui.faction.war.faction.report.bronze.section
+Area Perunggu
+ui.faction.label.war.battle.field
+Laporan Guild War
+ui.faction.label.war.battle.field.label1
+Perang Guild kali ini sudah berakhir, terima kasih atas partisipasinya, hasilnya sebagai berikut
+ui.faction.label.war.battle.field.label2
+Hadiah perang Guild sudah dikirim melalui email, menanti partisipasimu selanjutnya
+ui.GuildWar.Enroll.no
+Saat ini tidak ada data
+ui.GuildWar.Enroll.VS.detail.title
+Detail perlawanan
+ui.guild.war.enroll.label.tab2
+Pengenalan hadiah
+ui.guild.war.enroll.label.tab1
+Keterangan Peraturan
+ui.guild.war.please.attend.cross.server
+Silakan mengikuti perang Guild cross server
+ui.GuildWar.Enroll.battlefield.title1
+Laporan perang sebelumnya
+ui.GuildWar.please.attend.cross.server
+Silakan mengikuti perang Guild cross server
+ui.guild.hero.choice.ten.player
+Hanya dapat memanggil teman dengan 10 peringkat diatas anda
+ui.guild.hero.choice.cost
+Pemakaian sewa :
+ui.guild.hero.choice.not
+Kamu juara pertama~ \n saat ini tidak ada orang yang bisa disewa~kupo
+ui.faction.war.city.detailed.ascription
+Atribusi kota
+ui.faction.war.city.detailed.profit
+Estimasi pendapatan
+ui.tournament.succession.win
+Menang berturut-turut
+ui.faction.war.ranking.xserver.name
+{0} \n ({1})

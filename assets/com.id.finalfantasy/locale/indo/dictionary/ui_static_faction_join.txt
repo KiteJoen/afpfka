@@ -1,0 +1,44 @@
+ui.faction.label.static.join.list.rank
+Rank
+ui.faction.label.static.join.list.badge
+Badge
+ui.faction.label.static.join.list.name
+Nama
+ui.faction.label.static.join.list.level
+Level
+ui.faction.label.static.join.list.member_count
+Jumlah orang
+ui.faction.label.static.join.list.manifesto
+Deklarasi Guild
+ui.faction.label.static.join.list.restrictions
+Syarat limit
+ui.faction.label.static.join.list.short_id
+Nomor Guild
+ui.faction.label.static.join.button_quick_join
+cpt gabung
+ui.faction.label.static.join.button_found
+Buat Guild
+ui.faction.label.static.join.button_vacancy_only
+Hanya menampilkan Guild yang belum penuh
+ui.faction.label.static.join.button_apply
+Daftar
+ui.faction.label.static.join.button_cancel
+Sedang mendaftar
+ui.faction.label.static.join.full_house
+Penuh
+ui.faction.label.static.join.no_data
+Tidak ketemu~ Kupo~
+ui.faction.label.static.join.button_search
+Cari
+ui.faction.label.static.join.input
+Cari nama guild/ID
+ui.faction.label.static.join.tab_join
+Gabung Guild
+ui.faction.label.static.join.tab_search
+Cari Guild
+ui.faction.label.static.join.list.scale
+Skala
+ui.faction.label.static.join.list.master
+Ketua
+ui.faction.label.static.join.list.class
+Lv.

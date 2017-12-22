@@ -1,0 +1,216 @@
+ui.treasure.strength.level.desc
+Enhance level
+ui.treasure.refine.level.desc
+Level Refine
+ui.treasure.qualification.level.desc
+Material aksesori
+ui.treasure.score.level.desc
+Poin aksesoris
+ui.treasure.strength.level
+Enhance level {0}
+ui.treasure.refine.level
+Grade {0}
+ui.treasure.qualification.desc
+Kualifikasi aksesoris : {0}
+ui.treasure.strengthen.desc
+Enhance level : {0}/{1}
+ui.treasure.refine.desc
+Level refine : {0}/{1}
+ui.treasure.develop.choose.food
+Pilih material
+ui.treasure.develop.choose.five
+Maks pilih 5 aksesoris
+ui.treasure.develop.exp.has
+EXP yang dipilih : {0}
+ui.treasure.develop.exp.need
+Yang dibutuhkan untuk upgrade:{0}
+ui.treasure.develop.choose.sure
+Yakin
+ui.treasure.info.pane.have
+Sudah punya
+ui.treasure.info.pane.recommend
+Rekomen
+ui.treasure.develop.exp.contained
+EXP : {0}
+ui.treasure.list.show.available
+Hanya menampilkan aksesoris yang tersedia
+ui_prop_treasure_btn_get
+Mendapat
+ui.treasure.list.has.no
+Kamu masih belum punya aksesoris
+ui.treasure.list.has.no.not.equip
+Kamu tidak punya aksesoris yang tersedia
+ui.treasure.btn.automaticadd
+Otomatis
+ui.treasure.develop.tab.btn.enhance
+Enhance Aksesoris
+ui.treasure.develop.tab.btn.refine
+Refine
+ui.treasure.develop.tab.btn.casting
+Casting
+ui.treasure.get.exp
+Mendapat enhance EXP :
+ui.treasure.cost.coin
+Pemakaian :
+ui.treasure.attr.subtitle.aptitude
+Material aksesori
+ui.treasure.attr.subtitle.score
+Poin aksesoris
+ui.treasure.strengthen.upgrade.need.exp
+Yang dibutuhkan untuk upgrade:{0}
+ui.treasure.strengthen.upgrade.choosed.exp
+EXP yang dipilih : {0}
+ui.treasure.strengthen.level.max
+Enhance level {0}
+ui.treasure.already.strength.max
+Sudah enhance sampai level tertinggi
+ui.treasure.already.refine.max
+Sudah refine sampai level tertinggi
+ui.treasure.food.has.choosed.too.mush
+Maks pilih 5 aksesoris
+ui.treasure.strength.list.is.none
+Silakan masukkan material enhance
+ui.treasure.strength.has.no.food
+Kamu tidak merekomendasi material enhance
+ui.treasure.refine.level.max
+Refine level {0}
+ui.treasure.refine.not.enough
+Material refine tidak cukup
+ui_treasure_refine_dialog_title
+Peringatan penggunaan
+ui_treasure_refine_dialog_contained
+Dalam pemakaian material ada [FF0000] aksesoris yang sudah dilatih [-]! \n [FF0000] hati-hati memilih [-]!
+ui_treasure_rstrengthen_dialog_contained
+Dalam bahan yang digunakan terdapat aksesoris berkualitas lebih tinggi, hati-hati memilih
+ui_treasure_refine_dialog_no
+Batal
+ui_treasure_refine_dialog_yes
+Refine
+ui.treasure.attr.extra.name
+Skill Agito
+ui.treasure.tip.refine
+Level refine meningkat sampai level {0}
+ui.treasure.tip.strengthen
+Level enhance naik sampai level{0}
+ui.treasure.tip.strengthen.resonance
+Aktifkan level {0} enhance resonance
+ui.treasure.tip.refine.resonance
+Aktivasi level {0} untuk resonance refine
+ui.treasure.tip.refine.attr.extra
+Aktifkan item skill Agito
+ui.treasure.refine.attr.extra.open
+(Refine sampai grade {0} terbuka)
+ui.treasure.grab.compose
+Compose
+ui.treasure.grab.grab
+Otomatis
+ui.treasure.grab.allcompose
+Compose semua
+ui.treasure.grab.five
+Perang 5 kali
+ui.treasure.grab
+Battle
+ui.treasure.grab.cleanout
+Wipe
+ui.treasure.grab.personnel
+Mengumpulkan aksesoris
+ui.treasure.update
+Refresh
+ui.treasure.grab.confirm
+Yakin
+ui.treasure.ability.dec1
+Probabilitas paling rendah mendapat
+ui.treasure.ability.dec2
+[43ff55] Kemungkinan biasa mendapat [-]
+ui.treasure.ability.dec3
+[5aeeff] Kemungkinan lebih tinggi mendapat [-]
+ui.treasure.ability.dec4
+[aa9cff] Kemungkinan tinggi mendapat [-]
+ui.treasure.ability.dec5
+[ff9561] Kemungkinan sangat tinggi mendapat [-]
+ui.treasure.have.fragment
+Kamu mendapat hadiah ini, jangan serakah
+ui.treasure.fragment.not.enough
+Compose fragment tidak cukup
+ui.treasure.grab.compose.success
+Compose berhasil
+ui.treasure.grab.record
+Catatan kerugian
+ui.treasure.grab.cleanout.nothing
+Kali ini tidak mendapat frag, berjuang terus
+ui.treasure.grab.cleanout.success
+Menang battle, mendapat {0}
+ui.treasure.grab.current.stamina
+Stamina saat ini : {0}
+ui.treasure.grab.consume.stamina
+Per kali : {0}
+ui.treasure.grab.target
+Target aksesoris
+ui.treasure.grab.troop
+Line up
+ui.treasure.grab.fragments.ready
+Fragment aksesoris sudah dikumpulkan, bisa dicompose
+ui.treasure.grab.goto.compose
+Menuju compose
+ui.treasure.grab.goto.compose.desc
+Tidak bisa mengumpulkan, silakan menuju compose
+ui.treasure.grab.fragments.ready.desc
+Fragment {0} sudah berhasil dikumpulkan
+ui.treasure.grab.congratulations
+Selamat atas kemenangan, ambil hadiah tambahan
+ui.treasure.grab.flop.desc
+[FFFF00] Selamat kamu mendapat [-]  [{0}] {1}*{2}
+ui.treasure.grab.record.desc
+{0} pemain {1} sudah mengalahkanmu, dan membawa pergi sebuah {2}
+ui.treasure.grab.cleanout.yesno
+Target terlalu lemah, bisa langsung mendapat hadiah dengna melewati perang, silakan pilih cara pengumpulan
+ui.treasure.grab.cleanout.yes
+Wipe
+ui.treasure.grab.cleanout.no
+Petarung
+ui.treasure.refine.hao.no.attr.extra
+Aksesoris ini tidak ada skill
+ui.resonance.treasure.strengthen
+Enhance Aksesoris
+ui.resonance.treasure.refine
+Refine Aksesoris
+ui.treasure.develop.tips
+[FFCF87FF] Reborn [-] aksesoris akan mengembalikan [FFCF87FF] semua material yang terpakai [-]
+ui.treasure.no.spare
+Sementara tidak ada aksesoris yang tersedia
+ui.treasure.system.name
+aksesoris
+ui.treasure.casting.uncastable
+Aksesoris ini tidak bisa dicasting, hanya bisa casting aksesoris orange
+ui.treasure.casting.subtitle.strengthen
+Perubahan
+ui.treasure.casting.subtitle.refine
+Perubahan
+ui.treasure.casting.complete.strengthen.title
+Level enhance ({0}/{1})
+ui.treasure.casting.complete.refine.title
+Level refine ({0}/{1})
+ui.treasure.casting.complete.title
+Berhasil
+ui.treasure.cant.find.hero
+Tidak ada Hero lain yang bisa diganti
+ui.treasure.food.have.title
+Pilih material
+ui.treasure.food.have.title.small
+Rekomendasi material
+ui.treasure.grab.record.empty
+Saat ini tak ada catatan terebut~~~~~~~~
+ui.treasure.grab.battlenew.title
+Arena Aksesoris
+ui.treasure.grab.battle.cost
+Per kali:
+ui.treasure.info
+Info aksesoris
+ui.treasure.batch.casting.vip.insufficient
+Level VIP {0} membuka fitur casting semua, lanjut top up untuk upgrade level VIP?
+ui.treasure.nothing.for.casting
+Belum menemukan aksesori yang bisa di casting
+ui.select.treasure.for.casting
+Silakan pilih aksesori yang akan dicasting
+ui.treasure.refine.back
+Kembali material

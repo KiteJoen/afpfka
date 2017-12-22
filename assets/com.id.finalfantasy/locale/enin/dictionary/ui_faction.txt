@@ -1,0 +1,368 @@
+ui.faction.label.static.cabins
+Cabin
+ui.faction.label.static.deck
+Deck
+ui.faction.label.static.fortune_dungeon
+Dimensional crack
+ui.faction.label.min_level_needed_to_found_new.not_reached
+Unlock at [FF0000]VIP{0} or Lv{1}[-]
+ui.faction.label.min_level_needed_to_found_new.reached
+Unlock at VIP{0} or Lv.{1}
+ui.faction.found.label.cash_enough
+[FFFFFF]{0}[-]
+ui.faction.found.label.cash_not_enough
+[FF0000]{0}[-]
+ui.faction.message.min_level_not_reached
+Failed to meet requirements
+ui.faction.message.specify_faction_name
+Please enter Guild name
+ui.faction.message.illegal_name
+Name contains illegal characters
+ui.faction.message.gained_membership
+Congratulations on joining the guild: {0}
+ui.faction.message.lost_membership
+You have left the guild
+ui.faction.message.must_abdicate
+Please appoint a new Guild Leader before leaving the guild.
+ui.faction.label.quit_confirmation.caption
+Confirm
+ui.faction.label.quit_confirmation.content
+Are you sure you want to quit the guild?
+ui.faction.label.quit_confirmation.content_penalty
+After you leave the guild,  you will not be able to apply for membership in {0}. Are you sure you want to quit?
+ui.faction.label.quit_confirmation.yes
+OK
+ui.faction.label.quit_confirmation.no
+Cancel
+ui.faction.label.hierarchy_operation_confirmation.caption
+Confirm Position
+ui.faction.label.hierarchy_operation_confirmation.content.make_master
+Are you sure you want to appoint {0} as Guild Leader?
+ui.faction.label.hierarchy_operation_confirmation.content.abort
+Are you sure you want to cancel the abdication of {0}?
+ui.faction.label.hierarchy_operation_confirmation.content.make_vice_master
+Are you sure you want to appoint {0} as Vice Leader?
+ui.faction.label.hierarchy_operation_confirmation.content.make_courtesan
+Are you sure you want to appoint {0} as Guild Flower?
+ui.faction.label.hierarchy_operation_confirmation.content.make_regular
+Are you sure you want to drop {0} as a member?
+ui.faction.label.hierarchy_operation_confirmation.yes
+OK
+ui.faction.label.hierarchy_operation_confirmation.no
+Cancel
+ui.faction.label.expel_confirmation.caption
+Confirm
+ui.faction.label.expel_confirmation.content
+Do you really want to kick {0} out of the guild?
+ui.faction.label.expel_confirmation.yes
+OK
+ui.faction.label.expel_confirmation.no
+Cancel
+ui.faction.info.label.level
+Guild Level: {0}
+ui.faction.info.label.master
+{0}
+ui.faction.info.label.member_count
+{0}/{1}
+ui.faction.info.label.ranking
+{0}
+ui.faction.info.label.id
+{0}
+ui.faction.info.label.funds
+{0}
+ui.faction.info.label.fight_power
+{0}
+ui.faction.hierarchy.regular
+Member
+ui.faction.hierarchy.vice_master
+Vice Leader
+ui.faction.hierarchy.courtesan
+Guild Flower
+ui.faction.hierarchy.master
+Guild Leader
+ui.faction.message.not_member_of_any_faction
+You do not belong to any guild
+ui.faction.message.no_authority.recruit
+Only Vice Leader and above are authorized to recruit.
+ui.faction.message.no_authority.modify_name
+Only Guild Leader is authorized to modify guild name.
+ui.faction.message.no_authority.modify_bulletin
+Please appoint a new Guild Leader before leaving the guild.
+ui.faction.message.no_authority.advertise
+Only Vice Leader and above are authorized to issue recruitment materials.
+ui.faction.message.no_authority.set_recruit_limitation
+Only Vice Leader and above are authorized to set recruitment restrictions.
+ui.faction.message.no_authority.notification
+Only Vice Leader and above are authorized to send notifications to members.
+ui.faction.message.no_authority.upgrade_facility
+Only Vice Leader and above have this authority.
+ui.faction.message.notification_used_up
+The number of deliveries today has been run out
+ui.faction.message.notification_sent
+Sent
+ui.faction.message.facility_pugrade_success
+Please upgrade later
+ui.faction.message.facility_upgrade_finish
+{0} Upgraded
+ui.faction.join.label.conditions.unknown
+Unknown
+ui.faction.join.label.conditions.no_level_restriction
+Unlimited
+ui.faction.join.label.conditions.level
+Level {0}
+ui.faction.join.label.conditions.approval.auto
+Free to Join
+ui.faction.join.label.conditions.approval.manual
+Need to Apply
+ui.faction.administrate.label.conditions.prefix
+Application requirements:
+ui.faction.administrate.label.conditions.approval
+({0})
+ui.faction.administrate.conditions.label.level
+Level {0} and above
+ui.faction.dialog.modifyname.title
+Modify name of Guild
+ui.faction.dialog.modifyname.content
+Tap here to enter
+ui.faction.dialog.modifyname.confirm
+Modify
+ui.faction.dialog.notice.title
+Member Notification
+ui.faction.dialog.notice.content
+Tap here to enter up to 100 characters
+ui.faction.dialog.notice.confirm
+Send
+ui.faction.member.menu.view_info
+View
+ui.faction.member.menu.make_master
+Abdicate Guild Leader
+ui.faction.member.menu.abort
+Cancel abdication
+ui.faction.member.menu.make_vice_master
+Promote to Vice Leader
+ui.faction.member.menu.make_courtesan
+Promote to Guild Flower
+ui.faction.member.menu.make_regular
+Demote to member
+ui.faction.member.menu.expel
+Expel
+ui.faction.member.menu.remarks
+Modify comments
+ui.faction.member.menu.quit
+Quit guild
+ui.faction.join.label.no_propriate_faction_to_join
+No Guild meets the conditions.
+ui.faction.main.facility.message.feature_in_development
+Upgrading building
+ui.faction.main.facility.label.facility_level
+{0}  LV{1}
+ui.faction.main.facility.label.facility_level_upgrading
+LV{0} Upgrading. …{1}
+ui.faction.main.facility.message.already_max_level
+Today's level limit reached
+ui.faction.facility.upgrade_countdown.second_level
+{0} sec.
+ui.faction.facility.upgrade_countdown.minute_level
+{0} min. {1} sec.
+ui.faction.facility.upgrade_countdown.hour_level
+{0} hr. {1} min.
+ui.faction.facility.upgrade_countdown.day_level
+{0} days {1} hr.
+ui.faction.log.date
+MM-dd-yyyy
+ui.faction.log.found
+{0} created guild.
+ui.faction.log.join
+{0} joined the guild.
+ui.faction.log.quit
+{0} quit the Guild.
+ui.faction.log.expel
+{0} was expelled from the Guild by {1}.
+ui.faction.log.hierarchy_operate.become_master
+{0} became Guild Leader.
+ui.faction.log.hierarchy_operate.promoted_to_vice_master
+{0} was promoted to Vice Leader by {1}.
+ui.faction.log.hierarchy_operate.promoted_to_coutesan
+{0} was promoted to Guild Flower by {1}.
+ui.faction.log.hierarchy_operate.demoted_to_regular
+{0} has been demoted to a regular member by {1}.
+ui.faction.log.modify_name
+{0} changed the guild name.
+ui.faction.log.modify_badge
+{0} modified the Guild Badge.
+ui.faction.log.modify_bulletin
+{0} modified the bulletin.
+ui.faction.log.donate
+{0} donated {1} to the Guild.
+ui.faction.log.start_facility_upgrading
+{0} started upgrading: Lv. {1} → Lv. {2}
+ui.faction.log.finish_facility_upgrading
+{0} Upgrade to Lv. {1} completed.
+ui.faction.log.faction_level_up
+Upgrade Guild to Lv.{0}
+ui.faction.log.faction_boss_setting_diff
+{0} modified difficulty of Rebel Army to {1}
+ui.faction.log.faction_boss_setting_time
+{0} modified opening time to {1}
+ui.faction.log.faction_boss_setting_all
+{0} modified difficulty of Rebel Army to {1},  and opening time to {2}
+ui.faction.log.routine_dungeon._settings
+{0} modified the daily Dungeon count to "{1}"
+ui.faction.label.donation_progress_increment
+Donation Speed + {0}
+ui.faction.message.have_donated_today
+You have already donated today
+ui.faction.message.vip_donation_not_enabled
+Insufficient VIP Level
+ui.faction.facility.upgrade.current_level
+Current Level: {0}
+ui.faction.facility.upgrade.next_level
+Next Level: {0}
+ui.faction.facility.upgrade.level_condition
+{0} to reach level {1}
+ui.faction.facility.upgrade.level_condition_unmet
+[FF0000]{0}to reach level {1}[-]
+ui.faction.facility.upgrade.no_level_condition
+Unlimited
+ui.faction.facility.upgrade.already_under_upgrade_process
+Upgrading
+ui.faction.local.default_notice
+Welcome to the guild! Please donate to help the Guild upgrade!
+ui.faction.local.member_mailname
+Guild Member Notice
+ui.faction.hypertext.invite
+"{0}" invites you to join the Guild: [ffff00]{1}[-] [url={2}]Accept[/url] [url={3}]Decline[/url]
+ui.faction.hypertext.recruit
+The [url={0}]Guild:[ffff00]{1}[-] invites World Heroes! Apply Now[/url]
+ui.faction.hypertext.error.already_member_of_faction
+You already have a guild
+ui.faction.hypertext.error.already_member_of_inviting_faction
+You are already a member of this guild
+ui.faction.hypertext.error.invitee_already_member_of_faction
+The other person already has a guild
+ui.faction.message.sent_invitation
+You have sent a membership invitation to the other person
+ui.faction.message.accepted_invitation
+You accepted the invitation
+ui.faction.message.refused_invitation
+You have rejected the invitation
+ui.faction.label.found.default_input_value
+Tap here to enter
+ui.faction.message.application_added
+Complete application
+ui.faction.message.application_cancelled
+Cancel application
+ui.faction.facility.label.upgrade
+Upgrade
+ui.faction.facility.label.upgrading
+Upgrading
+ui.faction.facility.message.upgrading
+Upgrading
+ui.faction.facility.upgrade.countdown
+Upgrading: {0}
+ui.faction.label.remarks
+({0})
+ui.faction.label.member_donation
+{0}/{1}
+ui.faction.label.member_donation.none
+[FF0000]{0}[-]/{1}
+ui.faction.label.member_donation.standard
+{0}/{1}
+ui.faction.label.member_donation.premier
+{0}/{1}
+ui.faction.label.member_donation.deluxe
+{0}/{1}
+ui.faction.label.activity_name.crystal_transport
+Airship Transport
+ui.faction.label.activity_name.faction_boss
+Engage the Rebel Army
+ui.faction.label.activity_name.faction_fortune_dungeon
+Dimensional crack
+ui.faction.label.activity_name.faction_gambling
+Guild Red Envelopes
+ui.faction.label.activity_name.faction_war
+Guild Battle
+ui.faction.label.activity_name.place_holder1
+Temporary Entry 1
+ui.faction.label.activity_name.place_holder2
+Temporary Entry 2
+ui.faction.label.activity_name.place_holder3
+Temporary Entry 3
+ui.faction.label.onto_deck
+Enter Deck
+ui.faction.label.off_deck
+Leave Deck
+ui.faction.label.donation.dialog_caption
+Donation Rate Chest
+ui.faction.label.donation.dialog_content
+Reach Donation Rate {0}
+ui.faction.main.facility.label.unlock_condition
+Reach guild Lv. {0} to unlock
+ui.faction.message.facility_level_zero
+Building upgrade required before use
+ui.faction.message.facility_locked
+Reach Guild Lv. {0} to unlock
+ui.faction.facility.message.other_upgrading
+{0} is still upgrading
+ui.faction.label.found.number_not_allowed
+Please do not use numbers as Guild names
+ui.faction.label.ranking.zero
+Not ranked
+ui.faction.war.log.apply.success
+{0} registered this Guild for Guild War. Everyone,  consolidate armaments and prepare for war!
+ui.faction.war.log.occupy.city
+{0} led Guild Members to successfully seize {1}
+ui.faction.war.log.lose.city
+{0} has been captured by {1}
+ui.faction.label.invite.content.invitor
+Player {0}has invited you
+ui.faction.label.invite.content.faction
+Join Guild: {0}
+ui.faction.label.invite.invitor_fight_power
+Combat Power: {0}
+ui.faction.label.invite.member_count
+{0}/{1}
+ui.faction.administrate.conditions.manifesto.illegal
+Text contains bad information
+ui.faction.default_recruit_manifesto
+The Guild enthusiastically welcomes you to join!
+ui.faction.label.member_abdication.from
+(Abdicating)
+ui.faction.label.member_abdication.to
+(Being abdicated)
+ui.faction.message.training.cannot_accept_more
+Target player reaches help received limitation
+ui.faction.message.penalty_cooldown
+You have recently quit guild. You must wait {0} before applying to join a new Guild
+ui.faction.label.activity_name.routinedungeon
+Guild Dungeon
+ui.faction.convoy.setout.ship
+Airship
+ui.faction.convoy.setout.ship.reward.list.one
+Guild contribution
+ui.faction.convoy.setout.ship.reward.list.two
+Guild Funds
+ui.faction.convoy.setout.ship.reward.list.three
+Guild Tech
+ui.faction.label.activity_name.reinforcementhire
+Guild Mercenary
+ui.faction.convoy.setout.ship.explain
+Swivel the turntable to upgrade Airship.\n After successful transport operation you will receive a reward
+ui.faction.info.message.name_length
+Guild name length must be between {0} and {1}
+ui.factionaircraftdisplay.routinedungeon.time
+Open at 08:00-22:00 every day
+ui.factionaircraftdisplay.factionwar.time
+Open at 08:00-22:00 on Wednesday and Sunday
+ui.guild.herochoice.title
+Guild Mercenary
+ui.faction.rename.error.cannot.same.as.before
+can't be the same as current name
+ui.guild.bonuses.no
+No one is currently sending red envelopes
+ui.guilddungeon.schedule.plan
+Strategy Progress
+ui.guilddungeon.schedule.done
+Cleared
+ui.guild.building.train
+Cross-Server Guild War

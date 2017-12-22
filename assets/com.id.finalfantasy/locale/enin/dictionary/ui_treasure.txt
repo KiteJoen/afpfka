@@ -1,0 +1,216 @@
+ui.treasure.strength.level.desc
+Enhance Level
+ui.treasure.refine.level.desc
+Refine Level
+ui.treasure.qualification.level.desc
+Accessory Quality
+ui.treasure.score.level.desc
+Accessory Rating
+ui.treasure.strength.level
+Enhance Level {0}
+ui.treasure.refine.level
+Refine Rank {0}
+ui.treasure.qualification.desc
+Accessory quality: {0}
+ui.treasure.strengthen.desc
+Enhance Level: {0}/{1}
+ui.treasure.refine.desc
+Refinement Level: {0}/{1}
+ui.treasure.develop.choose.food
+Select material to be consumed
+ui.treasure.develop.choose.five
+Select up to 5 Accessory
+ui.treasure.develop.exp.has
+Selected EXP: {0}
+ui.treasure.develop.exp.need
+Required for Upgrade: {0}
+ui.treasure.develop.choose.sure
+Confirm Selection
+ui.treasure.info.pane.have
+Accessory owned
+ui.treasure.info.pane.recommend
+Recommended Accessory
+ui.treasure.develop.exp.contained
+EXP: {0}
+ui.treasure.list.show.available
+Only show unused Accessory
+ui_prop_treasure_btn_get
+Get
+ui.treasure.list.has.no
+You do not have any Accessory yet
+ui.treasure.list.has.no.not.equip
+You do not have any unused Accessory
+ui.treasure.btn.automaticadd
+Automatic increase
+ui.treasure.develop.tab.btn.enhance
+Accessory Enhance
+ui.treasure.develop.tab.btn.refine
+Accessory Refine
+ui.treasure.develop.tab.btn.casting
+craft Accessory
+ui.treasure.get.exp
+Receive Enhance EXP:
+ui.treasure.cost.coin
+Consume:
+ui.treasure.attr.subtitle.aptitude
+Accessory Quality
+ui.treasure.attr.subtitle.score
+Accessory Rating
+ui.treasure.strengthen.upgrade.need.exp
+Required for Upgrade: {0}
+ui.treasure.strengthen.upgrade.choosed.exp
+Selected EXP: {0}
+ui.treasure.strengthen.level.max
+Enhance Level {0}
+ui.treasure.already.strength.max
+Already enhanced to highest level
+ui.treasure.already.refine.max
+Already refined to highest level
+ui.treasure.food.has.choosed.too.mush
+No more than 5 Accessory can be selected
+ui.treasure.strength.list.is.none
+Please add Enhance materials first
+ui.treasure.strength.has.no.food
+You do not have the recommended Enhance materials
+ui.treasure.refine.level.max
+Refinement Level {0}
+ui.treasure.refine.not.enough
+Insufficient Refining Materials
+ui_treasure_refine_dialog_title
+Cost Warning
+ui_treasure_refine_dialog_contained
+Consumable materials contain [FF0000]upgraded Accessory[-]!\n[FF0000]Please choose carefully[-]!
+ui_treasure_rstrengthen_dialog_contained
+Consumable materials contain high quality Accessory,  please choose carefully
+ui_treasure_refine_dialog_no
+Cancel
+ui_treasure_refine_dialog_yes
+Confirm Refinement
+ui.treasure.attr.extra.name
+Awakening Skills
+ui.treasure.tip.refine
+Upgrade Refine Level to {0}
+ui.treasure.tip.strengthen
+Raise Enhance Level to {0}
+ui.treasure.tip.strengthen.resonance
+Activate Level {0} to Enhance Resonance
+ui.treasure.tip.refine.resonance
+Activate Level {0} Refined Resonance
+ui.treasure.tip.refine.attr.extra
+Activate Accessory Awakening Skill
+ui.treasure.refine.attr.extra.open
+(Refine to {0} to open)
+ui.treasure.grab.compose
+Craft
+ui.treasure.grab.grab
+Quick Collect
+ui.treasure.grab.allcompose
+Quick craft
+ui.treasure.grab.five
+Battle 5 times
+ui.treasure.grab
+Battle
+ui.treasure.grab.cleanout
+Blitz
+ui.treasure.grab.personnel
+Collect Accessory
+ui.treasure.update
+Refresh
+ui.treasure.grab.confirm
+OK
+ui.treasure.ability.dec1
+Very low probability of receiving
+ui.treasure.ability.dec2
+[43ff55]Average chance to receive[-]
+ui.treasure.ability.dec3
+[5aeeff]Above average chance to receive[-]
+ui.treasure.ability.dec4
+[aa9cff]High chance to receive[-]
+ui.treasure.ability.dec5
+[ff9561]Extremely high chance to receive[-]
+ui.treasure.have.fragment
+You already have this shard. Don't be greedy!
+ui.treasure.fragment.not.enough
+Not enough Shards to craft
+ui.treasure.grab.compose.success
+craft success
+ui.treasure.grab.record
+Loss Record
+ui.treasure.grab.cleanout.nothing
+Sorry,  you did not collect any shards this time - keep trying!
+ui.treasure.grab.cleanout.success
+Arena Victory! Got: {0}
+ui.treasure.grab.current.stamina
+Current Vigor: {0}
+ui.treasure.grab.consume.stamina
+x1 Cost: {0}
+ui.treasure.grab.target
+Target Accessory
+ui.treasure.grab.troop
+Formation
+ui.treasure.grab.fragments.ready
+Accessory shards gathered and ready to be crafted
+ui.treasure.grab.goto.compose
+Go to craft
+ui.treasure.grab.goto.compose.desc
+Cannot continue gathering. Please go to craft
+ui.treasure.grab.fragments.ready.desc
+{0} Shards gathered
+ui.treasure.grab.congratulations
+Congratulations on the victory! Please draw an extra reward
+ui.treasure.grab.flop.desc
+[FFFF00]Congratulations on receiving[-] [{0}]{1}*{2}
+ui.treasure.grab.record.desc
+{0} players {1} beat you and stole a {2}
+ui.treasure.grab.cleanout.yesno
+This target is particularly weak. You can skip the battle directly to get the reward. Please choose  collection method
+ui.treasure.grab.cleanout.yes
+Blitz
+ui.treasure.grab.cleanout.no
+Fighters
+ui.treasure.refine.hao.no.attr.extra
+Accessory does not have that skill
+ui.resonance.treasure.strengthen
+Accessory Enhance
+ui.resonance.treasure.refine
+Accessory Refine
+ui.treasure.develop.tips
+Accessory [FFCF87FF]Rebirth [-]will return[FFCF87FF] all training materials[-]
+ui.treasure.no.spare
+Currently no unused Accessory
+ui.treasure.system.name
+Accessory
+ui.treasure.casting.uncastable
+This Accessory cannot be crafted. Only Legendary Accessory can be crafted
+ui.treasure.casting.subtitle.strengthen
+Stat Change
+ui.treasure.casting.subtitle.refine
+Stat Change
+ui.treasure.casting.complete.strengthen.title
+Enhance Level ({0}/{1})
+ui.treasure.casting.complete.refine.title
+Refine Level ({0}/{1})
+ui.treasure.casting.complete.title
+Crafted
+ui.treasure.cant.find.hero
+No other switchable heroes
+ui.treasure.food.have.title
+Select material to be consumed
+ui.treasure.food.have.title.small
+Recommended material to devour
+ui.treasure.grab.record.empty
+No record at all
+ui.treasure.grab.battlenew.title
+Accessory Arena
+ui.treasure.grab.battle.cost
+x1 Cost:
+ui.treasure.info
+Accessory info
+ui.treasure.batch.casting.vip.insufficient
+1-tap Forge unlocks at VIP {0}. Do you want to go Recharge to upgrade your VIP Level?
+ui.treasure.nothing.for.casting
+No accessories can be crafted
+ui.select.treasure.for.casting
+Select the accessory to craft
+ui.treasure.refine.back
+Refine returns materials

@@ -1,0 +1,548 @@
+ui.hero.nevigator.info
+Info
+ui.hero.nevigator.troop
+Party
+ui.hero.info.star
+Star
+ui.hero.info.hp
+HP Growth
+ui.hero.info.physic_attack
+ATK Upgrade
+ui.hero.info.physic_defence
+DEF Upgrade
+ui.hero.info.magic_attack
+Magic Upgrade
+ui.hero.info.magic_defence
+Demon Growth
+REAL_NONE
+None
+REAL_PHYSIC_ATTACK
+ATK
+REAL_MAGIC_ATTACK
+MATK
+REAL_PHYSIC_DEFENCE
+DEF
+REAL_MAGIC_DEFENCE
+MDEF
+REAL_HP
+HP
+REAL_HP_RECOVER
+HP Restore
+REAL_PHYSIC_PENETRATION_ABS
+ATK Pierce
+REAL_PHYSIC_PENETRATION_RATE
+Ignore DEF
+REAL_MAGIC_PENETRATION_ABS
+Magic Pierce
+REAL_MAGIC_PENETRATION_RATE
+Ignore Magic res
+REAL_HOLY_ATTACK_ABS
+Additional Damage
+REAL_HOLY_ATTACK_ABS_RESISTANCE
+Damage Block
+REAL_PHYSIC_CRITICAL
+Crit
+REAL_MAGIC_CRITICAL
+Magic Crit Level
+REAL_PHYSIC_CRITICAL_RESISTANCE
+Crit RES
+REAL_MAGIC_CRITICAL_RESISTANCE
+Magic Crit RES Level
+REAL_PHYSIC_CRITICAL_RATE
+Crit Rate
+REAL_MAGIC_CRITICAL_RATE
+Magic Crit Rate
+REAL_PHYSIC_CRITICAL_RESISTANCE_RATE
+Crit RES Rate
+REAL_MAGIC_CRITICAL_RESISTANCE_RATE
+Magic Crit RES Rate
+REAL_PHYSIC_CRITICAL_DAMAGE
+Crit Damage
+REAL_MAGIC_CRITICAL_DAMAGE
+Magic Crit Damage
+REAL_PHYSIC_CRITICAL_RESISTANCE_DAMAGE
+Crit Damage res
+REAL_MAGIC_CRITICAL_RESISTANCE_DAMAGE
+Magic Crit Damage res
+REAL_HIT
+Hit
+REAL_MISS
+Dodge
+REAL_PHYSIC_VAMPIRISM
+Drain Rate
+REAL_MAGIC_VAMPIRISM
+Magic Drain Rate
+REAL_PHYSIC_VAMPIRISM_ABS
+Drain
+REAL_MAGIC_VAMPIRISM_ABS
+Magic Drain
+REAL_PHYSIC_ATTACKS_REFLECT
+Reflect Rate
+REAL_MAGIC_ATTACKS_REFLECT
+Magic Reflect Rate
+REAL_PHYSIC_ATTACKS_REFLECT_ABS
+Physical Reflect
+REAL_MAGIC_ATTACKS_REFLECT_ABS
+Magic Reflect
+REAL_KILL_RECOVERY
+Kill Restore
+REAL_CURE_RECOVERY
+Heal Effect
+REAL_ALL_RECOVERY
+Restore Bonus
+REAL_MISS_RATE
+Dodge Rate
+REAL_HIT_RATE
+Hit Rate
+REAL_ATTACK_ACCELERATE
+ATK Speed Up
+REAL_CD_REDUCE_RATE
+Reduce CD
+REAL_RAGE_GAINED_RATE
+Rage Accumulation Rate
+REAL_PHYSIC_DAMAGE_REDUCE_RATE
+Damage res
+REAL_PHYSIC_DAMAGE_ADD_RATE
+Damage Increase
+REAL_MAGIC_DAMAGE_REDUCE_RATE
+Magic Damage res
+REAL_MAGIC_DAMAGE_ADD_RATE
+Magic Damage Increase
+REAL_FIRE_DAMAGE_REDUCE_RATE
+Fire Damage res
+REAL_FIRE_DAMAGE_ADD_RATE
+Fire Damage Increase
+REAL_ICE_DAMAGE_REDUCE_RATE
+Ice Damage res
+REAL_ICE_DAMAGE_ADD_RATE
+Ice Damage Increase
+REAL_ELECTRICITY_DAMAGE_REDUCE_RATE
+Electric Damage res
+REAL_ELECTRICITY_DAMAGE_ADD_RATE
+Electric Damage Increase
+REAL_POISON_DAMAGE_REDUCE_RATE
+Poison Damage res
+REAL_POISON_DAMAGE_ADD_RATE
+Poison Damage Increase
+REAL_NATURE_DAMAGE_REDUCE_RATE
+Nature Damage res
+REAL_NATURE_DAMAGE_ADD_RATE
+Nature Damage Increase
+REAL_DEMON_DAMAGE_REDUCE_RATE
+Holy Damage res
+REAL_DEMON_DAMAGE_ADD_RATE
+Holy Damage Increase
+REAL_PVP_DAMAGE_REDUCE_RATE
+PVP Damage res
+REAL_PVP_DAMAGE_ADD_RATE
+PVP Damage Increase
+REAL_ALL_DAMAGE_REDUCE_RATE
+All Damage res
+REAL_ALL_DAMAGE_ADD_RATE
+All Damage Increase
+REAL_DEBUFF_BLEEDING
+Bleed Accuracy
+REAL_DEBUFF_POISONING
+Poison Accuracy
+REAL_DEBUFF_BURNING
+Burn Accuracy
+REAL_DEBUFF_FREEZE
+Freeze Accuracy
+REAL_DEBUFF_DIZZY
+Stun Accuracy
+REAL_DEBUFF_CONFUSION
+Confuse Accuracy
+REAL_DEBUFF_COLD
+Freeze Accuracy
+REAL_DEBUFF_ELECTRIFICATION
+Shock Accuracy
+REAL_DEBUFF_SENESCENCE
+Silence Accuracy
+REAL_DEBUFF_SUNDER
+Knockback Accuracy
+REAL_DEBUFF_ALL
+Debuff Accuracy
+REAL_DEBUFF_PVP
+PVP Debuff Accuracy
+REAL_DEBUFF_BLEEDING_RESISTANCE
+RES Bleed
+REAL_DEBUFF_POISONING_RESISTANCE
+RES Poison
+REAL_DEBUFF_BURNING_RESISTANCE
+RES Burn
+REAL_DEBUFF_ELECTRIFICATION_RESISTANCE
+RES Shock
+REAL_DEBUFF_ALL_RESISTANCE
+RES Debuff
+REAL_DEBUFF_PVP_RESISTANCE
+RES PVP Debuff
+REAL_ULTIMATE_DAMAGE_RATE
+Limit Break Damage
+REAL_MOVE_SPEED
+Moving Speed
+REAL_ATTACK_RAGE_GAINED_RATE
+ATK Rage Accumulation
+REAL_DAMAGED_RAGE_GAINED_RATE
+DMG Rage Accumulation
+REAL_SHIELD
+God Mode Pts
+REAL_SHIELD_RECOVER_INTERVAL
+Restore God Mode
+REAL_SHIELD_RECOVER_PER_SECOND
+God Mode recovery interval
+REAL_ROLE_LEVEL
+Hero Level
+REAL_ROLE_LEVEL2
+Character Level Square
+REAL_LOST_HP
+Lost HP
+REAL_EIDOLON_TOTAL_LEVEL
+Total Eidolon Level
+REAL_EIDOLON_TOTAL_COINS
+
+REAL_FIGHTPOWER
+Combat Power
+HERO_FEATURE_DPS
+ATK
+HERO_FEATURE_MAGIC
+ATK
+HERO_FEATURE_TANK
+DEF
+HERO_FEATURE_HEALS
+Support
+ui.hero.info.power
+Power
+ui.hero.btn.detail
+Detailed Stats
+ui.hero.subtitle.fashion
+costumes Stats
+ui.hero.subtitle.attr
+Hero Stats
+ui.hero.subtitle.skill
+Skills
+ui.hero.subtitle.relation
+Bond
+ui.hero.subtitle.talent
+Aptitude
+ui.hero.subtitle.desc
+Hero Intro
+ui.hero.btn.info
+Info
+ui.hero.btn.skill.upgrade
+Skills
+ui.hero.btn.skill.break
+Skills
+ui.hero.btn.hero.upgrade
+Level Up
+ui.hero.btn.hero.evolve
+Rank up
+ui.hero.btn.hero.linking
+Bond
+ui.hero.equip.basic.attr.title
+Basic Stats
+ui.hero.equip.score
+Gear Rating:
+ui.hero.develop.title.upgrade
+Hero Level Up
+ui.hero.develop.title.evolve
+Hero Upgrade
+ui.hero.develop.title.linking
+Hero Bonds
+ui.hero.develop.title.skill.upgrade
+Skill Level Up
+ui.develop.upgrade.ether.info
+Ethers possessed:
+ui.develop.upgrade.exp.next
+EXP required to upgrade:
+ui.develop.upgrade.btn.upgrade
+Level
+ui.develop.skill.upgrade.skill.points
+Skill Pts
+ui.develop.skill.upgrade.skill.point.count
+{0}/{1}
+ui.develop.skill.upgrade.skill.point.remain.times
+(After {0} restore 1 Pt)
+ui.develop.skill.upgrade.skill.point.no.remain.times
+Pts are max
+ui.develop.skill.upgrade.btn.upgrade
+Upgrade
+ui.develop.no.open
+Locked
+ui.heroskillupgrade.level
+lv:{0}
+ui.herocritical.max
+Crit
+ui.hero.link.hero.star.lack
+{0} is needed to achieve {1} star
+ui.hero.link.unsatisfied
+Not reached
+ui.hero.link.introduction.title
+Bond Intro
+ui.hero.link.active.attr.title
+Current Activated Stats
+ui.hero.link.inactive.attr.title
+Inactive Stats
+ui.hero.skill.unlock.tip1
+[FF2400]Reach{0} {1} stars to Unlock[-]
+ui.hero.heroevolve.stage
+Rank up materials
+ui.hero.heroevolve.skillunlock
+Rank up Reward
+ui.hero.heroevolve.upgrade
+Grow after rank up
+ui.hero.heroevolve.level
+Rank up Level
+ui.hero.herostar.css
+Stats upgrade
+ui.hero.heroestar.level
+Star Level
+ui.hero.skill.type.name.switch
+Public Skills
+ui.hero.skill.type.name.active
+Active Skills
+ui.hero.skill.type.name.passive
+Passive Skills
+ui.hero.link.subtitle
+Bond Entry
+ui.hero.link.info.subtitle.detail
+Bond Intro
+ui.hero.link.info.subtitle.attr.active
+Current Activated Stats
+ui.hero.link.info.subtitle.attr.inactive
+Inactive Stats
+ui.hero.link.info.hero.complete.status
+Not reached
+ui.hero.link.inactive.status
+Inactive
+ui.hero.info.subtitle.bounding
+Hero Bonds
+ui.hero.info.upgrade.cost.title
+Cost
+ui.hero.unlock.skill_1
+Unlock skill: {0}
+ui.hero.aptitude.title
+Aptitude
+ui.hero.level.title
+Level
+ui.hero.attr.subtitle.type
+Hero Location
+ui.hero.attr.subtitle.aptitude
+Hero Aptitude
+ui.hero.troop.get.into.troop
+Go to Battle
+ui.hero.troop.switch
+Exchange
+ui.hero.fragment.info.fragment.title
+Shards
+ui.hero.tab.btn.info
+Hero Info
+ui.hero.evolve.need.level.prompt
+Reach Hero Level {0} to Advance
+ui.hero.subtitle.talents
+Aptitude
+ui.hero.assist.resonance.nohero
+Military Support needed to unlock
+ui.hero.assist.unlock.lv
+Lv.{0}\nUnlocked
+ui.hero.assist.relation.item.will_active_description
+Bond {0} activatable
+ui.hero.assist.relation.item.has_active_description
+{0} Bond activated 
+ui.hero.assist.relation.item.will.active.destiny
+Destiny {0} activatable
+ui.hero.assist.relation.item.has.active.destiny
+{0} Destiny activated
+ui.hero.assist.relation.max_hero
+Already reached highest number of support
+ui.hero.skill.levelup.hero.level.not.meet
+Hero must reach lv.{0}
+ui.hero.skill.levelup.hero.star.not.meet
+Hero{0}{1}stars unlocks
+ui.hero.skill.levelup.cannot.over.hero.level
+Skill Level can't exceed Hero Level
+ui.hero.skill.levelup.short.of.items
+Insufficient materials for Breakthrough.
+ui.hero.skill.level
+Breakthrough Level: {0}
+ui.hero.skill.unlock.grade.require
+Hero must Adv. to Level {0} to Unlock Skill
+ui.hero.skill.destiny.active
+[ffff00]Destiny Effect (Activated)[-]
+ui.hero.skill.destiny.deactive
+Destiny Effect (Inactive)
+ui.hero.destiny.actived
+[ffff00] (Hero Destiny activated) [-]
+ui.hero.destiny.desc.deactive
+While {0}goes to battle,   limit technology to obtain Destiny effect
+ui.hero.destiny.desc.active
+[ffff00]Hero Destiny Activated,  limit break to receive full Destiny effect[-]
+ui.hero.subtitle.destiny
+Destiny
+ui.hero.subtitle.active.destiny
+Activate{0}Destiny Effect
+ui.hero.list.nodatatip
+No usable materials
+ui.hero.assist.no_relation.info
+There is no hero bonds activatable
+ui.hero.selectlist.nohero.info
+No heroes Available
+ui.hero.selectlist.recommend.info
+Try the following ways to get a hero
+ui.hero.troop.fashion.no_open
+Function is not yet opened, please stay tuned
+ui.hero.assist.remote.locked
+The player's support are not yet opened
+ui.hero.troop.info.show_detail
+Expand details
+ui.hero.troop.info.show_simple
+Collapse details
+ui.hero.leader_skill.title
+Captain Skills
+ui.hero.leader_skill.description
+Captain Skills: {0}
+ui.hero.leader_skill.none
+None
+ui.hero.talent.description
+(Adv.+{1} Activate) {0}
+ui.hero.evolve.upgrade.max
+Hero has reached the highest rank
+ui.hero.troop.main.offline
+Target players are offline
+ui.hero.evovle.no.talent.active
+ATK,  DEF,  HP + 5%
+ui.hero.battle.array.leader.empty
+A Captain is required in battle
+ui.hero.battle.array.slot.locked
+The location {0} is unlocked
+ui.hero.battle.array.cannot.participate
+Hero in this location will not onstage
+ui.hero.info.levelup.click.too.many.times
+Too many requests. Try again soon!
+ui.hero.info.evolve.item.not.enough
+Insufficient materials to Adv.
+ui.hero.assist.hero.active.relation.count
+Bond {0} / {1}
+ui.hero.assist.hero.active.destiny
+Destiny Activated
+ui.hero.assist.hero.deactive.destiny
+[7f7f7f]Destiny Not Activated[-]
+ui.hero.info.levelup.greater.than.main.hero
+Hero Rank cannot surpass Main Hero level!
+ui.hero.troop.equip.rank
+{0}rank
+ui.troop.list.show.available
+Only show unused heroes
+ui.potential.list.show.available
+Show idle heroes
+ui.hero.talent.team.attribute
+Party{0}
+ui.hero.talent.skill
+Unlock [{0}] Skill
+ui.hero.skill.levelup.maxlevel
+Skills have already reached highest level
+ui.hero.btn.star.up
+Star Up
+ui.hero.heroestar.full
+Full star quality upgrade:
+ui.hero.heroestar.colorup
+[43FF55]enchanted[-]→[5AEEFF]rare[-]→[AA9CFF]epic[-]→[FF9561]legendary[-]→[FF5C5C]Mythic[-]→[EFE36BFF]Unique[-]
+ui.hero.heroevolve.upgrade.new
+Unlock Aptitude
+ui.hero.got.change.to.fragments
+Auto transform this hero into {0} shards
+ui.hero.star.upgrade.max
+Hero has reached Top Star Level
+ui.hero.asssit.icon.fightpower
+Combat Power: {0}
+ui.hero.assist.level.sum
+Total Level: {0}
+ui.hero.assist.fightpower.sum
+Total combat power: {0}
+ui.hero.assist.resonance.title
+Support Bonus
+ui.hero.assist.resonance.level.bar
+Level {0} Bonus
+ui.hero.assist.resonance.fightpower.bar
+Combat Power Level {0} Bonus
+ui.hero.assist.resonance.level.maxlevel
+Highest Level Reached Bonus
+ui.hero.assist.resonance.fightpower.maxlevel
+Highest Level of Combat Power Bonus
+ui.hero.assist.resonance.bar.now
+Current Bonus
+ui.hero.assist.resonance.bar.next
+Low Level Bonus
+ui.hero.assist.resonance.level.description.now
+Sum of Current Support Levels
+ui.hero.assist.resonance.fightpower.description.now
+Sum of Current Combat Support
+ui.hero.assist.resonance.description.next
+Bonus needed next level
+ui.hero.assist.resonance.rule.info
+Military Support can be upgraded through Hero Rank Up,  Star Up,  and Skill Level Up
+ui.hero.assist.resonance.fightpower
+Combat Power {0}
+ui.hero.detail.attr.bar.base
+Basic Stats
+ui.hero.detail.attr.bar.advanced
+Adv. Stats
+ui.hero.detail.attr.bar.rare
+Rare Stats
+ui.hero.skill.level.long.press.info
+Hold "+" to quickly upgrade skills
+ui.hero.fashion.qulification.name
+Aptitude
+ui.hero.skill.effect.active.template
+[ffff00]{0} (Activated)[-]
+ui.hero.skill.effect.deactive.template
+{0} (Inactive)
+ui.hero.skill.captain.effect.1
+Reawakening I · Moon
+ui.hero.skill.captain.effect.3
+Reawakening II · Mercury
+ui.hero.skill.captain.effect.6
+Reawakening III · Venus
+ui.hero.skill.captain.effect.10
+Reawakening IV · Sun
+ui.hero.skill.captain.effect.14
+Reawakening V · Mars
+ui.hero.skill.captain.effect.18
+Reawakening VI · Jupiter
+ui.hero.skill.captain.effect.22
+Reawakening VII · Saturn
+ui.hero.skill.captain.effect.26
+Reawakening VIII · Star
+ui.hero.skill.captain.effect.30
+Reawakening IX · Crystal
+ui.hero.skill.main.hero.effect
+Awake {0} {1} Effect
+ui.hero.assist.resonance
+Support Heroes
+ui.hero.illustrate.uncommon
+Rare
+ui.hero.skill.tip.super.weapon.unlock.25
+Special Artifact Lv. 25
+ui.hero.skill.tip.super.weapon.unlock.45
+Special Artifact Lv. 45
+ui.hero.skill.tip.super.weapon.unlock.3
+Special Treasure of Lv. 3
+ui.hero.skill.tip.super.weapon.active.template
+[ffff00]{0} (Activated)[-]
+ui.hero.skill.tip.super.weapon.deactive.template
+{0} (Inactive)
+ui.hero.fate.activate
+Activate Destiny Illustrate
+ui.proto.hero.skill.surplus.point
+Skill Pts left:
+ui.recall.hero.num
+Number of Shards:
+ui.recall.hero.explore
+Exploring
+ui.recall.hero.choose
+Select
+ui.captain.evolve.success
+Breakthrough successful
+ui.hero.star.name.format
+{0}{1} stars
+ui.hero.potency
+Rune

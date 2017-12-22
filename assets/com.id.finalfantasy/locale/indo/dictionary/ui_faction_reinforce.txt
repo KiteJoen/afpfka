@@ -1,0 +1,94 @@
+ui.faction.start.reinforce
+Menambah
+ui.faction.fixed.salary.display
+{0}/ menit
+ui.faction.reinforce.event.record
+[{0}][0CFF00] {1} [-]m enyewamu untuk menantang [FF8432] {2} [-], kamu mendapat bayaran tambahan {3} coin
+ui.faction.reinforce.self.record
+[{0}] Kamu menyewa [0CFF00] {1} [-] untuk menantang [FF8432] {2} [-]
+ui.dungeon.type.Standard
+Normal Dungeon
+ui.dungeon.type.BountyMission
+Misi Hadiah
+ui.dungeon.type.Arena
+Arena
+ui.dungeon.type.Tower
+Spiral World
+ui.dungeon.type.DailyDungeon
+Dungeon harian
+ui.dungeon.type.TreasurePlunder
+Arena Aksesoris
+ui.dungeon.type.FarmUnlock
+Membuka sawah
+ui.dungeon.type.TaskDungeon
+Battle misi master
+ui.dungeon.type.TeamCoopBattle
+Perang tim
+ui.dungeon.type.CoopBossBattle
+Battle tim Boss
+ui.dungeon.type.CrystalTransport
+Transport kristal
+ui.dungeon.type.HeroTrial
+Hero Trial
+ui.dungeon.type.FactionBattle
+Guild War
+ui.dungeon.type.Tournament
+Battle of Kings
+ui.dungeon.type.FactionRoutineDungeon
+Guild dungeon
+ui.dungeon.type.EndlessChallenge
+Pandemonium Trial
+ui.dungeon.type.EnemyInvasion
+Enemy Invader
+ui.faction.hire.event.gain.bonus.reach.max
+Sudah mencapai batas maksimum pengambilan, coba lagi besok
+ui.faction.hire.notready
+Belum hadir
+ui.faction.cannot.hire.twice
+{0} sudah disewa
+ui.faction.reached.max.times.today
+Pemakaian hari ini sudah mencapai batas maksimal
+ui.faction.hire.count
+Sisa sewa hari ini [FF0000] {0} [-] kali
+ui.faction.hire.invalidate
+Pilihan reinforce yang tidak berlaku
+ui.faction.reinforce.fightpower.low.title
+Pengingat perang
+ui.faction.reinforce.fightpower.low.desc
+Dungeon ini lbh susah! Meskipun menggunakan BP mercenary utk menyerang dungeon jg sangatlah susah~ \n stlh BP yg disarankan mencapai [FF0000]{0}[-] coba lagi! Jika kamu percaya pada BP mu sendiri jg bs mencobanya~!
+ui.faction.reinforce.fightpower.low.buy
+Jadi kuat
+ui.faction.reinforce.fightpower.low.fight
+Menantang
+ui.faction.reinforce.fightpower.forbid.desc
+BP tentara sewaan belum mencapai syarat minimum dungeon, silakan upgrade dulu
+ui.feinforce.reward.already
+Sudah diambil
+ui.feinforce.reward
+Mengambil
+ui.feinforce.reward.all
+Ambil semua
+ui.feinforce.employment.record
+Riwayat
+ui.faction.reinforce.cannot.hire.notready
+Pemain belum bergabung dalam tentara sewaan Guild
+ui.faction.reinforce.hired.today
+Hari ini sudah disewa
+ui.faction.reinforce.vip.increase
+Apa mau tambah VIP untuk menambah jumlah sewaan
+ui.faction.reinforce.cannot.gain.fixed.salary.now
+Sekarang masih belum bisa mengambil hadiah tetap
+ui.faction.reinforce.on.success
+Penambahan berhasil
+ui.faction.reinforce.today.get.award.count.left
+Sisa pengambilan hadiah hari ini : {0}
+ui.faction.reinforce.rank.factor
+Pendapatan tambahan peringkat meningkat {0}%
+ui.guild.hero.top.10
+Hanya bisa menyewa prajurit yang \n lebih tinggi 10 peringkat dari diri sendiri
+ui.guild.hero.salary.now
+Gaji saat ini :
+ui.guild.hero.fight.power
+BP :
+ui.guild.hero.profit
+Pendapatan :

@@ -1,0 +1,260 @@
+itemsuperweapon_520001_name
+Agito Heart
+itemsuperweapon_520001_desc1
+An artifact with enormous potential. Grants incredible strength to the Agito
+itemsuperweapon_520001_desc2
+Exclusive Agito Artifact
+itemsuperweapon_520001_desc3
+
+itemsuperweapon_520001_desc4
+
+itemsuperweapon_520002_name
+Rageflame War-axe
+itemsuperweapon_520002_desc1
+An artifact of Rubrum's Primus l'Cie,  Zhuyu. It represents Rubrum's greatest powers in battle: flame and anger.
+itemsuperweapon_520002_desc2
+Exclusive Zhuyu Artifact
+itemsuperweapon_520002_desc3
+
+itemsuperweapon_520002_desc4
+
+itemsuperweapon_520003_name
+Concordia's Will
+itemsuperweapon_520003_desc1
+The Kingdom of Concordia's leader is also the Azure Dragon Crystal's l'Cie. Her artifact represents the unyielding will of Concordia.
+itemsuperweapon_520003_desc2
+Exclusive Andoria Artifact
+itemsuperweapon_520003_desc3
+
+itemsuperweapon_520003_desc4
+
+itemsuperweapon_520004_name
+Sword of the King
+itemsuperweapon_520004_desc1
+As the king of Lorican,  goldgamesh wipes out all obstacles with his giant sword. It is no wonder that he is considered the strongest of them all.
+itemsuperweapon_520004_desc2
+Exclusive artifact for goldgamesh
+itemsuperweapon_520004_desc3
+
+itemsuperweapon_520004_desc4
+
+itemsuperweapon_520005_name
+Thunder Halo
+itemsuperweapon_520005_desc1
+Nimbus' power is condensed inside the Thunder Halo,  making it extremely powerful.
+itemsuperweapon_520005_desc2
+Exclusive Nimbus Artifact
+itemsuperweapon_520005_desc3
+
+itemsuperweapon_520005_desc4
+
+itemsuperweapon_520006_name
+Ultimate Core
+itemsuperweapon_520006_desc1
+The Ultimate Core is the l'Cie Caetuna's artifact. It represents the ultimate mystery of Rubrum's magic. Only the most powerful can wield it.
+itemsuperweapon_520006_desc2
+Exclusive Caetuna Artifact
+itemsuperweapon_520006_desc3
+
+itemsuperweapon_520006_desc4
+
+itemsuperweapon_520007_name
+Fist of Lava
+itemsuperweapon_520007_desc1
+In order to protect the tranquil harmony of nature,  this artifact was given to the earth to guard endless,  infinite power.
+itemsuperweapon_520007_desc2
+Exclusive Atra Artifact
+itemsuperweapon_520007_desc3
+
+itemsuperweapon_520007_desc4
+
+itemsuperweapon_520008_name
+Ultimate Potion
+itemsuperweapon_520008_desc1
+This is the result of Dr. Kazusa's most imaginative research. It can elevate battle to an artistic level.
+itemsuperweapon_520008_desc2
+Exclusive Kazusa Artifact
+itemsuperweapon_520008_desc3
+
+itemsuperweapon_520008_desc4
+
+itemsuperweapon_520009_name
+Shadow Claw
+itemsuperweapon_520009_desc1
+Qun'mi is adept at using mechanical force to improve combat efficiency. This artifact is her proudest creation.
+itemsuperweapon_520009_desc2
+Exclusive Qun'mi Artifact
+itemsuperweapon_520009_desc3
+
+itemsuperweapon_520009_desc4
+
+itemsuperweapon_520010_name
+Shining Angel
+itemsuperweapon_520010_desc1
+Represents peace and eternal light. Only the most powerful among the justice-seekers can wield it.
+itemsuperweapon_520010_desc2
+Exclusive Machina Artifact
+itemsuperweapon_520010_desc3
+
+itemsuperweapon_520010_desc4
+
+itemsuperweapon_520011_name
+Wing Dagger
+itemsuperweapon_520011_desc1
+Legend has it that the feathers of a great bird of Rubrum were used to make the daggers. The daggers represent discipline and order.
+itemsuperweapon_520011_desc2
+Exclusive Rem Artifact
+itemsuperweapon_520011_desc3
+
+itemsuperweapon_520011_desc4
+
+itemsuperweapon_520012_name
+Healing Flute
+itemsuperweapon_520012_desc1
+Contains infinite healing power. Deuce's special artifact. Legend says this flute was a gift from distant gods.
+itemsuperweapon_520012_desc2
+Exclusive Deuce Artifact
+itemsuperweapon_520012_desc3
+
+itemsuperweapon_520012_desc4
+
+itemsuperweapon_520013_name
+Serrated Ghostblade
+itemsuperweapon_520013_desc1
+Samurai looking for the perfect tachi dream of acquiring this artifact. It is not just a knife,  it is proof of strength.
+itemsuperweapon_520013_desc2
+Exclusive Jack Artifact
+itemsuperweapon_520013_desc3
+
+itemsuperweapon_520013_desc4
+
+itemsuperweapon_520014_name
+Final Trump Card
+itemsuperweapon_520014_desc1
+This is Ace's exclusive artifact. When he uses this weapon,  his combat power will sharply increase.
+itemsuperweapon_520014_desc2
+Exclusive Ace Artifact
+itemsuperweapon_520014_desc3
+
+itemsuperweapon_520014_desc4
+
+itemsuperweapon_520015_name
+Star Sword
+itemsuperweapon_520015_desc1
+According to the constellation of wisdom,  the greatest artisan of Rubrum forged such a blade; it contained an energy only the very wise could comprehend.
+itemsuperweapon_520015_desc2
+Exclusive Queen Artifact
+itemsuperweapon_520015_desc3
+
+itemsuperweapon_520015_desc4
+
+itemsuperweapon_520016_name
+Dragon Pike
+itemsuperweapon_520016_desc1
+In the eyes of the military elite of Concordia,  the only trusted partner a warrior possesses is the weapon in their hand. This exclusive artifact has been with Tenochi through countless battles.
+itemsuperweapon_520016_desc2
+Exclusive Tenochi Artifact
+itemsuperweapon_520016_desc3
+
+itemsuperweapon_520016_desc4
+
+itemsuperweapon_520017_name
+Wings of the Dragon
+itemsuperweapon_520017_desc1
+Claes is the descendant of a dragon. In moments of danger,  she often displays this mysterious power.
+itemsuperweapon_520017_desc2
+Exclusive Claes Artifact
+itemsuperweapon_520017_desc3
+
+itemsuperweapon_520017_desc4
+
+itemsuperweapon_520018_name
+Frozen Blade
+itemsuperweapon_520018_desc1
+Kurasame,  known as the Reaper of the Boreal Blade,  owns this special artifact. It has all the power of winter's cold.
+itemsuperweapon_520018_desc2
+Exclusive Kurasame Artifact
+itemsuperweapon_520018_desc3
+
+itemsuperweapon_520018_desc4
+
+itemsuperweapon_520019_name
+Commander's Glory
+itemsuperweapon_520019_desc1
+Qator's exclusive artifact represents the highest honor the Milites Empire bestowed on him. It is not only
+itemsuperweapon_520019_desc2
+Exclusive Qator Artifact
+itemsuperweapon_520019_desc3
+
+itemsuperweapon_520019_desc4
+
+itemsuperweapon_520020_name
+Giant's Warhammer
+itemsuperweapon_520020_desc1
+Cinque excels at swinging her powerful warhammer. This artifact is tailor-made for her.
+itemsuperweapon_520020_desc2
+Exclusive Cinque Artifact
+itemsuperweapon_520020_desc3
+
+itemsuperweapon_520020_desc4
+
+itemsuperweapon_520021_name
+Executor
+itemsuperweapon_520021_desc1
+Two guns infused with arcane power. Only the most skilled gunman has the acumen to use them.
+itemsuperweapon_520021_desc2
+Exclusive King Artifact
+itemsuperweapon_520021_desc3
+
+itemsuperweapon_520021_desc4
+
+itemsuperweapon_520022_name
+Deadly Thorn
+itemsuperweapon_520022_desc1
+These seemingly soft and weak thorns are actually powerful weapons. No matter who you are,  you can't escape from this trap once you've fallen in.
+itemsuperweapon_520022_desc2
+Exclusive Seven Artifact
+itemsuperweapon_520022_desc3
+
+itemsuperweapon_520022_desc4
+
+itemsuperweapon_520023_name
+Reaper's Call
+itemsuperweapon_520023_desc1
+An artifact said to be the creation of Death,  left among mortal men. This sickle and its user have signed a contract between life and death.
+itemsuperweapon_520023_desc2
+Exclusive Sice Artifact
+itemsuperweapon_520023_desc3
+
+itemsuperweapon_520023_desc4
+
+itemsuperweapon_520024_name
+Early Artifact
+itemsuperweapon_520024_desc1
+Agito's basic artifact
+itemsuperweapon_520024_desc2
+
+itemsuperweapon_520024_desc3
+
+itemsuperweapon_520024_desc4
+
+itemsuperweapon_520025_name
+Prototype Artifact
+itemsuperweapon_520025_desc1
+Agito's basic artifact
+itemsuperweapon_520025_desc2
+
+itemsuperweapon_520025_desc3
+
+itemsuperweapon_520025_desc4
+
+itemsuperweapon_520026_name
+Universal Artifact
+itemsuperweapon_520026_desc1
+Agito's basic artifact
+itemsuperweapon_520026_desc2
+
+itemsuperweapon_520026_desc3
+
+itemsuperweapon_520026_desc4
+

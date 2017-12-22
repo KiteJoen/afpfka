@@ -1,0 +1,46 @@
+ui.language.zhcn.name
+Simplified Chinese
+ui.language.enus.name
+English
+ui.language.malay.name
+Malay Language
+ui.language.setting.confirm.title
+Language
+ui.language.setting.confirm.content.zhcn
+You must re-log in after switching languages.
+ui.language.setting.confirm.content.enus
+You must re-log in after switching languages.
+ui.language.setting.confirm.yes
+Confirm
+ui.language.setting.confirm.no
+Cancel
+ui.language.audio.switch.finish
+Voice switch will take effect after restarting game.
+ui.language.audio.switch.error
+Download voice pack before switching languages.
+ui.language.entry
+Language
+ui.language.title
+Language
+ui.language.center.detail
+Which language do you want to play the game in?
+ui.setting.language
+Language
+ui.setting.speech
+Switch Dub
+ui.language.jp.name
+Japanese Dub
+ui.language.indo.name
+Indonesian
+ui.language.enin.name
+English
+ui.enter.switch
+Switch Accounts
+ui.enter.contact
+Contact Us
+ui.troop.button
+Party
+ui.cash.cost
+Cost
+ui.language.setting.confirm.content.indo
+Transfer to Indonesian？

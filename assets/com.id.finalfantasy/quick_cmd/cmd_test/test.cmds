@@ -1,0 +1,32 @@
+陈老板专用
+
+delay 100
+SetBattleHeroes -1 0 0 0 0
+delay 100
+RemoveHeroes 7
+delay 100
+AddHero 18 3 1
+delay 100
+AddHero 29 3 1
+delay 100
+AddHero 14 3 1
+delay 100
+AddHero 40 3 1
+delay 100
+SetBattleHeroes -1 18 29 14 40
+delay 100
+EnterBattle 206
+Deley 10000
+SetHeroToRobot 30
+delay 100
+SetFightStatus 2 
+delay 100
+SetAutoCastUltiSkill 1
+delay 100
+SetAutoCastEidolon 1
+delay 100
+StartStats
+delay 100
+WaitCallback 0
+delay 100
+SaveStatsToFile

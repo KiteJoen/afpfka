@@ -1,0 +1,78 @@
+ui.faction_routine_dungeon.message.off_time
+{0} sampai {1}bisa diserang
+ui.faction_routine_dungeon.label.point_progress
+{0}/{1}
+ui.faction_routine_dungeon.label.battle_hour
+Setiap hari {0}-{1} dimulai
+ui.faction_routine_dungeon.lable.fight_power
+BP {0}
+ui.faction_routine_dungeon.label.progress
+Sisa HP : {0}%
+ui.faction_routine_dungeon.label.chapter_locked
+Lolos chapter sebelumnya untuk membuka
+ui.faction_routine_dungeon.label.chapter_finished
+Hari ini belum membuka chapter ini
+ui.faction_routine_dungeon.label.chapter_unlock_condition
+Setelah lolos {0} akan dibuka
+ui.faction_routine_dungeon.label.chapter_progress
+{0}%
+ui.faction_routine_dungeon.label.locked_chapter_name
+
+ui.faction_routine_dungeon.lable.first_clear_dialog_caption
+Hadiah utama
+ui.faction_routine_dungeon.label.qualification_points
+{0} poin
+ui.faction_routine_dungeon.label.reward_ordinal
+No.{0}
+ui.faction_routine_dungeon.label.reward_count
+{0}/{1}
+ui.faction_routine_dungeon.dialog.buy_chance
+Gunakan {0}{1} untuk membeli 1 kali tantangan?
+ui.faction_routine_dungeon.message.no_more_chances
+Pembelian hari ini sudah terpakai habis
+ui.faction_routine_dungeon.message.no_chance_left
+Jumlah hari ini sudah terpakai habis
+ui.faction_routine_dungeon.message.dungeon_finished
+Musuh telah dibunuh
+ui.faction_routine_dungeon.label.out_of_ranking
+-
+ui.faction_routine_dungeon.message.point_not_reached
+Setelah jumlah poin Guild mencapai {0} bisa mengambil
+ui.faction_routine_dungeon.message.reward_already_acquired
+Hadiah sudah pernah diambil
+ui.faction_routine_dungeon.label.member_fight_power
+BP : {0}
+ui.faction_routine_dungeon.label.member_points
+Kontribusi : {0}
+ui.faction_routine_dungeon.message.other_challenging
+Ada pemain yang menantang
+ui.faction_routine_dungeon.label.time_ranking_format
+yyyy-MM-dd HH:mm:ss
+ui.faction_routine_dungeon.label.settings_chapter_name
+Tantangan besok {0}
+ui.faction_routine_dungeon.label.settings_current
+Lanjut menantang
+ui.faction_routine_dungeon.label.settings_previous
+Reset downgrade
+ui.faction_routine_dungeon.label.most_advanced_chapter
+Riwayat progress tertinggi {0}
+ui.faction_routine_dungeon.label.most_advanced_reward
+Riwayat lolos chapter tertinggi : {0}
+ui.faction_routine_dungeon.label.the_first_prize
+Hadiah ke 1
+ui.faction_routine_dungeon.label.two_prize
+Hadiah ke 2
+ui.faction_routine_dungeon.label.third_prize
+Hadiah ke 3
+ui.faction_routine_dungeon.label.four_prize
+Hadiah ke 4
+ui.faction_routine_dungeon.label.vip_insufficient
+Jumlah tantangan sudah habis, apa mau menaikkan level VIP sampai {0} untuk menambah jumlah tantangan
+ui.faction_routine_dungeon.label.vip_limit
+Pembelian mencapai batas maksimal, hari ini tidak bisa membeli tantangan lagi
+ui.faction.labe.dungeon.maximum.damage
+Dmg tertinggi:
+ui.faction.labe.dungeon.integral
+Kontribusi
+ui.guild.hero.rewarl.no
+Tidak ada catatan

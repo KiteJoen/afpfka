@@ -1,0 +1,30 @@
+ui.welfare.newbie.gift.title
+Agito,  come receive an exclusive Binding Gift Pack
+ui.welfare.newbie.gift.tip
+Can only be received by Newbies before Level 30
+ui.welfare.newbie.gift.fill.id
+Bind Referrer
+ui.welfare.newbie.gift.get
+Receive
+ui.welfare.newbie.gift.finished
+Received
+ui.welfare.luxury.sign.desc
+Where are these items?
+ui.welfare.newbie.gift.ID
+Please enter a referral ID
+ui.welfare.newbie.gift.already.finished
+You have successfully bound to another players
+ui.welfare.main.limit.time
+About to\nEnd
+ui.welfare.leaderboard.only.days
+Only           Days Remaining
+ui.welfare.half.finsh
+Remaining Time in Event Round:
+ui.welfare.manual.surprise
+There's a small chance of receiving a surprise reward!
+ui.welfare.bonus.tencent.goto
+Go Pick Up
+ui.welfare.bonus.tencent.exchange
+Exchange
+ui.welfare.bonus.tencent.title
+QQ VIP Privileges

@@ -1,0 +1,46 @@
+ui.faction.label.static.main.cabins
+Cabin
+ui.faction.label.static.main.deck
+Deck
+ui.faction.label.static.main.log.no_data
+No record
+ui.faction.label.static.main.member.donation
+Today's Donations / Total:
+ui.faction.label.static.main.member.fight_power
+Combat Power:
+ui.faction.label.static.main.member.hierarchy
+Position
+ui.faction.label.static.main.member.last_active
+Last Login:
+ui.faction.label.static.main.member.no_data
+No record
+ui.faction.label.static.main.informaion
+Guild Info
+ui.faction.label.static.main.tab_member
+Member List
+ui.faction.label.static.main.tab_log
+Guild Logs
+ui.faction.label.static.main.bulletin
+Guild Bulletin
+ui.faction.label.static.main.button_administration
+Recruitment Management
+ui.faction.label.static.main.button_notification
+Member Notification
+ui.faction.label.static.main.master
+Guild Leader
+ui.faction.label.static.main.member_count
+Number of persons:
+ui.faction.label.static.main.rank
+Guild Ranking:
+ui.faction.label.static.main.short_id
+Guild ID:
+ui.faction.label.static.main.funds
+Guild Funds
+ui.faction.label.static.main.fight_power
+Guild Total Combat Power:
+ui.faction.label.static.main.donation.reward_available
+Available
+ui.faction.label.static.main.button_donate
+Donate
+ui.faction.label.static.main.donation_progress
+Today's Donation Rate

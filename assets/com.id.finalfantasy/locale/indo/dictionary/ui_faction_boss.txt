@@ -1,0 +1,90 @@
+ui.faction.boss.title.boss.battle
+Menyerang Rebel
+ui.faction.boss.text.boss.battle.description
+Rebel summon Eidolon kuat untuk mengganggu proses perang, ayo kalahkan mereka bersama partner!
+ui.faction.boss.title.boss.battle.difficulty
+Dungeon saat ini :
+ui.faction.boss.title.boss.battle.start.time
+Waktu mulai : 
+ui.faction.boss.title.boss.battle.faction.challenge.count
+Jumlah Guild tersisa :
+ui.faction.boss.title.boss.battle.my.challenge.count
+Jumlah tantanganku :
+ui.faction.boss.title.boss.battle.rank
+Peringkat glory :
+ui.faction.boss.title.boss.battle.left.time
+Sisa waktu : 
+ui.faction.boss.title.boss.battle.my.damage
+Damageku :
+ui.faction.boss.title.boss.battle.my.rank
+Peringkatku :
+ui.faction.boss.title.boss.battle.data.delay.tip
+Keterlambatan dalam sinkronisasi data
+ui.faction.boss.text.boss.battle.chapter
+Chapter {0}
+ui.faction.boss.text.boss.battle.challenge.count
+{0}/2 kali
+ui.faction.boss.text.boss.battle.finish.kill.boss
+BOSS berhasil dikalahkan
+ui.faction.boss.text.boss.battle.finish.unkill.boss
+BOSS sudah pergi
+ui.faction.boss.title.setting
+Pengaturan
+ui.faction.boss.title.setting.select.difficulty
+Pilih tingkat kesulitan :
+ui.faction.boss.text.history.max.chapter
+Riwayat progress tertinggi Chapter {0}
+ui.faction.boss.text.setting.btn.current.difficulty
+Pertahankan saat ini
+ui.faction.boss.text.setting.btn.next.difficulty
+Lanjut menantang
+ui.faction.boss.text.setting.select.chapter
+Lain kali melawan chapter {0}
+ui.faction.boss.title.setting.select.time
+Pilih waktu mulai :
+ui.faction.boss.text.setting.faction.challenge.count
+Sisa minggu ini {0} kali
+ui.faction.boss.title.chapter.award
+Reward
+ui.faction.boss.title.chapter.award.item
+Lolos Chapter {0}
+ui.faction.boss.text.fortune.dungeon.level
+Lv.{0}
+ui.faction.boss.title.btn.show.award
+Hadiah \n klik untuk lihat
+ui.faction.boss.text.fortune.dungeon.time.out
+Dungeon ini sudah kadaluarsa
+ui.faction.boss.title.fortune.dungeon.award
+Chapter ke {0} serikat Guild
+ui.faction.boss.text.fortune.dungeon.award.count
+Jumlah : {0}/{1}
+ui.faction.boss.text.fortune.dungeon.award.positon
+No.{0}
+ui.faction.boss.error.not.have.permission
+Kamu tidak berhak mengubah
+ui.faction.boss.error.my.challenge.count.not.enough
+Jumlah partisipasi kamu minggu ini sudah terpakai habis
+ui.faction.boss.error.select.time.too.much
+Batalkan salah satu tanggal
+ui.faction.boss.error.select.time.too.little
+Silakan pilih {0} waktu buka
+ui.faction.boss.error.get.fortune.dungeon.award
+Lewati dungeon untuk ambil
+ui.faction.boss.error.enter.fortune.dungeon
+Tidak berhak mengambil hadiah
+ui.faction.boss.error.boss.battle.unopen
+Event masih belum dimulai
+ui.faction.boss.boss.battle.open
+Dibuka setiap minggu jam 19:00~19:20 
+ui.faction.boss.boss.battle.over
+Event hari ini sudah berakhir
+ui.faction.boss.title.boss.battle.rank.name.default
+Sementara tiada
+ui.faction.boss.title.boss.battle.my.damage.default
+
+ui.faction.boss.title.boss.battle.my.rank.default
+Belum masuk rank
+ui.faction.boss.error.aready.completed.boss.battle
+Setiap hari hanya bisa mengikuti 1 kali perang BOSS
+ui.faction.boss.error.boss.battle.time
+Tidak bisa diganti pada saat event dibuka

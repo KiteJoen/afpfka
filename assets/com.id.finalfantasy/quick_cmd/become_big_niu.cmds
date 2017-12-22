@@ -1,0 +1,86 @@
+<color=#00ff00>一键巨牛</color>
+AddCash 1000000000
+AddMoney 1000000000
+AddFactionMoney 1000000000
+AddMilitaryMoney 1000000000
+AddTowerPoint 1000000000
+AddItem 440001 1000
+AddItem 440003 1000
+AddItem 440006 1000000000
+AddItem 440007 1000000000
+AddItem 440008 1000000000
+AddItem 440019 1000000000
+delay 500
+AddItemRange 420101 420110 100000
+AddItemRange 420151 420155 100000
+delay 1000
+SetVipLevel 999
+FinishChapters 0 7
+delay 500
+AddHero 31 16 1
+AddHero 32 16 1
+AddHero 13 16 1
+AddHero 38 16 1
+delay 200
+
+SetBattleHeroes -1 31 32 13 38
+delay 200
+
+SetHeroLevel 1 100
+Delay 200
+
+SetAllHeroesLevel 100
+delay 200
+SetAllHeroesSkillLevel 1 100
+SetAllHeroesSkillLevel 2 100
+SetAllHeroesSkillLevel 3 100
+delay 1000
+
+AddEquipmentRange 300611 300614 200 20 5
+AddEquipmentRange 500015 500016 80 20 5
+delay 500
+
+puton 300611 1 
+puton 300612 1 
+puton 300613 1 
+puton 300614 1 
+puton 500015 1 
+puton 500016 1
+delay 1000
+
+puton 300611 2 
+puton 300612 2 
+puton 300613 2 
+puton 300614 2 
+puton 500015 2 
+puton 500016 2
+delay 1000
+
+puton 300611 3 
+puton 300612 3 
+puton 300613 3 
+puton 300614 3 
+puton 500015 3 
+puton 500016 3
+delay 1000
+
+puton 300611 4 
+puton 300612 4 
+puton 300613 4 
+puton 300614 4 
+puton 500015 4 
+puton 500016 4
+delay 1000
+
+puton 300611 5 
+puton 300612 5 
+puton 300613 5 
+puton 300614 5 
+puton 500015 5 
+puton 500016 5
+delay 1000
+
+AddItem 420003 999999
+delay 200
+
+SetHeroGrade 1 16

@@ -1,0 +1,2010 @@
+activity_1_name
+New Server Party
+activity_1_desc
+Eidolon Golem
+activity_1_desc2
+New Server Party
+activity_2_name
+Mid-Month Party
+activity_2_desc
+Get Diamonds
+activity_2_desc2
+Mid-Month Party
+activity_3_name
+Limited Time Diamond Sale
+activity_3_desc
+It's a limited time Diamond sale. Don't miss out!
+activity_4_name
+Sign In
+activity_4_desc
+Sign in daily for rewards
+activity_5_name
+Link Your Phone
+activity_5_desc
+Link your phone to get a pack!
+activity_6_name
+Shop Discount
+activity_6_desc
+Buy discounted items for a recharge bonus!
+activity_7_name
+Collect Energy
+activity_7_desc
+Collect 100 Energy from 12:00-15:00 and 18:00-21:00 daily!
+activity_8_name
+gift code
+activity_8_desc
+Enter gift code to get item
+activity_9_name
+Growth Fund
+activity_9_desc
+Get rewarded for upgrades! Don't you want to join?
+activity_10_name
+Deluxe Sign In
+activity_10_desc
+With level upgrades, you can receive various daily rewards.
+activity_11_name
+Spin 'n Win
+activity_12_name
+VIP Benefits
+activity_13_name
+Hottie Constume Shop
+activity_14_name
+Hottie Title Shop
+activity_15_name
+Antler Gift
+activity_16_name
+Pyramid Promotion
+activity_16_title_b
+Rules
+activity_16_title_s1
+Pyramid Quest
+activity_16_des_1
+When the player you invited reaches a specified level, power or login, you can receive promotional awards. Go on, invite your friends!
+activity_16_title_s2
+Recharge Pts
+activity_16_des_2
+Invite other players to recharge. For every 1 RMB spent by a person you invite, you'll get 1 Recharge Point\nA certain percentage of the recharge Pts of the people they invite will go to you.\nGet enough recharge Pts to collect a ton of Diamonds
+activity_17_name
+Bind Promotion
+activity_18_name
+Limited Time Diamond Sale
+activity_18_desc
+It's a limited time Diamond sale. Don't miss out!
+activity_100_name
+Daily Sign In
+activity_100_desc
+Sign in daily for rewards
+activity_101_name
+Daily Sign In
+activity_101_desc
+Sign in daily for rewards
+activity_102_name
+Daily Sign In
+activity_102_desc
+Sign in daily for rewards
+activity_103_name
+Daily Sign In
+activity_103_desc
+Sign in daily for rewards
+activity_104_name
+Daily Sign In
+activity_104_desc
+Sign in daily for rewards
+activity_105_name
+Daily Sign In
+activity_105_desc
+Sign in daily for rewards
+activity_106_name
+Daily Sign In
+activity_106_desc
+Sign in daily for rewards
+activity_107_name
+Daily Sign In
+activity_107_desc
+Sign in daily for rewards
+activity_108_name
+Daily Sign In
+activity_108_desc
+Sign in daily for rewards
+activity_109_name
+Daily Sign In
+activity_109_desc
+Sign in daily for rewards
+activity_110_name
+Daily Sign In
+activity_110_desc
+Sign in daily for rewards
+activity_111_name
+Daily Sign In
+activity_111_desc
+Sign in daily for rewards
+activity_112_name
+Daily Sign In
+activity_112_desc
+Sign in daily for rewards
+activity_113_name
+Daily Sign In
+activity_113_desc
+Sign in daily for rewards
+activity_200_name
+Hero Summon
+activity_200_desc
+Complete targets to receive rewards
+activity_201_name
+Gem Draw
+activity_201_desc
+Complete targets to receive rewards
+activity_202_name
+Gear Draw
+activity_202_desc
+Complete targets to receive rewards
+activity_203_name
+Hero Summon
+activity_203_desc
+Complete targets to receive rewards
+activity_204_name
+Gem Draw
+activity_204_desc
+Complete targets to receive rewards
+activity_205_name
+Gear Draw
+activity_205_desc
+Complete targets to receive rewards
+activity_211_name
+Normal Dungeon
+activity_211_desc
+Complete targets to receive rewards
+activity_212_name
+Accessory Arena
+activity_212_desc
+Complete targets to receive rewards
+activity_213_name
+Elite Dungeons
+activity_213_desc
+Complete targets to receive rewards
+activity_214_name
+Arena
+activity_214_desc
+Complete targets to receive rewards
+activity_221_name
+Diamond Storm
+activity_221_desc
+Spend Diamond to get a better reward!
+activity_222_name
+Diamond Storm
+activity_222_desc
+Spend Diamond to get a better reward!
+activity_223_name
+Diamond Storm
+activity_223_desc
+Spend Diamond to get a better reward!
+activity_224_name
+Diamond Storm
+activity_224_desc
+Spend Diamond to get a better reward!
+activity_225_name
+Diamond Storm
+activity_225_desc
+Happy White Valentine's Day! Spend diamonds to get powerful heroes and more diamonds!
+activity_226_name
+Diamond Storm
+activity_226_desc
+The storm is coming. Buy more, get more for free!
+activity_227_name
+Diamond Storm
+activity_227_desc
+The storm is coming. Buy more, get more for free!
+activity_228_name
+Diamond Storm
+activity_228_desc
+The storm is coming. Buy more, get more for free!
+activity_231_name
+Nightmare Dungeon
+activity_231_desc
+Nightmare Dungeon chest rewards greatly increased!
+activity_232_name
+Update Benefits
+activity_232_desc
+Updated benefits! Login to claim your gift!
+activity_233_name
+Girls' Day Gift
+activity_233_desc
+Happy Girls' Day! Login to claim your gift!
+activity_234_name
+White Valentine's Day
+activity_234_desc
+Happy White Valentine's Day! Login to claim your gift!
+activity_235_name
+Update Benefits
+activity_235_desc
+Updated benefits! Login to claim your gift!
+activity_236_name
+April Fool's Day - Login Gift
+activity_236_desc
+Happy April Fool's Day! Login to receive gifts!
+activity_237_name
+Qingming Login Gift
+activity_237_desc
+Happy Qingming! Login to claim your gift!
+activity_238_name
+Update Benefits
+activity_238_desc
+Updated benefits! Login to claim your gift!
+activity_239_name
+5/20 Login Gift
+activity_239_desc
+Happy 5/20! Login to claim your gift!
+activity_240_name
+Update Benefits
+activity_240_desc
+Updated benefits! Login to claim your gift!
+activity_241_name
+Limited Hero
+activity_241_desc
+Draw Limited Time Heroes and get great rewards!
+activity_242_name
+Limited Hero
+activity_242_desc
+Draw Limited Time Heroes and get great rewards!
+activity_243_name
+Limited Hero
+activity_243_desc
+Draw Limited Time Heroes and get great rewards!
+activity_244_name
+Limited Hero
+activity_244_desc
+Draw Limited Time Heroes and get great rewards!
+activity_245_name
+Limited Hero
+activity_245_desc
+Draw Limited Time Heroes and get great rewards!
+activity_246_name
+Limited Hero
+activity_246_desc
+Draw Limited Time Heroes and get great rewards!
+activity_247_name
+Limited Hero
+activity_247_desc
+Draw Limited Time Heroes and get great rewards!
+activity_248_name
+Limited Hero
+activity_248_desc
+Draw Limited Time Heroes and get great rewards!
+activity_249_name
+Limited Hero
+activity_249_desc
+Draw Limited Time Heroes and get great rewards!
+activity_250_name
+Limited Hero
+activity_250_desc
+Draw Limited Time Heroes and get great rewards!
+activity_251_name
+Limited Hero
+activity_251_desc
+Draw Limited Time Heroes and get great rewards!
+activity_252_name
+Limited Hero
+activity_252_desc
+Draw Limited Time Heroes and get great rewards!
+activity_253_name
+Limited Hero
+activity_253_desc
+Draw Limited Time Heroes and get great rewards!
+activity_254_name
+Limited Hero
+activity_254_desc
+Draw Limited Time Heroes and get great rewards!
+activity_255_name
+Limited Hero
+activity_255_desc
+Draw Limited Time Heroes and get great rewards!
+activity_256_name
+Limited Hero
+activity_256_desc
+Draw Limited Time Heroes and get great rewards!
+activity_257_name
+Limited Hero
+activity_257_desc
+Draw Limited Time Heroes and get great rewards!
+activity_258_name
+Limited Hero
+activity_258_desc
+Draw Limited Time Heroes and get great rewards!
+activity_259_name
+Limited Hero
+activity_259_desc
+Draw Limited Time Heroes and get great rewards!
+activity_260_name
+Limited Hero
+activity_260_desc
+Draw Limited Time Heroes and get great rewards!
+activity_261_name
+Limited Hero
+activity_261_desc
+Draw Limited Time Heroes and get great rewards!
+activity_262_name
+Limited Hero
+activity_262_desc
+Draw Limited Time Heroes and get great rewards!
+activity_263_name
+Limited Hero
+activity_263_desc
+Draw Limited Time Heroes and get great rewards!
+activity_264_name
+Limited Hero
+activity_264_desc
+Draw Limited Time Heroes and get great rewards!
+activity_265_name
+Limited Hero
+activity_265_desc
+Draw Limited Time Heroes and get great rewards!
+activity_266_name
+Limited Hero
+activity_266_desc
+Draw Limited Time Heroes and get great rewards!
+activity_267_name
+Limited Hero
+activity_267_desc
+Draw Limited Time Heroes and get great rewards!
+activity_268_name
+Limited Hero
+activity_268_desc
+Draw Limited Time Heroes and get great rewards!
+activity_269_name
+Limited Hero
+activity_269_desc
+Draw Limited Time Heroes and get great rewards!
+activity_270_name
+Limited Hero
+activity_270_desc
+Draw Limited Time Heroes and get great rewards!
+activity_271_name
+Limited Hero
+activity_271_desc
+Draw Limited Time Heroes and get great rewards!
+activity_272_name
+Limited Hero
+activity_272_desc
+Draw Limited Time Heroes and get great rewards!
+activity_273_name
+Limited Hero
+activity_273_desc
+Draw Limited Time Heroes and get great rewards!
+activity_274_name
+Limited Hero
+activity_274_desc
+Draw Limited Time Heroes and get great rewards!
+activity_275_name
+Limited Hero
+activity_275_desc
+Draw Limited Time Heroes and get great rewards!
+activity_276_name
+Limited Hero
+activity_276_desc
+Draw Limited Time Heroes and get great rewards!
+activity_277_name
+Limited Hero
+activity_277_desc
+Draw Limited Time Heroes and get great rewards!
+activity_278_name
+Limited Hero
+activity_278_desc
+Draw Limited Time Heroes and get great rewards!
+activity_279_name
+Limited Hero
+activity_279_desc
+Draw Limited Time Heroes and get great rewards!
+activity_280_name
+Limited Hero
+activity_280_desc
+Draw Limited Time Heroes and get great rewards!
+activity_281_name
+Limited Hero
+activity_281_desc
+Draw Limited Time Heroes and get great rewards!
+activity_282_name
+Limited Hero
+activity_282_desc
+Draw Limited Time Heroes and get great rewards!
+activity_283_name
+Limited Hero
+activity_283_desc
+Draw Limited Time Heroes and get great rewards!
+activity_284_name
+Limited Hero
+activity_284_desc
+Draw Limited Time Heroes and get great rewards!
+activity_285_name
+Limited Hero
+activity_285_desc
+Draw Limited Time Heroes and get great rewards!
+activity_286_name
+Limited Hero
+activity_286_desc
+Draw Limited Time Heroes and get great rewards!
+activity_300_name
+Power Rankings
+activity_300_desc
+Higher Combat Power nets you better rewards. Rewards are sent by mail.
+activity_301_name
+Hero Power Rankings
+activity_301_desc
+Higher Hero Combat Power nets you better rewards. Rewards are sent by mail.
+activity_302_name
+Gem Rating Ranking
+activity_302_desc
+Higher Gem Pts nets you better rewards. Rewards are sent by mail.
+activity_303_name
+Gear Rating Ranking
+activity_303_desc
+Higher gear Pts get you better rewards. Rewards are sent by mail.
+activity_400_name
+Accumulative Recharge
+activity_400_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_401_name
+Accumulative Recharge
+activity_401_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_402_name
+Accumulative Recharge
+activity_402_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_403_name
+Accumulative Recharge
+activity_403_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_404_name
+Accumulative Recharge
+activity_404_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_405_name
+Accumulative Recharge
+activity_405_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_406_name
+Accumulative Recharge
+activity_406_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_407_name
+Accumulative Recharge
+activity_407_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_408_name
+Accumulative Recharge
+activity_408_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_409_name
+Accumulative Recharge
+activity_409_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_410_name
+Accumulative Recharge
+activity_410_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_411_name
+Accumulative Recharge
+activity_411_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_412_name
+Accumulative Recharge
+activity_412_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_413_name
+Accumulative Recharge
+activity_413_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_414_name
+Accumulative Recharge
+activity_414_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_415_name
+Accumulative Recharge
+activity_415_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_416_name
+Accumulative Recharge
+activity_416_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_417_name
+Accumulative Recharge
+activity_417_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_418_name
+Accumulative Recharge
+activity_418_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_419_name
+Accumulative Recharge
+activity_419_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_420_name
+Accumulative Recharge
+activity_420_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_421_name
+Accumulative Recharge
+activity_421_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_422_name
+Accumulative Recharge
+activity_422_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_423_name
+Accumulative Recharge
+activity_423_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_424_name
+Accumulative Recharge
+activity_424_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_425_name
+Accumulative Recharge
+activity_425_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_426_name
+Accumulative Recharge
+activity_426_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_427_name
+Accumulative Recharge
+activity_427_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_428_name
+Accumulative Recharge
+activity_428_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_429_name
+Accumulative Recharge
+activity_429_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_430_name
+Accumulative Recharge
+activity_430_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_431_name
+Accumulative Recharge
+activity_431_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_432_name
+Accumulative Recharge
+activity_432_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_433_name
+Accumulative Recharge
+activity_433_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_434_name
+Accumulative Recharge
+activity_434_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_435_name
+Accumulative Recharge
+activity_435_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_436_name
+Accumulative Recharge
+activity_436_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_437_name
+Accumulative Recharge
+activity_437_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_438_name
+Accumulative Recharge
+activity_438_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_439_name
+Accumulative Recharge
+activity_439_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_440_name
+Accumulative Recharge
+activity_440_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_441_name
+Accumulative Recharge
+activity_441_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_442_name
+Accumulative Recharge
+activity_442_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_443_name
+Accumulative Recharge
+activity_443_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_444_name
+Accumulative Recharge
+activity_444_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_445_name
+Accumulative Recharge
+activity_445_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_446_name
+Accumulative Recharge
+activity_446_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_447_name
+Accumulative Recharge
+activity_447_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_448_name
+Accumulative Recharge
+activity_448_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_449_name
+Accumulative Recharge
+activity_449_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_450_name
+Accumulative Recharge
+activity_450_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_451_name
+Accumulative Recharge
+activity_451_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_452_name
+Accumulative Recharge
+activity_452_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_453_name
+Accumulative Recharge
+activity_453_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_454_name
+Accumulative Recharge
+activity_454_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_455_name
+Accumulative Recharge
+activity_455_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_456_name
+Accumulative Recharge
+activity_456_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_457_name
+Accumulative Recharge
+activity_457_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_458_name
+Accumulative Recharge
+activity_458_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_459_name
+Accumulative Recharge
+activity_459_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_460_name
+Accumulative Recharge
+activity_460_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_461_name
+Accumulative Recharge
+activity_461_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_462_name
+Accumulative Recharge
+activity_462_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_463_name
+Accumulative Recharge
+activity_463_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_464_name
+Accumulative Recharge
+activity_464_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_465_name
+Accumulative Recharge
+activity_465_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_466_name
+Accumulative Recharge
+activity_466_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_467_name
+Accumulative Recharge
+activity_467_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_468_name
+Accumulative Recharge
+activity_468_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_469_name
+Accumulative Recharge
+activity_469_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_470_name
+Accumulative Recharge
+activity_470_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_471_name
+Accumulative Recharge
+activity_471_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_472_name
+Accumulative Recharge
+activity_472_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_473_name
+Accumulative Recharge
+activity_473_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_474_name
+Accumulative Recharge
+activity_474_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_475_name
+Accumulative Recharge
+activity_475_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_476_name
+Accumulative Recharge
+activity_476_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_477_name
+Accumulative Recharge
+activity_477_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_478_name
+Accumulative Recharge
+activity_478_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_479_name
+Accumulative Recharge
+activity_479_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_480_name
+Accumulative Recharge
+activity_480_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_481_name
+Accumulative Recharge
+activity_481_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_482_name
+Accumulative Recharge
+activity_482_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_483_name
+Accumulative Recharge
+activity_483_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_484_name
+Accumulative Recharge
+activity_484_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_485_name
+Accumulative Recharge
+activity_485_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_486_name
+Accumulative Recharge
+activity_486_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_487_name
+Accumulative Recharge
+activity_487_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_488_name
+Accumulative Recharge
+activity_488_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_489_name
+Accumulative Recharge
+activity_489_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_490_name
+Accumulative Recharge
+activity_490_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_491_name
+Accumulative Recharge
+activity_491_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_492_name
+Accumulative Recharge
+activity_492_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_493_name
+Accumulative Recharge
+activity_493_desc
+Accumulative recharge to a required amount to get great rewards!
+activity_500_name
+Constant Recharge
+activity_500_desc
+Keep recharging for a nice gift!
+activity_501_name
+Constant Recharge
+activity_501_desc
+Keep recharging for a nice gift!
+activity_502_name
+Constant Recharge
+activity_502_desc
+Keep recharging for a nice gift!
+activity_503_name
+Constant Recharge
+activity_503_desc
+Keep recharging for a nice gift!
+activity_504_name
+Constant Recharge
+activity_504_desc
+Keep recharging for a nice gift!
+activity_505_name
+Constant Recharge
+activity_505_desc
+Keep recharging for a nice gift!
+activity_506_name
+Constant Recharge
+activity_506_desc
+Keep recharging for a nice gift!
+activity_507_name
+Constant Recharge
+activity_507_desc
+Keep recharging for a nice gift!
+activity_508_name
+Constant Recharge
+activity_508_desc
+Keep recharging for a nice gift!
+activity_509_name
+Constant Recharge
+activity_509_desc
+Keep recharging for a nice gift!
+activity_510_name
+Constant Recharge
+activity_510_desc
+Keep recharging for a nice gift!
+activity_511_name
+Constant Recharge
+activity_511_desc
+Keep recharging for a nice gift!
+activity_512_name
+Constant Recharge
+activity_512_desc
+Keep recharging for a nice gift!
+activity_513_name
+Constant Recharge
+activity_513_desc
+Keep recharging for a nice gift!
+activity_514_name
+Constant Recharge
+activity_514_desc
+Keep recharging for a nice gift!
+activity_515_name
+Constant Recharge
+activity_515_desc
+Keep recharging for a nice gift!
+activity_516_name
+Constant Recharge
+activity_516_desc
+Keep recharging for a nice gift!
+activity_517_name
+Constant Recharge
+activity_517_desc
+Keep recharging for a nice gift!
+activity_518_name
+Constant Recharge
+activity_518_desc
+Keep recharging for a nice gift!
+activity_519_name
+Constant Recharge
+activity_519_desc
+Keep recharging for a nice gift!
+activity_520_name
+Constant Recharge
+activity_520_desc
+Keep recharging for a nice gift!
+activity_521_name
+Constant Recharge
+activity_521_desc
+Keep recharging for a nice gift!
+activity_522_name
+Constant Recharge
+activity_522_desc
+Keep recharging for a nice gift!
+activity_523_name
+Constant Recharge
+activity_523_desc
+Keep recharging for a nice gift!
+activity_524_name
+Constant Recharge
+activity_524_desc
+Keep recharging for a nice gift!
+activity_525_name
+Constant Recharge
+activity_525_desc
+Keep recharging for a nice gift!
+activity_526_name
+Constant Recharge
+activity_526_desc
+Keep recharging for a nice gift!
+activity_527_name
+Constant Recharge
+activity_527_desc
+Keep recharging for a nice gift!
+activity_528_name
+Constant Recharge
+activity_528_desc
+Keep recharging for a nice gift!
+activity_529_name
+Constant Recharge
+activity_529_desc
+Keep recharging for a nice gift!
+activity_530_name
+Constant Recharge
+activity_530_desc
+Keep recharging for a nice gift!
+activity_531_name
+Constant Recharge
+activity_531_desc
+Keep recharging for a nice gift!
+activity_532_name
+Constant Recharge
+activity_532_desc
+Keep recharging for a nice gift!
+activity_533_name
+Constant Recharge
+activity_533_desc
+Keep recharging for a nice gift!
+activity_534_name
+Constant Recharge
+activity_534_desc
+Keep recharging for a nice gift!
+activity_535_name
+Constant Recharge
+activity_535_desc
+Keep recharging for a nice gift!
+activity_536_name
+Constant Recharge
+activity_536_desc
+Keep recharging for a nice gift!
+activity_537_name
+Constant Recharge
+activity_537_desc
+Keep recharging for a nice gift!
+activity_538_name
+Constant Recharge
+activity_538_desc
+Keep recharging for a nice gift!
+activity_539_name
+Constant Recharge
+activity_539_desc
+Keep recharging for a nice gift!
+activity_540_name
+Constant Recharge
+activity_540_desc
+Keep recharging for a nice gift!
+activity_541_name
+Constant Recharge
+activity_541_desc
+Keep recharging for a nice gift!
+activity_542_name
+Constant Recharge
+activity_542_desc
+Keep recharging for a nice gift!
+activity_543_name
+Constant Recharge
+activity_543_desc
+Keep recharging for a nice gift!
+activity_544_name
+Constant Recharge
+activity_544_desc
+Keep recharging for a nice gift!
+activity_545_name
+Constant Recharge
+activity_545_desc
+Keep recharging for a nice gift!
+activity_546_name
+Constant Recharge
+activity_546_desc
+Keep recharging for a nice gift!
+activity_547_name
+Constant Recharge
+activity_547_desc
+Keep recharging for a nice gift!
+activity_548_name
+Constant Recharge
+activity_548_desc
+Keep recharging for a nice gift!
+activity_549_name
+Constant Recharge
+activity_549_desc
+Keep recharging for a nice gift!
+activity_550_name
+Constant Recharge
+activity_550_desc
+Keep recharging for a nice gift!
+activity_551_name
+Constant Recharge
+activity_551_desc
+Keep recharging for a nice gift!
+activity_552_name
+Constant Recharge
+activity_552_desc
+Keep recharging for a nice gift!
+activity_553_name
+Constant Recharge
+activity_553_desc
+Keep recharging for a nice gift!
+activity_554_name
+Constant Recharge
+activity_554_desc
+Keep recharging for a nice gift!
+activity_555_name
+Constant Recharge
+activity_555_desc
+Keep recharging for a nice gift!
+activity_556_name
+Constant Recharge
+activity_556_desc
+Keep recharging for a nice gift!
+activity_557_name
+Constant Recharge
+activity_557_desc
+Keep recharging for a nice gift!
+activity_558_name
+Constant Recharge
+activity_558_desc
+Keep recharging for a nice gift!
+activity_559_name
+Constant Recharge
+activity_559_desc
+Keep recharging for a nice gift!
+activity_560_name
+Constant Recharge
+activity_560_desc
+Keep recharging for a nice gift!
+activity_561_name
+Constant Recharge
+activity_561_desc
+Keep recharging for a nice gift!
+activity_562_name
+Constant Recharge
+activity_562_desc
+Keep recharging for a nice gift!
+activity_563_name
+Constant Recharge
+activity_563_desc
+Keep recharging for a nice gift!
+activity_564_name
+Constant Recharge
+activity_564_desc
+Keep recharging for a nice gift!
+activity_565_name
+Constant Recharge
+activity_565_desc
+Keep recharging for a nice gift!
+activity_566_name
+Constant Recharge
+activity_566_desc
+Keep recharging for a nice gift!
+activity_567_name
+Constant Recharge
+activity_567_desc
+Keep recharging for a nice gift!
+activity_568_name
+Constant Recharge
+activity_568_desc
+Keep recharging for a nice gift!
+activity_569_name
+Constant Recharge
+activity_569_desc
+Keep recharging for a nice gift!
+activity_570_name
+Constant Recharge
+activity_570_desc
+Keep recharging for a nice gift!
+activity_571_name
+Constant Recharge
+activity_571_desc
+Keep recharging for a nice gift!
+activity_572_name
+Constant Recharge
+activity_572_desc
+Keep recharging for a nice gift!
+activity_573_name
+Constant Recharge
+activity_573_desc
+Keep recharging for a nice gift!
+activity_574_name
+Constant Recharge
+activity_574_desc
+Keep recharging for a nice gift!
+activity_575_name
+Constant Recharge
+activity_575_desc
+Keep recharging for a nice gift!
+activity_576_name
+Constant Recharge
+activity_576_desc
+Keep recharging for a nice gift!
+activity_577_name
+Constant Recharge
+activity_577_desc
+Keep recharging for a nice gift!
+activity_578_name
+Constant Recharge
+activity_578_desc
+Keep recharging for a nice gift!
+activity_579_name
+Constant Recharge
+activity_579_desc
+Keep recharging for a nice gift!
+activity_580_name
+Constant Recharge
+activity_580_desc
+Keep recharging for a nice gift!
+activity_581_name
+Constant Recharge
+activity_581_desc
+Keep recharging for a nice gift!
+activity_582_name
+Constant Recharge
+activity_582_desc
+Keep recharging for a nice gift!
+activity_583_name
+Constant Recharge
+activity_583_desc
+Keep recharging for a nice gift!
+activity_584_name
+Constant Recharge
+activity_584_desc
+Keep recharging for a nice gift!
+activity_585_name
+Constant Recharge
+activity_585_desc
+Keep recharging for a nice gift!
+activity_586_name
+Constant Recharge
+activity_586_desc
+Keep recharging for a nice gift!
+activity_587_name
+Constant Recharge
+activity_587_desc
+Keep recharging for a nice gift!
+activity_588_name
+Constant Recharge
+activity_588_desc
+Keep recharging for a nice gift!
+activity_589_name
+Constant Recharge
+activity_589_desc
+Keep recharging for a nice gift!
+activity_590_name
+Constant Recharge
+activity_590_desc
+Keep recharging for a nice gift!
+activity_591_name
+Constant Recharge
+activity_591_desc
+Keep recharging for a nice gift!
+activity_592_name
+Constant Recharge
+activity_592_desc
+Keep recharging for a nice gift!
+activity_593_name
+Constant Recharge
+activity_593_desc
+Keep recharging for a nice gift!
+activity_594_name
+Constant Recharge
+activity_594_desc
+Keep recharging for a nice gift!
+activity_595_name
+Constant Recharge
+activity_595_desc
+Keep recharging for a nice gift!
+activity_596_name
+Constant Recharge
+activity_596_desc
+Keep recharging for a nice gift!
+activity_597_name
+Constant Recharge
+activity_597_desc
+Keep recharging for a nice gift!
+activity_598_name
+Constant Recharge
+activity_598_desc
+Keep recharging for a nice gift!
+activity_5001_name
+Constant Recharge
+activity_5001_desc
+Keep recharging for a nice gift!
+activity_5002_name
+Constant Recharge
+activity_5002_desc
+Keep recharging for a nice gift!
+activity_5003_name
+Constant Recharge
+activity_5003_desc
+Keep recharging for a nice gift!
+activity_5004_name
+Constant Recharge
+activity_5004_desc
+Keep recharging for a nice gift!
+activity_5005_name
+Constant Recharge
+activity_5005_desc
+Keep recharging for a nice gift!
+activity_5006_name
+Constant Recharge
+activity_5006_desc
+Keep recharging for a nice gift!
+activity_5007_name
+Constant Recharge
+activity_5007_desc
+Keep recharging for a nice gift!
+activity_5008_name
+Constant Recharge
+activity_5008_desc
+Keep recharging for a nice gift!
+activity_5009_name
+Constant Recharge
+activity_5009_desc
+Keep recharging for a nice gift!
+activity_5010_name
+Constant Recharge
+activity_5010_desc
+Keep recharging for a nice gift!
+activity_5011_name
+Constant Recharge
+activity_5011_desc
+Keep recharging for a nice gift!
+activity_5012_name
+Constant Recharge
+activity_5012_desc
+Keep recharging for a nice gift!
+activity_5013_name
+Constant Recharge
+activity_5013_desc
+Keep recharging for a nice gift!
+activity_5014_name
+Constant Recharge
+activity_5014_desc
+Keep recharging for a nice gift!
+activity_5015_name
+Constant Recharge
+activity_5015_desc
+Keep recharging for a nice gift!
+activity_5016_name
+Constant Recharge
+activity_5016_desc
+Keep recharging for a nice gift!
+activity_5017_name
+Constant Recharge
+activity_5017_desc
+Keep recharging for a nice gift!
+activity_5018_name
+Constant Recharge
+activity_5018_desc
+Keep recharging for a nice gift!
+activity_5019_name
+Constant Recharge
+activity_5019_desc
+Keep recharging for a nice gift!
+activity_5020_name
+Constant Recharge
+activity_5020_desc
+Keep recharging for a nice gift!
+activity_5021_name
+Constant Recharge
+activity_5021_desc
+Keep recharging for a nice gift!
+activity_5022_name
+Constant Recharge
+activity_5022_desc
+Keep recharging for a nice gift!
+activity_5023_name
+Constant Recharge
+activity_5023_desc
+Keep recharging for a nice gift!
+activity_5024_name
+Constant Recharge
+activity_5024_desc
+Keep recharging for a nice gift!
+activity_5025_name
+Constant Recharge
+activity_5025_desc
+Keep recharging for a nice gift!
+activity_5026_name
+Constant Recharge
+activity_5026_desc
+Keep recharging for a nice gift!
+activity_5027_name
+Constant Recharge
+activity_5027_desc
+Keep recharging for a nice gift!
+activity_5028_name
+Constant Recharge
+activity_5028_desc
+Keep recharging for a nice gift!
+activity_5029_name
+Constant Recharge
+activity_5029_desc
+Keep recharging for a nice gift!
+activity_600_name
+Mythic Accessory Shop
+activity_600_desc
+Each period has different themed items. Don't miss out!
+activity_601_name
+Powerful Hero Shards Shop
+activity_601_desc
+Each period has different themed items. Don't miss out!
+activity_602_name
+Deluxe Gear Shop
+activity_602_desc
+Each period has different themed items. Don't miss out!
+activity_603_name
+Gem Shop
+activity_603_desc
+Each period has different themed items. Don't miss out!
+activity_604_name
+Awakening Shop
+activity_604_desc
+Don't miss the limited time Awakening Material sold!
+activity_605_name
+Awakening Material Shop
+activity_605_desc
+Don't miss the limited time Awakening Material discount!
+activity_606_name
+Artifact Shop
+activity_606_desc
+Mythic Gear on Sale! Don't miss the good chance!
+activity_607_name
+Awakening Shop
+activity_607_desc
+Don't miss the limited time Awakening Material discount!
+activity_608_name
+Mythic Gear Shop
+activity_608_desc
+Mythic Gear Shards on Sale! Don't miss this chance!
+activity_609_name
+Awakening Shop
+activity_609_desc
+Don't miss the limited time Awakening Material discount!
+activity_700_name
+Limited Hero
+activity_700_desc
+Limited Mythic Hero - Rubrum l'Cie!
+activity_701_name
+Limited Hero
+activity_701_desc
+Limited Mythic Hero - MA Commander!
+activity_702_name
+Limited Hero
+activity_702_desc
+Limited Mythic Hero - Crimson Angel!
+activity_703_name
+Limited Hero
+activity_703_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_704_name
+Limited Hero
+activity_704_desc
+Limited Mythic Hero - Crimson Angel!
+activity_705_name
+Limited Hero
+activity_705_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_706_name
+Limited Hero
+activity_706_desc
+Limited Mythic Hero - Crimson Angel!
+activity_707_name
+Limited Hero
+activity_707_desc
+Limited Mythic Hero - Crimson Angel!
+activity_708_name
+Limited Hero
+activity_708_desc
+Limited Mythic Hero - Crimson Angel!
+activity_709_name
+Limited Hero
+activity_709_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_710_name
+Limited Hero
+activity_710_desc
+Limited Mythic Hero - Crimson Angel!
+activity_711_name
+Limited Hero
+activity_711_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_712_name
+Limited Hero
+activity_712_desc
+Limited Mythic Hero - Crimson Angel!
+activity_713_name
+Limited Hero
+activity_713_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_714_name
+Limited Hero
+activity_714_desc
+Limited Mythic Hero - Crimson Angel!
+activity_715_name
+Limited Hero
+activity_715_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_716_name
+Limited Hero
+activity_716_desc
+Limited Mythic Hero - Crimson Angel!
+activity_717_name
+Limited Hero
+activity_717_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_718_name
+Limited Hero
+activity_718_desc
+Limited Mythic Hero - Crimson Angel!
+activity_719_name
+Limited Hero
+activity_719_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_720_name
+Limited Hero
+activity_720_desc
+Limited Mythic Hero - Crimson Angel!
+activity_721_name
+Limited Hero
+activity_721_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_722_name
+Limited Hero
+activity_722_desc
+Limited Mythic Hero - Crimson Angel!
+activity_723_name
+Limited Hero
+activity_723_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_724_name
+Limited Hero
+activity_724_desc
+Limited Mythic Hero - Crimson Angel!
+activity_725_name
+Limited Hero
+activity_725_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_726_name
+Limited Hero
+activity_726_desc
+Limited Mythic Hero - Crimson Angel!
+activity_727_name
+Limited Hero
+activity_727_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_728_name
+Limited Hero
+activity_728_desc
+Limited Mythic Hero - Crimson Angel!
+activity_729_name
+Limited Hero
+activity_729_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_730_name
+Limited Hero
+activity_730_desc
+Limited Mythic Hero - Crimson Angel!
+activity_731_name
+Limited Hero
+activity_731_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_732_name
+Limited Hero
+activity_732_desc
+Limited Mythic Hero - Crimson Angel!
+activity_733_name
+Limited Hero
+activity_733_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_734_name
+Limited Hero
+activity_734_desc
+Limited Mythic Hero - Crimson Angel!
+activity_735_name
+Limited Hero
+activity_735_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_736_name
+Limited Hero
+activity_736_desc
+Limited Mythic Hero - Crimson Angel!
+activity_737_name
+Limited Hero
+activity_737_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_738_name
+Limited Hero
+activity_738_desc
+Limited Mythic Hero - Crimson Angel!
+activity_739_name
+Limited Hero
+activity_739_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_740_name
+Limited Hero
+activity_740_desc
+Limited Mythic Hero - Crimson Angel!
+activity_741_name
+Limited Hero
+activity_741_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_742_name
+Limited Hero
+activity_742_desc
+Limited Mythic Hero - Crimson Angel!
+activity_743_name
+Limited Hero
+activity_743_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_744_name
+Limited Hero
+activity_744_desc
+Limited Mythic Hero - Crimson Angel!
+activity_745_name
+Limited Hero
+activity_745_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_746_name
+Limited Hero
+activity_746_desc
+Limited Mythic Hero - Crimson Angel!
+activity_747_name
+Limited Hero
+activity_747_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_748_name
+Limited Hero
+activity_748_desc
+Limited Mythic Hero - Crimson Angel!
+activity_749_name
+Limited Hero
+activity_749_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_750_name
+Limited Hero
+activity_750_desc
+Limited Mythic Hero - Crimson Angel!
+activity_751_name
+Limited Hero
+activity_751_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_752_name
+Limited Hero
+activity_752_desc
+Limited Mythic Hero - Crimson Angel!
+activity_753_name
+Limited Hero
+activity_753_desc
+Limited Mythic Hero - Milites l'Cie!
+activity_800_name
+Tycoon
+activity_800_desc
+Tycoon Rewards
+activity_800_desc2
+Tycoon Rewards
+activity_900_name
+Happy Cards
+activity_900_desc
+Happy Cards have tons of rewards waiting for you
+activity_901_name
+Happy Cards
+activity_901_desc
+Happy Cards have tons of rewards waiting for you
+activity_902_name
+Happy Cards
+activity_902_desc
+Happy Cards have tons of rewards waiting for you
+activity_903_name
+Happy Cards
+activity_903_desc
+Happy Cards have tons of rewards waiting for you
+activity_1000_name
+Crazy Christmas
+activity_1000_desc
+Three Day Christmas Gift
+activity_1000_desc2
+Crazy Christmas
+activity_1000_top_name
+Crazy Christmas
+activity_1000_title_b
+Rules
+activity_1000_des_1
+There's a chance to win Christmas event materials in normal dungeons, elite dungeons, and the arena.
+activity_1001_name
+New Year's Madness
+activity_1001_desc
+Three Day New Year Gift
+activity_1001_desc2
+New Year's Madness
+activity_1001_top_name
+New Year's Madness
+activity_1001_title_b
+Rules
+activity_1001_des_1
+There's a chance to win New Years event materials in normal dungeons,  elite dungeons,  and the arena.
+activity_1002_name
+Spring Festival Event
+activity_1002_desc
+Spring Festival Event Round 1 - Gem Party
+activity_1002_desc2
+Spring Festival Event 1
+activity_1002_top_name
+Spring Festival Event 1
+activity_1002_title_b
+Rules
+activity_1002_des_1
+There's a chance to win event materials in normal dungeons, elite dungeons, and the arena.
+activity_1003_name
+Spring Festival Event
+activity_1003_desc
+Spring Festival Event Round 2 - Hero Party
+activity_1003_desc2
+Spring Festival Event 2
+activity_1003_top_name
+Spring Festival Event 2
+activity_1003_title_b
+Rules
+activity_1003_des_1
+There's a chance to win event materials in normal dungeons, elite dungeons, and the arena.
+activity_1004_name
+Spring Festival Event
+activity_1004_desc
+Spring Festival Event Round 3 - Gear Party
+activity_1004_desc2
+Spring Festival Event 3
+activity_1004_top_name
+Spring Festival Event 3
+activity_1004_title_b
+Rules
+activity_1004_des_1
+There's a chance to win event materials in normal dungeons, elite dungeons, and the arena.
+activity_1005_name
+Spring Festival Event
+activity_1005_desc
+Spring Festival Event Round 4 - Artifact Party
+activity_1005_desc2
+Spring Festival Event 4
+activity_1005_top_name
+Spring Festival Event 4
+activity_1005_title_b
+Rules
+activity_1005_des_1
+There's a chance to win event materials in normal dungeons, elite dungeons, and the arena.
+activity_1006_name
+Happy April Fool's Day
+activity_1006_desc
+Happy April Fool’s Day
+activity_1006_desc2
+Happy April Fool’s Day
+activity_1006_top_name
+Happy April Fool’s Day
+activity_1006_title_b
+Rules
+activity_1006_des_1
+Complete assigned quests to receive generous rewards!
+activity_1007_name
+Happy Qingming
+activity_1007_desc
+Happy Qingming
+activity_1007_desc2
+Happy Qingming
+activity_1007_top_name
+Happy Qingming
+activity_1007_title_b
+Rules
+activity_1007_des_1
+Complete assigned quests to receive generous rewards!
+activity_1008_name
+Lorica Concordia
+activity_1008_desc
+Update to get a gift. Make enough purchases to get King of Lorica or Queen Concordia!
+activity_1008_desc2
+Update Benefits
+activity_1008_top_name
+Update Benefits
+activity_1008_title_b
+Rules
+activity_1008_des_1
+Complete assigned quests to receive generous rewards!
+activity_1009_name
+Happy Labor Day!
+activity_1009_desc
+Happy Labor Day!
+activity_1009_desc2
+Happy Labor Day!
+activity_1009_top_name
+Happy Labor Day!
+activity_1009_title_b
+Rules
+activity_1009_des_1
+Complete assigned quests to receive generous rewards!
+activity_1010_name
+Happy Lovers' Day!
+activity_1010_desc
+Happy Lovers' Day!
+activity_1010_desc2
+Happy Lovers' Day!
+activity_1010_top_name
+Happy Lovers' Day!
+activity_1010_title_b
+Rules
+activity_1010_des_1
+Complete assigned quests to receive generous rewards!
+activity_1011_name
+Happy Dragon Boat Festival!
+activity_1011_desc
+Happy Dragon Boat Festival!
+activity_1011_desc2
+Happy Dragon Boat Festival!
+activity_1011_top_name
+Happy Dragon Boat Festival!
+activity_1011_title_b
+Rules
+activity_1011_des_1
+Complete assigned quests to receive generous rewards!
+activity_1012_name
+Happy Children's Day!
+activity_1012_desc
+Happy Children's Day!
+activity_1012_desc2
+Happy Children's Day!
+activity_1012_top_name
+Happy Children's Day!
+activity_1012_title_b
+Rules
+activity_1012_des_1
+Complete assigned quests to receive generous rewards!
+activity_1013_name
+Age of Divine Pets
+activity_1013_desc
+Age of Divine Pets! Moogle's Return!
+activity_1013_desc2
+Age of Divine Pets
+activity_1013_top_name
+Age of Divine Pets
+activity_1013_title_b
+Rules
+activity_1013_des_1
+Complete assigned quests to receive generous rewards!
+activity_1014_name
+Eidolon Titan
+activity_1014_desc
+Titan's Arrival! An ancient Eidolon of peerless power!
+activity_1014_desc2
+Eidolon Titan
+activity_1014_top_name
+Eidolon Titan
+activity_1014_title_b
+Rules
+activity_1014_des_1
+Complete assigned quests to receive generous rewards!
+activity_1015_name
+Summer activities
+activity_1015_desc
+Summer activities
+activity_1015_desc2
+Summer activities
+activity_1015_top_name
+Summer activities
+activity_1015_title_b
+Rules
+activity_1015_des_1
+Complete assigned quests to receive generous rewards!
+activity_1016_name
+Battle of the Gods
+activity_1016_desc
+Battle of the Gods
+activity_1016_desc2
+Battle of the Gods
+activity_1016_top_name
+Battle of the Gods
+activity_1016_title_b
+Rules
+activity_1016_des_1
+Complete assigned quests to receive generous rewards!
+activity_1017_name
+Seven awakening
+activity_1017_desc
+Seven awakening
+activity_1017_desc2
+Seven awakening
+activity_1017_top_name
+Seven awakening
+activity_1017_title_b
+Rules
+activity_1017_des_1
+Complete assigned quests to receive generous rewards!
+activity_1100_name
+Spending Rebate
+activity_1100_desc
+Spending Rebate
+activity_1101_name
+Spending Rebate
+activity_1101_desc
+Spending Rebate
+activity_1102_name
+Study Gifts
+activity_1102_desc
+Login to win special rewards!
+activity_1103_name
+Diamonds Cost
+activity_1103_desc
+Study mission 4th phase. Complete the mission to claim Study Rewards!
+activity_1104_name
+Bounty Quests
+activity_1104_desc
+Study mission 2nd phase. Complete the mission to claim Study Rewards!
+activity_1105_name
+Gem Draw
+activity_1105_desc
+Study mission 3rd phase. Complete the mission to claim Study Rewards!
+activity_1106_name
+Samsara Realm
+activity_1106_desc
+Study mission 4th phase. Complete the mission to claim Study Rewards!
+activity_1107_name
+Gear Draw
+activity_1107_desc
+Study mission 5th phase. Complete the mission to claim Study Rewards!
+activity_1108_name
+Gem Draw
+activity_1108_desc
+Time-limited quests, complete the quests to get gifts!
+activity_1109_name
+Gear Draw
+activity_1109_desc
+Get great gifts from the Gear Drawing!
+activity_1200_name
+Gift for sharing
+activity_1301_name
+Quiz
+activity_1400_name
+Double Rewards
+activity_1400_desc
+Daily set gameplay output double 1
+activity_1500_name
+Limited Purchase
+activity_1500_desc
+Limited deal! The more people who buy, the cheaper it gets!
+activity_1600_name
+Collect Eidolon
+activity_1701_name
+Collect Eidolon
+activity_1701_desc
+The new year is about to begin, but the nasty Nian have crept up to attack. Brave Agito, drove back the Nian in battle!
+activity_1800_name
+Limited-Time Gifts!
+activity_1800_desc
+Limited time offer only once!
+activity_1801_name
+Limited-Time Gifts!
+activity_1801_desc
+Limited time offer only once!
+activity_1802_name
+Limited-Time Gifts!
+activity_1802_desc
+Limited time offer only once!
+activity_1803_name
+Limited-Time Gifts!
+activity_1803_desc
+Limited time offer only once!
+activity_1804_name
+Limited-Time Gifts!
+activity_1804_desc
+Limited time offer only once!
+activity_1805_name
+Limited-Time Gifts!
+activity_1805_desc
+Limited time offer only once!
+activity_1806_name
+Limited-Time Gifts!
+activity_1806_desc
+Limited time offer only once!
+activity_1807_name
+Limited-Time Gifts!
+activity_1807_desc
+Limited time offer only once!
+activity_1808_name
+Limited-Time Gifts!
+activity_1808_desc
+Limited time offer only once!
+activity_1809_name
+Limited-Time Gifts!
+activity_1809_desc
+Limited time offer only once!
+activity_1810_name
+Limited-Time Gifts!
+activity_1810_desc
+Limited time offer only once!
+activity_1811_name
+Limited-Time Gifts!
+activity_1811_desc
+Limited time offer only once!
+activity_1904_name
+Drive Back Nian
+activity_1904_desc
+The new year is about to begin, but the nasty Nian have crept up to attack. Brave Agito, drove back the Nian in battle!
+activity_2001_name
+Limited Purchase
+activity_2001_desc
+Discounts increase as more people buy it! Get a better price the earlier you buy!
+activity_2002_name
+Limited Purchase
+activity_2002_desc
+Discounts increase as more people buy it! Get a better price the earlier you buy!
+activity_2003_name
+Limited Purchase
+activity_2003_desc
+Discounts increase as more people buy it! Get a better price the earlier you buy!
+activity_2004_name
+Limited Purchase
+activity_2004_desc
+Discounts increase as more people buy it! Get a better price the earlier you buy!
+activity_2005_name
+Limited Purchase
+activity_2005_desc
+Discounts increase as more people buy it! Get a better price the earlier you buy!
+activity_3100_name
+Offline Pack
+activity_3200_name
+Return Rewards
+activity_3200_desc
+Benefits for experienced players of Perfect World and Tiger
+activity_3200_title_b
+Rules
+activity_3200_des_1
+  As of March 2nd, Tiger account hasn’t been logged into for 15 days, Perfect account hasn’t been logged into for 165 days. Get the following rewards after binding your account.
+activity_3200_title_s2
+Event 1·Recharge Rebates
+activity_3200_des_2
+Players that meet the requirements need only reach recharges equal to recharge history rate to get Diamond rewards. (Recharge history doesn’t include those charged through agents. Recharge history max is 500,000RMB. Players that meet the requirements need only reach recharges equal to recharge history rate to get Diamond rewards.) (Recharge history doesn’t include those charged through agents. Recharge history max is 500,000RMB. The excess amount will be calculated as 500,000RMB). \n Cannot be changed after binding. After meeting the conditions, you can claim rewards through the Benefits tab. \n Diamonds obtained = recharge history*10 (1RMB recharged = 10 Diamonds) *return rate, rounded down to the nearest 10.\n Ex: \n If a player has recharged 1000RMB, after he binds his character and makes recharges in “Final Fantasy Agito” \n \n Recharge 100RMB worth to get 1000RMB *10 (1RMB recharged = 10 Diamonds) *3% (return rate) Diamonds, 300 Diamonds total. \n Make 200RMB of recharges to get 300 more Diamonds. \n Make 300RMB of recharges to get another 300 Diamonds. \n Make 400RMB of recharges to get another 300 Diamonds. \n Make 500RMB of recharges to get another 300 Diamonds. After claiming 1500 Diamonds total, additional recharges will not result in more Diamonds. calculated as 500,000RMB). \n Cannot be changed after binding. After meeting the conditions, you can claim rewards through the Benefits tab. \n Diamonds obtained = recharge history *10 (1RMB recharged = 10 Diamonds) *return rate, rounded down to the nearest 10.\n Ex: \n If a player has recharged 1000RMB, after he binds his character and makes recharges in “Final Fantasy Agito” \n \n Recharge 500RMB worth to get 1000RMB *10 (1RMB recharged = 10 Diamonds) *2% (return rate) Diamonds, 200 Diamonds total. \n Make 600RMB of recharges to get 200 more Diamonds. \n Make 700RMB of recharges to get another 200 Diamonds. \n Make 800RMB of recharges to get another 200 Diamonds. \n Make 900RMB of recharges to get another 200 Diamonds. After claiming 1000 Diamonds total, additional recharges will not result in more Diamonds.
+activity_3200_title_s3
+Event 2·Level Gifts
+activity_3200_des_3
+  Reach the required level to get rewards.
+activity_3200_title_s4
+Event 3·Recharge Great Pack
+activity_3200_des_4
+  Make enough purchases in game to get rewards.
+activity_3001_name
+Daily Single Recharge
+activity_3001_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_3002_name
+Daily Single Recharge
+activity_3002_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_3003_name
+Daily Single Recharge
+activity_3003_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_3004_name
+Daily Single Recharge
+activity_3004_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_3005_name
+Daily Single Recharge
+activity_3005_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_3006_name
+Daily Single Recharge
+activity_3006_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_3007_name
+Daily Single Recharge
+activity_3007_desc
+Recharge enough each day to get great rewards! King of Lorica and Queen Concordia are waiting!
+activity_9003_name
+Single Recharge 3
+activity_9003_desc
+The Mainland version won't open to avoid crush
+activity_9010_name
+5-Star Rating
+activity_9010_desc
+Give 5 stars in AppStore/GooglePlay to get wonderful rewards

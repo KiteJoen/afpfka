@@ -1,0 +1,30 @@
+ui.faction.label.bonuses.reward.record
+Award Record
+ui.faction.label.bonuses.jackpot
+Envelopes left:
+ui.faction.label.bonuses.time
+Time Left:
+ui.faction.label.bonuses.open.time
+Draw Attempts:
+ui.faction.label.bonuses.hand.out
+Free Envelopes
+ui.faction.label.bonuses.jackpot.list
+Prizes remain:
+ui.faction.label.bonuses.time.list
+Time Left:
+ui.faction.label.bonuses.draw
+Draw
+ui.faction.label.bonuses.complete
+Received
+ui.faction.label.bonuses.overdue
+Expired
+ui.faction.label.bonuses.free.hand.out
+Free Envelopes
+ui.faction.label.bonuses..record.level
+Quality:
+ui.faction.label.bonuses.initial.record
+Value:
+ui.faction.label.bonuses.daily.times
+Daily Number:
+ui.faction.label.bonuses.no.one
+Everyone has issued Red Envelopes

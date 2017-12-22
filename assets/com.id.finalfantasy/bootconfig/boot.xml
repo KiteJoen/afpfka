@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <configFormat>DATA_FORMAT_CODEGEN</configFormat>
+  <send_crash_log>false</send_crash_log>
+  <log_level>DebugLog</log_level>
+  <locale>indo</locale>
+  <all_locales>
+    <string>indo</string>
+    <string>enin</string>
+  </all_locales>
+  <config_use_filestream>true</config_use_filestream>
+  <dead_lock_check>true</dead_lock_check>
+  <debug_protocol_repeat>false</debug_protocol_repeat>
+  <protocol_whitelist>
+    <string>KeepAlive</string>
+    <string>Login</string>
+  </protocol_whitelist>
+  <fix_missing_shader>true</fix_missing_shader>
+  <enable_superweapon_model>true</enable_superweapon_model>
+  <clean_preload_pool_low_memory>false</clean_preload_pool_low_memory>
+  <release_set_sprite_ex_atlas>false</release_set_sprite_ex_atlas>
+
+  <!--android min resolution height-->
+  <android_1g_min_height>520</android_1g_min_height>
+  <android_low_quality_min_height>768</android_low_quality_min_height>
+  <android_med_quality_min_height>840</android_med_quality_min_height>
+  <android_high_quality_min_height>840</android_high_quality_min_height>
+  <!--ios min resolution height-->
+  <ios_low_quality_min_height>640</ios_low_quality_min_height>
+  <ios_med_quality_min_height>840</ios_med_quality_min_height>
+  <ios_high_quality_min_height>840</ios_high_quality_min_height>
+</boot>

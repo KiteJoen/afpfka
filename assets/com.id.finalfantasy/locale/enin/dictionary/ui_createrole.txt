@@ -1,0 +1,56 @@
+hero.career.warrior
+Warrior
+hero.career.warrior.desc
+Their fighting style is filled with brute force,  relying on sheer strength,  excellent weapons,  and swift victory.
+hero.career.wizard
+Windblade Warrior
+hero.career.wizard.desc
+Moving with the wind,  he is a dual-sword-wielding warrior. The wind gives him absolute agoldity and elegance.
+hero.career.archer
+Archer
+hero.career.archer.desc
+Carving a bow like the full moon,  look northwest; shoot at Sirius
+hero.appearance.face
+Class
+hero.appearance.hair
+Face
+hero.appearance.haircolor
+Hair
+ui.creatrole.btn.comfirm
+Confirm
+ui.creatrole.btn.back
+Back
+ui.creatrole.btn.game.start
+Begin Game
+ui.createrole.title.career
+Please choose a career
+ui.createrole.title.face
+Please choose an appearance
+ui.createrole.title.hair.and.color
+Choose a hairstyle
+ui.pls.wait
+Please\n stand by
+ui.random.style
+Random Image
+ui.createrole.confirm.title
+Are you sure to start the game with this appearance?
+ui.createrole.gender
+Gender:
+ui.createrole.voice2
+Personality:
+ui.createrole.vocation2
+Career:
+ui.createrole.confirm.warning
+You cannot change careers during the game,  please choose carefully
+ui.rename.title
+Please fill out your name
+ui.rename.info
+Up to 12 letters
+ui.rename.cost.free
+First free
+ui.default.name
+Click to enter a name
+ui.rename.btn.title
+Change Name
+ui.create.role.charge.back
+Welcome back to the world of "Final Fantasy Agito". In your previous test,  you recharge {0} USD in total. For this test,  you will receive {1} diamonds in return.

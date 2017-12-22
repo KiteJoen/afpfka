@@ -1,0 +1,16 @@
+升级技能
+SetAllHeroesSkillLevel 1 80
+delay 2000
+SetAllHeroesSkillLevel 2 80
+delay 2000
+SetAllHeroesSkillLevel 3 80
+delay 2000
+SetAllHeroesSkillLevel 4 80
+delay 2000
+SetAllHeroesSkillLevel 5 80
+delay 2000
+SetAllHeroesSkillLevel 6 80
+delay 2000
+SetAllHeroesSkillLevel 7 80
+delay 2000
+SetAllHeroesSkillLevel 8 80

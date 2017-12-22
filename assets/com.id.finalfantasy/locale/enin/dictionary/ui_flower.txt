@@ -1,0 +1,52 @@
+flower.count
+{0} flowers
+flower.anonymouse.text
+{0} sent you {1} flowers
+flower.anonymouse.user.name
+Anonymous
+flower.error.today.sent
+Your opportunity to send flowers today has passed. Come back tomorrow!
+flower.rank.sent.count.totally
+Total Flowers Sent
+flower.rank.received.count.totally
+Total Flowers Received
+flower.rank.sent.count.weekly
+Weekly Flowers Sent
+flower.rank.received.count.weekly
+Weekly Flowers Received
+ui.dialog.flowers.one
+Gift 1
+ui.dialog.flowers.ninety.nine
+Gift 99
+ui.dialog.flowers.one.hundred.and.ninety.nine
+Gift 999
+ui.dialog.flower.record
+There's currently no record...
+ui.dialog.flower.record.title
+Record of Flowers
+flower.none.message.other.text
+{0} sent {1} {2} flowers
+ui.dialog.flowers.title
+Send Flowers
+ui.dialog.flowers.detail
+Details
+ui.dialog.flowers.cost
+Cost:
+ui.dialog.flowers.get
+Get:
+ui.dialog.flowers.no
+Anonymous
+ui.dialog.flowers.add
+Message
+ui.dialog.flowers.his
+Flowers History:
+ui.dialog.flowers.week
+This week:
+ui.luhan.welfare.flower
+ 
+ui.dialog.flowers.text
+20 characters
+ui.dialog.player.info.black.list
+Shield
+ui.dialog.player.info.complain
+Report

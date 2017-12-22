@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<announcementpath xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <announcements_url>{0}{1}/{2}.xml</announcements_url>
+  <announcement_urls>
+    <string>https://zzhxyn-download.vsplay.com/ff_announcement_id/</string>
+  </announcement_urls>
+  <announcement_home_urls>
+    <string>http://10.5.56.167:81/repos/auto_update/branches/announcement/indo/</string>
+  </announcement_home_urls>
+  <announcement_dist_urls>
+    <string>http://zzhxyn-test.efunen.com/ff_announcement_id/</string>
+  </announcement_dist_urls>
+</announcementpath>

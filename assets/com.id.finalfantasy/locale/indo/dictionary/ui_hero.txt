@@ -1,0 +1,548 @@
+ui.hero.nevigator.info
+Informasi
+ui.hero.nevigator.troop
+Tim
+ui.hero.info.star
+Star level
+ui.hero.info.hp
+Tumbuh HP
+ui.hero.info.physic_attack
+Tumbuh atk
+ui.hero.info.physic_defence
+Tumbuh def
+ui.hero.info.magic_attack
+Pertumbuhan Magic
+ui.hero.info.magic_defence
+Pertumbuhan defense magic
+REAL_NONE
+Tidak ada
+REAL_PHYSIC_ATTACK
+Serang
+REAL_MAGIC_ATTACK
+Magic attack
+REAL_PHYSIC_DEFENCE
+Defense
+REAL_MAGIC_DEFENCE
+Magic defense
+REAL_HP
+HP
+REAL_HP_RECOVER
+HP restore
+REAL_PHYSIC_PENETRATION_ABS
+Attack penetration
+REAL_PHYSIC_PENETRATION_RATE
+Ignore defense
+REAL_MAGIC_PENETRATION_ABS
+Magic penetration
+REAL_MAGIC_PENETRATION_RATE
+Ignore magic resist
+REAL_HOLY_ATTACK_ABS
+Dmg
+REAL_HOLY_ATTACK_ABS_RESISTANCE
+Damage ditangkis
+REAL_PHYSIC_CRITICAL
+Crit
+REAL_MAGIC_CRITICAL
+Magic hit level
+REAL_PHYSIC_CRITICAL_RESISTANCE
+Hit resist
+REAL_MAGIC_CRITICAL_RESISTANCE
+Magic hit resist level
+REAL_PHYSIC_CRITICAL_RATE
+Hit rate
+REAL_MAGIC_CRITICAL_RATE
+Magic hit rate
+REAL_PHYSIC_CRITICAL_RESISTANCE_RATE
+Hit damage rate
+REAL_MAGIC_CRITICAL_RESISTANCE_RATE
+Magic hit resist rate
+REAL_PHYSIC_CRITICAL_DAMAGE
+Crit Damage
+REAL_MAGIC_CRITICAL_DAMAGE
+Magic hit damage
+REAL_PHYSIC_CRITICAL_RESISTANCE_DAMAGE
+Hit Blok
+REAL_MAGIC_CRITICAL_RESISTANCE_DAMAGE
+Magic hit Blok
+REAL_HIT
+Hit
+REAL_MISS
+Dodge
+REAL_PHYSIC_VAMPIRISM
+Vampirism rate
+REAL_MAGIC_VAMPIRISM
+Vampirism rate
+REAL_PHYSIC_VAMPIRISM_ABS
+Hisap HP
+REAL_MAGIC_VAMPIRISM_ABS
+Vampirism
+REAL_PHYSIC_ATTACKS_REFLECT
+Bounce rate
+REAL_MAGIC_ATTACKS_REFLECT
+Magic bounce rate
+REAL_PHYSIC_ATTACKS_REFLECT_ABS
+Physical bounce
+REAL_MAGIC_ATTACKS_REFLECT_ABS
+Magic bounce
+REAL_KILL_RECOVERY
+Kill recovery
+REAL_CURE_RECOVERY
+Efek healing
+REAL_ALL_RECOVERY
+Pemulihan bertambah
+REAL_MISS_RATE
+Persentase dodge
+REAL_HIT_RATE
+Persentase Hit
+REAL_ATTACK_ACCELERATE
+Kecepatan attack bertambah
+REAL_CD_REDUCE_RATE
+Cooldown berkurang
+REAL_RAGE_GAINED_RATE
+Rage rate
+REAL_PHYSIC_DAMAGE_REDUCE_RATE
+Blok
+REAL_PHYSIC_DAMAGE_ADD_RATE
+Dmg
+REAL_MAGIC_DAMAGE_REDUCE_RATE
+Magic Blok
+REAL_MAGIC_DAMAGE_ADD_RATE
+Magic damage bertambah
+REAL_FIRE_DAMAGE_REDUCE_RATE
+Damage rage berkurang
+REAL_FIRE_DAMAGE_ADD_RATE
+Damage rage bertambah
+REAL_ICE_DAMAGE_REDUCE_RATE
+Damage frost berkurang
+REAL_ICE_DAMAGE_ADD_RATE
+Damage frost bertambah
+REAL_ELECTRICITY_DAMAGE_REDUCE_RATE
+Shock Blok
+REAL_ELECTRICITY_DAMAGE_ADD_RATE
+Shock damage bertambah
+REAL_POISON_DAMAGE_REDUCE_RATE
+Poison Blok
+REAL_POISON_DAMAGE_ADD_RATE
+Poison damage bertambah
+REAL_NATURE_DAMAGE_REDUCE_RATE
+Damage earth berkurang
+REAL_NATURE_DAMAGE_ADD_RATE
+Damage earth bertambah
+REAL_DEMON_DAMAGE_REDUCE_RATE
+Damage apocalypse berkurang
+REAL_DEMON_DAMAGE_ADD_RATE
+Damage apocalypse bertambah
+REAL_PVP_DAMAGE_REDUCE_RATE
+PVP mengurangi damage
+REAL_PVP_DAMAGE_ADD_RATE
+PVP menambah damage
+REAL_ALL_DAMAGE_REDUCE_RATE
+Semua Blok
+REAL_ALL_DAMAGE_ADD_RATE
+Semua damage bertambah
+REAL_DEBUFF_BLEEDING
+Bleed hit
+REAL_DEBUFF_POISONING
+Poison hit
+REAL_DEBUFF_BURNING
+Ignite hit
+REAL_DEBUFF_FREEZE
+Freeze hit
+REAL_DEBUFF_DIZZY
+Stun hit
+REAL_DEBUFF_CONFUSION
+Confuse hit
+REAL_DEBUFF_COLD
+Cold hit
+REAL_DEBUFF_ELECTRIFICATION
+Shock hit
+REAL_DEBUFF_SENESCENCE
+Silence hit
+REAL_DEBUFF_SUNDER
+Back hit
+REAL_DEBUFF_ALL
+Abnormal hit
+REAL_DEBUFF_PVP
+PVP error hit
+REAL_DEBUFF_BLEEDING_RESISTANCE
+Bleed resist
+REAL_DEBUFF_POISONING_RESISTANCE
+Poison resist
+REAL_DEBUFF_BURNING_RESISTANCE
+Ignite resist
+REAL_DEBUFF_ELECTRIFICATION_RESISTANCE
+Shock resist
+REAL_DEBUFF_ALL_RESISTANCE
+Abnormal resist
+REAL_DEBUFF_PVP_RESISTANCE
+PVP error resist
+REAL_ULTIMATE_DAMAGE_RATE
+Ultimate skill damage
+REAL_MOVE_SPEED
+Move speed
+REAL_ATTACK_RAGE_GAINED_RATE
+Perolehan rage attack
+REAL_DAMAGED_RAGE_GAINED_RATE
+Perolehan damage rage
+REAL_SHIELD
+Tyrant Point
+REAL_SHIELD_RECOVER_INTERVAL
+Tyrant recover
+REAL_SHIELD_RECOVER_PER_SECOND
+Interval pemulihan tyrant
+REAL_ROLE_LEVEL
+Level Karakter
+REAL_ROLE_LEVEL2
+Level karakter
+REAL_LOST_HP
+Kehilangan HP
+REAL_EIDOLON_TOTAL_LEVEL
+Total level Eidolon
+REAL_EIDOLON_TOTAL_COINS
+
+REAL_FIGHTPOWER
+BP
+HERO_FEATURE_DPS
+Serang
+HERO_FEATURE_MAGIC
+Serang
+HERO_FEATURE_TANK
+Defense
+HERO_FEATURE_HEALS
+Additional help
+ui.hero.info.power
+BP
+ui.hero.btn.detail
+Detail attribute
+ui.hero.subtitle.fashion
+Kostum attribute
+ui.hero.subtitle.attr
+Hero attribute
+ui.hero.subtitle.skill
+Skill
+ui.hero.subtitle.relation
+Belenggu
+ui.hero.subtitle.talent
+Talent
+ui.hero.subtitle.desc
+Pengenalan Hero
+ui.hero.btn.info
+Informasi
+ui.hero.btn.skill.upgrade
+Skill
+ui.hero.btn.skill.break
+Skill
+ui.hero.btn.hero.upgrade
+Naik level
+ui.hero.btn.hero.evolve
+Upgrade
+ui.hero.btn.hero.linking
+Belenggu
+ui.hero.equip.basic.attr.title
+Atribut dasar
+ui.hero.equip.score
+Poin equip :
+ui.hero.develop.title.upgrade
+Level up Hero
+ui.hero.develop.title.evolve
+Upgrade Hero
+ui.hero.develop.title.linking
+Belenggu hero
+ui.hero.develop.title.skill.upgrade
+Upgrade skill
+ui.develop.upgrade.ether.info
+Ether yang dimiliki :
+ui.develop.upgrade.exp.next
+Upgrade butuh EXP :
+ui.develop.upgrade.btn.upgrade
+Naik level
+ui.develop.skill.upgrade.skill.points
+Poin skill :
+ui.develop.skill.upgrade.skill.point.count
+{0}/{1}
+ui.develop.skill.upgrade.skill.point.remain.times
+(Setelah {0} kembali ke 1 poin)
+ui.develop.skill.upgrade.skill.point.no.remain.times
+Jumlah poin sudah penuh
+ui.develop.skill.upgrade.btn.upgrade
+Naik level
+ui.develop.no.open
+Sementara belum dibuka
+ui.heroskillupgrade.level
+lv : {0}
+ui.herocritical.max
+Crit
+ui.hero.link.hero.star.lack
+Perlu {0} mencapai {1} star
+ui.hero.link.unsatisfied
+Belum tercapai
+ui.hero.link.introduction.title
+Pengenalan belenggu
+ui.hero.link.active.attr.title
+Aktivasi attribute saat ini
+ui.hero.link.inactive.attr.title
+Belum aktivasi attribute
+ui.hero.skill.unlock.tip1
+[FF2400] mencapai {0}{1} star terbuka [-]
+ui.hero.heroevolve.stage
+Upgrade material
+ui.hero.heroevolve.skillunlock
+Upgrade mendapat
+ui.hero.heroevolve.upgrade
+Setelah upgrade bertumbuh
+ui.hero.heroevolve.level
+Upgrade level
+ui.hero.herostar.css
+Upgrade attribute
+ui.hero.heroestar.level
+Level star
+ui.hero.skill.type.name.switch
+Skill arena
+ui.hero.skill.type.name.active
+Skill aktif
+ui.hero.skill.type.name.passive
+Skill pasif
+ui.hero.link.subtitle
+Belenggu masuk
+ui.hero.link.info.subtitle.detail
+Pengenalan belenggu
+ui.hero.link.info.subtitle.attr.active
+Aktivasi attribute saat ini
+ui.hero.link.info.subtitle.attr.inactive
+Belum aktivasi attribute
+ui.hero.link.info.hero.complete.status
+Belum tercapai
+ui.hero.link.inactive.status
+Belum aktif
+ui.hero.info.subtitle.bounding
+Belenggu hero
+ui.hero.info.upgrade.cost.title
+Pemakaian
+ui.hero.unlock.skill_1
+Unlock skill : {0}
+ui.hero.aptitude.title
+Kualifikasi
+ui.hero.level.title
+Level
+ui.hero.attr.subtitle.type
+Posisi hero
+ui.hero.attr.subtitle.aptitude
+Kualifikasi Hero
+ui.hero.troop.get.into.troop
+Perang
+ui.hero.troop.switch
+Ganti
+ui.hero.fragment.info.fragment.title
+Fine soul
+ui.hero.tab.btn.info
+Info hero
+ui.hero.evolve.need.level.prompt
+Upgrade perlu Hero level {0}
+ui.hero.subtitle.talents
+Talent
+ui.hero.assist.resonance.nohero
+Bisa diaktifkan bila ada reinforce
+ui.hero.assist.unlock.lv
+Lv.{0} \n buka
+ui.hero.assist.relation.item.will_active_description
+Bisa aktifkan {0} belenggu
+ui.hero.assist.relation.item.has_active_description
+Sudah aktifkan {0} belenggu
+ui.hero.assist.relation.item.will.active.destiny
+Bs aktifkan takdi {0}
+ui.hero.assist.relation.item.has.active.destiny
+Takdir yang sudah diaktifkan {0}
+ui.hero.assist.relation.max_hero
+Sudah mencapai reinforce maksimal
+ui.hero.skill.levelup.hero.level.not.meet
+Level Hero perlu mencapai lv.{0}
+ui.hero.skill.levelup.hero.star.not.meet
+Hero Star {0}{1} terbuka
+ui.hero.skill.levelup.cannot.over.hero.level
+Level skill tidak bisa melewati level Hero
+ui.hero.skill.levelup.short.of.items
+Material breakthrough tidak cukup, tidak bisa breakthrough
+ui.hero.skill.level
+Terobos level : {0}
+ui.hero.skill.unlock.grade.require
+Saat hero upgrade sampai tingkat {0} akan membuka skil ini
+ui.hero.skill.destiny.active
+[ffff00] Fatal effects (sudah aktif) [-]
+ui.hero.skill.destiny.deactive
+Fatal effects (belum aktif)
+ui.hero.destiny.actived
+[ffff00] (Takdir hero sudah aktif) [-]
+ui.hero.destiny.desc.deactive
+Prg dgn {0}, aktifkan efek takdir.  
+ui.hero.destiny.desc.active
+[ffff00] Takdir hero sudah diaktifkan, Ultimate skill mendapatkan efek takdir [-]
+ui.hero.subtitle.destiny
+Takdir
+ui.hero.subtitle.active.destiny
+Aktivasi {0} fatal effects
+ui.hero.list.nodatatip
+Belum ada barang yang bisa digunakan
+ui.hero.assist.no_relation.info
+Tidak ada Hero belenggu yang bisa diaktifkan
+ui.hero.selectlist.nohero.info
+Sementara tidak ada Hero
+ui.hero.selectlist.recommend.info
+Bisa mencoba rute berikut untuk mendapat Hero
+ui.hero.troop.fashion.no_open
+Fitur belum dibuka, silakan menunggu
+ui.hero.assist.remote.locked
+Reinforce pemain ini belum terbuka
+ui.hero.troop.info.show_detail
+Tampilkan detail
+ui.hero.troop.info.show_simple
+Menuntup detail
+ui.hero.leader_skill.title
+Skill pemimpin
+ui.hero.leader_skill.description
+Skill pemimpin : {0}
+ui.hero.leader_skill.none
+Tidak ada
+ui.hero.talent.description
+(upgrade + {1} aktif) {0}
+ui.hero.evolve.upgrade.max
+Hero sudah mencapai tingkat tertinggi
+ui.hero.troop.main.offline
+Pemain yang dicari sudah offline
+ui.hero.evovle.no.talent.active
+Attack, defense, HP masing-masing +5%
+ui.hero.battle.array.leader.empty
+Saat bertarung perlu ketua
+ui.hero.battle.array.slot.locked
+Lokasi {0} ini terbuka
+ui.hero.battle.array.cannot.participate
+Hero di lokasi ini tidak bisa bermain
+ui.hero.info.levelup.click.too.many.times
+Permintaan anda terlalu sering, coba lagi nanti!
+ui.hero.info.evolve.item.not.enough
+Material upgrade tidak cukup
+ui.hero.assist.hero.active.relation.count
+Belenggu {0} / {1}
+ui.hero.assist.hero.active.destiny
+Sdh aktifkan takdir
+ui.hero.assist.hero.deactive.destiny
+[7f7f7f] Blm aktifkan takdir [-]
+ui.hero.info.levelup.greater.than.main.hero
+Level hero tak bs melbhi level karakter utama! 
+ui.hero.troop.equip.rank
+Stage {0}
+ui.troop.list.show.available
+Hanya menampilkan hero yang belum bertempur
+ui.potential.list.show.available
+Hanya menampilkan Hero yang belum ada di slot
+ui.hero.talent.team.attribute
+Seluruh tim {0}
+ui.hero.talent.skill
+unlock skill “{0}”
+ui.hero.skill.levelup.maxlevel
+Skill sudah mencapai level tertinggi
+ui.hero.btn.star.up
+naik bintang
+ui.hero.heroestar.full
+Kualitas Full star meningkat :
+ui.hero.heroestar.colorup
+[43FF55] hijau [-] → [5AEEFF] biru [-] → [AA9CFF] ungu [-] → [FF9561] orange [-] → [FF5C5C] merah [-] → [EFE36BFF] emas [-]
+ui.hero.heroevolve.upgrade.new
+Buka talent
+ui.hero.got.change.to.fragments
+Sudah ada hero ini, otomatis berubah menjadi {0} soul
+ui.hero.star.upgrade.max
+Hero mencapai level star tertinggi
+ui.hero.asssit.icon.fightpower
+BP : {0}
+ui.hero.assist.level.sum
+Total level : {0}
+ui.hero.assist.fightpower.sum
+Total BP : {0}
+ui.hero.assist.resonance.title
+Reinforce bertambah
+ui.hero.assist.resonance.level.bar
+Bertambah menjadi level {0}
+ui.hero.assist.resonance.fightpower.bar
+BP bertambah menjadi level {0}
+ui.hero.assist.resonance.level.maxlevel
+Penambahan mencapai level maksimal
+ui.hero.assist.resonance.fightpower.maxlevel
+BP tambahan sudah mencapai level tertinggi
+ui.hero.assist.resonance.bar.now
+Penambahan saat ini
+ui.hero.assist.resonance.bar.next
+Level selanjutnya bertambah
+ui.hero.assist.resonance.level.description.now
+Total level reinforce saat ini
+ui.hero.assist.resonance.fightpower.description.now
+Total BP reinforce saat ini
+ui.hero.assist.resonance.description.next
+Level selanjutnya butuh
+ui.hero.assist.resonance.rule.info
+BP reinforce ditambah lwt upgrade hero, star dan skill
+ui.hero.assist.resonance.fightpower
+BP {0}
+ui.hero.detail.attr.bar.base
+Atribut dasar
+ui.hero.detail.attr.bar.advanced
+Upgrade attribute
+ui.hero.detail.attr.bar.rare
+Attribute langka
+ui.hero.skill.level.long.press.info
+Klik lama “+” bisa upgrade skill dengan cepat
+ui.hero.fashion.qulification.name
+Kualifikasi
+ui.hero.skill.effect.active.template
+[ffff00] {0} (sudah aktif) [-]
+ui.hero.skill.effect.deactive.template
+{0} (belum aktif)
+ui.hero.skill.captain.effect.1
+Agito 1  ·  Moon
+ui.hero.skill.captain.effect.3
+Agito 2 · Mercury
+ui.hero.skill.captain.effect.6
+Agito 3 · Venus
+ui.hero.skill.captain.effect.10
+Agito 4 · Sun
+ui.hero.skill.captain.effect.14
+Agito 5 · Mars
+ui.hero.skill.captain.effect.18
+Agito 6 · Jupiter
+ui.hero.skill.captain.effect.22
+Agito 7 · Saturn
+ui.hero.skill.captain.effect.26
+Agito 8 · Stellar
+ui.hero.skill.captain.effect.30
+Agito 9 · Crystal
+ui.hero.skill.main.hero.effect
+Efek Agito {0}{1}
+ui.hero.assist.resonance
+Partner yang bisa membantu
+ui.hero.illustrate.uncommon
+Langka
+ui.hero.skill.tip.super.weapon.unlock.25
+Artifact eksklusif 25 stage
+ui.hero.skill.tip.super.weapon.unlock.45
+Artifact eksklusif 45 stage
+ui.hero.skill.tip.super.weapon.unlock.3
+Treasure ekslusif 3 stage
+ui.hero.skill.tip.super.weapon.active.template
+[ffff00] {0} (sudah aktif) [-]
+ui.hero.skill.tip.super.weapon.deactive.template
+{0} (belum aktif)
+ui.hero.fate.activate
+Penjelasan aktivasi takdir
+ui.proto.hero.skill.surplus.point
+Sisa poin skill :
+ui.recall.hero.num
+Jumlah pecahan :
+ui.recall.hero.explore
+Sedang menjelajah
+ui.recall.hero.choose
+Pilihan
+ui.captain.evolve.success
+Breakthrough berhasil
+ui.hero.star.name.format
+{0}{1} star
+ui.hero.potency
+Rune

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<debug xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <showConsole>false</showConsole>
+  <debug_share>false</debug_share>
+  <debugPostEvent>true</debugPostEvent>
+  <shareWeixinConfigIndex>0</shareWeixinConfigIndex>
+  <shareSinaConfigIndex>0</shareSinaConfigIndex>
+</debug>

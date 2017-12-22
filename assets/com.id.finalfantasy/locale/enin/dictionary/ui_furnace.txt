@@ -1,0 +1,76 @@
+ui.furnace.text.explaination
+Quick Description
+ui.furnace.text.autoselect
+Autoselect
+ui.furnace.text.setting
+Settings
+ui.furnace.text.resolve
+Dissolve
+ui.furnace.text.reborn
+Rebirth
+ui.furnace.confirm.resolve.title
+Dissolved Materials Preview
+ui.furnace.confirm.reborn.title
+After Rebirth you will receive the following materials
+ui.furnace.confirm.resolve.ok
+Confirm
+ui.furnace.confirm.reborn.ok
+Confirm Rebirth
+ui.furnace.explain.heroresolve
+1. Hero Dissolve will return all consumed resources.\n2. The hero itself will be returned in the form of Soul Crystals.\n3. EXP will be returned in the form of Adv. EXP books.
+ui.furnace.explain.heroreborn
+1. After Hero Rebirth,  the resources used on this Hero and the original Hero will be returned.\n2. Resources consumed for upgrades will also be returned.\n3. EXP used by the Hero will also be returned to Adv. EXP book.
+ui.furnace.explain.equipdec
+1. After Gear Dissolve you will receive back all of the gold and Refine Stones that were used with this gear.\n2. The Gear itself will be converted into Refine Stones according to the quality of the Gear.
+ui.furnace.explain.treasurereborn
+1. Spend a certain number of Diamonds to perform Accessory Rebirth.\n2. Rebirth will return all consumed resources.\n3. Rebirth will return consumed Accessory of the same type used in Refine.
+ui.furnace.option.white
+Common or worse Hero/Gear
+ui.furnace.option.green
+Enchanted or worse Hero/Gear
+ui.furnace.option.blue
+Rare Item or worse Hero/Gear
+ui.furnace.option.purple
+Epic or worse Hero/Gear
+ui.btn.hero.resolve
+Hero
+ui.btn.hero.reborn
+Hero
+ui.btn.equip.resolve
+Gear
+ui.btn.treasure.reborn
+Accessory
+ui.btn.fragment.resolve
+Shard
+ui.btn.gem.reborn
+Gem
+Cost
+Cost:
+ui.furnace.empty
+You still don't have materials to dissolve.
+ui.cash.have
+Already possessed:
+ui.furnace.burnhero.warning
+Hero Dissolve will return all of your used resources, don't worry!
+ui.furnace.burnequip.warning
+Gear Dissolve will return all of your used gold and Refined Stones to you,  don't worry!
+ui.furnace.reborngem.warning
+Gem rebirth will return all materials consumed and the Gem itself,  do not worry
+ui.furnace.resolvesuperweapon.warning
+Focus Dissolve warning,  please continue with ease
+ui.furnace.reborn.warning
+Heroes not in the Destiny Rune or party can be revived.
+ui.furnace.resource
+Resources:
+ui.furnace.currency
+{0}:{1}
+ui.btn.superweapon.resolve
+Artifact
+ui.furnace.warning.title
+Dissolve Warning
+ui.furnace.warning.info
+Dissolve Target contains[FF0000]high quality materials[-]!\n[FF0000]Please choose carefully[-]！
+ui.btn.superweapon.reborn
+Artifact
+ui.furnace.rebornsuperweapon.warning
+Artifact rebirth will return all materials consumed and the Artifact itself, do not worry

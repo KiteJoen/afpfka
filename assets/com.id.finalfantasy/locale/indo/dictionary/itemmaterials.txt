@@ -1,0 +1,610 @@
+itemmaterial_1000_name
+Gear Material 1
+itemmaterial_1000_desc1
+Supreme
+itemmaterial_1000_desc2
+Master
+itemmaterial_1000_desc3
+of
+itemmaterial_1000_desc4
+Martial
+itemmaterial_1001_name
+Gear Material 2
+itemmaterial_1001_desc1
+Blade
+itemmaterial_1001_desc2
+of
+itemmaterial_1001_desc3
+Slaying
+itemmaterial_1001_desc4
+Dragon
+itemmaterial_1002_name
+Gear Material 3
+itemmaterial_1002_desc1
+The
+itemmaterial_1002_desc2
+Lord
+itemmaterial_1002_desc3
+of
+itemmaterial_1002_desc4
+All
+itemmaterial_1003_name
+Gear Material 4
+itemmaterial_1003_desc1
+All
+itemmaterial_1003_desc2
+Take
+itemmaterial_1003_desc3
+His
+itemmaterial_1003_desc4
+Order
+itemmaterial_1004_name
+Gear Material 5
+itemmaterial_1004_desc1
+Lean
+itemmaterial_1004_desc2
+of
+itemmaterial_1004_desc3
+His
+itemmaterial_1004_desc4
+Out
+itemmaterial_1005_name
+Gear Material 6
+itemmaterial_1005_desc1
+The
+itemmaterial_1005_desc2
+Best
+itemmaterial_1005_desc3
+of
+itemmaterial_1005_desc4
+All
+itemmaterial_1006_name
+Gear Material 1
+itemmaterial_1006_desc1
+Supreme
+itemmaterial_1006_desc2
+Master
+itemmaterial_1006_desc3
+of
+itemmaterial_1006_desc4
+Martial
+itemmaterial_1007_name
+Gear Material 2
+itemmaterial_1007_desc1
+Blade
+itemmaterial_1007_desc2
+of
+itemmaterial_1007_desc3
+Slaying
+itemmaterial_1007_desc4
+Dragon
+itemmaterial_1008_name
+Gear Material 3
+itemmaterial_1008_desc1
+The
+itemmaterial_1008_desc2
+Lord
+itemmaterial_1008_desc3
+of
+itemmaterial_1008_desc4
+All
+itemmaterial_1009_name
+Gear Material 4
+itemmaterial_1009_desc1
+All
+itemmaterial_1009_desc2
+Take
+itemmaterial_1009_desc3
+His
+itemmaterial_1009_desc4
+Order
+itemmaterial_1010_name
+Gear Material 5
+itemmaterial_1010_desc1
+Lean
+itemmaterial_1010_desc2
+of
+itemmaterial_1010_desc3
+His
+itemmaterial_1010_desc4
+Out
+itemmaterial_1011_name
+Gear Material 6
+itemmaterial_1011_desc1
+The
+itemmaterial_1011_desc2
+Best
+itemmaterial_1011_desc3
+of
+itemmaterial_1011_desc4
+All
+itemmaterial_1012_name
+Gear Material 1
+itemmaterial_1012_desc1
+Supreme
+itemmaterial_1012_desc2
+Master
+itemmaterial_1012_desc3
+of
+itemmaterial_1012_desc4
+Martial
+itemmaterial_1013_name
+Gear Material 2
+itemmaterial_1013_desc1
+Blade
+itemmaterial_1013_desc2
+of
+itemmaterial_1013_desc3
+Slaying
+itemmaterial_1013_desc4
+Dragon
+itemmaterial_1014_name
+Gear Material 3
+itemmaterial_1014_desc1
+The
+itemmaterial_1014_desc2
+Lord
+itemmaterial_1014_desc3
+of
+itemmaterial_1014_desc4
+All
+itemmaterial_1015_name
+Gear Material 4
+itemmaterial_1015_desc1
+All
+itemmaterial_1015_desc2
+Take
+itemmaterial_1015_desc3
+His
+itemmaterial_1015_desc4
+Order
+itemmaterial_1016_name
+Gear Material 5
+itemmaterial_1016_desc1
+Lean
+itemmaterial_1016_desc2
+of
+itemmaterial_1016_desc3
+His
+itemmaterial_1016_desc4
+Out
+itemmaterial_1017_name
+Gear Material 6
+itemmaterial_1017_desc1
+The
+itemmaterial_1017_desc2
+Best
+itemmaterial_1017_desc3
+of
+itemmaterial_1017_desc4
+All
+itemmaterial_1018_name
+Gear Material 1
+itemmaterial_1018_desc1
+Supreme
+itemmaterial_1018_desc2
+Master
+itemmaterial_1018_desc3
+of
+itemmaterial_1018_desc4
+Martial
+itemmaterial_1019_name
+Gear Material 2
+itemmaterial_1019_desc1
+Blade
+itemmaterial_1019_desc2
+of
+itemmaterial_1019_desc3
+Slaying
+itemmaterial_1019_desc4
+Dragon
+itemmaterial_1020_name
+Gear Material 3
+itemmaterial_1020_desc1
+The
+itemmaterial_1020_desc2
+Lord
+itemmaterial_1020_desc3
+of
+itemmaterial_1020_desc4
+All
+itemmaterial_1021_name
+Gear Material 4
+itemmaterial_1021_desc1
+All
+itemmaterial_1021_desc2
+Take
+itemmaterial_1021_desc3
+His
+itemmaterial_1021_desc4
+Order
+itemmaterial_1022_name
+Gear Material 5
+itemmaterial_1022_desc1
+Lean
+itemmaterial_1022_desc2
+of
+itemmaterial_1022_desc3
+His
+itemmaterial_1022_desc4
+Out
+itemmaterial_1023_name
+Gear Material 6
+itemmaterial_1023_desc1
+The
+itemmaterial_1023_desc2
+Best
+itemmaterial_1023_desc3
+of
+itemmaterial_1023_desc4
+All
+itemmaterial_1024_name
+Gear Material 1
+itemmaterial_1024_desc1
+Supreme
+itemmaterial_1024_desc2
+Master
+itemmaterial_1024_desc3
+of
+itemmaterial_1024_desc4
+Martial
+itemmaterial_1025_name
+Gear Material 2
+itemmaterial_1025_desc1
+Blade
+itemmaterial_1025_desc2
+of
+itemmaterial_1025_desc3
+Slaying
+itemmaterial_1025_desc4
+Dragon
+itemmaterial_1026_name
+Gear Material 3
+itemmaterial_1026_desc1
+The
+itemmaterial_1026_desc2
+Lord
+itemmaterial_1026_desc3
+of
+itemmaterial_1026_desc4
+All
+itemmaterial_1027_name
+Gear Material 4
+itemmaterial_1027_desc1
+All
+itemmaterial_1027_desc2
+Take
+itemmaterial_1027_desc3
+His
+itemmaterial_1027_desc4
+Order
+itemmaterial_1028_name
+Gear Material 5
+itemmaterial_1028_desc1
+Lean
+itemmaterial_1028_desc2
+of
+itemmaterial_1028_desc3
+His
+itemmaterial_1028_desc4
+Out
+itemmaterial_1029_name
+Gear Material 6
+itemmaterial_1029_desc1
+The
+itemmaterial_1029_desc2
+Best
+itemmaterial_1029_desc3
+of
+itemmaterial_1029_desc4
+All
+itemmaterial_1030_name
+Gear Material 1
+itemmaterial_1030_desc1
+Supreme
+itemmaterial_1030_desc2
+Master
+itemmaterial_1030_desc3
+of
+itemmaterial_1030_desc4
+Martial
+itemmaterial_1031_name
+Gear Material 2
+itemmaterial_1031_desc1
+Blade
+itemmaterial_1031_desc2
+of
+itemmaterial_1031_desc3
+Slaying
+itemmaterial_1031_desc4
+Dragon
+itemmaterial_1032_name
+Gear Material 3
+itemmaterial_1032_desc1
+The
+itemmaterial_1032_desc2
+Lord
+itemmaterial_1032_desc3
+of
+itemmaterial_1032_desc4
+All
+itemmaterial_1033_name
+Gear Material 4
+itemmaterial_1033_desc1
+All
+itemmaterial_1033_desc2
+Take
+itemmaterial_1033_desc3
+His
+itemmaterial_1033_desc4
+Order
+itemmaterial_1034_name
+Gear Material 5
+itemmaterial_1034_desc1
+Lean
+itemmaterial_1034_desc2
+of
+itemmaterial_1034_desc3
+His
+itemmaterial_1034_desc4
+Out
+itemmaterial_1035_name
+Gear Material 6
+itemmaterial_1035_desc1
+The
+itemmaterial_1035_desc2
+Best
+itemmaterial_1035_desc3
+of
+itemmaterial_1035_desc4
+All
+itemmaterial_1036_name
+Gear Material 1
+itemmaterial_1036_desc1
+Supreme
+itemmaterial_1036_desc2
+Master
+itemmaterial_1036_desc3
+of
+itemmaterial_1036_desc4
+Martial
+itemmaterial_1037_name
+Gear Material 2
+itemmaterial_1037_desc1
+Blade
+itemmaterial_1037_desc2
+of
+itemmaterial_1037_desc3
+Slaying
+itemmaterial_1037_desc4
+Dragon
+itemmaterial_1038_name
+Gear Material 3
+itemmaterial_1038_desc1
+The
+itemmaterial_1038_desc2
+Lord
+itemmaterial_1038_desc3
+of
+itemmaterial_1038_desc4
+All
+itemmaterial_1039_name
+Gear Material 4
+itemmaterial_1039_desc1
+All
+itemmaterial_1039_desc2
+Take
+itemmaterial_1039_desc3
+His
+itemmaterial_1039_desc4
+Order
+itemmaterial_1040_name
+Gear Material 5
+itemmaterial_1040_desc1
+Lean
+itemmaterial_1040_desc2
+of
+itemmaterial_1040_desc3
+His
+itemmaterial_1040_desc4
+Out
+itemmaterial_1041_name
+Gear Material 6
+itemmaterial_1041_desc1
+The
+itemmaterial_1041_desc2
+Best
+itemmaterial_1041_desc3
+of
+itemmaterial_1041_desc4
+All
+itemmaterial_1042_name
+Gear Material 1
+itemmaterial_1042_desc1
+Supreme
+itemmaterial_1042_desc2
+Master
+itemmaterial_1042_desc3
+of
+itemmaterial_1042_desc4
+Martial
+itemmaterial_1043_name
+Gear Material 2
+itemmaterial_1043_desc1
+Blade
+itemmaterial_1043_desc2
+of
+itemmaterial_1043_desc3
+Slaying
+itemmaterial_1043_desc4
+Dragon
+itemmaterial_1044_name
+Gear Material 3
+itemmaterial_1044_desc1
+The
+itemmaterial_1044_desc2
+Lord
+itemmaterial_1044_desc3
+of
+itemmaterial_1044_desc4
+All
+itemmaterial_1045_name
+Gear Material 4
+itemmaterial_1045_desc1
+All
+itemmaterial_1045_desc2
+Take
+itemmaterial_1045_desc3
+His
+itemmaterial_1045_desc4
+Order
+itemmaterial_1046_name
+Gear Material 5
+itemmaterial_1046_desc1
+Lean
+itemmaterial_1046_desc2
+of
+itemmaterial_1046_desc3
+His
+itemmaterial_1046_desc4
+Out
+itemmaterial_1047_name
+Gear Material 6
+itemmaterial_1047_desc1
+The
+itemmaterial_1047_desc2
+Best
+itemmaterial_1047_desc3
+of
+itemmaterial_1047_desc4
+All
+itemmaterial_1048_name
+Gear Material 1
+itemmaterial_1048_desc1
+Supreme
+itemmaterial_1048_desc2
+Master
+itemmaterial_1048_desc3
+of
+itemmaterial_1048_desc4
+Martial
+itemmaterial_1049_name
+Gear Material 2
+itemmaterial_1049_desc1
+Blade
+itemmaterial_1049_desc2
+of
+itemmaterial_1049_desc3
+Slaying
+itemmaterial_1049_desc4
+Dragon
+itemmaterial_1050_name
+Gear Material 3
+itemmaterial_1050_desc1
+The
+itemmaterial_1050_desc2
+Lord
+itemmaterial_1050_desc3
+of
+itemmaterial_1050_desc4
+All
+itemmaterial_1051_name
+Gear Material 4
+itemmaterial_1051_desc1
+All
+itemmaterial_1051_desc2
+Take
+itemmaterial_1051_desc3
+His
+itemmaterial_1051_desc4
+Order
+itemmaterial_1052_name
+Gear Material 5
+itemmaterial_1052_desc1
+Lean
+itemmaterial_1052_desc2
+of
+itemmaterial_1052_desc3
+His
+itemmaterial_1052_desc4
+Out
+itemmaterial_1053_name
+Gear Material 6
+itemmaterial_1053_desc1
+The
+itemmaterial_1053_desc2
+Best
+itemmaterial_1053_desc3
+of
+itemmaterial_1053_desc4
+All
+itemmaterial_1054_name
+Gear Material 1
+itemmaterial_1054_desc1
+Supreme
+itemmaterial_1054_desc2
+Master
+itemmaterial_1054_desc3
+of
+itemmaterial_1054_desc4
+Martial
+itemmaterial_1055_name
+Gear Material 2
+itemmaterial_1055_desc1
+Blade
+itemmaterial_1055_desc2
+of
+itemmaterial_1055_desc3
+Slaying
+itemmaterial_1055_desc4
+Dragon
+itemmaterial_1056_name
+Gear Material 3
+itemmaterial_1056_desc1
+The
+itemmaterial_1056_desc2
+Lord
+itemmaterial_1056_desc3
+of
+itemmaterial_1056_desc4
+All
+itemmaterial_1057_name
+Gear Material 4
+itemmaterial_1057_desc1
+All
+itemmaterial_1057_desc2
+Take
+itemmaterial_1057_desc3
+His
+itemmaterial_1057_desc4
+Order
+itemmaterial_1058_name
+Gear Material 5
+itemmaterial_1058_desc1
+Lean
+itemmaterial_1058_desc2
+of
+itemmaterial_1058_desc3
+His
+itemmaterial_1058_desc4
+Out
+itemmaterial_1059_name
+Gear Material 6
+itemmaterial_1059_desc1
+The
+itemmaterial_1059_desc2
+Best
+itemmaterial_1059_desc3
+of
+itemmaterial_1059_desc4
+All
+itemmaterial_9999_name
+Crystal Shard
+itemmaterial_9999_desc1
+Enhancement
+itemmaterial_9999_desc2
+Enhancement
+itemmaterial_9999_desc3
+Crystal
+itemmaterial_9999_desc4
+Crystal

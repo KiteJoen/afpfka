@@ -1,0 +1,498 @@
+ui.common.bonus.name.cash
+Diamonds
+ui.common.bonus.name.money
+gold
+ui.common.bonus.name.spirit
+Energy
+ui.common.bonus.name.exp
+EXP
+ui.common.bonus.name.military.money
+Power
+ui.common.bonus.name.activity.point
+Devotion
+ui.common.bonus.name.achievement.point
+Achievement Pts
+ui.common.bonus.name.towermoney
+Aether
+ui.common.bonus.name.tower.point
+Samsara Pts
+ui.common.bonus.name.arenamoney
+Prestige
+ui.common.bonus.name.stamina
+Vigor
+ui.common.bonus.name.factionmoney
+Donate
+ui.common.bonus.name.open.magic.stone
+Unlock Crystal
+ui.common.bonus.name.open.magic.stone.compose
+Unlock Crystal Craft
+ui.common.bonus.name.open.magic.stone.upgrade
+Unlock Crystal Upgrade
+ui.common.bonus.name.eidolonactivationcoin
+Activate Coins
+ui.common.bonus.name.partner
+Hero
+ui.common.bonus.desc.cash
+Diamonds {0}
+ui.common.bonus.desc.money
+gold {0}
+ui.common.bonus.desc.exp
+EXP {0}
+ui.common.bonus.desc.item
+{0}{1}
+ui.common.bonus.desc.activity.point
+Devotion {0}
+ui.common.bonus.desc.achievement.point
+Achievement Pts {0}
+ui.common.bonus.desc.spirit
+Energy {0}
+ui.common.bonus.desc.stamina
+Vigor {0}
+ui.common.energy
+Energy
+ui.common.stamina
+Vigor
+ui.common.energy.countdown
+After {0} Recover 1 Pt.
+ui.common.btn.back
+Back
+ui.battle.win.gain.exp
+Get EXP
+ui.battle.win.gain.ether
+Get Ether
+ui.battle.win.drop.title
+Drops Rewards
+ui.battle.damage.meter.title
+Damage Statistics
+ui.common.dialog.get.crystal.name
+Received: {0}
+ui.battle.progress.title
+Battle Speed
+ui.common.get.item.title
+Congratulations!
+ui.system.btn.main.bountymission
+Crimson Plan
+ui.system.btn.main.tower
+Samsara Realm
+ui.module.unlock.access.none
+This system is unconditionally open
+ui.module.unlock.access.level
+Reach Hero Level {0}
+ui.module.unlock.access.finish.dungeon
+After Clearing Dungeon {0}
+ui.module.unlock.access.finish.task
+After Completing Mission {0}
+ui.module.unlock.access.vip.level
+VIP Level {0}
+ui.module.unlock.access.faction.level
+Guild Level {0}
+ui.module.unlock.access.none.short
+Unconditionally
+ui.module.unlock.access.level.short
+Lv {0}
+ui.module.unlock.access.finish.dungeon.short
+Clear {0}
+ui.module.unlock.access.finish.task.short
+Clear {0}
+ui.module.unlock.access.vip.level.short
+VIP Level {0}
+ui.module.unlock.access.faction.level.short
+Guild Level {0}
+ui.module.unlock.access.prompt.1
+{0}Unlock{1}
+ui.module.unlock.access.prompt.2
+{0} and {1} unlock {2}
+ui.module.unlock.access.prompt.3
+{0} and {1} and {2} unlock {3}
+ui.module.unlock.access.prompt.4
+{0} and {1} and {2} and {3} unlock {4}
+ui.module.unlock.access.prompt.5
+{0} and {1} and {2} and {3} and {4} unlock {5}
+ui.common.title.obtain
+Access channel
+ui.common.troop.state.on
+Go to Battle
+ui.common.troop.state.on.simple
+Battle
+ui.common.assist.state.on.simple
+Support
+ui.common.button.sure
+OK
+ui.common.button.cancel
+Cancel
+ui.common.tip.not.enough.cash
+Not enough Diamonds
+ui.common.go.charge
+to recharge
+ui.common.tip.not.enough.money
+Not enough gold
+ui.tower.help.tips.name
+Increase Skills
+ui.tower.help.tips.illustrate
+Clear this stage for a chance to get one of the skills below
+ui.common.module.open
+New function unlocked
+ui.tip.currency.exp.desc
+Resource required to level up
+ui.common.system.not.open
+The system is not yet unlocked
+ui.common.system.comming.soon
+Function temporarily locked,  please stay tuned
+ui.system.btn.main.friend
+Friends
+ui.common.quality.white
+Common
+ui.common.quality.green
+[43FF55]Uncommon[-]
+ui.common.quality.blue
+[5AEEFF]Rare[-]
+ui.common.quality.purple
+[AA9CFF]Epic[-]
+ui.common.quality.orange
+[FF9561]Legendary[-]
+ui.common.quality.red
+[FF5C5C]Mythic[-]
+ui.common.quality.golden
+[FF9530]Unique[-]
+ui.common.quality.short.white
+Common
+ui.common.quality.short.green
+[43FF55]Uncommon[-]
+ui.common.quality.short.blue
+[5AEEFF]Rare[-]
+ui.common.quality.short.purple
+[AA9CFF]Epic[-]
+ui.common.quality.short.orange
+[FF9561]Legendary[-]
+ui.common.quality.short.red
+[FF5C5C]Mythic[-]
+ui.common.quality.short.golden
+[FF9530]Unique[-]
+ui.roman.num.1
+Ⅰ
+ui.roman.num.2
+Ⅱ
+ui.roman.num.3
+Ⅲ
+ui.roman.num.4
+Ⅳ
+ui.roman.num.5
+Ⅴ
+ui.roman.num.6
+Ⅵ
+ui.roman.num.7
+Ⅶ
+ui.roman.num.8
+Ⅷ
+ui.roman.num.9
+Ⅸ
+ui.roman.num.10
+Ⅹ
+ui.roman.num.11
+Ⅺ
+ui.roman.num.12
+Ⅻ
+ui.lua.fulldate
+%m-%d-%Y
+ui.common.back
+Click anywhere to continue
+ui.common.buy
+Buy
+ui.common.bought
+Purchased
+ui.common.soldout
+Sold Out
+ui.common.got
+Received
+ui.common.get
+Receive
+ui.common.go
+Go to
+ui.common.unfinished
+Incomplete
+ui.common.has.count
+Amount possessed:
+ui.common.bonus.name.faction_funds
+Guild Funds
+ui.common.days
+Day
+ui.common.hours
+Hour
+ui.common.minutes
+min.
+ui.common.seconds
+sec.
+ui.common.btn.skip
+Skip Animation
+ui.common.level
+Level
+ui.common.level.template
+Lv. {0}
+ui.common.get.currency
+Receive {0} {1}
+ui.common.get.hero.item
+Receive {1} x{0}
+ui.common.get.title
+Receive {0} Title: {1}
+ui.common.countdown.day
+{0} days {1} hr.
+ui.common.countdown.hour
+{0} hr. {1} min.
+ui.common.countdown.minute
+{0} min. {1:D2} sec.
+ui.common.countdown.second
+0 min. {0:D2} sec.
+ui.common.countdown.hours
+{0} hr.
+ui.common.countdown.time
+{0:D2}:{1:D2}
+ui.common.timespan.less.one.hour
+{0} min. ago
+ui.common.timespan.less.one.day
+{0} hr. ago
+ui.common.timespan.more.one.day
+{0} days ago
+ui.common.system.not.find.treasure
+Your troops are not wearing accessory
+ui.common.system.not.find.equip
+Your troops are not wearing gear
+common.proprety_with_plus
+{0}[30c0ff]+{1}[-]
+common.money
+gold
+common_defence_formation
+Defense
+common_refresh
+Refresh
+common_time_format
+{0}/{1} {2}:{3}
+common_complete_fall
+Stage Drops
+common_reject
+Refuse
+common_reception
+Accept
+common_refresh_list
+Refresh List
+common_invite
+Invite
+common_invite_send
+Invited
+common_white_color
+Common
+common_green_color
+Uncommon
+common_blue_color
+Rare
+common_purple_color
+Epic
+common_orange_color
+Legendary
+common_red_color
+Mythic
+common_golden_color
+Unique
+common_fight_power
+Combat Power: {0}
+ui.common.text.btn.change.troop
+Adjust Formation
+ui.common.text.btn.setting
+Settings
+ui.common.text.btn.rank
+Rankings
+ui.common.text.btn.award
+Reward
+ui.common.text.day.monday
+Monday
+ui.common.text.day.tuesday
+Tuesday
+ui.common.text.day.wednesday
+Wednesday
+ui.common.text.day.thursday
+Thursday
+ui.common.text.day.friday
+Friday
+ui.common.text.day.saturday
+Saturday
+ui.common.text.day.sunday
+Sunday
+common_income
+Income
+common_rob
+ATK
+common_double_check
+Confirm Again
+common_fight
+Battle
+common_cost_free
+This attempt is free
+common_cost_diamond
+This attempt costs {0} Diamonds
+common_rank_none
+Not ranked
+common_faction_rank_info_none
+None
+common_wormhole_not_open
+Region Locked
+common_bag_full
+Backpack is full. Please clear your Backpack
+common_click_to_input
+Tap to Enter
+common_time
+{1}:00{0}
+ui.common.text.btn.award1  
+Defeat
+ui.common.text.btn.award2
+Reward
+ui.common.text.btn.1staward
+1st-clear bonus
+ui.common.time_period.d_to_d
+{0} days
+ui.common.time_period.d_to_h
+{0} days {1} hr.
+ui.common.time_period.d_to_m
+{0} days {1} hr. {2} min.
+ui.common.time_period.d_to_s
+{0} days {1} hr. {2} min. {3} sec.
+ui.common.time_period.d_to_ms
+{0} days {1} hr. {2} min. {3} sec. {4} m.s.
+ui.common.time_period.h_to_h
+{0} hr.
+ui.common.time_period.h_to_m
+{0} hr. {1} min.
+ui.common.time_period.h_to_s
+{0} hr. {1} min. {2} sec.
+ui.common.time_period.h_to_ms
+{0} hr. {1} min. {2} sec. {3} m.s.
+ui.common.time_period.m_to_m
+{0} min.
+ui.common.time_period.m_to_s
+{0} min. {1} sec.
+ui.common.time_period.m_to_ms
+{0} min. {1} sec. {2} ms.
+ui.common.time_period.s_to_s
+{0} sec.
+ui.common.time_period.s_to_ms
+{0} sec. {1} ms.
+ui.common.time_period.ms_to_ms
+{0} ms.
+ui.common.title.settings
+Settings
+ui.common.exp.name
+EXP
+ui.common.yes
+Yes
+ui.common.no
+no
+ui.common.faction.name
+<{0}>
+ui.dialog.my.info.resource
+Resource Pack
+ui.dialog.my.info.bug.report
+Feedback
+ui.dialog.my.info.bug.report.faq
+Select the issues you encounter, and view Q&A manual
+ui.common.union.name
+Guild
+ui.common.uid.name
+UID
+ui.main.title.binding.phone
+Link Your Phone
+ui.dialog.bug.report.report
+Feedback Problem
+ui.dialog.bug.report.suggest
+Make a Suggestion
+ui.dialog.bug.report.detail
+This function is only for submitting log inforamtion to help solve problems.Please contact GM through facebook if you need help. More suggestions are also appreciated. 
+ui.dialog.bug.report.btn
+Submit
+ui.setting.btn.advance
+Adv. Setup
+ui.setting.high.switch.1
+Recommend
+ui.setting.high.switch.1.5
+Power saving
+ui.setting.high.switch.2
+Low
+ui.setting.high.switch.3
+Medium
+ui.setting.high.switch.4
+High
+ui.setting.high.switch.5
+Customize
+ui.setting.resolution
+Resolution
+ui.setting.maintown
+Population in the hub
+ui.setting.FPS
+Number of Frames
+ui.setting.effects
+Special Effects
+ui.setting.after
+Post Treatment
+ui.setting.button.antialiasing
+Anti-Aliasing
+ui.setting.button.FPS
+Display Frames
+ui.setting.button.name
+Hide Other Players
+ui.get.pathway
+Access channel
+ui.welfare.moth.sign
+Logins this month:
+ui.gift.code.import
+Tap below to enter gift code
+ui.hero.lottery.main.half
+(50% off )
+ui.award.condition.no
+Failed to meet receiving conditions
+ui.team.dungeon
+Quick Access
+ui.common.currency.notice
+Bulletin:
+ui.common.cuiiency.what
+?
+ui.regulation.explain
+Rules
+ui.common.standings
+Record
+ui.common.id
+ID
+ui.common.level.small
+Lv.
+ui.common.choose
+Select
+ui.common.100
+100%
+ui.common.get.back
+Return
+ui.gem.option.yes
+Combine Confirmation
+ui.gem.option.compound.yes
+Confirm
+ui.gem.option.compound.no
+Cancel
+ui.dialog.gem.info
+Item information
+ui.luck.get.reward.title
+Settlement Reward
+ui.luck.get.reward.combo
+2
+ui.luck.control.close
+Tap anywhere to close
+ui.luck.control.want.num
+Please choose a number from the dice
+ui.gift.bag.select.off
+Select  Exit
+ui.common.button.affirm.report.player
+Confirm Report
+ui.common.buy.error
+Purchase conditions not met
+ui.common.itemgte.itemdetailed.title
+Congratulations!
+ui.common.mail.delete.unreclaim
+Mail has not been collected, confirm to delete it?
+ui.common.mail.reclaim.cost.enough
+{0}/{1}
+ui.common.mail.reclaim.cost.insufficient
+[FF0000]{0}[-]/{1}

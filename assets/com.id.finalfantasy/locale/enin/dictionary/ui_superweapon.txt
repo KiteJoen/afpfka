@@ -1,0 +1,142 @@
+ui.superweapon.upgrade.attrs
+Adv. Stats ({0}/{1})
+ui.superweapon.innate.skill.unlock.grade
+Hero Exclusive Talent ({0} Steps to unlock)
+ui.superweapon.innate.skill.actived
+Hero Exclusive Talent (Activated)
+ui.superweapon.gift.unlock.desc
+({0}Steps to Unlock){1}
+ui.superweapon.active.hero.relation
+Gear {0} activatable: {1}
+ui.super.wespon.css1
+Rating
+ui.super.wespon.attack1
+ATK
+ui.super.wespon.css2
+Rating
+ui.super.wespon.attack2
+ATK
+ui.super.weapon.info.pane.have
+Artifacts Owned
+ui.super.weapon.info.pane.recommend
+Recommended Artifacts
+ui.super.weapon.attr.subtitle.score
+Artifact Rating
+ui.super.weapon.btn.casting
+rank up
+ui.super.weapon.subtitle.strengthen
+Rank up Level
+ui.super.weapon.subtitle.refine
+Adv. Growth
+ui.super.weapon.subtitle.talent
+Artifact
+ui.super.weapon.none.gift
+Aptitude already unlocked
+ui.super.weapon.fragment.number
+{0}/{1}
+ui.superweapon.unlock.gift.with.hero.specific
+\n({0} exclusive {1})
+ui.superweapon.gift.title
+{0}
+ui.superweapon.actived.color
+[00FF00]{0}[-]
+ui.superweapon.unactive.color
+{0}
+ui.superweapon.specific.gift.actived
+Activated
+ui.superweapon.specific.gift.unactive
+Inactive
+ui.superweapon.gift.unlock.title
+(Adv.+{0})
+ui.superweapon.gift.unlock.desc.hero
+({0} Exclusive)
+ui.superweapon.equiped.text
+(Already Dressed)
+ui.superweapon.unequiped.text
+(Not wearing)
+ui.dialog.super.weapon.strengthen
+Adv. Stats
+ui.dialog.super.weapon.hero
+Exclusive Treasure
+ui.dialog.super.weapon.gift
+Artifact
+ui.dialog.super.weapon.text
+Present Artifact
+ui.superweapon.higher.gradeup.will.consumed
+Materials to be consumed include [FF0000]an Artifact[-]!\n[FF0000]Please choose carefully[-]!
+ui.superweapon.higher.gradeup.cancel
+Cancel
+ui.superweapon.higher.gradeup.confirm
+Confirm Adv.
+ui.superweapon.higher.gradeup.title
+Cost Warning
+ui.superweapon.already.refine.max
+Already reached highest level
+ui.super.weapon.list.none
+Temporarily idle Artifacts
+ui.dialog.super.weapon.relation.pane
+Artifact Bond
+ui.mainpackage.super.weapon.all
+Artifact
+ui.mainpackage.super.weapon.fro
+Artifact Shard
+ui.superweapon.skill.desc.prefix
+Passive Skill Enhance:\n{0}
+ui.superweapon.transform.target.select
+Select Artifact to Transform.
+ui.superweapon.transform.target.reselect
+Tap to re-select
+ui.superweapon.transform.destination.select
+Please select desired Artifact.
+ui.superweapon.transform.destination.reselect
+Tap to re-select
+ui.superweapon.error.target.select.first
+Select Artifact to Transform.
+ui.superweapon.error.destination.select.second
+Please select desired Artifact.
+ui.superweapon.specific
+{0} Exclusive
+ui.superweapon.select.target.first
+Please select desired Artifact.
+ui.mainpackage.super.weapon.button1
+Upgrade rank
+ui.mainpackage.super.weapon.button2
+Transform
+ui.super.weapon.switch.main.strengthen
+Gem Craft
+ui.super.weapon.switch.main.refine
+Gems Transform
+ui.super.weapon.switch.main.casting
+Artifact Transformation
+ui.super.weapon.switch.main.switch.body
+Transform object
+ui.super.weapon.switch.main.switch.traget
+Transform target
+ui.super.weapon.switch.main.switch
+Transform
+ui.superweapon.cannot.transform
+This artifact can't be converted
+ui.super.weapon.choose.title
+Select object
+ui.super.weapon.empty.tip
+You have no artifact
+ui.super.weapon.choose.tip
+Select Artifact to Transform.
+ui.super.weapon.choose.traget.title
+Select target
+ui.super.weapon.choose.traget.tip
+Select an artifact to transform
+ui.super.weapon.choose.button.cancel
+Cancel
+ui.super.weapon.choose.button.confirm
+Confirm Selection
+ui.superweapon.confirm.equiped.transform.first.putoff
+The artifact has been equipped, it will be removed when being transformed. \nContinue to perform Transformation?
+ui.super.weapon.btn.switch
+Convert
+ui.superweapon.confirm.transform
+Confirm
+ui.superweapon.upgrade.return.title
+Return confirmation of Artifact Rankup
+ui.super.weapon.list.show.available
+Only show unused Artifacts

@@ -1,0 +1,26 @@
+ui.faction.research.title.tech
+Teknologi Guild
+ui.faction.research.title.tech.help
+Penjelasan teknologi Guild
+ui.faction.research.title.tech.level
+Level :
+ui.faction.research.title.tech.cost
+Butuh:
+ui.faction.research.title.tech.unlock.limit
+Persyaratan terbatas :
+ui.faction.research.text.tech.unlock.limit.research.level
+[ff0000] Teknologi Guild mencapai level {0} ({1}/{2}) [-]
+ui.faction.research.text.tech.unlock.limit.research.level.enough
+[00ff00] Teknologi Guild mencapai level {0} [-]
+ui.faction.research.title.tech.unlock.limit.pretech
+[FF0000]{0} mencapai level {1}[-]
+ui.faction.research.title.tech.unlock.limit.pretech.enough
+[00ff00]{0} mencapai level {1}[-]
+ui.faction.research.text.tech.is.max
+Level teknologi sudah maksimal
+ui.faction.research.title.daily.award
+Setiap hari
+ui.faction.research.text.condition.or
+atau
+ui.faction.research.error.item.not.enough
+{0} yang dibutuhkan tidak cukup

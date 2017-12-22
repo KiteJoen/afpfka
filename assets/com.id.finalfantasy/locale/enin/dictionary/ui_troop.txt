@@ -1,0 +1,34 @@
+ui.troop.lineup.title
+Battle Order
+ui.troop.lineup.teamleader
+Captain
+ui.troop.lineup.teammate
+Team Member
+ui.troop.lineup.alternate
+Substitute Team Members
+ui.troop.lineup.tip
+Drag Hero Avatars to change order of play
+ui.troop.lineup.switch
+Switch
+ui.troop.recommend.award.title
+Collect Rewards
+ui.troop.recommend.award.progress
+Speed {0}/{1}
+ui.troop.recommend.award.dialog.desc
+All heroes that may be added to Battle Formation
+ui.otherhero.info.equip
+Check Gear
+ui.otherhero.info.gem
+Check Gems
+ui.relief.troops
+Support
+ui.troop.batch.casting
+1-tap Forge
+ui.troop.treasure.unlock.skill
+Refine Cost
+ui.troop.batch.casting.choice.consumables
+Select Accessory to consume for Forge
+ui.troop.batch.casting.preview.results
+Forge Preview
+ui.troop.batch.casting.consume
+Cost

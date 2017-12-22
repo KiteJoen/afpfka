@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+	如过存在关于这个文件如何配置的任何疑问，请先查阅文档：
+		ff_document/89-海外对接/海外版通用资料/海外版切分支流程（客户端）.xlsx
+	推荐使用 Notepad++ 编辑此文件，Notepad++ 提供语法高亮，避免配置出错。
+-->
+
+<update_url xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--
+	服务器列表地址。可以配多条，游戏内会依次尝试每个地址，直到成功。
+
+	其中4个参数分别为：
+		* channelName（通过sdk取到，如果取不到则为"none"）
+		* 操作系统（win/android/ios/osx/winphone）
+		* serverlistparam.branch
+		* serverlistparam.extra
+-->
+  <server_list_urls>
+    <string>http://zzhxyn-download.vsplay.com/data/ffsl/{0}/{1}/{2}/{3}/list</string>
+  </server_list_urls>
+  <!--服务器列表地址（内网测试）。可以配多条，游戏内会依次尝试每个地址，直到成功。-->
+  <home_server_list_urls>
+    <string>http://10.12.7.79/serverlist/ff/{0}/{1}/{2}/{3}/list</string>
+  </home_server_list_urls>
+  <!--服务器列表地址（对外发布）。可以配多条，游戏内会依次尝试每个地址，直到成功。-->
+  <dist_server_list_urls>
+    <string>http://zzhxyn-test.efunen.com/ffsl/{0}/{1}/{2}/{3}/list</string>
+  </dist_server_list_urls>
+
+<!--
+	自动更新、分包下载。可以配多条，游戏内会依次尝试每个地址，直到成功。
+
+	发包系统会查找 branches|ffyd|resources 后面的单词，然后修改为所选 branch type
+-->
+  <urls>
+    <string>https://zzhxyn-download.vsplay.com/data/branches/indo/</string>
+  </urls>
+  <!--自动更新、分包下载（内网测试）。可以配多条，游戏内会依次尝试每个地址，直到成功。-->
+  <home_urls>
+    <string>http://10.5.56.167:81/repos/auto_update/branches/indo/</string>
+  </home_urls>
+  <!--自动更新、分包下载（对外发布）。可以配多条，游戏内会依次尝试每个地址，直到成功。-->
+  <dist_urls>
+    <string>http://zzhxyn-test.efunen.com/branches/indo/</string>
+  </dist_urls>
+
+  <!--封禁列表，返回json数据。封禁功能可以禁止登陆和充值。可以不配-->
+  <block_urls>
+    <!-- <string>http://120.132.45.44/ffblock/banChannel</string> -->
+    <!-- <string>http://ffws.autopatch.173.com/ffblock/banChannel</string> -->
+    <!-- <string>http://ffdl.autopatch.173.com/ffblock/banChannel</string> -->
+  </block_urls>
+  <!--封禁列表（内网测试），返回json数据。封禁功能可以禁止登陆和充值。可以不配-->
+  <home_block_urls>
+    <!-- <string>http://10.12.7.79/block/ff/banChannel</string> -->
+  </home_block_urls>
+
+<!--
+	服务器大区列表。可以配多条，游戏内会依次尝试每个地址，直到成功。
+
+	这个地址为服务器列表的地址加上 /all/list，例如：
+		服务器列表：    http://zzhxyn-download.vsplay.com/data/ffsl/{0}/{1}/{2}/{3}/list
+		服务器大区列表：http://zzhxyn-download.vsplay.com/data/ffsl/all/list
+-->
+  <server_zone_list_urls>
+    <string>http://zzhxyn-download.vsplay.com/data/ffsl/all/list</string>
+  </server_zone_list_urls>
+  <!--服务器大区列表（内网测试）。可以配多条，游戏内会依次尝试每个地址，直到成功。-->
+  <home_server_zone_list_urls>
+    <string>http://10.12.7.79/serverlist/ff/all/list</string>
+  </home_server_zone_list_urls>
+
+  <!--上次登录服务器列表。可以不配-->
+  <last_login_server_list_urls>
+    <string>http://zzhxyn-rolelist.efunen.com:8080/rolelist/?channel={0}&amp;uid={1}&amp;token={2}&amp;sign={3}&amp;t={4}</string>
+  </last_login_server_list_urls>
+  <!--上次登录服务器列表（内网测试）。可以不配-->
+  <home_last_login_server_list_urls>
+    <!-- <string>http://10.12.7.36/rolelist/?channel={0}&amp;uid={1}&amp;token={2}&amp;sign={3}&amp;t={4}</string> -->
+  </home_last_login_server_list_urls>
+
+<!--
+网络时间同步，由于会造成 iOS 的闪退，基本上已经废弃。
+
+通过 serverconst 可以关闭 ntp 时间同步功能。
+// ntpSync的超时时间，设为0则表示关闭ntpsync，单位秒
+public long ntpSyncTimeout;
+
+可以不配
+-->
+  <ntp_server_addresses>
+    <!-- <string>ntp.sjtu.edu.cn</string> -->
+    <!-- <string>s2f.time.edu.cn</string> -->
+    <!-- <string>pool.ntp.org</string> -->
+    <!-- <string>cn.ntp.org.cn</string> -->
+    <!-- <string>us.ntp.org.cn</string> -->
+    <!-- <string>sgp.ntp.org.cn</string> -->
+    <!-- <string>kr.ntp.org.cn</string> -->
+    <!-- <string>de.ntp.org.cn</string> -->
+    <!-- <string>wwv.nist.gov</string> -->
+    <!-- <string>time.nist.gov</string> -->
+  </ntp_server_addresses>
+</update_url>

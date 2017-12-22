@@ -1,0 +1,198 @@
+superweapongrade_105_gift_desc
+HP+202500，ATK+12%
+superweapongrade_110_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_115_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_125_gift_desc
+en HP falls below 50%, team gets 10% Damage Bonus10%, and [C4251F]Upgrades weapon’s Awakening State[-]
+superweapongrade_205_gift_desc
+ATK+6750，HP+14%
+superweapongrade_210_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_215_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_225_gift_desc
+When HP falls below 50%, get a shield equal to 27% of max HP for 5s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_305_gift_desc
+HP+337500，ATK+14%
+superweapongrade_310_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_315_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_325_gift_desc
+When HP falls below 30%, all enemies are wrapped for 3s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_405_gift_desc
+DEF+5400，HP+14%
+superweapongrade_410_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats升
+superweapongrade_415_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_425_gift_desc
+When HP falls below 30%, all enemy units are burned for 8s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_505_gift_desc
+DEF+5400，ATK+14%
+superweapongrade_510_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_515_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_525_gift_desc
+Damage is increased by 13% during first 25s after joining battle. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_605_gift_desc
+HP+337500，ATK+14%
+superweapongrade_610_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_615_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_625_gift_desc
+When HP falls below 30%, all enemies' damage decreases by 22% for 5s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_705_gift_desc
+HP+337500，DEF+14%
+superweapongrade_710_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_715_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_725_gift_desc
+When HP falls below 50%, get 67% Damage Reduction for 5s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_805_gift_desc
+DEF+5400，ATK+14%
+superweapongrade_810_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_815_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_825_gift_desc
+When attacking, enemy’s recovery is lowered by 100%, lasting 5s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_905_gift_desc
+HP+337500，DEF+14%
+superweapongrade_910_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_915_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_925_gift_desc
+When using limit break, team’s attack and movement speed increase by 19% for 5s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_1005_gift_desc
+HP+202500，ATK+12%
+superweapongrade_1010_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1015_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1025_gift_desc
+When healing the target, increase target’s damage by 14%, lasting for 5s.[C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1105_gift_desc
+ATK+4050，HP+12%
+superweapongrade_1110_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1115_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1125_gift_desc
+During the first 25 seconds of battle, damage is increased 12%. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1205_gift_desc
+ATK+4050，HP+12%
+superweapongrade_1210_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1215_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1225_gift_desc
+When healing the target, increase target’s damage by 14%, lasting for 5s.[C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1305_gift_desc
+DEF+3240，ATK+12%
+superweapongrade_1310_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1315_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1325_gift_desc
+When HP falls below 30%,  get 56% Damage Reduction for 5s. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1405_gift_desc
+DEF+3240，ATK+12%
+superweapongrade_1410_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1415_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1425_gift_desc
+When HP falls below 50%,  damage increases by 56% for 5s. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1505_gift_desc
+HP+202500，DEF+12%
+superweapongrade_1510_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1515_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1525_gift_desc
+When healing the target, increase target’s damage by 14%, lasting for 5s.[C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1605_gift_desc
+ATK+4050，HP+12%
+superweapongrade_1610_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1615_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1625_gift_desc
+During the first 25 seconds of battle, damage is increased 12%. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1705_gift_desc
+DEF+3240，ATK+12%
+superweapongrade_1710_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1715_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1725_gift_desc
+When HP falls below 50%,  damage increases by 56% for 5s. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1805_gift_desc
+ATK+4050，HP+12%
+superweapongrade_1810_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1815_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1825_gift_desc
+When HP falls below 30%,  get 56% Damage Reduction for 5s. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_1905_gift_desc
+DEF+3240，ATK+12%
+superweapongrade_1910_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_1915_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_1925_gift_desc
+During the first 25 seconds of battle, damage is increased 12%. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_2005_gift_desc
+HP+202500，DEF+12%
+superweapongrade_2010_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2015_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_2025_gift_desc
+When HP falls below 30%, all enemies are frozen for 2s. [C4251F]Upgrade weapon’s Awakening State[-]
+superweapongrade_2105_gift_desc
+HP+202500，ATK+12%
+superweapongrade_2110_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2115_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_2125_gift_desc
+When HP falls below 50%,  damage increases by 56% for 5s. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_2205_gift_desc
+HP+202500，ATK+12%
+superweapongrade_2210_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2215_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_2225_gift_desc
+During the first 25 seconds of battle, damage is increased 12%. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_2305_gift_desc
+ATK+4050，HP+12%
+superweapongrade_2310_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2315_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_2325_gift_desc
+When HP falls below 30%,  get 56% Damage Reduction for 5s. [C4251F]Upgrade weapon’s awakening state[-]
+superweapongrade_2415_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2515_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2615_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2705_gift_desc
+ATK+4050，HP+12%
+superweapongrade_2710_gift_desc
+Divine Awakening I,  Artifacts substantially increase stats
+superweapongrade_2715_gift_desc
+Activate exclusive passive skill. [C4251F]Enable weapon’s awakening state[-]
+superweapongrade_2725_gift_desc
+When HP falls below 30%,  get 56% Damage Reduction for 5s.

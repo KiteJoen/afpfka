@@ -1,0 +1,196 @@
+ui.fortune.signin.getaward
+Receive
+ui.fortune.signin.regetaward
+Continue to claim
+ui.fortune.signin.resign
+Re-sign
+ui.fortune.signin.finishgetaward
+Received
+ui.fortune.signin.awardinfo
+Sure to spend {0}
+ui.fortune.signin.notifyinfo
+Recharge {0}
+ui.fortune.signin.awardvip
+V{0}x2
+ui.fortune.signin.vipsubinfo
+Can reach
+ui.fortune.signin.resignsubinfo
+Can re-sign
+ui.fortune.fund.name
+Growth Fund
+ui.fortune.fund.fortune.name
+Full Benefits
+ui.fortune.has.buy.count
+Player Purchased
+ui.fortune.fan.li
+32x Rebate!
+ui.fortune.desc
+1000 Diamonds Recharge Fund in total collects 32000 Diamonds!
+ui.fortune.buy.btn.name
+Purchase
+ui.fortune.has.buy.btn.name
+Purchased
+ui.fortune.award.btn.name
+Receive
+ui.fortune.need.vip.level
+Purchase requires VIP{0}
+ui.fortune.now.vip.level
+Current VIP Lv. {0}
+ui.fortune.cash
+{0} Diamonds
+ui.fortune.money
+{0:0.##} USD
+ui.fortune.level
+Level {0}
+ui.fortune.achieve.level.award1
+Reach [00FF00FF]Level {0}[-] to Collect
+ui.fortune.achieve.level.award2
+Reach [FF0000FF]Level {0}[-] to Collect
+ui.fortune.need.person.level
+Reach Lv.{0} to collect
+ui.fortune.fortune.can.award
+Reach {0} to receive more purchases
+ui.fortune.has.awarded.count
+You have claimed {0} Diamonds
+ui.fortune.has.not.awarded.count
+You still have {0} Diamonds to claim
+ui.fortune.shop.refresh
+Try your luck
+ui.fortune.shop.has.refresh
+Already drawn
+ui.fortune.shop.buy.title
+Buying Tips
+ui.fortune.shop.buy.content
+Are you sure you want to purchase this item?
+ui.fortune.shop.buy.yes
+Yes
+ui.fortune.shop.buy.no
+no
+ui.fortune.shop.discount.error
+Please draw discount
+ui.fortune.shop.promotion.slider
+Cost Rate
+ui.fortune.shop.promotion.charge.cost
+The discount amount is: {0} USD
+ui.fortune.shop.promotion.refreshtime
+Product refresh time: daily {0}
+ui.fortune.shop.promotion.no.charge
+Discount not used up
+ui.fortune.shop.promotion.is.max
+You currently have an order that has not been processed. This purchase will not benefit your current rate. Do you still want to proceed with the purchase?
+ui.fortune.shop.promotion.pross
+Purchase value: {0}
+ui.fortune.shop.promotion.charge.desc
+sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+ui.fortune.double.award.go
+Go to
+ui.fortune.double.award.title
+Double output: {0} with double reward!
+ui.fortune.double.awrad.text
+During the event, {0} rewards are doubled!
+ui.fortune.double.award.remain.time
+Remaining time: {0}
+ui.welfare.sign.title
+Log in every day for a week and receive a special reward on the 7th day! Available every week.
+ui.welfare.manual.title
+Mother will add strength to you every day at regular intervals!
+ui.welfare.gift.code.title
+Gift code can be redeemed for tons of rewards
+ui.fortune.time
+{0} - {1}
+ui.fortune.buy.success
+Purchased
+ui.fortune.onlineaward
+Spin 'n Win
+ui.fortune.onlineaward.empty
+We're out today!
+ui.fortune.onlineaward.warning.wait
+It's not the time to claim prizes
+ui.fortune.onlineaward.warning.empty
+We're out! Come back tomorrow!
+ui.fortune.openserver.day
+Day 
+ui.fortune.openserver.specialday.info
+Send the Eidolon Golem
+ui.fortune.feature.puton
+Put on
+ui.fortune.feature.takeoff
+Take off
+ui.fortune.feature.unlock
+Unlock
+ui.fortune.feature.goto.flower
+Present Flowers
+ui.fortune.feature.goto.get
+Go Collect
+ui.fortune.feature.unlock.condition
+Reach {0} intimacy with the Hottie to get
+ui.rmb.price
+{0} USD
+ui.fortune.share
+Share
+ui.buy.extra.bonus
+Extras{0}
+ui.fortune.luhan.flower.lbl.rank
+Ranking
+ui.fortune.luhan.flower.lbl.rank2
+Ranking:
+ui.fortune.luhan.flower.lbl.score
+Intimacy Level
+ui.fortune.luhan.flower.lbl.score2
+Intimacy Level:
+ui.fortune.luhan.flower.lbl.player_name
+Player Name
+ui.fortune.luhan.flower.lbl.own
+Possessed:
+ui.fortune.luhan.flower.lbl.award
+Intimacy\nReward
+ui.fortune.luhan.flower.lbl.noplayer
+There's nobody on the list right now. Let's present flowers!
+ui.fortune.luhan.flower.award.title
+Intimacy Reward
+ui.fortune.luhan.flower.award.item.title
+Reach intimacy level {0} to collect
+ui.fortune.luhan.flower.award.score
+Collect {0} Hottie Pts
+ui.fortune.luhan.info.ranking.awards.self_1
+Current ranking is {0}. Rewards are sent out after the event
+ui.fortune.luhan.info.ranking.awards.self_2
+Currently not on list.  Reach rank {0} to receive a reward after the event
+ui.fortune.luhan.info.ranking.awards
+Weekly Ranking Awards
+ui.fortune.luhan.flower.remain.time
+Remaining time: {0}
+ui.fortune.luhan.flower.weekly.top.table
+Weekly Rankings List
+ui.fortune.luhan.flower.total.top.table
+Cumulative Rankings List
+ui.fortune.luhan.flower.top.table.player_name
+{0}\n({1})
+ui.fortune.luhan.flower.top.table.no.rank
+Not ranked
+ui.fortune.award.got
+Reward received
+ui.fortune.luhan.flower.impression.score
+{0}/{1}
+ui.share.main.little
+Share
+ui.fortune.share.title
+You can get a diamond reward every day
+ui.fortune.luhan.gain.impression
+Favorability + {0}
+ui.luckboard.use.telecontrol
+Use the remote dice
+ui.limited.gift.success
+Purchased limited time gift pack
+ui.fortune.time.limit
+Extra diamonds will be returned through mail. Buy more for more score that could redeem great rewards!
+ui.fortune.time.limit.men.time
+The more you purchase, the more you save! Buy early for better savings!
+ui.welfare.gift.code.button.get
+Get Gift Code
+ui.fortune.star.praise.getaward
+Receive
+ui.fortune.star.praise.finishgetaward
+Received
+ui.fortune.star.praise.normal
+Rating

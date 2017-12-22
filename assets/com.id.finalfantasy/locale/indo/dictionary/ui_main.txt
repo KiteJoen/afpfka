@@ -1,0 +1,1070 @@
+ui.magicstone.compose
+Gabung
+ui.magicstone.equipon
+Pasang
+ui.magicstone.equipoff
+Melepas
+ui.magicstone.upgrade
+Enhance
+ui.magicstone.upgrade.auto.choose
+Pilih semua
+ui.magicstone.equipchange
+Ganti
+ui.magicstone.menu.stone.bag
+Tas
+ui.magicstone.menu.stone.compose
+Compose
+ui.magicstone.menu.stone.fragment
+Fragment
+ui.magicstone.upgrade.cost
+Biaya enhance :
+ui.magicstone.equipon.success
+Pemasangan berhasil
+ui.magicstone.equipoff.success
+Berhasil melepas
+ui.magicstone.upgrade.success
+Enhance berhasil
+ui.magicstone.fragment.compose.success
+Penukaran berhasil
+ui.magicstone.compose.success
+Compose berhasil
+ui.magicstone.autocompose.quality.0
+Putih ({0} buah)
+ui.magicstone.autocompose.quality.1
+Hijau ({0} buah)
+ui.magicstone.autocompose.quality.2
+Biru ({0} buah)
+ui.magicstone.autocompose.quality.3
+Ungu ({0} buah)
+ui.magicstone.autocompose.quality.4
+Orange ({0} buah)
+ui.magicstone.compose.fail
+Compose gagal
+ui.magicstone.compose.choose.quality.no.same
+Kualitas magic crystal yang dipilih berbeda, tidak bisa ditambah
+ui.magicstone.detail.suit.mainattr
+{0} ({1} set):{2}
+ui.magicstone.detail.suit.mainattr.none
+Tidak ada
+ui.magicstone.autocompose.fail
+Belum cukup magic crystal untuk digabung
+ui.magicstone.filter.name
+{0}
+ui.magicstone.compose.success.rate.label
+Tingkat keberhasilan {0}%
+ui.base.name.cash
+Diamond
+ui.base.desc.cash
+Diamond yang cantik, mata uang tinggi di dalam permainan
+ui.base.name.money
+coin
+ui.base.desc.money
+Golden money, money dapat digunakan dalam permainan
+ui.base.name.tower.money
+Light spirit
+ui.base.desc.tower.money
+Spiral world berhadiah coins, bisa digunakan di Spiral shop
+ui.tip.currency.cash.name
+Diamond
+ui.tip.currency.money.name
+coin
+ui.tip.currency.fragment.name
+Soul crystal
+ui.tip.currency.ether.name
+Ether
+ui.tip.currency.activity.point.name
+Activity
+ui.tip.currency.achievement.point.name
+Achievement point
+ui.tip.currency.cash.desc
+Coin dalam permainan, sangat berharga
+ui.tip.currency.money.desc
+Mata uang yang digunakan di dalam permainan
+ui.tip.currency.towermoney.desc
+Hadiah spiral world, bisa digunakan di spiral shop
+ui.tip.currency.tower.point.desc
+Poin spiral world, bisa diambil di tampilan hadiah
+ui.tip.currency.arenamoney.desc
+Arena menghasilkan coin, bisa digunakan di toko arena
+ui.tip.currency.fragment.desc
+Alat yang diperlukan untuk upgrade Hero
+ui.tip.currency.factionmoney.desc
+Didapat melalui donasi dan lainnya, bisa digunakan di Guild shop
+ui.tip.currency.ether.desc
+Hero upgrade semua tools yang dibutuhkan
+ui.tip.currency.activity.point.desc
+Hasil event harian
+ui.tip.currency.achievement.point.desc
+Hasil achievement misi
+ui.tip.currency.eidolonactivationcoin.desc
+Digunakan untuk meningkatkan kekuatan misterius Eidolon, didapat dari Group Dungeon
+ui.tip.magicstone.title.0
+Detail attribute
+ui.tip.magicstone.title.1
+Set yang dibutuhkan
+ui.tip.magicstone.info.0
+Poin : {0}
+ui.tip.magicstone.info.1
+Dipasang di {0}
+ui.tip.magicstone.energy.name
+~Crystal~
+ui.tip.magicstone.energy.desc
+Enhance magic crystal bisa mendapat poin crystal energy
+ui.tip.magicstone.energy.title.0
+Menambah attribute
+ui.tip.magicstone.energy.info.0
+Attack bertambah {0} \n Defense bertambah {1} \n HP bertambah {2}
+ui.tip.magicstone.button.upgrade
+Enhance
+ui.tip.magicstone.button.equip
+Pasang
+ui.tip.magicstone.button.unequip
+Melepas
+ui.tip.magicstone.fragment.button.exchange
+Compose
+ui.tip.magicstone.fragment.info
+Saat ini ada {0} buah
+ui.tip.magic.title.0
+Hasil equipment
+ui.tip.magic.button.change
+Ganti
+ui.tip.magic.button.upgrade
+Enhance
+ui.tip.magic.button.equipoff
+Melepas
+ui.dialog.getitem.magicstone.get
+Selamat kamu mendapat magic crystal {0}
+ui.dialog.getitem.normal.get
+Selamat kamu mendapat item {0}
+ui.dialog.compose.fail.info
+Kamu masih mendapatkan {0} coin
+ui.magicstone.equipon.slot.not.open
+Posisi magic crystal belum terbuka
+ui.dialog.compose.fail.kazusa
+Tidak boleh gegabah seperti ini, mau kubantu?
+ui.dialog.compose.fail.reset
+Doktor Kazusa silakan casting ulang magic crystal, untuk memulihkan beberapa kerusakan.
+ui.compose.title
+Silakan pilih material yang dicompose
+ui.tip.magicstone.compose.rate.info
+Total attribute magic crystal set
+ui.open.slot
+Membuka slot magic crystal
+ui.open.slot.confirm.canopen
+Membuka magic crystal plate ke [ffdd4e]{0}[-] perlu [ffdd4e]\n{1} coin \n[-] yakin buka?
+ui.open.slot.confirm.cannotopen
+Membuka magic crystal plate ke [ffdd4e]{0}[-] perlu karakter mencapai level [ffdd4e] {1}[-]
+ui.button.confirm
+Reset
+ui.magicstone.slot.open.level
+Syarat level {0}
+ui.magicstone.slot.open.cost
+Coin terpakai {0}
+ui.magicstone.right.magicstone.none
+Sesuai posisi tidak ada magic crystal yang bisa dipasang
+ui.magicstone.open.slot
+Buka
+ui.military.item.title.name.1
+Memasuki tantangan
+ui.military.item.title.name.2
+Memasuki pedoman
+ui.military.reach.max.level.tip
+sdh memenuhi syarat upgrade! \n Cepat cari {0} utk upgrade pangkat~
+ui.eidolon.menu.eidolon
+Info Eidolon
+ui.eidolon.menu.magic
+Gudang Magic
+ui.dungeon.energy.cost
+Butuh Energy
+ui.dungeon.recommend.power
+BP rekomen
+ui.dungeon.recommend.leader
+Rekomendasi tipe Leader
+ui.dungeon.player.power
+BP ku
+ui.dungeon.rewards.title
+Menjatuhkan hadiah
+ui.dungeon.enemy.info
+Line up musuh
+ui.dungeon.btn.battle
+Battle
+ui.magicstone.btn.upgrade
+Naik level
+ui.magicstone.btn.change
+Ganti
+ui.magicstone.btn.equipoff
+Melepas
+ui.createrole.vocation
+Job
+ui.createrole.hair
+Hair
+ui.createrole.face
+Face
+ui.createrole.voice
+Sifat
+ui.createrole.decoration
+Ornamen
+ui.magicstone.no.select.stone
+Pilih magic crystal
+ui.magicstone.no.change.stone
+Saat ini belum ada Magic crystal yang bisa dipasang, cepat jelajahi Magic crystal
+ui.troop.check.all
+Periksa semua
+ui.magicstone.stone.power
+Crystal power :
+ui.createrole.confirm
+Konfirmasi penampilan
+ui.createrole.warning
+Penampilan tidak bisa diganti setelah memasuki permainan, pilih hati-hati
+ui.magicstone.left.magicstone.none
+Posisi saat ini belum dipasang Magic crystal
+ui.magicstone.left.upgrade.maxlevel
+Magic crystal ini sudah level maksimal, tidak bisa lanjut upgrade
+ui.magicstone.faild.salvage
+Mohon
+ui.magicstone.compose.tip
+Silakan pilih 4 kualitas magic crystal yang sama
+ui.magicstone.upgrade.title
+Perbandingan magic crystal attribute
+ui.magicstone.suit.name
+Paket aktif :
+ui.magicstone.single.power
+Poin :
+ui.magicstone.mark.equip
+Sudah dipasang
+ui.magicstone.allvalue.none
+Saat ini belum memakai magic crystal
+ui.magicstone.upgrade.level
+Lv.Enhance
+ui.magicstone.stone.status
+Pertumbuhan
+ui.magicstone.upgrade.choose.exp.over.title
+Yakin
+ui.magicstone.upgrade.choose.exp.over.info
+EXP melewati batas maksimal, apakah mau membatalkan pilihan ini?
+ui.magicstone.upgrade.choose.exp.over.yes
+Lanjut pilih
+ui.magicstone.upgrade.choose.exp.over.no
+Melepas
+ui.magicstone.detail.suit.mainattr.enough
+[ff9c1c]{2} ({1} set):  {3}[-]
+ui.magicstone.detail.suit.mainattr.not.enough
+[bebebe]{2} ({1} set):  {3}[-]
+ui.magicstone.detail.suit.mainattr.enough.special
+[ff9c1c]{2} ({1} set):  \n{3}[-]
+ui.magicstone.detail.suit.mainattr.not.enough.special
+[bebebe]{2} ({1} set):  \n{3}[-]
+ui.battle.pause.title
+Berhenti sementara
+ui.battle.pause.btn.continue
+Perang berlanjut
+ui.battle.pause.btn.restart
+Mulai lagi
+ui.battle.pause.btn.quit
+Keluar perang
+ui.battle.pause.music
+Musik
+ui.battle.pause.pe
+Suara karakter
+ui.battle.pause.cut
+Animasi skill
+ui.battle.pause.vip
+Tampilkan level VIP
+ui.battle.pause.sfx
+Efek suara
+ui.battle.pause.visual
+Kualitas gambar
+ui.battle.pause.visual.high
+Tinggi
+ui.battle.pause.visual.medium
+Sedang
+ui.battle.pause.visual.low
+Rendah
+ui.battle.pause.skill
+Special skill
+ui.battle.pause.switch.on
+Buka
+ui.battle.pause.switch.off
+Tutup
+ui.battle.locale.critical
+!
+ui.battle.locale.block
+Miss
+ui.eidolon.list.empty
+Hei, kamu belum punya Eidolon, gunakan kontrol perintah untuk menambah beberapa, jika tidak tampilannya akan berantakan
+ui.eidolon.gallery.not.open
+Sistem ikon masih belum terbuka
+ui.magic.upgrade.success
+Enhance berhasil
+ui.magic.upgrade.max.level
+Magic ini sudah mencapai level tertinggi, tidak perlu enhance
+ui.button.cancel
+Batal
+ui.lottery.btn.again
+Undi 1 kali lagi
+ui.touch.continue
+Klik screen utk lanjutkan
+ui.battle.countdown1
+Jarak dengan bom
+ui.battle.countdown2
+Jarak dengan Power sistem kehilangan power
+ui.battle.countdown3
+Jumlah pasukan musuh
+ui.battle.countdown4
+Menyelesaikan dalam waktu berikut bisa mendapat
+ui.battle.countdown5
+Menyelesaikan stage bisa mendapat
+ui.compose.autoselect
+auto pilih
+ui.compose.compose
+Compose
+ui.battle.lose1
+Saat ini kita belum bisa mengalahkan musuh di sini, kupo……
+ui.battle.lose2
+Coba lagi setelah tingkatkan kekuatan!
+ui.getcrystal.get
+Sudah mendapat :
+ui.leaderboard.refresh
+Refresh time
+ui.battle.lose.btn.hero
+Hero
+ui.battle.lose.btn.magicstone
+Magic Crystal
+ui.lottery.reward.title
+Mendapat Hero baru
+ui.leaderboard.record.name
+Jumlah star :
+ui.leaderboard.title
+Peringkat star
+ui.magicstone.tip.all.stone.property.info
+Setiap hero magic crystal plate bisa dipasang 6 magic crystal \n\n semakin tinggi kualitas magic crystal semakin banyak attribute yang diberikan \n\n memasang magic crystal di paket yang sama bisa mendapat attribute paket
+ui.magicstone.tip.compose.info
+Fitur ini menggunakan kristal kualitas rendah untuk mendapatkan kristal kualitas tinggi \n\n Membutuhkan 4 kristal kualitas sama untuk compose \n\n Setelah compose akan mendapatkan 1 random kristal dengan kualitas lebih tinggi
+ui.compose.no.stone
+Tidak ada magic crystal yang tersedia
+ui.createrole.hp
+HP
+ui.createrole.atk
+Serang
+ui.createrole.def
+Defense
+ui.createrole.cri
+Crit
+ui.createrole.skill
+Skill
+ui.cg.story1
+Aquamens XII 842 RG \n\n Raja Milites Empire yang mengikuti keinginan kristal Empire, mulai menyerang Dominion of Rubrum
+ui.magicstone.energypoint.tip.title.1
+Attack bertambah
+ui.magicstone.energypoint.tip.title.2
+Defense bertambah
+ui.magicstone.energypoint.tip.title.3
+HP bertambah
+ui.magicstone.equip.on.error.same.type
+Magic crystal yang sejenis hanya bisa dipasang satu
+ui.troop.change.member
+Ganti hero
+ui.troop.quick.equip
+Quick equip
+ui.troop.equip.resonance
+Resonance equipment
+ui.troop.link.to.magicstone
+Gem
+ui.troop.fashion
+Fashion
+ui.troop.strengthen
+Quick enhance
+ui.bounty.name
+Rencana dark red
+ui.bounty.refresh
+Gratis refresh
+ui.bounty.award
+Mengambil
+ui.bounty.passed
+Sudah berhasil
+ui.bounty.passed.complete
+Complete
+ui.bounty.buy.count.button
+Jumlah pembelian
+ui.bounty.go.shop.button
+Pergi ke shop
+ui.raward.all
+Reward
+ui.arena.top.reward
+Preview hadiah
+ui.arena.sysrem.record
+Catatan battle
+ui.arena.sysrem.rule
+Keterangan Peraturan
+ui.arena.sysrem.ranking
+Ranking
+ui.arena.sysrem.shop
+Arena Shop
+ui.arena.sysrem.refresh
+Ganti
+ui.arena.match.replacement
+Lineup DEF
+ui.arena.match.replacement.vs
+Mengatur susunan
+ui.arena.match.begin
+Mulai
+ui.magicstone.exchange
+Penukaran Magic crystal
+ui.sort.level
+Peringkat level
+ui.sort.quality
+Peringkat kualitas
+ui.magicstone.no.materials
+Tidak ada sisa magic crystal
+ui.amount.label
+Jumlah yang dimiliki：
+ui.explore.unlock1
+Segel
+ui.explore.unlock2
+Hapus
+ui.package.list.empty
+Sementara tiada
+ui.tip.topbar.currency.spirit.name
+Energy
+ui.tip.topbar.currency.spirit.desc
+Ada energi untuk mengalahkan dungeon
+ui.tip.topbar.currency.mysterious.name
+Soul crystal
+ui.tip.topbar.currency.mysterious.desc
+Coin soul shop, bisa didapat dengan resolve Hero
+ui.tip.topbar.currency.play_tower.name
+Light spirit
+ui.tip.topbar.currency.play_tower.desc
+Hadiah coin spiral world, bisa digunakan di Heroic shop
+ui.tip.topbar.currency.arena.name
+Prestige
+ui.tip.topbar.currency.arena.desc
+Coin toko arena, bisa didapat dengan mengikuti arena
+ui.tip.topbar.currency.stamina.name
+Stamina
+ui.tip.topbar.currency.stamina.desc
+Bisa digunakan untuk mengikuti arena dan menjelajah magic crystal
+ui.tip.topbar.currency.faction.money.name
+Kontribusi
+ui.tip.topbar.currency.faction.money.desc
+Bisa digunakan di Guild shop
+ui.tip.topbar.currency.faction.funds.name
+Dana Guild
+ui.tip.topbar.currency.faction.funds.desc
+Upgrade bangunan
+ui.tip.system.tip
+Tips sistem
+ui.tip.equipment.can.not.refine
+Tidak bisa refine equipment (equipment kualitas biru ke atas bisa direfine)
+ui.tip.equipment.can.not.quick.strengthen
+Tidak ada equipment yang bisa dienhance
+ui.tip.equipment.can.not.quick.strengthen.money
+Enhance semua gagal, coin tidak cukup
+ui.tip.dungeon.first.pass.drop.item
+Lolos pertama dapat hadiah tambahan (hanya mendapat 1 kali)
+ui.hero.normal.name
+Karakter utama
+ui.email.num
+Pesan
+ui.email.name
+Email
+ui.announcement.name
+Pengumuman
+ui.announcement.name.message
+Berita
+ui.email.get
+Mengambil
+ui.crystal.explore.robber.run.tip
+Kamu memilih kabur, penjelajahan berakhir
+ui.crystal.explore.robber.buy.success
+Selamat pembelian berhasil
+ui.crystal.explore.robber.buy.cash.no.enough
+Diamond tidak cukup
+ui.item.recommend
+Pakai {0}
+ui.captain.hero.element.info
+{0} resonance ({1}/{2}): {3}
+ui.email.delete
+Hapus
+ui.email.get.all
+Ambil semua
+ui.email.del.all
+Hapus semua
+ui.email.delete.success
+Berhasil hapus
+ui.chat.new.unread.message
+Ada [ff0000]{0}[-] pesan yang belum dibaca
+ui.spirit.recovery
+Setelah {0} kembali ke poin 1
+ui.spirit.getfull
+Energi kembali penuh :
+ui.stamina.getfull
+Stamina kembali penuh
+ui.spirit.full
+Sudah penuh
+ui.spirit.today
+Hari ini
+ui.spirit.tomorrow
+Besok
+ui.stage.fail.dead
+Gagal
+ui.stage.fail.time
+Waktu sudah lewat
+ui.stage.fail.grow.advice
+Jadi kuat
+ui.arena.sysrem.reward
+Reward
+ui.tip.currency.crossserverbattle.point.name
+The glory of gods
+ui.tip.currency.crossserverbattle.point.desc
+God battle mendapat
+ui.tip.topbar.currency.research.name
+Koin penelitian
+ui.tip.topbar.currency.research.desc
+Hasil penelitian
+ui.announcement.download.error
+Tidak bisa mengunduh pengumuman!!
+ui.tip.topbar.currency.eidolon.name
+Kekuatan Eidolon
+ui.tip.topbar.currency.eidolon.desc
+Digunakan untuk mengaktifkan energi misterius Eidolon
+ui.maintown.system.preview.dungeon
+[FF0000] (Lolos {0}) [-]
+ui.maintown.system.preview.rolelevel
+[FF0000] (upgrade sampai level {0}) [-]
+ui.maintown.system.preview.task
+[FF0000] (Selesai {0}) [-]
+ui.maintown.system.preview.viplevel
+[FF0000] (VIP level {0}) [-]
+ui.maintown.system.countdown.secondlogin
+{0} \n {1} ambil nanti
+ui.maintown.system.countdown.secondlogin.get
+Mengambil{0}
+factionrestaurant_chat_locale
+[0CFF00]{0}[-]Di kantin Guild sudah dipesan banyak makanan, sungguh enak.
+ui.troop.equipment
+equip
+ui.item.introduce
+Pengenalan item
+ui.gem.pane.suit
+Paket gem
+ui.maintown.system.countdown.left
+Ambil nanti
+ui.maintown.system.countdown.award
+Bs ambil
+ui.arena.main.tiaozhan
+Tantang
+ui.arena.main.saodang
+Wipe 5 kali
+ui.arena.main.fangshou
+Lineup DEF
+ui.arena.main.huanyipi
+Ganti
+ui.arena.main.jiangli
+Reward
+ui.arena.main.shangdian
+Arena Shop
+ui.arena.main.paihangbang
+Ranking
+ui.arena.main.jilu
+Catatan battle
+ui.arena.main.paimingjiangli
+Hadiah peringkat saat ini
+ui.billing.time.out.hint
+Koneksi pembayaran tidak lancar, barang akan terlambat tiba, jangan beli berulang
+ui.alertmessages.ge
+pcs
+ui.troop.gem.resonance
+Resonance gem
+ui.mail.has.attachment.mail
+Silakan ambil lampiran
+ui.mail.no.read.mail
+Saat ini tidak ada email yang sudah dibaca
+ui.achievement.dialog.title
+Achievement treasure box
+Reward
+Pria
+rolecareer_gender_male
+Pria
+rolecareer_gender_female
+Perempuan
+ui.function.open.new.open
+Persyaratan mulai
+ui.function.open.new.reward
+Item hadiah
+ui.box.lottery.leaderboard.title
+Peringkat poin limited Hero
+ui.box.lottery.btn.award.name
+Preview
+ui.box.lottery.btn.leaderboard.name
+Ranking
+ui.createrole.hair.color
+Warna rambut
+ui.battle.pause.shake
+Shock
+ui.worship_text1
+Terima kasih atas dukunganmu
+ui.worship_text2
+Terima kasih banyak~
+ui.charge.tutorial.title
+Bantuan isi ulang
+ui.currency.recommend.power
+Rekomendasi BP :
+ui.conditional.bonus
+Hadiah point
+ui.conditional.bonus.notreach
+Belum tercapai
+ui.conditional.bonus.already.receive
+Sudah diambil
+ui.achievement.tab1
+Jadwal
+ui.achievement.tab2
+Achievement
+ui.has.been.completed.all
+Sudah berhasil
+ui.achievement.dailymission.prompt
+Setiap hari reset pukul 00.00
+ui.maintown.task.dynamic.info.title
+Otomatis mencari jalan…
+ui.achievement.popup.get
+Sudah tercapai
+ui.announcement.none.message
+Saat ini tidak ada berita~ kupo !
+ui.festival.main.time
+Waktu event :
+ui.welfare.cumulative.charge.accumulate
+Akumulasi isi ulang :
+ui.setting.camera
+Fungsi kamera
+ui.setting.btn.baseset
+Basic setting
+ui.share.main.share.to
+Berbagi ke :
+ui.main.town.minu.more.smelter
+Tungku
+ui.gift.bag.select.choose
+Pilih satu hadiah berikut ini
+ui.gift.bag.max
+Pakai:
+ui.get.eidolon.piece.click
+Klik screen utk lanjut
+ui.dialog.dungeon.info.star.title
+Syarat 3 Star
+ui.Guilddungeon.main.kill
+Kalahkan
+ui.Guilddungeon.main.recommend
+Rekomen
+ui.Guilddungeon.main.reward
+Poin Lolos
+ui.Guilddungeon.main.time
+Sisa kali
+ui.Guilddungeon.main.challengeaward
+Reward Tantangan
+ui.Guilddungeon.main.set
+Pengaturan
+ui.Guilddungeon.main.record
+Setting Prg
+ui.Guilddungeon.setup.change
+Pilih Tingkat
+ui.Guilddungeon.TimeRanking.title
+Ranking Lolos Pos
+ui.Guilddungeon.TimeRanking.rank
+Rank
+ui.Guilddungeon.TimeRanking.sign
+Badge
+ui.Guilddungeon.TimeRanking.name
+Nama
+ui.Guilddungeon.TimeRanking.time
+Waktu Lolos
+ui.eidolon.css
+Atribut Eidolon
+ui.eidolon.css.add
+Perkuat Eidolon
+ui.title.passive.property.css
+Atribut Pasif
+ui.dialog.awake.point.title
+Efek Aktivasi
+ui.hero.risingstar.new.up
+Sukses Up Star
+ui.hero.risingstar.new.skill
+Buka Skill
+ui.shop.item.new.low
+Murah
+ui.shop.item.new.high
+Mahal
+ui.shop.item.new.icon
+50% off
+ui.dialog.super.weapon.list.css1
+Kualitas
+ui.dialog.super.weapon.info1
+Info Equip
+ui.equip.grading.empty
+Blm dipasang
+ui.miliitaryrank.adjust.attack
+lineup atk
+ui.miliitaryrank.adjust.defend
+lineup def
+ui.militaryrank.arena.ranking
+Ranking
+ui.recall.send
+Cpt Utus
+ui.worldboss.killed
+Sukses Bunuh
+ui.worldboss.kill.next
+Gelombong berikut akan datang
+ui.shop.buy.gem.have
+sdh punya
+ui.hero.rsing.star.button
+Sukses Up Star
+ui.treasure.develop.change
+ganti hero
+ui.militaryrankarena.firstly
+prg pertama
+ui.militaryrankarena.second
+prg ke 2
+ui.militaryrankarena.thirdly
+prg ke 3
+ui.vs.start
+mulai
+ui.battle.main.middle.panel.mission.area.name
+misi
+ui.dialog.bug.report.button1
+feedback
+ui.dialog.bug.report.button2
+masalah umum
+ui.dialog.bug.report.button3
+Back
+ui.dialog.bug.report.button4
+tutup
+ui.welfare.sale.saleout
+habis
+ui.welfare.card.both.buy
+Bs beli kedua kartu
+ui.shop.buy.have
+sdh punya
+ui.achievement.avaliable
+bs dipakai
+ui.guild.building.notice
+Selamat masuk guild ini! Silahkan menyumbang dengan pasitif untuk up level guild!
+ui.guilddungeon.tempo.award
+Progres
+ui.guilddungeon.killed
+Target sdh dikalahkan
+ui.prestige.upgrade.congratulation
+Selamat upgrade
+ui.title.passive.time
+Waktu berlangsung
+ui,equip.develop.button
+Aksesori
+ui,equip.develop.switch
+ganti hero
+ui.gem.reasonance.no
+Blm dipasang
+ui.hero.rising.star.up
+Up Star
+ui.hero.super.weapon
+Artefact Eksklusif
+ui.herochoice.employ
+Sewa
+ui.herochoice.power
+BP
+ui.herochoice.earnings
+Pendapatan
+ui.regulation.rules
+Peraturan
+ui.guiddungeon.reward
+Preview
+ui.treasure.develop.equip
+Pasang
+ui.fashion.avatar.hero
+sdh dipasang
+ui.common.troop.state.on.lable
+SP
+ui.player.info.eidolon
+Eidolon prg
+ui.plater.info.basic.stats
+Atribut dasar
+ui.plater.info.peak.lineup
+lineup puncak
+ui.super.weapon.choose.button.choose
+pilih
+ui.announcement,title
+Klik yakin utk ambil item berikut di email
+ui.announcement.none
+Sementara tiada email~ Kupo!
+ui.vip.main.go
+Topup
+ui.hero.fragment.got
+sdh dapat
+ui.equipment.bag.upgrade
+Upgrade
+ui.equip.btn.enhance
+Enhance
+ui.equip.btn.refine
+Refine
+ui.equip.bag.up.star
+Up Star
+ui.equip.bag.casting
+Poles
+ui.worship.empty
+Blm ada
+ui.lineup.pitch.on
+Perang
+ui.eidolon.not.open
+blm dibuka, mohon ditunggu
+ui.get.chapter.title.1
+Reward
+ui.get.chapter.item.countinue
+Klik screen utk lanjut
+ui.main.town.notice
+Pengumuman:
+ui.share.button.title
+bagikan ke
+ui.battle.player.own
+Dmg
+ui.treasure.change.hero
+ganti hero
+ui.battle.lose.strong
+Jadi Kuat
+ui.troop.button
+Tim
+ui.flowers.give
+sdh kirim
+ui.gem.resonance.empty
+blm mozaik
+ui.time.ranking.title
+Ranking Lolos Pos
+ui.time.ranking.1
+Rank
+ui.time.ranking.2
+Badge
+ui.gem.grading.point.title
+Nilai:
+ui.gem.grading.title.title
+Nilai Gem
+ui.gem.grading.empty
+Blm dipasang
+ui.friend.finish.sent
+Sent
+ui.serber.list.no
+Anda belum pernah login server
+ui.battle.task.finish
+Setelah
+ui.battle.task.new
+misi baru
+ui.fight.dynamic.info.interrupts
+Break
+ui.hero.trial.button
+Tantang
+ui.team.battle.no.award
+Kali reward habis, tantang lagi tiada reward
+ui.guild.revise.name.text
+Klik sini utk masukkan
+ui.Guilddungeon.setup.title
+Setting Prg
+ui.captain.go
+Menuju
+ui.captain.compound
+Fusion
+ui.guild.convoy.go
+Bersiap
+ui.guild.convoy.ranking
+Ranking
+ui.guild.convoy.award
+Reward
+ui.guild.convoy.double
+Waktu Bonus 2x
+ui.guild.convoy.list
+Daftar airship
+ui.guild.convoy.select
+Filter
+ui.guild.convoy.time.title1
+Hasil airship
+ui.guild.convoy.time.title2
+Nilai airship
+ui.guild.convoy.time.title2mengambil hadiah promo
+Skor
+ui.guild.convoy.red
+Cepat merahi
+ui.guild.convoy.yes
+Yakin
+ui.guild.convoy.no
+Batal
+ui.guild.convoy.setout.yes
+Yakin
+ui.guild.convoy.setout.info
+Upgrade airship, dapatkan lebih reward
+ui.guild.convoy.setout.title
+Selamat mendapat
+ui.guild.convoy.now
+Berangkat
+ui.guild.convoy.setout.earnings
+Pendapatan
+ui.team.invite.no.award
+Sisa kali reward sdh habis\n tantangi lagi tiada reward
+ui.gem.btn.enhance
+Enhance
+ui.gem.btn.refine
+Refine
+ui.gem.btn.casting
+Casting
+ui.worldboss.kill
+Sukses Bunuh
+ui.worldboss.settlement.last
+Pukulan terakhir!
+ui.super.weapon.forward.level
+Lv. Upgrade
+ui.super.weapon.preview
+Preview
+ui.charge.time.limit.not.buy
+Setelah permanen tidak dapat dibeli
+ui.charge.time.limit.time
+Mengambil hadiah promo terbatas
+ui.fuild.convoy.red.up
+Bonus airship merah
+ui.guild.convoy.detailed
+Guild
+ui.guild.convoy.detailed.player
+Pembawa
+ui.dispatch.4hour
+4 jam
+ui.dispatch.8hour
+8 jam
+ui.dispatch.12hour
+12 jam
+ui.guildwar.history.title
+Riwayat
+ui.guildwar.history.revenge
+revenge
+ui.guildwar.map.num
+Kali atk hari ini:
+ui.waiting.friend.title
+Sdg menunggu teman…
+ui.dialog.player.info.1
+Nilai tim ke 1
+ui.dialog.player.info.2
+Nilai tim ke 2
+ui.dialog.player.info.3
+Nilai tim ke 3
+ui.dialog.player.info.4
+Nilai tim
+ui.dialog.player.info.5
+Pangkat
+ui.battle.win.double
+2x
+ui.Guild.Convoy.leaderboard.title
+Reward rank
+ui.Guild.Convoy.leaderboard.1
+Rank
+ui.Guild.Convoy.leaderboard.2
+Guild
+ui.Guild.Convoy.leaderboard.3
+Poin
+ui.Guild.Convoy.leaderboard.4
+Reward
+ui.mainpackage.super.weapon.1
+Kualitas
+ui.canptain.title
+Dapatkan hero
+ui.captain.unlock
+Blm buka
+ui.time.ranking.3
+Nama
+ui.time.ranking.4
+Waktu Lolos
+ui.box.lottery.title
+Reward
+ui.guildwar.situation.all
+Total
+ui.GuildWar.map.12
+Blm duduki
+ui.Guild.buiding.Science.up.1
+Up level
+ui.surper.cleanout.2	
+Reset
+ui.GuildWar.map.clickdetail
+Cek rincian
+ui.dialog.player.info.noopne
+Dia blm buka sistem ini\natau blm terima data\nkupo~
+ui.server.list.none
+Anda blm pernah login server
+ui.title.flower.locale
+Jatuh cinta
+ui.charge.time.limit.canbuy
+bs beli
+ui.dialog.buytimes.1
+Setiap 2 jam pulihkan 1 kali atk dalam waktu perang
+ui.guild.convoy.1
+sdh rebut
+ui.title.new
+New!
+ui.battle.dead
+Mati
+ui.recall.activation.1
+Skill Moglin selanjutnya\nberlaku stlh berangkat
+ui.gem.strength.max
+Sudah enhance sampai level tertinggi
+ui.gem.strength.empty
+Gem ini blm dimozaik
+ui.charge.sale.1
+Diskon topup kali ini: $6
+ui.charge.sale.2
+Rebat ekstra:
+ui.charge.sale.3
+Sisa waktu diskon:
+ui.charge.sale.4
+Bantuan topup
+ui.conditional.bonus.get
+Sdh ambil
+ui.GuildWar.map.detailed.time.hour
+/jam
+ui.GuildWar.Battlefield.rank.result
+Perhitungan
+ui.welfare.half.sell.out
+habis
+ui.GuildWar.Enroll.server1
+Server
+ui.GuildWar.Enroll.name1
+Nama guild
+ui.world.boss.award.1
+Reward rank dmg
+ui.Militaryrankarena.History.battle1
+prg pertama
+ui.Militaryrankarena.History.battle2
+prg ke 2
+ui.Militaryrankarena.History.battle3
+prg ke 3
+ui.charge.first.num
+0.99
+ui.vip.go.1
+Recharge
+ui.vip.get.1
+Sudah diambil
+ui.vip.get.2
+Mengambil
+ui.scene.gethero.1
+Klik di mana saja untuk melanjutkan
+ui.welfare.month.1
+Mengambil
+ui.item.cleanout.1
+Langka
+ui.vip.main.cost
+
+ui.hero.trial.help.1
+Pembantu
+ui.hero.trial.help.title
+Permintaan Bantuan
+ui.trial.help.hero.info
+Rincian Bantuan
+ui.hero.trial.help.info
+Stlh batalkan bantuan, kesulitan pos akan meningkat
+ui.itemget.1
+Yakin
+ui.guild.info.give.1
+Sdg ubah
+ui.awake.point.label.1
+Sudah aktif
+ui.guild.convoy.setout.1
+Pemakaian
+ui.super.weapon.list.1
+[818181FF]Kualitas：[-][F85C17FF]15[-]

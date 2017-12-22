@@ -1,0 +1,138 @@
+attributeset_1_desc
+Serang
+attributeset_2_desc
+Serang
+attributeset_3_desc
+Defense
+attributeset_4_desc
+Defense
+attributeset_9_desc
+HP
+attributeset_10_desc
+HP
+attributeset_11_desc
+Crit
+attributeset_13_desc
+Crit resist
+attributeset_15_desc
+Hit
+attributeset_17_desc
+Dodge
+attributeset_19_desc
+Crit Damage
+attributeset_21_desc
+Dmg
+attributeset_22_desc
+Blok
+attributeset_23_desc
+HP Rage pulih di luar arena
+attributeset_27_desc
+Rage yang didapat saat battle bertambah
+attributeset_30_desc
+Efek healing
+attributeset_31_desc
+Efek menerima healing
+attributeset_32_desc
+Awal rage
+attributeset_33_desc
+Damage frost bertambah
+attributeset_34_desc
+Damage frost berkurang
+attributeset_35_desc
+Damage rage bertambah
+attributeset_36_desc
+Damage rage berkurang
+attributeset_37_desc
+Damage earth bertambah
+attributeset_38_desc
+Damage earth berkurang
+attributeset_39_desc
+Damage apocalypse bertambah
+attributeset_40_desc
+Damage apocalypse berkurang
+attributeset_45_desc
+Attack Damage HP
+attributeset_49_desc
+Rage yang didapat bertambah
+attributeset_52_desc
+Setiap 150 point attack meningkatkan defense
+attributeset_53_desc
+Setiap 3 point attack meningkatkan HP
+attributeset_54_desc
+Setiap 10 point defense meningkatkan attack
+attributeset_55_desc
+Setiap 10 point defense meningkatkan HP
+attributeset_56_desc
+Setiap 3000 point life meningkatkan attack
+attributeset_57_desc
+Setiap 6000 point life meningkatkan defense
+attributeset_58_desc
+Setiap 150 point attack memberikan tambahan defense
+attributeset_59_desc
+Setiap 3 point attack memberikan tambahan defense
+attributeset_60_desc
+Setiap 10 point defense memberikan tambahan attack
+attributeset_61_desc
+Setiap 10 point defense memberikan tambahan HP
+attributeset_62_desc
+Setiap 3000 point life memberikan tambahan attack
+attributeset_63_desc
+Setiap 6000 point life memberikan tambahan defense
+attributeset_64_desc
+Skill Point
+attributeset_65_desc
+Normal Skill dmg
+attributeset_68_desc
+Memulihkan HP yang terkena damage saat Dodge
+attributeset_69_desc
+Hisap HP
+attributeset_70_desc
+Damage repel
+attributeset_71_desc
+Setiap menyembuhkan 1% life memulihkan energy target
+attributeset_72_desc
+Menembus defense
+attributeset_73_desc
+Resist attack
+attributeset_74_desc
+Skill cooldown
+attributeset_75_desc
+Crit resist, Hit
+attributeset_76_desc
+damage bertambah Blok
+attributeset_77_desc
+Normal damage
+attributeset_78_desc
+Ultimate skill damage
+attributeset_79_desc
+Setiap 5 detik memulihkan HP
+attributeset_80_desc
+Damage PVP bertambah
+attributeset_81_desc
+Damage PVP berkurang
+attributeset_82_desc
+Mempertahankan rage saat mengeluarkan ultimate skill
+attributeset_83_desc
+Mengacuhkan persentase defense
+attributeset_84_desc
+PVP damage bertambah Blok
+attributeset_201_desc
+Damage spiral bertambah
+attributeset_202_desc
+Damage Arena bertambah
+attributeset_203_desc
+Damage Trial bertambah
+attributeset_211_desc
+Damage spiral berkurang
+attributeset_212_desc
+Damage Arena berkurang
+attributeset_213_desc
+Damage Trial berkurang
+attributeset_221_desc
+Spirit bertambah
+attributeset_222_desc
+Prestige bertambah
+attributeset_223_desc
+Coin training bertambah
+attributeset_224_desc
+Damage world BOSS bertambah

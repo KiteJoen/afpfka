@@ -1,0 +1,498 @@
+ui.common.bonus.name.cash
+Diamond
+ui.common.bonus.name.money
+coin
+ui.common.bonus.name.spirit
+Energy
+ui.common.bonus.name.exp
+Exp
+ui.common.bonus.name.military.money
+Militer
+ui.common.bonus.name.activity.point
+Activity
+ui.common.bonus.name.achievement.point
+Achievement point
+ui.common.bonus.name.towermoney
+Light spirit
+ui.common.bonus.name.tower.point
+Spiral point
+ui.common.bonus.name.arenamoney
+Prestige
+ui.common.bonus.name.stamina
+Stamina
+ui.common.bonus.name.factionmoney
+Kontribusi
+ui.common.bonus.name.open.magic.stone
+Buka magic crystal
+ui.common.bonus.name.open.magic.stone.compose
+Buka compose magic crystal
+ui.common.bonus.name.open.magic.stone.upgrade
+Buka upgrade magic crystal
+ui.common.bonus.name.eidolonactivationcoin
+Koin aktivasi
+ui.common.bonus.name.partner
+Hero
+ui.common.bonus.desc.cash
+Diamond {0}
+ui.common.bonus.desc.money
+Coin {0}
+ui.common.bonus.desc.exp
+EXP {0}
+ui.common.bonus.desc.item
+{0} {1}
+ui.common.bonus.desc.activity.point
+Activity {0}
+ui.common.bonus.desc.achievement.point
+Achievement {0}
+ui.common.bonus.desc.spirit
+Stamina {0}
+ui.common.bonus.desc.stamina
+Energy {0}
+ui.common.energy
+Energy
+ui.common.stamina
+Stamina
+ui.common.energy.countdown
+Setelah {0} kembali ke poin 1
+ui.common.btn.back
+Kembali
+ui.battle.win.gain.exp
+Dapat EXP
+ui.battle.win.gain.ether
+Mendapat ether
+ui.battle.win.drop.title
+Menjatuhkan hadiah
+ui.battle.damage.meter.title
+Statistik
+ui.common.dialog.get.crystal.name
+Mendapatkan：{0}
+ui.battle.progress.title
+Progress perang
+ui.common.get.item.title
+Reward
+ui.system.btn.main.bountymission
+Rencana dark red
+ui.system.btn.main.tower
+Spiral World
+ui.module.unlock.access.none
+Sistem ini terbuka tanpa syarat
+ui.module.unlock.access.level
+Karakter utama mencapai Lv{0}
+ui.module.unlock.access.finish.dungeon
+Setelah melewati dungeon {0} 
+ui.module.unlock.access.finish.task
+Setelah menyelesaikan tugas {0} 
+ui.module.unlock.access.vip.level
+VIP level {0} 
+ui.module.unlock.access.faction.level
+Guild level {0}
+ui.module.unlock.access.none.short
+Tanpa syarat
+ui.module.unlock.access.level.short
+Level {0}
+ui.module.unlock.access.finish.dungeon.short
+Melewati {0}
+ui.module.unlock.access.finish.task.short
+Melewati {0}
+ui.module.unlock.access.vip.level.short
+VIP level {0}
+ui.module.unlock.access.faction.level.short
+Guild level {0}
+ui.module.unlock.access.prompt.1
+{0} membuka {1}
+ui.module.unlock.access.prompt.2
+{0} dan {1} membuka {2}
+ui.module.unlock.access.prompt.3
+{0} dan {1} dan {2} membuka {3}
+ui.module.unlock.access.prompt.4
+{0} dan {1} dan {2} dan {3} membuka {4}
+ui.module.unlock.access.prompt.5
+{0} dan {1} dan {2} dan {3} dan {4} membuka {5}
+ui.common.title.obtain
+Mendapat akses
+ui.common.troop.state.on
+Pergi perang
+ui.common.troop.state.on.simple
+Perang
+ui.common.assist.state.on.simple
+SP
+ui.common.button.sure
+Yakin
+ui.common.button.cancel
+Batal
+ui.common.tip.not.enough.cash
+Diamond kamu tidak cukup
+ui.common.go.charge
+Isi ulang
+ui.common.tip.not.enough.money
+Coin kamu tidak cukup
+ui.tower.help.tips.name
+Memperoleh skill
+ui.tower.help.tips.illustrate
+Melalui stage ini ada kesempatan mendapat salah satu skill berikut
+ui.common.module.open
+Fitur baru dibuka
+ui.tip.currency.exp.desc
+Sumber yang diperlukan untuk upgrade plot utama
+ui.common.system.not.open
+Sistem masih belum terbuka
+ui.common.system.comming.soon
+Fitur belum buka, silakan menunggu
+ui.system.btn.main.friend
+Teman
+ui.common.quality.white
+Warna putih
+ui.common.quality.green
+[43FF55] hijau [-]
+ui.common.quality.blue
+[5AEEFF] biru [-]
+ui.common.quality.purple
+[AA9CFF] ungu [-]
+ui.common.quality.orange
+[FF9561] orange [-]
+ui.common.quality.red
+[FF5C5C] merah [-]
+ui.common.quality.golden
+[FF9530] emas [-]
+ui.common.quality.short.white
+Putih
+ui.common.quality.short.green
+[43FF55] hijau [-]
+ui.common.quality.short.blue
+[5AEEFF] biru [-]
+ui.common.quality.short.purple
+[AA9CFF] ungu [-]
+ui.common.quality.short.orange
+[FF9561] orange [-]
+ui.common.quality.short.red
+[FF5C5C] merah [-]
+ui.common.quality.short.golden
+[FF9530] emas [-]
+ui.roman.num.1
+Ⅰ
+ui.roman.num.2
+Ⅱ
+ui.roman.num.3
+Ⅲ
+ui.roman.num.4
+Ⅳ
+ui.roman.num.5
+Ⅴ
+ui.roman.num.6
+Ⅵ
+ui.roman.num.7
+Ⅶ
+ui.roman.num.8
+Ⅷ
+ui.roman.num.9
+Ⅸ
+ui.roman.num.10
+Ⅹ
+ui.roman.num.11
+Ⅺ
+ui.roman.num.12
+Ⅻ
+ui.lua.fulldate
+Tahun %Y bulan %m tanggal {0}
+ui.common.back
+Klik di mana saja untuk melanjutkan
+ui.common.buy
+Beli
+ui.common.bought
+sudah dibeli
+ui.common.soldout
+Sudah terjual habis
+ui.common.got
+Sudah diambil
+ui.common.get
+Mengambil
+ui.common.go
+Maju
+ui.common.unfinished
+Belum selesai
+ui.common.has.count
+Jumlah yang dimiliki：
+ui.common.bonus.name.faction_funds
+Dana Guild
+ui.common.days
+hari
+ui.common.hours
+Jam
+ui.common.minutes
+menit
+ui.common.seconds
+Detik
+ui.common.btn.skip
+Skip animasi
+ui.common.level
+Level
+ui.common.level.template
+Level {0}
+ui.common.get.currency
+Mendapat {0}{1}
+ui.common.get.hero.item
+Mendapat {0} {1}
+ui.common.get.title
+Mendapat {0} gelar : {1}
+ui.common.countdown.day
+{0} hari {1} jam
+ui.common.countdown.hour
+{0} jam {1} menit
+ui.common.countdown.minute
+{0} menit {1:D2} detik
+ui.common.countdown.second
+0 menit {0:D2} detik
+ui.common.countdown.hours
+{0} jam
+ui.common.countdown.time
+{0:D2}:{1:D2}
+ui.common.timespan.less.one.hour
+{0} menit yang lalu
+ui.common.timespan.less.one.day
+{0} jam yang lalu
+ui.common.timespan.more.one.day
+{0} hari yang lalu
+ui.common.system.not.find.treasure
+Tim kamu tidak memakai aksesoris
+ui.common.system.not.find.equip
+Tim kamu tidak memakai equipment
+common.proprety_with_plus
+{0}[30c0ff]+{1}[-]
+common.money
+coin
+common_defence_formation
+Lineup DEF
+common_refresh
+Refresh
+common_time_format
+Bulan {0} hari {1} {2}:{3}
+common_complete_fall
+Pass stage drop
+common_reject
+Tolak
+common_reception
+Terima
+common_refresh_list
+Refresh list
+common_invite
+Undang
+common_invite_send
+Sudah Undang
+common_white_color
+Warna putih
+common_green_color
+Hijau
+common_blue_color
+Biru
+common_purple_color
+Ungu
+common_orange_color
+Orange
+common_red_color
+Merah
+common_golden_color
+Emas
+common_fight_power
+BP:{0}
+ui.common.text.btn.change.troop
+Mengatur susunan
+ui.common.text.btn.setting
+Pengaturan
+ui.common.text.btn.rank
+Ranking
+ui.common.text.btn.award
+Reward
+ui.common.text.day.monday
+Senin
+ui.common.text.day.tuesday
+Selasa
+ui.common.text.day.wednesday
+Rabu
+ui.common.text.day.thursday
+Kamis
+ui.common.text.day.friday
+Jumat
+ui.common.text.day.saturday
+Sabtu
+ui.common.text.day.sunday
+Minggu
+common_income
+Hasil
+common_rob
+Serang
+common_double_check
+2 kali konfirmasi
+common_fight
+Battle
+common_cost_free
+Kali ini gratis
+common_cost_diamond
+Kali ini menggunakan {0} diamond
+common_rank_none
+Belum masuk rank
+common_faction_rank_info_none
+Tidak ada
+common_wormhole_not_open
+Area belum dibuka
+common_bag_full
+Tas penuh, silakan bersihkan tas
+common_click_to_input
+Klik untuk masuk
+common_time
+{0} {1}
+ui.common.text.btn.award1  
+Kalahkan
+ui.common.text.btn.award2
+Reward
+ui.common.text.btn.1staward
+Hadiah utama
+ui.common.time_period.d_to_d
+{0}  hari
+ui.common.time_period.d_to_h
+{0} hari {1} jam
+ui.common.time_period.d_to_m
+{0}  hari {1} jam {2} menit
+ui.common.time_period.d_to_s
+{0} hari {1} jam {2} menit {3} detik
+ui.common.time_period.d_to_ms
+{0} hari {1} jam {2} menit {3} detik {4} milidetik
+ui.common.time_period.h_to_h
+{0} jam
+ui.common.time_period.h_to_m
+{0} jam {1} menit
+ui.common.time_period.h_to_s
+{0} jam {1} menit {2} detik
+ui.common.time_period.h_to_ms
+{0} jam {1} menit {2} detik {3} milidetik
+ui.common.time_period.m_to_m
+{0} menit
+ui.common.time_period.m_to_s
+{0} menit {1} detik
+ui.common.time_period.m_to_ms
+{0} menit {1} detik {2} milidetik
+ui.common.time_period.s_to_s
+{0} detik
+ui.common.time_period.s_to_ms
+{0} detik {1} milidetik
+ui.common.time_period.ms_to_ms
+{0} milidetik
+ui.common.title.settings
+Pengaturan
+ui.common.exp.name
+Experience
+ui.common.yes
+Ya
+ui.common.no
+Tidak
+ui.common.faction.name
+<{0}>
+ui.dialog.my.info.resource
+Paket material
+ui.dialog.my.info.bug.report
+Feedback
+ui.dialog.my.info.bug.report.faq
+Q&A
+ui.common.union.name
+Guild
+ui.common.uid.name
+UID
+ui.main.title.binding.phone
+Bind ponsel
+ui.dialog.bug.report.report
+Tanggapan masalah
+ui.dialog.bug.report.suggest
+Mengajukan saran
+ui.dialog.bug.report.detail
+Tempat ini hanya untuk menyerahkan informasi log untuk membantu mengecek masalah.\n\nJika mau laporkan masalah atau mencari bantuan, silahkan menghubungi kami lewat inbox Facebook ya~ Terima kasih!
+ui.dialog.bug.report.btn
+Mengajukan
+ui.setting.btn.advance
+Advanced setting
+ui.setting.high.switch.1
+Rekomen
+ui.setting.high.switch.1.5
+Hemat listrik
+ui.setting.high.switch.2
+Rendah
+ui.setting.high.switch.3
+Sedang
+ui.setting.high.switch.4
+Tinggi
+ui.setting.high.switch.5
+Custom
+ui.setting.resolution
+Resolusi
+ui.setting.maintown
+Jumlah penduduk kota
+ui.setting.FPS
+Jumlah layar
+ui.setting.effects
+Efek khusus
+ui.setting.after
+Bereskan nanti
+ui.setting.button.antialiasing
+Mencegah gerigi layar
+ui.setting.button.FPS
+Tampilkan jumlah layar
+ui.setting.button.name
+Sembunyikan pemain lain
+ui.get.pathway
+Mendapat akses
+ui.welfare.moth.sign
+Bulan ini sudah absen :
+ui.gift.code.import
+Klik bawah masukkan kode hadiah
+ui.hero.lottery.main.half
+(50% off)
+ui.award.condition.no
+Belum memenuhi syarat pengambilan
+ui.team.dungeon
+Masuk cepat
+ui.common.currency.notice
+Pengumuman
+ui.common.cuiiency.what
+?
+ui.regulation.explain
+Keterangan Peraturan
+ui.common.standings
+Riwayat
+ui.common.id
+ID
+ui.common.level.small
+lv.
+ui.common.choose
+Pilih
+ui.common.100
+100%
+ui.common.get.back
+
+ui.gem.option.yes
+Compose sudah dikonfirmasi
+ui.gem.option.compound.yes
+Yakin
+ui.gem.option.compound.no
+Batal
+ui.dialog.gem.info
+Info item
+ui.luck.get.reward.title
+Perhitungan hadiah
+ui.luck.get.reward.combo
+2
+ui.luck.control.close
+Klik dimana saja untuk tutup
+ui.luck.control.want.num
+silakan pilih nomor dadu yang kamu inginkan
+ui.gift.bag.select.off
+Batal
+ui.common.button.affirm.report.player
+Konfirmasi laporan
+ui.common.buy.error
+Belum mencapai syarat pembelian
+ui.common.itemgte.itemdetailed.title
+Reward
+ui.common.mail.delete.unreclaim
+Email belum diterima, yakin hapus email?
+ui.common.mail.reclaim.cost.enough
+{0}/{1}
+ui.common.mail.reclaim.cost.insufficient
+[FF0000] {0} [-]/{1}
