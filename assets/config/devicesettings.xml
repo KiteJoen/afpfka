@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devicesettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<device_white_list>
+		<!--ipad pro (9.7 inch)-->
+		<string>ipad6,3</string>
+		<string>ipad6,4</string>
+		<!--ipad pro (12.9 inch)-->
+		<string>ipad6,7</string>
+		<string>ipad6,8</string>
+		<!--ipad Air 2-->
+		<string>ipad5,3</string>
+		<string>ipad5,4</string>
+		<!--ipad Mini 4-->
+		<string>ipad5,1</string>
+		<string>ipad5,2</string>
+		<!--ipod Touch 6G-->
+		<string>ipod7,1</string>
+		<!--iphone7 1=CDMA 3=global-->
+		<string>iphone9,1</string>
+		<string>iphone9,3</string>
+		<!--iphone7 plus 2=CDMA 4=global-->
+		<string>iphone9,2</string>
+		<string>iphone9,4</string>
+		<!--iphone SE-->
+		<string>iphone8,4</string>
+		<!--iphone6S plus-->
+		<string>iphone8,2</string>
+		<!--iphone6S-->
+		<string>iphone8,1</string>
+		<!--iphone6-->
+		<string>iphone7,2</string>
+		<!--iphone6 plus-->
+		<string>iphone7,1</string>
+
+		<!--HTC Nexus 9-->
+		<string>htcnexus9</string>
+		<!--小米 mipad-->
+		<string>xiaomimipad</string>
+		<!--诺基亚N1平板-->
+		<string>nokian1</string>
+
+		<!--以下都是安卓模拟器-->
+		<string>mitdroid4x-win</string>
+		<string>itoolsavmitoolsavm</string>
+		<string>sydsyd4.2</string>
+		<string>tiantianvmtiantianvm</string>
+		<string>xxandroidsm-g9006v</string>
+		<string>bigsamsungnoxw</string>
+		<string>samsungsamsung-sm-n900a</string>
+	</device_white_list>
+	<device_black_list>
+		<!--ipad3-->
+		<string>ipad3,1</string>
+		<string>ipad3,2</string>
+		<string>ipad3,3</string>
+		<!--第一代 ipad mini-->
+		<string>ipad2,5</string>
+		<string>ipad2,6</string>
+		<string>ipad2,7</string>
+		<!--ipad2-->
+		<string>ipad2,1</string>
+		<string>ipad2,2</string>
+		<string>ipad2,3</string>
+		<string>ipad2,4</string>
+		<!--ipod Touch 5G-->
+		<string>ipod5,1</string>
+		<!--iphone 4S-->
+		<string>iphone4,1</string>
+		<!--华为P8-->
+		<string>huaweihuaweigra-tl00</string>
+		<!--荣耀畅玩4C-->
+		<string>huaweichm-tl00h</string>
+	</device_black_list>
+	<graphics_white_list>
+		<string>applea9gpu</string>
+		<string>applea8gpu</string>
+		<string>adreno(tm)530</string>
+		<string>adreno(tm)540</string>
+		<string>bluestacks</string>
+		<string>imagination</string>
+		<!-- 考虑到 Adreno 430、418 有可能发热过大，所以不加入白名单 -->
+		<!-- <string>adreno(tm)430</string> -->
+		<!-- <string>adreno(tm)418</string> -->
+	</graphics_white_list>
+	<graphics_black_list>
+		<string>adreno(tm)306</string>
+		<string>adreno(tm)305</string>
+		<string>adreno(tm)304</string>
+		<string>adreno(tm)302</string>
+		<string>adreno(tm)225</string>
+		<string>adreno(tm)220</string>
+		<string>adreno(tm)205</string>
+		<string>adreno(tm)203</string>
+		<string>adreno(tm)200</string>
+		<string>powervrsgx545</string>
+		<string>powervrsgx544mp</string>
+		<string>powervrsgx544</string>
+		<string>powervrsgx543mp</string>
+		<string>powervrsgx543</string>
+		<string>powervrsgx540</string>
+		<string>powervrsgx535</string>
+		<string>powervrsgx531</string>
+		<string>powervrsgx530</string>
+		<string>powervrsgx520</string>
+		<string>mali-t622</string>
+		<string>mali-400mp</string>
+		<string>nvidiategra3</string>
+		<string>videocoreivhw</string>
+		<string>immersion.16</string>
+	</graphics_black_list>
+	<media_player_black_list>
+		<string>zukz1</string>
+	</media_player_black_list>
+</devicesettings>

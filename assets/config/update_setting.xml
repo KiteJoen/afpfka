@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update_setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <update_mode>0</update_mode>
+  <auto_update_res>true</auto_update_res>
+  <update_txt_prefix>efun.indo.android</update_txt_prefix>
+</update_setting>
